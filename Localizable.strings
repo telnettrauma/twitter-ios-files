@@ -949,6 +949,9 @@ e.g. Removed from MyRecipes.
 /* Error message when an error encountered during live chat history loading. */
 "BROADCAST_COULD_NOT_LOAD_CHAT_HISTORY_ERROR" = "There was an error loading chat history, please try again later";
 
+/* Message placeholder which is shown instead of an original message if it is muted by a moderator */
+"BROADCAST_MUTED_MESSAGE_PLACEHOLDER" = "Message was deleted by a moderator.";
+
 /* Error message for broadcast video player when there is a network connection error. */
 "BROADCAST_NETWORK_CONNECTION_ERROR" = "Check your connection to resume the broadcast";
 
@@ -4066,9 +4069,6 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* Label of the top trends option in the menu sheet that appears when tapping the personalized option inside Trending, in Immersive Explore. */
 "IMMERSIVE_EXPLORE_TRENDING_PERSONALIZED_MENU_TOP_TRENDS_OPTION" = "Top trends";
-
-/* Label of the view post context menu action title which appears when tapping the "..." button for a video, in Immersive Explore. */
-"IMMERSIVE_EXPLORE_VIEW_POST_ACTION_TITLE" = "View post";
 
 /* Description for bluetooth usage access authorization. It appears in the system privacy prompt that asks users if the application can use bluetooth in order to find Cast-enabled devices. This allows users to find devices to Cast media to. */
 "INFO_PLIST_NSBluetoothAlwaysUsageDescription" = "X uses bluetooth to discover Cast-enabled devices near you.";
@@ -10132,6 +10132,9 @@ eg. "Super Following Jack" */
 /* Settings menu that allows you to download a video */
 "VIDEO_SETTINGS_DOWNLOAD_VIDEO" = "Download video";
 
+/* Title for button to open a post*/
+"VIDEO_SETTINGS_GO_TO_POST" = "Go to Post";
+
 /* Title for a screen that lets you change the playback speed of a video*/
 "VIDEO_SETTINGS_PLAYBACK_SPEED_TITLE" = "Playback speed";
 
@@ -10446,6 +10449,9 @@ eg. "Super Following Jack" */
 
 /* Label of the "schedule" button on the Audio Space creation screen if there is already an active scheduled space. Tapping on this will view the details of the already-scheduled Audio Space. The %@ parameter will be replaced with the potentially-truncated user-entered title of the scheduled space. */
 "VOICE_ROOM_CREATION_SCHEDULE_EXISTS_ACTION_LABEL" = "Scheduled: %@";
+
+/* Title of the Community Audio Space creation screen. */
+"VOICE_ROOM_CREATION_TITLE_COMMUNITY_LABEL" = "Create Community Space";
 
 /* Title of the Audio Space creation screen. Must be the name of the product, singular. */
 "VOICE_ROOM_CREATION_TITLE_LABEL" = "Create your Space";
@@ -10990,6 +10996,9 @@ eg. "Super Following Jack" */
 
 /* Event description for Scheduled Spaces when adding to an external calendar such as Google Calendar or Apple Calendar. %@ will be replaced by a link to the Audio Space. */
 "VOICE_ROOM_SCHEDULE_CALENDAR_SHARE_DETAILS" = "Join this Space on X: %@";
+
+/* Title of the "schedule" page on the Audio Space creation screen for Community, to prompt the user to select the time and date of an upcoming Community Audio Space. */
+"VOICE_ROOM_SCHEDULE_COMMUNITY_SPACE_TITLE" = "Schedule Community Space";
 
 /* Label for the button for an Audio Space host to edit a scheduled Audio Space. */
 "VOICE_ROOM_SCHEDULE_EDIT_ACTION" = "Edit";
@@ -12075,6 +12084,21 @@ eg. "Super Following Jack" */
 "TOP_ARTICLES_VIEW_TWEETS_ACCESSIBILITY_LABEL" = "View conversation";
 
 // Section: Frameworks/DMV2/Sources/DMV2Strings/en.lproj/Localizable.strings
+
+/* DM network error title */
+"DM_NETWORK_ERROR_TITLE" = "Something went wrong. Check your connection and try again.";
+
+/* DM New Conversation create group action */
+"DM_NEW_CONVERSATION_ACTION_CREATE_GROUP" = "Create a group";
+
+/* DM New Conversation navigation bar create group subtitle */
+"DM_NEW_CONVERSATION_NAVIGATION_BAR_CREATE_GROUP_SUBTITLE" = "Add people";
+
+/* DM New Conversation navigation bar create group title */
+"DM_NEW_CONVERSATION_NAVIGATION_BAR_CREATE_GROUP_TITLE" = "Create a group";
+
+/* DM New Conversation navigation bar new message title */
+"DM_NEW_CONVERSATION_NAVIGATION_BAR_NEW_MESSAGE_TITLE" = "New message";
 
 /* DM PIN Entry Create Error: Mismatched PINs */
 "DM_PIN_ENTRY_ERROR_CREATE_MISMATCHED_PINS" = "The PIN codes did not match. Please start over.";
@@ -13314,6 +13338,12 @@ eg. "Super Following Jack" */
 /* Button shown when a user has searched for users from a Community, but no users matched. Tapping the button clears the current search query. */
 "COMMUNITY_TYPEAHEAD_START_NEW_SEARCH_BUTTON_TITLE" = "Start new search";
 
+/* Alert message displayed when someone tries to post to a Community that they are not a member of.*/
+"COMMUNITY_UNABLE_TO_HOST_SPACE_MESSAGE" = "Only Community moderators can host Community Space";
+
+/* Alert title displayed when someone tries to post to a Community that they are not a member of. */
+"COMMUNITY_UNABLE_TO_HOST_SPACE_TITLE" = "Cannot host Community Space";
+
 /* Alert title displayed when attempting to join a Community but it fails */
 "COMMUNITY_UNABLE_TO_JOIN_GENERIC_TITLE" = "Sorry, you can’t join right now";
 
@@ -13351,7 +13381,7 @@ eg. "Super Following Jack" */
 "COMMUNITY_UNABLE_TO_LEAVE_SOLE_ADMIN_TITLE" = "You can’t leave just yet";
 
 /* Alert message displayed when someone tries to post to a Community that they are not a member of.*/
-"COMMUNITY_UNABLE_TO_TWEET_NOT_INVITED_MESSAGE" = "Communities are public, so you can read the posts — but right now, participation is invite-only.";
+"COMMUNITY_UNABLE_TO_TWEET_NOT_INVITED_MESSAGE" = "Communities are public, so you can read the posts, but you must join this Community to post.";
 
 /* Alert title displayed when someone tries to post to a Community that they are not a member of. */
 "COMMUNITY_UNABLE_TO_TWEET_NOT_INVITED_TITLE" = "Participation is limited";
@@ -16168,6 +16198,9 @@ eg. "Super Following Jack" */
 /* Descriptive text to indicate that a user in the list is blocked */
 "CONVERSATIONS_USER_LIST_USER_BLOCKED_LABEL" = "You’ve blocked %@.";
 
+/* Button label to open a post in Grok */
+"GROK_ACTION" = "Open in Grok";
+
 /* Accessibility hint for likes count plural case */
 "LIKES_COUNT_ACCESSIBILITY_HINT" = "Views Likes count";
 
@@ -16477,6 +16510,12 @@ eg. "Super Following Jack" */
 /** Label for button to open conversation window screen */
 "GROK_CONVO_HISTORY_BUTTON" = "Open conversation history";
 
+/** Label for conversations in history view */
+"GROK_CONVO_HISTORY_CONVOS_LABEL" = "Conversations";
+
+/** Label for images in history view */
+"GROK_CONVO_HISTORY_IMAGES_LABEL" = "Images";
+
 /** Button to copy the text */
 "GROK_COPY_TEXT" = "Copy text";
 
@@ -16573,6 +16612,9 @@ eg. "Super Following Jack" */
 /** Label displaying the current mode: Normal */
 "GROK_MODE_NORMAL" = "Regular Mode";
 
+/** Label for poor internet connection */
+"GROK_NETWORK_MESSAGE" = "Network connection interrupted";
+
 /** Label when grok conversations history is empty */
 "GROK_NO_CONVERSATIONS" = "No conversations yet";
 
@@ -16611,6 +16653,9 @@ eg. "Super Following Jack" */
 
 /* Grok paywall subscribe button */
 "GROK_PAYWALL_SUBSCRIBE_BUTTON" = "Subscribe now";
+
+/* Grok paywall on shared chat */
+"GROK_PAYWALL_SUBSCRIBE_CONTINUE_BUTTON" = "Subscribe to continue";
 
 /* Subtitle for Grok paywall */
 "GROK_PAYWALL_SUBTITLE" = "Premium subscribers can now use our most advanced AI, Grok, on X.";
@@ -17410,6 +17455,9 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* Message displayed to user when the server returns an error. */
 "CONNECTION_ERROR_GENERAL_MESSAGE" = "Oops, something went wrong. Please try again later.";
+
+/* Message displayed to user when the server cannot be reached. */
+"CONNECTION_ERROR_OFFLINE" = "Oops, your device appears to be offline. Please check your Internet connection and try again later.";
 
 /* Label for conversation card Action buttons, a button that let users post with given "%@" string, such as a hashtag - example "Post #BurritosForLife" */
 "CONVERSATION_CARD_CALL_TO_ACTION_LABEL_FORMAT" = "Post %@";
