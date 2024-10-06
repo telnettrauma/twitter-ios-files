@@ -1,0 +1,1448 @@
+"%@ New Messages" = "Новых сообщений: %@";
+
+"%@ Viewer (Broadcast Info)" = "%@ зритель";
+
+"%@ Viewers (Broadcast Info)" = "Зрителей: %@";
+
+"%@ ago" = "%@ назад";
+
+"%@ doesn't have any followers yet" = "У @%@ пока нет читателей";
+
+"%@ has not broadcasted yet" = "%@ пока не проводил(а) трансляций";
+
+"%@ is LIVE (broadcast title)" = "%@ В ПРЯМОМ ЭФИРЕ";
+
+"%@ isn't following anyone yet" = "@%@ пока никого не читает";
+
+"%@ joined" = "присоединился(-лась)";
+
+"%@ wants you to moderate comments. Tap on comments to mute them." = "%@ предлагает вам стать модератором комментариев. Чтобы отключить комментарий, нажмите на него.";
+
+"%@ wants you to moderate comments. Tap or swipe left on comments to mute them." = "%@ предлагает вам стать модератором комментариев. Нажмите на комментарий или проведите по нему влево, чтобы отключить его.";
+
+"%@ was live  (broadcast title)" = "%@ был(а) в прямом эфире";
+
+"%d More Live Viewers" = "Зрителей в прямом эфире";
+
+"%d More Replay Viewers" = "зрителей сейчас";
+
+"%d More Viewers" = "Зрителей";
+
+"%ldd (days)" = "%ldд";
+
+"%ldh (hours)" = "%ldч";
+
+"%ldm (minutes)" = "%ldм";
+
+"%lds (seconds)" = "%ldс";
+
+"%ldy (years)" = "%ldг";
+
+"(EDITED)" = "(ИЗМЕНЕНО)";
+
+"(Skip to) LIVE" = "ПРЯМОЙ ЭФИР";
+
+"1 More Live Viewer" = "Зритель в прямом эфире";
+
+"1 More Replay Viewier" = "зритель сейчас";
+
+"1 More Viewer" = "Зритель";
+
+"1 New Message" = "1 новое сообщение";
+
+"@username \"Tap to cancel\" (Add Guest Caller Chat Message Event)" = "Нажмите для отмены";
+
+"@username \"canceled\" (Add Guest Caller Chat Message Event)" = "отменил(a) запрос";
+
+"@username \"has asked to join\" (Add Guest Caller Chat Message Event)" = "отправил(а) запрос на участие";
+
+"@username \"hung up\" (Guest Caller Hung Up Chat Message Event)" = "•|•@%@•|• повесил(а) трубку";
+
+"@username \"was added\" (Add Guest Caller Chat Message Event)" = "добавлен(а)";
+
+"@username \"was added\" (New Guest Caller Chat Message Event)" = "•|•@%@•|• добавлен(а)";
+
+"@username \"was removed\" (Add Guest Caller Chat Message Event)" = "удален(а)";
+
+"@username \"was removed\" (Guest Caller Was Removed Chat Message Event)" = "•|•@%@•|• удален(а)";
+
+"A Periscope account is required to edit a broadcast." = "Для изменения трансляции требуется учетная запись Periscope.";
+
+"A Periscope account is required to share a broadcast." = "Чтобы поделиться трансляцией, требуется учетная запись в Periscope.";
+
+"A broadcast with a star balance was deleted. (History)" = "Трансляция, за которую вы получили звезды, удалена.";
+
+"ACTIVE CONTRIBUTORS" = "АКТИВНЫЕ ДАРИТЕЛИ";
+
+"Abuse" = "Оскорбление";
+
+"Abusive Behavior (Report Option)" = "Оскорбительное поведение";
+
+"Accept Caller as Guest" = "Принять звонящего в качестве гостя";
+
+"Accept Super Hearts (accessibility hint)" = "Нажмите дважды, чтобы принимать суперсердечки в ходе этой трансляции.";
+
+"Accept Super Hearts (accessibility label)" = "Принимать суперсердечки";
+
+"Accept as Guest" = "Принять гостя";
+
+"Actions (accessibility label)" = "Действия";
+
+"Add Guest (Manage Guest Call-Ins Action Sheet)" = "Добавить гостя";
+
+"Add guest \n viewer will become a guest broadcaster" = "Добавить гостя•|•\nЗритель станет гостем-ведущим•|•";
+
+"All-Time Stars (Stars Profile)" = "За все время";
+
+"Allow Guests (Tooltip Selected)" = "Разрешить гостей";
+
+"Allow guests / Don't allow guests (accessibility label)" = "Разрешить или запретить гостей";
+
+"Anything else you'd like to share?" = "Хотите сообщить что-то еще?";
+
+"Are you sure you want to send this message?" = "Вы действительно хотите отправить данное сообщение?";
+
+"Are you sure you want to unblock?" = "Вы уверены, что хотите убрать пользователя из чёрного списка?";
+
+"Are you sure? (title)" = "Вы уверены?";
+
+"Ask for Follow (action sheet)" = "Попросить стать читателем";
+
+"Ask for Share (action sheet)" = "Попросить поделиться";
+
+"Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Отправьте запрос на участие в трансляции в качестве гостя. Вас услышат все зрители. При этом у вас будет возможность покинуть трансляцию в любой момент.";
+
+"Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Отправьте запрос на участие в трансляции в качестве гостя. Вас увидят и услышат все зрители. При этом у вас будет возможность покинуть трансляцию в любой момент.";
+
+"Asking to join... Broadcaster must accept you (Local Chat Prompt)" = "Запрос на участие отправлен...\nПользователь •|•%@•|• должен его принять";
+
+"Audio Only (accessibility label)" = "Аудиотрансляции";
+
+"Audio from: Headphones" = "Источник аудио: Наушники";
+
+"Audio from: Phone" = "Источник аудио: Телефон";
+
+"Back" = "Назад";
+
+"Back (action sheet)" = "Назад";
+
+"Back Camera (accessibility hint)" = "Нажмите дважды, чтобы переключиться на фронтальную камеру";
+
+"Back Camera (accessiblity value)" = "Задняя камера";
+
+"Back to %@" = "Вернуться к %@";
+
+"Back to Hearts" = "Вернуться к сердечкам";
+
+"Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. Learn more (Copyright violation)" = "Поскольку за последнее время вы провели уже несколько трансляций с использованием работ, защищенных авторским правом, для вас временно отключена возможность проводить трансляции. •|•Подробнее•|•";
+
+"Betascope App Feedback" = "Отзыв о работе приложения Betascope";
+
+"Billion Decimal Abbreviation" = "%.1fB";
+
+"Billion Integer Abbreviation" = "%dB";
+
+"Block @%@" = "Внести @%@ в черный список";
+
+"Block @%@ (Offensive Report Modal)" = "Добавить @%@ в черный список";
+
+"Block And Hang Up (Manage Guest Call-Ins Action Sheet)" = "Внести в черный список и повесить трубку";
+
+"Block User" = "Добавить в черный список";
+
+"Block Users (%@)" = "Внести в черный список (%@)";
+
+"Block {Username}" = "Внести в черный список @%@";
+
+"Blocked (user modal)" = "Черный список";
+
+"Blocked by you" = "В вашем черном списке";
+
+"Blocking will dismiss the broadcast and not report to Periscope. (Offensive Report Modal)" = "При внесении в черный список трансляция будет отключена, но это не будет означать, что вы пожаловались в Periscope.";
+
+"Broadcast Actions (accessibility hint)" = "Открывает меню действий с трансляцией.";
+
+"Broadcast Details (action sheet)" = "Сведения о трансляции";
+
+"Broadcast Super Heart Auto-Deletion Warning" = "•|•Эта трансляция не будет автоматически удалена через 24 часа,•|• чтобы вы не потеряли звезды, начисленные за суперсердечки, которые вы могли получить.\n\nПри желании трансляцию можно скрыть после ее окончания, чтобы другие пользователи ее не видели.";
+
+"Broadcast Title" = "Название трансляции";
+
+"Broadcast about to expire (Cell)" = "Срок хранения трансляции истекает";
+
+"Broadcast creation" = "Создание трансляции";
+
+"Broadcaster Has Disabled Call-Ins (Generic Error Message)" = "Ведущий отключил список звонков в прямой эфир.";
+
+"Broadcaster blocked •|•@%@•|•" = "•|•@%@•|• теперь в черном списке";
+
+"Broadcaster doesn’t accept Super Hearts" = "Ведущий трансляции не принимает суперсердечки";
+
+"Broadcaster has assigned chat moderators." = "Ведущий трансляции назначил модераторов чата.";
+
+"Broadcaster has to accept your request before you can join as a guest. (Guest Call-In Instructions Subtitle)" = "Пользователь %@ должен принять ваш запрос, чтобы вы могли присоединиться в качестве гостя.";
+
+"Broadcaster is allowing guests to join (Local Chat Prompt)" = "•|•%@•|• разрешает гостям присоединяться";
+
+"Broadcaster is not allowing guests to join (Local Chat Prompt)" = "•|•%@•|• не разрешает гостям присоединяться";
+
+"Broadcasters earn stars from Super Hearts" = "Ведущие зарабатывают звезды за суперсердечки.";
+
+"Bummer (ReplayKit)" = "Вот, незадача!";
+
+"CONCATENTATION_ACCESSIBILITY_STRING" = ".";
+
+"CONTRIBUTORS WHO HAVE LEFT" = "ДАРИТЕЛИ, ВЫШЕДШИЕ ИЗ ТРАНСЛЯЦИИ";
+
+"COULDN'T LOAD REPLAY VIEWERS" = "НЕВОЗМОЖНО ЗАГРУЗИТЬ СПИСОК ПОЛЬЗОВАТЕЛЕЙ, ПРОСМОТРЕВШИХ ЗАПИСЬ";
+
+"COULDN'T LOAD VIEWERS" = "НЕВОЗМОЖНО ЗАГРУЗИТЬ СПИСОК ПРОСМОТРЕВШИХ";
+
+"Camera Selection (accessibility label)" = "Выбор камеры";
+
+"Cancel" = "Отмена";
+
+"Cancel (action sheet)" = "Отмена";
+
+"Cancel Call In Button: \"Cancel Request to Join as a Guest\"" = "Отменить запрос на участие в качестве гостя";
+
+"Cancel Guest Call-In Instructions Title: \"Waiting to join as a guest...\"" = "Ожидание подключения в качестве гостя...";
+
+"Cannot be undone" = "Это действие нельзя будет отменить";
+
+"Capture Thumbnail (action sheet)" = "Захватить миниатюру";
+
+"Cash Outs (Stars Profile)" = "Вывод средств";
+
+"Cash out your stars, and continue using live video on Twitter" = "Обналичьте свои звезды и продолжайте проводить прямые трансляции в Твиттере";
+
+"Change Amplify Program" = "Изменить программу Amplify";
+
+"Change Expiration (Cell)" = "Изменить срок хранения";
+
+"Change Expiration Subtitle (Cell)" = "Автоудаление через %@";
+
+"Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program." = "Если изменить настройки программы Amplify на •|•%@•|•, ваш предыдущий твит будет удален и будет опубликован новый твит с новой программой.";
+
+"Chatroom too full..." = "Чат переполнен...";
+
+"Child Safety (Report Option)" = "Безопасность ребенка";
+
+"Choose guests to add. You can remove them at any time. (Manage Guest Callers Page Subtitle)" = "Выберите гостей, которых вы хотите добавить. Их можно удалить в любое время.";
+
+"Close (accessibility label)" = "Закрыть";
+
+"Comment Tip Option 1" = "Напишите комментарий, чтобы %@ узнал(а) о том, что вы здесь!";
+
+"Comment Tip Option 2" = "Расскажите •|•%@•|• откуда вы его(ее) смотрите!";
+
+"Comment Tip Option 3" = "Поприветствуйте %@ и других участников чата.";
+
+"Commenting is OFF" = "Комментирование отключено";
+
+"Comments Received (CELL)" = "Комментариев получено";
+
+"Comments Received Unavailable (CELL)" = "недоступно";
+
+"Compose Direct Message (Accessibility Label)" = "Написать личное сообщение";
+
+"Compose New Tweet (Accessibility Label)" = "Написать твит";
+
+"Confirm Call In Button: \"OK, Ask to Join\"" = "ОК, отправить запрос на участие";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile and audio will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and hear you. This may include people you’ve blocked on either app.\"" = "•\tВаш профиль и аудио станут частью этой трансляции, и их нельзя будет удалить, если только %1$@ не удалит ее запись.\n\n•\tВсе пользователи, просматривающие трансляцию на Periscope и в Твиттере, смогут увидеть, что вы присоединились к трансляции пользователя %1$@, и будут слышать, что вы говорите. Это включает пользователей, которых вы заблокировали в этих приложениях.";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile, audio and video will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and see you. This may include people you’ve blocked on either app.\"" = "•\tВаш профиль, аудио и видео станут частью этой трансляции, и их нельзя будет удалить, если только %1$@ не удалит ее запись.\n\n•\tВсе пользователи, просматривающие трансляцию на Periscope и в Твиттере, смогут увидеть, что вы присоединились к трансляции пользователя %1$@, и будут слышать, что вы говорите. Это включает пользователей, которых вы заблокировали в этих приложениях.";
+
+"Confirm Guest Call-In Instructions Title: \"Good to know...\"" = "Полезная информация";
+
+"Connecting to chatroom" = "Подключение к комнате чата";
+
+"Connection Error" = "Ошибка соединения";
+
+"Connection too" = "Соединение слишком";
+
+"Contact Us (action sheet)" = "Свяжитесь с нами";
+
+"Contributors" = "Дарители";
+
+"Copy Profile URL" = "Скопировать ссылку на профиль";
+
+"Current Star Balance (Stars Profile)" = "Текущий баланс звезд";
+
+"Current Time (Accessibility Label)" = "Текущий момент";
+
+"Dear Periscope Team," = "Уважаемая команда Periscope,";
+
+"Delete Broadcast" = "Удалить трансляцию";
+
+"Delete Broadcast (action sheet)" = "Удалить трансляцию";
+
+"Delete Broadcast Now" = "Удалить трансляцию сейчас";
+
+"Describe the issue (Report Option)" = "Опишите проблему";
+
+"Describe the issue with %@ (Report Option)" = "Опишите проблему с @%@";
+
+"Describe the issue with @%1$@ at %2$@ (Report Option)" = "Опишите проблему, которая произошла с @%1$@ в %2$@";
+
+"Describe the issue you are seeing at %@ (Report Option)" = "Опишите проблему, с которой вы столкнулись в %@";
+
+"Direct Message (Compose)" = "Личное сообщение";
+
+"Disable Audio Only Broadcast" = "Отключить аудиотрансляцию";
+
+"Disabled for all broadcasts" = "Отключено для всех трансляций";
+
+"Disabled for this broadcast" = "Отключено для этой трансляции";
+
+"Discard Changes" = "Удалить изменения";
+
+"Display Photo (action sheet)" = "Отобразить фотографию";
+
+"Dispute Claim (Copyright Violation)" = "Оспорить жалобу";
+
+"Do not notify my followers (Guest Call-In Notify Followers Option)" = "Не уведомлять моих читателей";
+
+"Don't Allow Guests (Manage Guest Broadcasters Call-Ins List)" = "Запретить гостей";
+
+"Don't Allow Guests (Tooltip)" = "Запретить гостей";
+
+"Don't Auto-Delete" = "Отключить автоудаление";
+
+"Don't Send (Blocked Modal)" = "Не отправлять";
+
+"Done" = "Готово";
+
+"Done (action sheet)" = "Готово";
+
+"Double Tap anywhere to Exit Theater Mode (accessibility label)" = "Нажмите дважды в любом месте, чтобы выйти из режима театра";
+
+"Double Tap to <bold>Flip Camera</bold>" = "Коснитесь экрана два раза, чтобы •|•развернуть камеру•|•.";
+
+"Double tap to allow or disallow guests (accessibility hint)" = "Нажмите дважды, чтобы разрешить или запретить гостей";
+
+"Duration (CELL)" = "Длительность";
+
+"END (graph)" = "ЗАВЕРШЕНО";
+
+"ENDED" = "ЗАВЕРШЕНО";
+
+"Edit Broadcast" = "Изменить трансляцию";
+
+"Edit Broadcast (action sheet)" = "Изменить трансляцию";
+
+"Edit Broadcast Unavailable" = "Редактирование трансляции недоступно";
+
+"Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured." = "Если внести изменения в трансляцию, их увидят другие пользователи. Эти изменения не повлияют на уже опубликованные твиты и уведомления.";
+
+"Enable Audio Only Broadcast" = "Включить аудиотрансляцию";
+
+"Enable Email" = "Подключить адрес электронной почты";
+
+"Enable camera (Permissions Screen)" = "Включить камеру";
+
+"Enable microphone (Permissions Screen)" = "Включить микрофон";
+
+"Enable/Disable Audio Only Broadcast (accessibility hint)" = "Нажмите дважды, чтобы включить или отключить аудиотрансляцию.";
+
+"Enable/Disable Audio Only Broadcast (accessibility label)" = "Включить/отключить аудиотрансляцию";
+
+"Ended" = "Трансляция завершена";
+
+"Engaging Chat" = "Увлекательный чат";
+
+"Error (ReplayKit)" = "Ошибка";
+
+"Error accessing audio from microphone." = "Ошибка доступа к аудио через микрофон.";
+
+"Error accessing history." = "Ошибка доступа к истории.";
+
+"Error saving video to Camera Roll" = "Ошибка сохранения видео в Фотопоток.";
+
+"Error setting Amplify Program (title)" = "Ошибка настройки программы Amplify";
+
+"Every heart you send will be a Super Heart" = "Каждое отправляемое сердечко будет суперсердечком";
+
+"Everybody can chat" = "Участвовать в чате могут все пользователи";
+
+"FEATURED" = "РЕКОМЕНДОВАНО";
+
+"FOLLOWERS (user profile modal)" = "ЧИТАТЕЛИ";
+
+"FOLLOWING (user profile modal)" = "ЧИТАЕМЫЕ";
+
+"Final List separator" = "и";
+
+"Fine Control" = "Контроль качества";
+
+"First Super Heart" = "Первое суперсердечко";
+
+"Flip Camera (action sheet)" = "Повернуть камеру";
+
+"Follow (user modal)" = "Читать";
+
+"Follow request sent. (chat message)" = "Просьба начать читать отправлена.";
+
+"Follow the broadcaster to catch their next broadcast." = "Начните читать ведущего трансляции, чтобы не пропустить следующую трансляцию.";
+
+"Follow •|•%@•|• to catch their next broadcast" = "Начните читать •|•%@•|•, чтобы не пропустить следующую трансляцию";
+
+"Followed by %1$@ and %2$@" = "В читаемых у %1$@ и %2$@";
+
+"Followed by %1$@, %2$@, %3$@ and %4$i others" = "В читаемых у %1$@, %2$@, %3$@ и еще %4$i пользователей";
+
+"Followed by %1$@, %2$@, and %3$@" = "В читаемых у %1$@, %2$@ и %3$@";
+
+"Followed by %@" = "В читаемых у %@";
+
+"Followers button (accessibility hint)" = "Нажмите дважды, чтобы просмотреть читателей.";
+
+"Following (user modal)" = "Читаемые";
+
+"Following button (accessibility hint)" = "Нажмите дважды, чтобы просмотреть читаемых пользователей.";
+
+"Front Camera (accessibility hint)" = "Нажмите дважды, чтобы переключиться на заднюю камеру";
+
+"Front Camera (accessiblity value)" = "Фронтальная камера";
+
+"Get Coins" = "Купить монеты";
+
+"Give Super Hearts (menu button)" = "Подарить суперсердечки";
+
+"Go LIVE" = "Начать ПРЯМОЙ ЭФИР";
+
+"Go LIVE to %@" = "Начать прямую трансляцию для %@";
+
+"Go LIVE together (Guest Broadcasting Modal Title)" = "В прямой эфир вместе";
+
+"Go to Twitter Profile" = "Перейти в профиль Твиттера";
+
+"Good Viewer Count" = "Много зрителей";
+
+"Got It (Button Title)" = "Понятно";
+
+"Got it (Copyright Violation)" = "Понятно";
+
+"Got it (ReplayKit)" = "Понятно";
+
+"Got it!" = "Ясно!";
+
+"Guest Action Sheet Report Item" = "Пожаловаться";
+
+"Guest Call In Choice Label: \"Camera and microphone\"" = "Камера и микрофон";
+
+"Guest Call In Choice Label: \"Microphone only\"" = "Только микрофон";
+
+"Guest Call-In Audio Only Permissions Subtitle beneath Title: \"Enable microphone to become a guest\"" = "Включите микрофон, чтобы стать гостем";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request. Learn more\"" = "Вы присоединитесь к трансляции, когда ее ведущий примет ваш запрос. •|•Подробнее•|•";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request.\"" = "Вы присоединитесь к трансляции, когда ее ведущий примет ваш запрос.";
+
+"Guest Call-In Instructions Title: \"Ask to Join\"" = "Отправить запрос на участие";
+
+"Guest Call-In Instructions Title: \"Join as a guest\"" = "Подключиться в качестве гостя";
+
+"Guest Call-In Permissions Subtitle beneath Title: \"Enable camera and microphone to become a guest\"" = "Включите камеру и микрофон, чтобы стать гостем";
+
+"Guest Call-In Permissions Title: \"Guest setup\"" = "Настройка участия гостей";
+
+"Guest List (Manage Guest Callers Page Title)" = "Список гостей";
+
+"Guest Was Banned Chat Message (Periscope)" = "В связи с жалобой на •|•@%@•|• сотрудники Periscope рассмотрели поведение этого пользователи и выяснили, что оно нарушает правила сообщества.";
+
+"Guest Was Banned Chat Message (Twitter)" = "В связи с жалобой на •|•@%@•|• сотрудники Твиттера рассмотрели поведение этого пользователи и выяснили, что оно нарушает Правила Твиттера.";
+
+"Guests Not Allowed (Manage Guest Broadcasters Call-Ins List)" = "Гости запрещены";
+
+"Guests can now ask to join. Use this icon to add or remove guests at any time. (Guest Broadcasting Enabled Prompt)" = "Теперь гости могут отправлять запросы на участие. Используйте этот значок, чтобы добавлять или удалять гостей в любое время.";
+
+"HEART" = "ОТМЕТКА «ПОНРАВИЛОСЬ»";
+
+"HEARTS" = "— ЧИСЛО ОТМЕТОК «ПОНРАВИЛОСЬ»";
+
+"Half-Speed" = "Половина скорости";
+
+"Hang Up (Guest Calling Menu)" = "Повесить трубку";
+
+"Hang Up (Manage Guest Call-Ins Action Sheet)" = "Повесить трубку";
+
+"Hang Up Button Label: \"Hang Up\"" = "Повесить трубку";
+
+"Hang Up Subtitle (Audio Only): \"Stop sharing microphone\"" = "Закрыть доступ к микрофону";
+
+"Hang Up Subtitle (Camera + Microphone): \"Stop sharing camera and microphone\"" = "Закрыть доступ к камере и микрофону";
+
+"Hang Up on Guest or Cancel Guest From Joining" = "Отсоединить гостя или запретить ему присоединяться";
+
+"Hang up" = "Повесить трубку";
+
+"Harassment" = "Преследование";
+
+"Hateful Conduct (Report Option)" = "Разжигание ненависти";
+
+"Heart Sent (accessiblity announcement)" = "Сердечко отправллено";
+
+"Hearts & Chats off" = "Сердечки и чаты выключены";
+
+"Hearts & Chats on" = "Сердечки и чаты включены";
+
+"Help us moderate this comment..." = "Помогите нам с модерацией этого комментария...";
+
+"Help us understand the problem.\nWhat issue with @%@ are you reporting?" = "Помогите нам понять проблему.\nВ связи с чем вы подаете жалобу на учетную запись @%@?";
+
+"Hide Broadcast" = "Скрыть трансляцию";
+
+"Hide everything except video (action sheet)" = "Скрыть все, кроме видео";
+
+"History (profile view title)" = "История";
+
+"History button (accessibility hint)" = "Нажмите дважды, чтобы просмотреть недавние трансляции.";
+
+"How can we improve?" = "Что мы можем улучшить?";
+
+"How was your broadcasting experience?" = "Как бы вы оценили качество трансляции?";
+
+"I'm Not Interested in @%@" = "Мне неинтересен пользователь @%@";
+
+"If this broadcast depicts pornography or sexual acts, please tap below. (Report Sexual Content Modal)" = "Если в этой трансляции показывается порнография или половой акт, нажмите расположенную ниже кнопку, чтобы пожаловаться.";
+
+"If you believe that this broadcast places a child at risk, please tap below. (Report Child Safety Modal)" = "Если в этой трансляции, по вашему мнению, ребенок подвергается риску, нажмите расположенную ниже кнопку.";
+
+"If you believe this broadcast contains violence or someone is being physically threatened, please tap below. (Report Violence Modal)" = "Если в этой трансляции, по вашему мнению, содержатся изображения насилия или угроз физической расправы, нажмите кнопку ниже.";
+
+"If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Если вы считаете, что эта трансляция разжигает ненависть к представителям защищаемой законом категории (например, по признаку расы, вероисповедания, пола, сексуальной ориентации или инвалидности), нажмите кнопку ниже.";
+
+"If you believe this broadcast exposes private information, please tap below. (Report Private Information Modal)" = "Если вы считаете, что в этой трансляции разглашается конфиденциальная информация, нажмите кнопку ниже.";
+
+"If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below. (Report Harassment Modal)" = "Если вы считаете, что в этой трансляции содержатся признаки преследования или запугивания, нажмите кнопку ниже.";
+
+"If you believe this guest is contemplating or encouraging suicide or self harm, please tap below. (Report Self Harm Modal)" = "Если вы считаете, что этот гость собирается совершить самоубийство или причинить себе вред либо призывает к этому других, нажмите кнопку ниже.";
+
+"If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Если вы считаете, что этот гость разжигает ненависть к представителям защищаемой законом категории (например, по признаку расы, вероисповедания, пола, сексуальной ориентации или инвалидности), нажмите кнопку ниже.";
+
+"If you believe this guest is exposing private information, please tap below. (Report Private Information Modal)" = "Если вы считаете, что этот гость разглашает конфиденциальную информацию, нажмите кнопку ниже.";
+
+"If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below. (Report Harassment Modal)" = "Если вы считаете, что этот гость преследует или запугивает другого пользователя, нажмите кнопку ниже.";
+
+"If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below. (Report Violence Modal)" = "Если вы считаете, что этот гость высказывает конкретные угрозы насилия, связанные с физической безопасностью или благополучием, нажмите кнопку ниже.";
+
+"If you believe this guest is sharing content that places a child at risk, please tap below. (Report Child Safety Modal)" = "Если вы считаете, что этот гость распространяет контент, который ставит под угрозу безопасность ребенка, нажмите кнопку ниже.";
+
+"If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below. (Report Sexual Content Modal)" = "Если вы считаете, что этот гость распространяет неприемлемый контент сексуального характера, например порнографию, нажмите кнопку ниже.";
+
+"If you believe this individual is contemplating suicide or self harm, please tap below. (Report Self Harm Modal)" = "Если вы считаете, что этот человек планирует совершить самоубийство или причинить себе вред, нажмите кнопку ниже.";
+
+"If you delete this broadcast, you will lose the stars that you received. This cannot be undone." = "При удалении этой трансляции вы потеряете полученные за нее звезды. Это действие нельзя будет отменить.";
+
+"Initializing video stream..." = "Инициализация потокового видео...";
+
+"Invite Guests (Manage Guest Broadcasters Call-Ins List)" = "Пригласить гостей";
+
+"Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Приглашайте гостей в свои трансляции. Их будут слышать все зрители. Добавлять и удалять гостей можно в любое время.";
+
+"Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Приглашайте гостей в свои трансляции. Их будут видеть и слышать все зрители. Добавлять и удалять гостей можно в любое время.";
+
+"Join as a Guest (Guest Calling Menu)" = "Подключиться в качестве гостя";
+
+"Joined %@" = "Дата регистрации: %@";
+
+"Joining as a guest... (Guest Call-In Countdown Screen Title)" = "Подключение в качестве гостя...";
+
+"Keep broadcasting to collect more stars!" = "Проводите новые трансляции, чтобы собрать больше звезд!";
+
+"Keep stars received" = "Сохранить звезды за эту трансляцию";
+
+"LIVE" = "ПРЯМОЙ ЭФИР";
+
+"LIVE VIEWER" = "ЗРИТЕЛЬ ТРАНСЛЯЦИИ В ПРЯМОМ ЭФИРЕ";
+
+"LIVE VIEWERS" = "ЗРИТЕЛИ ТРАНСЛЯЦИИ В ПРЯМОМ ЭФИРЕ";
+
+"LIVE Video (Broadcast Audience)" = "Прямой эфир";
+
+"LIVE on #Periscope" = "ПРЯМОЙ ЭФИР в #Periscope";
+
+"LIVE on #Periscope: %@" = "ПРЯМОЙ ЭФИР в #Periscope: %@";
+
+"LOADING" = "ЗАГРУЗКА";
+
+"LOST CONNECTION" = "СОЕДИНЕНИЕ ПОТЕРЯНО";
+
+"Later (alert view)" = "Позже";
+
+"Learn More" = "Подробнее";
+
+"Learn More (Stars Profile)" = "Подробнее";
+
+"Leave Broadcast" = "Покинуть трансляцию";
+
+"Limited by Broadcaster" = "Ограничено ведущим трансляции";
+
+"Limited for %@" = "Срок ограничения: %@";
+
+"List separator" = ",";
+
+"Live Time Watched (CELL)" = "Время просмотра прямого эфира";
+
+"Live watch time per minute tooltip" = "На просмотр каждой минуты этой трансляции в прямом эфире зрители потратили %@.";
+
+"Loading History." = "Загрузка истории...";
+
+"Loading followers" = "Загружается список читателей";
+
+"Loading following" = "Загружается список читаемых";
+
+"Loading history" = "Загрузка истории";
+
+"Loading your followers" = "Загрузка списка читателей";
+
+"Loading your following" = "Загрузка списка читаемых";
+
+"Location Permissions Required" = "Требуется разрешение на использование местоположения";
+
+"Location Unknown" = "Местоположение неизвестно";
+
+"Logged Out" = "Выполнен выход";
+
+"Login Error (ReplayKit)" = "Необходимо выполнить вход";
+
+"Login Error Instructions (ReplayKit)" = "Откройте приложение Periscope, чтобы войти в него. Затем вернитесь на эту страницу, чтобы начать трансляцию.";
+
+"Looks OK" = "Всё в порядке";
+
+"Looks like the connection was lost. Reconnecting... (Toast)" = "Похоже, соединение было прервано. Выполняется повторное подключение...";
+
+"Lose stars received" = "Потерять звезды за эту трансляцию";
+
+"Low Viewer Count" = "Мало зрителей";
+
+"Low disk space. A portion of this broadcast will not be available for replay later." = "Недостаточно места на диске. Часть этой трансляции будет недоступна для воспроизведения в записи.";
+
+"Majority voted <destructive emphasis> Abuse </destructive emphasis>\nThe commenter's chat has been limited." = "Большинство выбрало •|• Оскорбительный •|•\nЧат комментатора будет ограничен.";
+
+"Majority voted <destructive emphasis> Looks OK  </destructive emphasis>" = "Большинство выбрало  •|• Все в порядке •|•";
+
+"Majority voted <destructive emphasis> Not Sure </destructive emphasis>" = "Большинство выбрало  •|• Не уверен(а) •|•";
+
+"Majority voted <destructive emphasis> Spam </destructive emphasis>\nThe commenter's chat has been limited." = "Большинство выбрало •|• Спам •|•\nЧат комментатора будет ограничен.";
+
+"Makes broadcast visible to everyone" = "Трансляция будет доступна всем";
+
+"Makes broadcast visible to invited viewers" = "Трансляция будет доступна приглашенным зрителям";
+
+"Manage details about your Broadcast (menu subtitle)" = "Управление сведениями о трансляции";
+
+"Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen." = "Сообщения, похожие на это, часто попадают в черный список. Если вас часто будут вносить в черные списки, ваши комментарии больше не будут отображаться.";
+
+"Million Decimal Abbreviation" = "%.1fM";
+
+"Million Integer Abbreviation" = "%dM";
+
+"Moderation Modal Button Label" = "ОК, я понял(а)";
+
+"Moderation Modal Example Label" = "ПРИМЕР";
+
+"Moderation Modal Example Message" = "Сомнительное сообщение...";
+
+"Moderation Modal Settings Label" = "Вы можете отключить эту опцию в настройках.";
+
+"Moderation Modal Subtitle" = "Время от времени мы будем просить вас выступить в качестве модератора комментариев, чтобы определить, не являются ли они •|•ОСКОРБЛЕНИЯМИ•|• или •|•СПАМОМ•|•. Модерация выполняется анонимно.";
+
+"Moderation Modal Title" = "Модерация";
+
+"Moderator Actions" = "Действия модератора";
+
+"Moderator Actions (%@)" = "Действия модератора (%@)";
+
+"Moderator •|•%@•|• joined" = "Модератор •|•%@•|• присоединился";
+
+"ModeratorName muted this message (Message Carousel)" = "•|•%@•|• отключил это сообщение";
+
+"Monetize Broadcast" = "Монетизировать трансляцию";
+
+"Monetize Broadcast (expanded cell title)" = "Монетизировать трансляцию";
+
+"Monetize Broadcast (minimized cell title)" = "Монетизировать трансляцию ▾";
+
+"More (following/followers)" = "Еще";
+
+"Mute" = "Отключить звук";
+
+"Mute (accessibility label)" = "Заглушить";
+
+"Mute User" = "Игнорировать";
+
+"Mute User Notifications" = "Игнорировать оповещения от этого пользователя";
+
+"Muted by Moderator" = "Отключено модератором";
+
+"NEW" = "НОВИНКА";
+
+"NO LIVE VIEWERS" = "НЕТ ЗРИТЕЛЕЙ В ПРЯМОМ ЭФИРЕ";
+
+"NO REPLAY VIEWERS" = "НЕТ ЗРИТЕЛЕЙ, КОТОРЫЕ ПРОСМАТРИВАЮТ ЗАПИСЬ";
+
+"New Broadcaster Education: 3 Guest Limit" = "Вы можете добавить до 3 гостей одновременно.";
+
+"New Tweet (Compose)" = "Новый твит";
+
+"No history." = "Нет истории.";
+
+"No one has asked to join yet. Tap to invite your viewers to join. (Empty Manage Guest Broadcasters Call-Ins List)" = "Пока никто не отправил запрос на участие.\n\nНажмите эту кнопку, чтобы пригласить зрителей присоединиться.";
+
+"No one is following you." = "У вас нет читателей.";
+
+"No, stop broadcasting (Copyright Violation)" = "Нет, завершить трансляцию";
+
+"Not Sure" = "Не уверен(а)";
+
+"Not followed by anyone you're following" = "Нет в читаемых у пользователей, которых вы читаете";
+
+"Notifications (accessiblity label)" = "Уведомления";
+
+"Notifications OFF" = "Уведомления выключены";
+
+"Notifications ON" = "Уведомления включены";
+
+"Notifications Off (accessibility hint)" = "Нажмите дважды, чтобы разрешить уведомления от этого пользователя.";
+
+"Notifications Off (accessibility value)" = "выключены";
+
+"Notifications On (accessibility hint)" = "Нажмите дважды, чтобы отключить уведомления от этого пользователя.";
+
+"Notifications On (accessibility value)" = "включены";
+
+"Notify my followers (Guest Call-In Notify Followers Option)" = "Уведомить моих читателей";
+
+"OK, Got It" = "Понятно";
+
+"Offensive Guest (Report Option)" = "Неприятный гость";
+
+"Okay (Report Broadcast Modal)" = "Ладно";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Один или несколько ваших комментариев были скрыты как ОСКОРБИТЕЛЬНЫЕ. Комментирование отключено для всех трансляций.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast." = "Один или несколько ваших комментариев были скрыты как ОСКОРБИТЕЛЬНЫЕ. Комментирование этой трансляции отключено.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Один или несколько ваших комментариев были скрыты как ОСКОРБИТЕЛЬНЫЕ. Комментирование всех трансляций временно ограничено.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited." = "Один или несколько ваших комментариев были скрыты как ОСКОРБИТЕЛЬНЫЕ. Комментирование временно ограничено.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts." = "Один или несколько ваших комментариев были скрыты как СПАМ. Комментирование всех трансляций отключено.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast." = "Один или несколько ваших комментариев были скрыты как СПАМ. Комментирование этой трансляции отключено.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Один или несколько ваших комментариев были скрыты как СПАМ. Комментирование всех трансляций временно ограничено.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited." = "Один или несколько ваших комментариев были скрыты как СПАМ. Комментирование временно ограничено.";
+
+"One or more of your comments was hidden. Commenting is disabled for all broadcasts." = "Один или несколько ваших комментариев были скрыты. Комментирование всех трансляций отключено.";
+
+"One or more of your comments was hidden. Commenting is disabled for this broadcast." = "Один или несколько ваших комментариев были скрыты. Комментирование этой трансляции отключено.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts." = "Один или несколько ваших комментариев были скрыты. Комментирование всех трансляций временно ограничено.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited." = "Один или несколько ваших комментариев были скрыты. Комментирование временно ограничено.";
+
+"One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast." = "Один или несколько ваших комментариев были отключены модератором. Комментирование этой трансляции отключено.";
+
+"Only available in Periscope" = "Доступно только в Periscope";
+
+"Only public broadcasts counted" = "Учитываются только общедоступные трансляции";
+
+"Only users you follow can chat" = "Участвовать в чате могут только те, кого вы читаете";
+
+"Only you can see your hidden broadcasts (menu subtitle)" = "Ваши скрытые трансляции доступны только вам";
+
+"Other Reason (Report Option)" = "Другая причина";
+
+"Other Reason \n e.g. Foreign Language" = "Другая причина •|•например, Иностранный язык•|•";
+
+"Our apologies for the inconvenience." = "Приносим свои извинения за неудобство.";
+
+"POOR CONNECTION" = "ПЛОХОЕ СОЕДИНЕНИЕ";
+
+"POSSIBLY NSFW (Interstitial)" = "Может содержать неуместный контент";
+
+"Pause (accessibility label)" = "Пауза";
+
+"Peak (graph label)" = "Пик";
+
+"Periscope App Feedback" = "Отзыв о работе приложения Periscope";
+
+"Periscope account is required." = "Необходима учетная запись Periscope";
+
+"Periscope is discontinuing on •|•%@•|•" = "Periscope перестанет работать •|•%@•|•";
+
+"Play (accessibility label)" = "Пуск";
+
+"Please allow some time for all transactions to be posted." = "Проведение всех операций может занять некоторое время.";
+
+"Positive Community" = "Позитивное сообщество";
+
+"Post to Twitter (accessibility hint)" = "Нажмите дважды, чтобы переключить.";
+
+"Post to Twitter (accessibility label)" = "Опубликовать в Твиттер";
+
+"Posting to Twitter OFF" = "Публикации в Твиттере выключены";
+
+"Posting to Twitter as @%@" = "Публиковать в Твиттере от имени @%@";
+
+"Precise Location Sharing OFF" = "Предоставление информации о точном местоположении выключено";
+
+"Precise Location Sharing ON" = "Предоставление информации о точном местоположении включено";
+
+"Private (Broadcast Audience)" = "Приватная";
+
+"Private Information (Report Option)" = "Конфиденциальная информация";
+
+"Profile (accessibility label)" = "Профиль";
+
+"Profile URL copied" = "Ссылка на профиль скопирована";
+
+"Public (Broadcast Audience)" = "Открытая";
+
+"Public Hidden (Broadcast Audience)" = "Общедоступная (скрытая)";
+
+"Quarter-Speed" = "Четверть скорости";
+
+"RECENT (user profile modal)" = "НЕДАВНИЕ";
+
+"REPLAY VIEWER" = "ПРОСМАТРИВАЕТ ЗАПИСЬ";
+
+"REPLAY VIEWERS" = "ПРОСМАТРИВАЮТ ЗАПИСЬ";
+
+"Ready to give Super Hearts!" = "Вы можете дарить суперсердечки!";
+
+"Received in: (History)" = "Получено в «%@»";
+
+"Received stars (History)" = "Полученные звезды.";
+
+"Release to <bold>Leave</bold> (broadcasting)" = "Отпустите, чтобы •|•выйти•|•";
+
+"Release to <bold>Leave</bold> (watching)" = "Отпустите, чтобы •|•выйти•|•";
+
+"Release to Refresh" = "Отпустите, чтобы обновить";
+
+"Remove" = "Удалить";
+
+"Remove Amplify Program" = "Удалить программу Amplify";
+
+"Remove Amplify Program (cell title)" = "Удалить программу Amplify";
+
+"Remove Location" = "Удалить местоположение";
+
+"Remove at least 1 character from your title to make room for #(example hashtag)" = "Чтобы освободить место для %@, необходимо удалить из названия не менее 1 символа";
+
+"Remove at least X characters from your title to make room for #(example hashtag)" = "Чтобы освободить место для %@, необходимо удалить из названия не менее %lu символов.";
+
+"Replay Time Watched (CELL)" = "Время просмотра повтора";
+
+"Replay Unavailable" = "Запись недоступна";
+
+"Replay watch time per minute tooltip" = "На просмотр каждой минуты повтора этой трансляции зрители потратили %@.";
+
+"Reply" = "Ответить";
+
+"Report @<guest's username> (Report Guest Modal)" = "Пожаловаться на @%@";
+
+"Report Abusive Behavior (Report Abusive Behavior Modal)" = "Оскорбительное поведение";
+
+"Report Abusive Profile" = "Пожаловаться на оскорбительный профиль";
+
+"Report As Spam" = "Пожаловаться на спам";
+
+"Report Broadcast (Report Broadcast Modal)" = "Пожаловаться на трансляцию";
+
+"Report Child Safety (Report Child Safety Modal)" = "Безопасность ребенка";
+
+"Report Comment" = "Пожаловаться на комментарий";
+
+"Report Hateful Conduct (Report Hateful conduct Modal)" = "Разжигание ненависти";
+
+"Report Private Information (Report Private Information Modal)" = "Конфиденциальная информация";
+
+"Report Self-Harm (Report Self Harm Modal)" = "Причинение себе вреда";
+
+"Report Sexual Content (Report Sexual Content Modal)" = "Содержимое сексуального характера";
+
+"Report User" = "Пожаловаться на пользователя";
+
+"Report Violence (Report Violence Modal)" = "Насилие";
+
+"Reporting is anonymous and will hide the user's comments (just for you)." = "Отправка сообщения происходит анонимно, и комментарии пользователя скрываются (только для вас).";
+
+"Restrict Chat (accessibility hint)" = "Нажмите дважды, чтобы ограничить чат только для пользователей, которых вы читаете.";
+
+"Restrict Chat (accessibility label)" = "Ограничить чат";
+
+"Return to Summary (accessibility hint)" = "Нажмите дважды, чтобы просмотреть информацию о пользователе.";
+
+"Retweet" = "Ретвитнуть";
+
+"Save Changes" = "Сохранить изменения";
+
+"Save To Camera Roll" = "Сохранить в галерею";
+
+"Save To Camera Roll Unavailable" = "Сохранение в галерею недоступно";
+
+"Saved To Camera Roll" = "Сохранено в галерею";
+
+"Saved!" = "Сохранено!";
+
+"Saving..." = "Сохранение...";
+
+"Say something..." = "Скажите что-нибудь...";
+
+"Scroll for Old Comments" = "Прокрутите для просмотра предыдущих комментариев";
+
+"Scroll to Bottom" = "В самый низ";
+
+"Self-Harm (Report Option)" = "Причинение себе вреда";
+
+"Send (accessibility label)" = "Отправить";
+
+"Send Message (Blocked Modal)" = "Отправить сообщение";
+
+"Send people a notification to join this broadcast. Mutuals are people you follow that follow you back." = "Отправьте пользователям уведомление, чтобы они могли подключиться к этой трансляции. Взаимные читатели — пользователи, которых вы читаете, и которые читают вас.";
+
+"Sent for payment processing (History)" = "Платеж отправлен на обработку.";
+
+"Separator between two names" = "и";
+
+"Set Amplify Program" = "Настроить программу Amplify";
+
+"Setting the broadcast Amplify Program to •|•%@•|• will publish a new Tweet." = "Если настроить %@ для программы Amplify трансляции, будет опубликован новый твит.";
+
+"Settings (app)" = "Настройки";
+
+"Sexual Content (Report Option)" = "Содержимое сексуального характера";
+
+"Sexually Inappropriate \n Obscene or unwanted sexual remarks" = "Неуместные замечания сексуального характера•|•\nОскорбительные или нежелательные замечания сексуального характера•|•";
+
+"Share Broadcast" = "Поделиться трансляцией";
+
+"Share From" = "Поделиться, начиная с";
+
+"Share From %@" = "Поделиться, начиная с %@";
+
+"Share From Beginning" = "Поделиться с начала";
+
+"Share Live" = "Поделиться прямой трансляцией";
+
+"Share Twitter Tooltip (explaining that the feature is disabled while guests are enabled)" = "Отключено в трансляциях с участием гостей";
+
+"Share precise location (accessibility label)" = "Предоставлять информацию о точном местоположении";
+
+"Share request sent. (chat message)" = "Просьба поделиться трансляцией отправлена.";
+
+"Share screenshot and broadcast" = "Поделиться снимком экрана и трансляцией";
+
+"Share this broadcast so your followers don't miss it." = "Поделитесь этой трансляцией, чтобы ваши читатели не пропустили ее.";
+
+"Share via..." = "Поделиться в...";
+
+"Show Stats (cell)" = "Показать статистику";
+
+"Skip" = "Пропустить";
+
+"Sorry, that action could not be completed because you have been blocked." = "К сожалению, действие не может быть выполнено, так как вы были внесены в черный список.";
+
+"Sorry, that action could not be completed because you have reached the block limit." = "К сожалению, это действие не может быть выполнено, так как вы достигли ограничения на количество внесений в черный список.";
+
+"Sorry, that action could not be completed because you have reached the follow limit." = "К сожалению, это действие не может быть выполнено, так как вы достигли лимита читаемых пользователей.";
+
+"Sorry, the broadcast is too full..." = "Извините, слишком много людей смотрит трансляцию...";
+
+"Sorry, this broadcast is unavailable" = "Извините, эта трансляция недоступна";
+
+"Sorry, we couldn't load the broadcast share URL. Please try again." = "К сожалению, не удалось загрузить URL-адрес трансляции. Попробуйте еще раз.";
+
+"Sorry, we couldn't save your changes. Please try again." = "К сожалению, сохранить изменения не удалось. Повторите попытку.";
+
+"Sorry, we encountered an error blocking some users. Please try again." = "К сожалению, при добавлении нескольких пользователей в черный список произошла ошибка. Повторите попытку.";
+
+"Sorry, we encountered an error blocking that user. Please try again." = "К сожалению, при добавлении этого пользователя в черный список произошла ошибка. Попробуйте еще раз.";
+
+"Sorry, we encountered an error loading user data. Please try again." = "К сожалению, произошла ошибка при загрузке данных пользователя. Повторите попытку.";
+
+"Sorry, we encountered an error loading your broadcasts. Please try again." = "К сожалению, при загрузке ваших трансляций произошла ошибка. Попробуйте еще раз.";
+
+"Sorry, we encountered an error reporting this broadcast. Please try again." = "К сожалению, при отправке жалобы на эту трансляцию произошла ошибка. Попробуйте еще раз.";
+
+"Sorry, we encountered an error reporting this guest. Please try again." = "К сожалению, при отправке жалобы на этого гостя произошла ошибка. Повторите попытку.";
+
+"Sorry, we've encountered a loading error. Please try again." = "К сожалению, при загрузке произошла ошибка. Попробуйте еще раз.";
+
+"Sorry, you've done that too many times. Try again in a few minutes." = "К сожалению, вы сделали это слишком много раз. Повторите попытку позже.";
+
+"Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv" = "К сожалению, произошла ошибка загрузки (421 — селектор). Обратитесь по адресу help@pscp.tv";
+
+"Sorry, you've encountered a loading error (421). Please email help@pscp.tv" = "К сожалению, произошла ошибка загрузки (421). Обратитесь по адресу help@pscp.tv";
+
+"Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later." = "К сожалению, ваше подключение слишком медленное, чтобы загрузить новую миниатюру трансляции. Пожалуйста, попробуйте еще раз позже.";
+
+"Spam" = "Спам";
+
+"Spam in Chat" = "Спам в чате";
+
+"Star & Cash Outs History (Stars Profile)" = "История звезд и вывода средств";
+
+"Star History (Stars Profile)" = "История звезд";
+
+"Star balance adjustment. Contact superhearts@pscp.tv if you have any questions. (History)" = "Корректировка баланса звезд. С вопросами обращайтесь по адресу superhearts@pscp.tv.";
+
+"Stars (profile view title)" = "Звезды";
+
+"Stars (profile)" = "Звезды";
+
+"Start Point" = "Начальная точка";
+
+"Start Sketching (action sheet)" = "Режим рисования";
+
+"Stop Broadcast" = "Остановить трансляцию";
+
+"Submit" = "Отправить";
+
+"Success! You've unmuted @%@" = "Получилось! Вы вернули @%@ возможность комментировать";
+
+"Successfully set Amplify Program (title)" = "Программа Amplify настроена";
+
+"Suggested user is watching singlular" = "%@•|• смотрит сейчас•|•";
+
+"Suggested users are watching plural" = "%ld друга(друзей)•|• смотрят сейчас•|•";
+
+"Super Broadcaster (Stars Profile)" = "Суперведущий";
+
+"Super Broadcaster Program" = "Программа «Суперведущий»";
+
+"Super Heart Terms" = "Условия использования суперсердечек";
+
+"Super Hearts" = "Суперсердечки";
+
+"Super Hearts OFF" = "Вы не можете дарить суперсердечки";
+
+"Super Hearts ON" = "Вы можете дарить суперсердечки";
+
+"Swipe down to <bold>Stop</bold>" = "Проведите пальцем вниз, чтобы  •|•прервать•|•.";
+
+"Tap anyhwhere to <bold>Exit Theater Mode</bold>" = "Нажмите в любом месте, чтобы •|•выйти из режима театра•|•";
+
+"Tap this icon to join Broadcaster's broadcast as a guest. (Viewer Prompt to Call-In)" = "Нажмите на этот значок, чтобы присоединиться к трансляции пользователя •|•%@•|• в качестве гостя.";
+
+"Thank You (Report Broadcast Confirmation Modal)" = "Спасибо";
+
+"Thank you for your report" = "Благодарим за отправку жалобы";
+
+"Thank you for your report (Chat Prompt)" = "Благодарим за отправку жалобы";
+
+"Thank you for your report." = "Благодарим за отправку жалобы.";
+
+"Thank you. You won't see any more messages from •|•@%@•|• in this broadcast." = "Спасибо. Вы больше не увидите сообщение от •|•@%@•|• в этой трансляции.";
+
+"Thanks %@!" = "Спасибо, %@!";
+
+"Thanks for your feedback!" = "Спасибо за отзыв!";
+
+"The broadcaster blocked you in response to this message." = "Ведущий добавил вас в черный список в ответ на это сообщение.";
+
+"The broadcaster has limited chat." = "Ведущий трансляции ограничил доступ к чату.";
+
+"The broadcaster has the ability to remove people from their broadcasts." = "Ведущий трансляции имеет возможность удалять зрителей трансляции.";
+
+"The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•." = "Магазин монет закрылся. Если у вас остались монеты, потратьте их на суперсердечки для своих любимых ведущих до •|•%@•|•.";
+
+"Theater Mode (action sheet)" = "Режим театра";
+
+"Their name, bio, or profile image violates the Community Guidelines" = "Имя, сведения о себе или изображение профиля этого пользователя нарушают правила сообщества";
+
+"There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat." = "Сейчас это видео просматривают много пользователей. В целях ограничения количества сообщений, отправляемых ведущему трансляции, пользоваться чатом могут только те пользователи, которые присоединились раньше остальных.";
+
+"There was an error adding @username as a guest. Please try again." = "При добавлении пользователя @%@ в качестве гостя произошла ошибка. Повторите попытку.";
+
+"There was an error adding you as a guest. We've notified Broadcaster, and will alert you if we're able to try again." = "При добавлении вас в качестве гостя произошла ошибка. Мы уведомили об этом пользователя %@ и сообщим вам, когда можно будет повторить попытку.";
+
+"There was an error allowing guests. Please try again." = "При включении гостевого доступа произошла ошибка. Повторите попытку.";
+
+"There was an error cancelling your request. Please try again." = "При отмене вашего запроса произошла ошибка. Повторите попытку.";
+
+"There was an error cancelling. Please try again." = "При отмене произошла ошибка. Повторите попытку.";
+
+"There was an error disallowing guests. Please try again." = "При отключении гостевого доступа произошла ошибка. Повторите попытку.";
+
+"There was an error inviting guests. Please try again." = "При отправке приглашений гостям произошла ошибка. Повторите попытку.";
+
+"There was an error muting or un-muting @username. Please try again." = "При отключении или включении звука @%@ произошла ошибка. Повторите попытку.";
+
+"There was an error muting or un-muting you. Please try again." = "При отключении или включении звука произошла ошибка. Повторите попытку.";
+
+"There was an error removing your guest @username. Please try again." = "При удалении гостя @%@ произошла ошибка. Повторите попытку.";
+
+"There was an error sending your request to join as a guest. Please try again." = "При отправке вашего запроса на участие в качестве гостя произошла ошибка. Повторите попытку.";
+
+"There was an error updating the settings (conversation controls and mentioned users). Please try again." = "Не удалось обновить настройки (управление перепиской и упомянутые пользователи). Повторите попытку.";
+
+"There was an error updating the settings (locked/unlocked). Please try again." = "При изменении настроек блокировки возникла ошибка. Повторите попытку.";
+
+"This broadcast is no longer available." = "Эта трансляция больше не доступна.";
+
+"This broadcast isn’t available (Copyright Violation)" = "Эта трансляция недоступна";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}." = "Эта трансляция совпадает с «%1$@». %2$@ обладает авторскими правами на эту работу. •|•Подробнее•|•";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}. Do you have all rights necessary to broadcast this video on Twitter?" = "Эта трансляция совпадает с «%1$@». %2$@ обладает авторскими правами на эту работу. У вас есть все права, необходимые для трансляции этого видео в Твиттере?";
+
+"This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video." = "Эта трансляция записывалась на 360-градусную камеру. Periscope больше не поддерживает воспроизведение 360-градусного видео.";
+
+"This broadcast’s title can’t be edited. Learn more (Copyright Violation)" = "Невозможно изменить название этой трансляции. •|•Подробнее•|•";
+
+"This is optional" = "Это необязательно";
+
+"This user doesn't have any followers yet" = "У этого пользователя пока нет читателей";
+
+"This user has not broadcasted yet" = "Этот пользователь пока не проводил трансляций";
+
+"This user isn't following anyone yet" = "Этот пользователь пока никого не читает";
+
+"Thousand Decimal Abbreviation" = "%.1fK";
+
+"Thousand Integer Abbreviation" = "%dK";
+
+"Thumbnail" = "Эскиз";
+
+"Time Watched (CELL)" = "Время просмотра";
+
+"Title (accessibility label)" = "Заголовок";
+
+"To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off." = "Чтобы начать общаться в чате, включите параметр «Подключить к Periscope» в настройках. Если в вашей учетной записи включена защита твитов, вам потребуется загрузить приложение Periscope и создать учетную запись Periscope либо воспользоваться другой учетной записью в Твиттере, в которой защита твитов отключена.";
+
+"To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos." = "Для сохранения видео Periscope требуется разрешение на доступ к вашим фотографиям. Чтобы включить эту возможность для предстоящей трансляции, нажмите «Настройки» и установите переключатель «Фотографии» в положение «Вкл.».";
+
+"To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account." = "Чтобы отправить отзыв при помощи электронной почты, необходимо сначала настроить электронную почту на своем устройстве. Откройте настройки устройства и выберите последовательно «Почта» > «Контакты» > «Календари» и нажмите «Добавить учетную запись».";
+
+"To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option." = "Для отправки информации о вашем местоположении Periscope требуется разрешение на доступ к этим данным на вашем устройстве. Нажмите кнопку «Настройки», а затем перейдите в раздел «Местоположение» и выберите «При использовании приложения».";
+
+"Top Contributor" = "Лучший даритель";
+
+"Total watch time per minute tooltip" = "На просмотр каждой минуты этой трансляции зрители потратили %@.";
+
+"Total watch time per minute tooltip (broadcaster)" = "На просмотр каждой минуты этой трансляции зрители потратили %@. Эта статистика нормализует время просмотра трансляции разной продолжительности.";
+
+"Trying to reconnect" = "Попытка восстановить соединение";
+
+"Twitter Post OFF" = "Публикации в Твиттере выключены";
+
+"Twitter Post ON" = "Публикации в Твиттере включены";
+
+"Unable to load broadcast." = "Не удается загрузить трансляцию.";
+
+"Unblock User" = "Убрать пользователя из черного списка";
+
+"Unfollow User" = "Перестать читать пользователя";
+
+"Unhide Broadcast (menu button)" = "Показать трансляцию";
+
+"Unmute" = "Включить звук";
+
+"Unmute User" = "Разрешить пользователю комментировать";
+
+"Unmute User Notifications" = "Больше не игнорировать уведомления от этого пользователя";
+
+"Untitled" = "Без названия";
+
+"User has not provided a profile description." = "Пользователь не предоставил описания профиля.";
+
+"Very bad" = "Очень плохо";
+
+"Very good" = "Очень хорошо";
+
+"Video Issues" = "Проблемы с видео";
+
+"Video Quality" = "Качество видео";
+
+"Video will resume if signal improves" = "Видео запустится, когда сигнал улучшится";
+
+"View Broadcast Actions (accessibility label)" = "Посмотреть действия с трансляцией";
+
+"View Participants (accessibility label)" = "Посмотреть участников";
+
+"View Profile" = "Посмотреть профиль";
+
+"View Stats" = "Статистика";
+
+"Viewers can give you Super Hearts.\n<link>Learn more.</link>" = "Зрители могут дарить вам суперсердечки.\n•|•Подробнее.•|•";
+
+"Viewers cannot give you Super Hearts.\n<link>Learn more.</link>" = "Зрители не могут дарить вам суперсердечки.\n•|•Подробнее.•|•";
+
+"Violence (Report Option)" = "Насилие";
+
+"Waiting for other responses..." = "Ждем других откликов...";
+
+"Waiting for you to <bold>login</bold>." = "Сперва необходимо •|•войти•|•.";
+
+"Watch %1$@'s broadcast: %2$@" = "Посмотрите трансляцию %1$@: %2$@";
+
+"Watch %@'s broadcast." = "Посмотрите трансляцию %@.";
+
+"Watch LIVE" = "Смотреть •|•ПРЯМОЙ ЭФИР•|•";
+
+"Watch Live" = "Смотреть прямой эфир";
+
+"Watch Replay" = "Смотреть повтор";
+
+"Watch Stream (User Activity)" = "Смотреть поток";
+
+"Watch on #Periscope" = "Смотрите в #Periscope";
+
+"Watch on #Periscope: %@" = "Смотрите в #Periscope: %@";
+
+"Watch what happened at %1$@ in %2$@'s broadcast." = "Посмотрите, что произошло в трансляции %2$@ на отметке %1$@.";
+
+"Watch what happened at %1$@ in %2$@'s broadcast: %3$@" = "Посмотрите, что произошло в трансляции %2$@ на отметке %1$@: %3$@";
+
+"We encountered an error deleting your broadcast. Please try again." = "При удалении трансляции произошла ошибка. Попробуйте еще раз.";
+
+"We encountered an error updating your gift settings. Please try again." = "При изменении настроек подарков произошла ошибка. Попробуйте еще раз.";
+
+"We have received your report. Thank you for helping keep the community safe! (Report Broadcast Confirmation Modal)" = "Мы получили вашу жалобу. Спасибо, что помогаете сделать сообщество безопаснее!";
+
+"We're sorry, there was an error starting your broadcast. Please try starting it again." = "К сожалению, при запуске трансляции произошла ошибка. Попробуйте запустить ее еще раз.";
+
+"Welcome <bold>%@</bold>" = "Добро пожаловать, •|•%@•|•";
+
+"We’ve let your followers know that you joined as a guest (Chat Prompt)" = "Мы сообщили вашим читателям о том, что вы подключились в качестве гостя";
+
+"What are you seeing now?" = "Что вы видите сейчас?";
+
+"What do you want to talk about?" = "О чем вы хотите поговорить?";
+
+"What went well?" = "Что вам понравилось?";
+
+"When someone follows them, they'll be listed here." = "Когда они появятся, их список будет отображаться здесь.";
+
+"When someone follows you, they'll be listed here." = "Когда они появятся, их список будет отображаться здесь.";
+
+"When they do, it'll show up here." = "Когда это произойдет, они появятся здесь.";
+
+"When they do, they'll be listed here." = "Когда этот пользователь начнет читать других, их список будет отображаться здесь.";
+
+"When you do, it'll show up here" = "Когда вы это сделаете, они появятся здесь.";
+
+"When you do, they'll be listed here." = "Когда вы начнете читать других пользователей, их список будет отображаться здесь.";
+
+"Yes (Copyright Violation)" = "Да";
+
+"You already have a linked Twitter account. Please use this in the future to broadcast from Twitter" = "Вы уже установили связь с учетной записью Твиттера. Используйте ее в дальнейшем, чтобы вести трансляции в Твиттере.";
+
+"You are now" = "Сейчас идет";
+
+"You aren't following anyone yet" = "Вы пока никого не читаете";
+
+"You aren't following anyone." = "Вы никого не читаете.";
+
+"You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests. (Offensive Report Modal)" = "Вы можете внести в черный список пользователя, чьи трансляции не хотите видеть. Однако вы и в дальнейшем будете видеть пользователей, внесенных в черный список, когда они участвуют в качестве гостей.";
+
+"You can block a user whose broadcasts you no longer want to see. (Offensive Report Modal)" = "Вы можете внести в черный список пользователя, чьи трансляции больше не хотите смотреть.";
+
+"You can give •|•%@•|• of these" = "Вы можете подарить •|•%@•|• из них";
+
+"You can't broadcast right now (Copyright Violation)" = "В данный момент вы не можете вести трансляцию";
+
+"You can't watch a broadcast while you're still broadcasting." = "Вы не можете смотреть трансляции, пока ведете свою трансляцию.";
+
+"You can’t watch this because it included a copyrighted work by {Full Name}. Learn more (Copyright Violation)" = "Невозможно просмотреть данный материал, так как он содержит работы %@, защищенные авторским правом. •|•Подробнее•|•";
+
+"You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster." = "Вы получаете звезды, когда фанаты дарят вам •|•суперсердечки•|•. Станьте суперведущим и обменивайте свои звезды на деньги.";
+
+"You didn't vote... <link>Learn about Moderation</link>" = "Вы не проголосовали... •|•Узнайте подроблнее о модерировании•|•";
+
+"You don't have any followers yet" = "У вас пока нет читателей";
+
+"You earn stars from Super Hearts" = "Вы заработали звезды за суперсердечки";
+
+"You haven't broadcasted yet" = "Вы пока не проводили трансляций";
+
+"You were <bold>blocked</bold> by the broadcaster" = "Вы были •|•добавлены в черный список•|• ведущим трансляции";
+
+"You will lose any unsaved changes. Are you sure you want to leave this view?" = "Все несохраненные изменения будут потеряны. Выйти?";
+
+"You will lose the stars you received" = "Вы потеряете звезды, которые получили за эту трансляцию";
+
+"You're Waiting to Join (Guest Calling Menu)" = "Ожидание подключения";
+
+"Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv" = "Ваша учетная запись отключена из-за запроса об удалении контента, защищенного авторским правом. Обратитесь по адресу help@pscp.tv";
+
+"Your account has been disabled. Please contact help@pscp.tv" = "Ваша учетная запись отключена. Обратитесь по адресу help@pscp.tv";
+
+"Your broadcast has been disabled (Copyright Violation)" = "Ваша трансляция отключена.";
+
+"Your broadcast matches a copyrighted work (Copyright Violation)" = "Ваша трансляция совпадает с защищенной авторским правом работой";
+
+"Your broadcast's thumbnail has been updated to the current screen." = "Ваша миниатюра трансляции была успешно обновлена.";
+
+"Your dispute claim was submitted (Copyright Violation)" = "Ответное заявление на оспаривание вашего требования отправлено";
+
+"Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•." = "Ваши отзывы помогают нам улучшать сервис для проведения трансляций. Вы можете в любое время отказаться от участия в будущих опросах. Для этого перейдите в раздел •|•Настройки•|•.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Ваше сообщение •|•\"%@\"•|• было скрыто как ОСКОРБИТЕЛЬНОЕ. Комментирование отключено для всех трансляций.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast." = "Ваше сообщение •|•\"%@\"•|• было скрыто как ОСКОРБИТЕЛЬНОЕ. Комментирование этой трансляции отключено.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Ваше сообщение •|•\"%@\"•|• было скрыто как ОСКОРБИТЕЛЬНОЕ. Комментирование всех трансляций временно ограничено.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast." = "Ваше сообщение •|•\"%@\"•|• было скрыто как ОСКОРБИТЕЛЬНОЕ. Комментирование этой трансляции временно отключено.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts." = "Ваше сообщение •|•\"%@\"•|• было скрыто как СПАМ. Комментирование отключено для всех трансляций.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast." = "Ваше сообщение •|•\"%@\"•|• было скрыто как СПАМ. Комментирование этой трансляции отключено.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Ваше сообщение •|•\"%@\"•|• было скрыто как СПАМ. Комментирование всех трансляций временно ограничено.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast." = "Ваше сообщение •|•\"%@\"•|• было скрыто как СПАМ. Комментирование этой трансляции временно отключено.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts." = "Ваше сообщение •|•\"%@\"•|• было скрыто. Комментирование отключено для всех трансляций.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast." = "Ваше сообщение •|•\"%@\"•|• было скрыто. Комментирование этой трансляции отключено.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts." = "Ваше сообщение •|•\"%@\"•|• было скрыто. Комментирование всех трансляций временно ограничено.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast." = "Ваше сообщение •|•\"%@\"•|• было скрыто. Комментирование этой трансляции временно отключено.";
+
+"Your settings are about to automatically delete this broadcast." = "Согласно вашим настройкам, эта трансляция будет автоматически удалена.";
+
+"Your settings will automatically delete this broadcast in %@" = "Согласно вашим настройкам, эта трансляция будет автоматически удалена через %@";
+
+"Your video will be available for replay after the event has ended. (Copyright Violation)" = "Видео будет доступно для просмотра после завершения мероприятия.";
+
+"Your viewers have been invited to join (Local Chat Prompt)" = "Вашим зрителям было отправлено приглашение к участию";
+
+"You’re enrolled in automatic monthly cash outs. (Stars Profile)" = "Вы подписаны на автоматический ежемесячный вывод средств.";
+
+"You’ve blocked @username. Tap to report and share more details. (Should Report Guest User Chat Prompt)" = "Вы внесли пользователя •|•@%@•|• в черный список. Нажмите, чтобы отправить жалобу и предоставить дополнительные сведения.";
+
+"[placeholder]" = "[placeholder]";
+
+"beta-feedback@pscp.tv" = "beta-feedback@pscp.tv";
+
+"coin bonus" = "Плюс %i %%";
+
+"coin received (accessibility label)" = "монета получена";
+
+"coins received (accessibility label)" = "монет(ы) получено";
+
+"contact@pscp.tv" = "contact@pscp.tv";
+
+"current audience" = "текущая аудитория";
+
+"failed" = "ошибка";
+
+"following (accessibility hint)" = "Нажмите дважды, чтобы перестать читать";
+
+"following (accessibility label)" = "Читает";
+
+"for fine control" = "для контроля качества";
+
+"heart received (accessibility label)" = "сердечко получено";
+
+"hearts received (accessibility label)" = "сердечек получено";
+
+"https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119" = "https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119";
+
+"https://pscp.tv/i/super/terms" = "https://pscp.tv/i/super/terms";
+
+"iPad doesn’t support broadcasting from Split View." = "iPad не поддерживает трансляцию с разделенного экрана.";
+
+"invited" = "приглашенные";
+
+"invited followers" = "приглашенные читатели";
+
+"it's their first day on Periscope" = "Это его (ее) первый день в Periscope";
+
+"not following (accessibility hint)" = "Нажмите дважды, чтобы начать читать";
+
+"not following (accessibility label)" = "Не читает";
+
+"people" = "пользователи";
+
+"per Broadcast Minute (CELL)" = "на минуту трансляции";
+
+"per Viewer (CELL)" = "на зрителя";
+
+"person" = "человек";
+
+"poor" = "плохое";
+
+"posting publicly on Periscope" = "общедоступная публикация в Periscope";
+
+"posting publicly on Twitter" = "общедоступная публикация в Твиттере";
+
+"selected Amplify Program" = "выбранная программа Amplify";
+
+"star received (accessibility label)" = "звезда получена";
+
+"stars received (accessibility label)" = "звезд(ы) получено";
+
+"tap to change Amplify Program" = "Нажмите, чтобы изменить программу Amplify";
+
+"tap to change Amplify program" = "Нажмите, чтобы изменить программу Amplify";
+
+"tap to change audience" = "нажмите, чтобы изменить настройки аудитории";
+
+"to seek" = "искать";
+
+"you hung up (Guest Caller Hung Up Chat Message Event)" = "вы повесили трубку";
+
+"you were added (New Guest Caller Chat Message Event)" = "вас добавили";
+
+"you were removed (Guest Caller Was Removed Chat Message Event)" = "вас удалили";
+
+"•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•." = "•|•%1$@•|• изменил(а) свою трансляцию. Теперь она начнется в •|•%2$@•|•.";
+
+"•|•%@•|• are guests (Broadcast Guests Social Proof)" = "•|•%@•|• гости";
+
+"•|•%@•|• invited you (Broadcast Guest Invitation Social Proof)" = "Вас приглашает •|•%@•|•";
+
+"•|•%@•|• is a guest (Broadcast Guest Social Proof)" = "•|•%@•|• гость";
+
+"•|•%@•|• shared (Broadcast Share Social Proof)" = "•|•%@•|• поделился(-лась)";
+
+"•|•%@•|• was a guest (Broadcast Guest Social Proof)" = "•|•%@•|• был(-а) гостем";
+
+"•|•%@•|• were guests (Broadcast Guests Social Proof)" = "•|•%@•|• были гостями";
+
+"•|•%@•|•\nBroadcasts" = "•|•%@•|•\nТрансляции";
+
+"•|•%@•|•\nFollowers" = "•|•%@•|•\nЧитатели";
+
+"•|•%@•|•\nFollowing" = "•|•%@•|•\nВ читаемых";
+
+"•|•@%1$@•|• was muted by •|•%2$@•|•" = "Модератор •|•@%2$@•|• лишил пользователя •|•@%1$@•|• возможности комментировать";
+
+"•|•@%1$@•|• was unmuted by •|•%2$@•|•" = "Модератор •|•@%2$@•|• вернул пользователю •|•@%1$@•|• возможность комментировать";
+
+"•|•@%@•|• Retweeted on" = "•|•@%@•|• Ретвитнуто в";
+
+"•|•@%@•|• shared on" = "•|•@%@•|• поделился(ась) в";
+
+"•|•Muted•|• by %@" = "•|•Заблокировано•|• модератором %@";
+
+"•|•Not enough coins.•|• Get more coins to keep giving Super Hearts." = "•|•Недостаточно монет.•|• Чтобы продолжать дарить суперсердечки, вам нужно больше монет.";
+
+"•|•Press & Hold•|• the video to skip ahead" = "•|•Нажмите и удерживайте•|• видео, чтобы промотать вперед";
+
+"•|•Press & Hold•|• to skip back or ahead." = "•|•Нажмите и удерживайте•|•, чтобы промотать назад или вперед.";
+
+"•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one." = "•|•Вы можете дарить суперсердечки.•|• Нажмите трансляцию, чтобы подарить одно из них.";
+
+"•|•Support %@•|• by giving Super Hearts!" = "•|•Поддержите %@•|• — подарите суперсердечки!";
+
+"•|•Unmuted•|• by %@" = "•|•Разблокировано•|• модератором %@";
+
+"•|•You need more coins•|• to give Super Hearts" = "•|•Вам нужно больше монет,•|• чтобы дарить суперсердечки";
+
+"•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast." = "•|•Вас лишил возможности комментировать•|• один из модераторов %1$@ из-за вашего комментария •|•«%2$@»•|•. Вы больше не можете общаться в чате этой трансляции.";
+
+"•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast." = "•|•Вам вернул возможность комментировать•|• один из модераторов %@. Теперь вы снова можете общаться в чате этой трансляции.";
+

@@ -1,0 +1,1448 @@
+"%@ New Messages" = "Broj novih poruka: %@";
+
+"%@ Viewer (Broadcast Info)" = "%@ gledatelj";
+
+"%@ Viewers (Broadcast Info)" = "Broj gledatelja: %@";
+
+"%@ ago" = "Prije %@";
+
+"%@ doesn't have any followers yet" = "Korisnika/cu %@ još nitko ne prati";
+
+"%@ has not broadcasted yet" = "%@ još nije prenosio/la uživo";
+
+"%@ is LIVE (broadcast title)" = "%@ prenosi UŽIVO";
+
+"%@ isn't following anyone yet" = "%@ još nikoga ne prati";
+
+"%@ joined" = "se uključio/la";
+
+"%@ wants you to moderate comments. Tap on comments to mute them." = "%@ želi da moderirate komentare. Dodirnite komentare da biste ih onemogućili.";
+
+"%@ wants you to moderate comments. Tap or swipe left on comments to mute them." = "%@ od vas traži da moderirate komentare. Da biste onemogućili komentare, dodirnite ih ili ih povucite ulijevo.";
+
+"%@ was live  (broadcast title)" = "%@ prenosio/la je uživo";
+
+"%d More Live Viewers" = "dodatni(h) gledatelj(a) uživo";
+
+"%d More Replay Viewers" = "dodatni(h) gledatelj(a) snimke";
+
+"%d More Viewers" = "dodatni(h) gledatelj(a)";
+
+"%ldd (days)" = "%ld dan(a)";
+
+"%ldh (hours)" = "%ld h";
+
+"%ldm (minutes)" = "%ld min";
+
+"%lds (seconds)" = "%ld s";
+
+"%ldy (years)" = "%ld god.";
+
+"(EDITED)" = "(UREĐIVANO)";
+
+"(Skip to) LIVE" = "UŽIVO";
+
+"1 More Live Viewer" = "dodatni gledatelj uživo";
+
+"1 More Replay Viewier" = "dodatni gledatelj snimke";
+
+"1 More Viewer" = "dodatni gledatelj";
+
+"1 New Message" = "1 nova poruka";
+
+"@username \"Tap to cancel\" (Add Guest Caller Chat Message Event)" = "Dodirnite da biste poništili";
+
+"@username \"canceled\" (Add Guest Caller Chat Message Event)" = "otkazao/la je zahtjev";
+
+"@username \"has asked to join\" (Add Guest Caller Chat Message Event)" = "zatražio/la je da se pridruži";
+
+"@username \"hung up\" (Guest Caller Hung Up Chat Message Event)" = "•|•@%@•|• je poklopio/la";
+
+"@username \"was added\" (Add Guest Caller Chat Message Event)" = "je dodan/a";
+
+"@username \"was added\" (New Guest Caller Chat Message Event)" = "•|•@%@•|• je dodan/a";
+
+"@username \"was removed\" (Add Guest Caller Chat Message Event)" = "je uklonjen/a";
+
+"@username \"was removed\" (Guest Caller Was Removed Chat Message Event)" = "•|•@%@•|• je uklonjen/a";
+
+"A Periscope account is required to edit a broadcast." = "Da biste uređivali prijenos uživo, potreban vam je račun za Periscope.";
+
+"A Periscope account is required to share a broadcast." = "Da biste podijelili prijenos, potreban je račun za Periscope.";
+
+"A broadcast with a star balance was deleted. (History)" = "Izbrisan je prijenos uživo sa stanjem zvjezdica.";
+
+"ACTIVE CONTRIBUTORS" = "AKTIVNI SUDIONICI";
+
+"Abuse" = "Neprihvatljivo ponašanje";
+
+"Abusive Behavior (Report Option)" = "Zlonamjerno ponašanje";
+
+"Accept Caller as Guest" = "Prihvatite pozivatelja kao gosta";
+
+"Accept Super Hearts (accessibility hint)" = "Dva puta dodirnite da biste prihvatili supersrca za ovaj prijenos uživo.";
+
+"Accept Super Hearts (accessibility label)" = "Primajte supersrca";
+
+"Accept as Guest" = "Prihvati kao gosta";
+
+"Actions (accessibility label)" = "Akcije";
+
+"Add Guest (Manage Guest Call-Ins Action Sheet)" = "Dodaj gosta";
+
+"Add guest \n viewer will become a guest broadcaster" = "Dodaj gosta•|•\ngledatelj će postati gostujući korisnik koji prenosi uživo•|•";
+
+"All-Time Stars (Stars Profile)" = "Ukupan broj zvjezdica";
+
+"Allow Guests (Tooltip Selected)" = "Omogući goste";
+
+"Allow guests / Don't allow guests (accessibility label)" = "Dopusti goste / nemoj dopustiti goste";
+
+"Anything else you'd like to share?" = "Ima li još nešto što biste željeli podijeliti?";
+
+"Are you sure you want to send this message?" = "Jeste li sigurni da želite poslati ovu poruku?";
+
+"Are you sure you want to unblock?" = "Jeste li sigurni da želite deblokirati korisnika?";
+
+"Are you sure? (title)" = "Jeste li sigurni?";
+
+"Ask for Follow (action sheet)" = "Zatražite praćenje";
+
+"Ask for Share (action sheet)" = "Zatražite dijeljenje";
+
+"Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Zatražite uključenje u taj prijenos uživo kao gost. Svi će vas moći čuti, no to u svakom trenutku možete prekinuti.";
+
+"Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Zatražite uključenje u taj prijenos uživo kao gost. Svi će vas moći vidjeti i čuti, no to u svakom trenutku možete prekinuti.";
+
+"Asking to join... Broadcaster must accept you (Local Chat Prompt)" = "Šaljete zahtjev za uključenje...\n•|•%@•|• mora vas prihvatiti";
+
+"Audio Only (accessibility label)" = "Prijenos uživo samo sa zvukom";
+
+"Audio from: Headphones" = "Izvor zvuka: slušalice";
+
+"Audio from: Phone" = "Izvor zvuka: mobitel";
+
+"Back" = "Natrag";
+
+"Back (action sheet)" = "Natrag";
+
+"Back Camera (accessibility hint)" = "Dvaput dodirnite da biste se prebacili na prednju kameru";
+
+"Back Camera (accessiblity value)" = "Stražnja kamera";
+
+"Back to %@" = "Povratak u %@";
+
+"Back to Hearts" = "Natrag na srca";
+
+"Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. Learn more (Copyright violation)" = "Budući da ste nedavno imali više prijenosa koji su sadržavali radove zaštićene autorskim pravima, privremeno nećete moći prenositi uživo.•|•Saznajte više•|•";
+
+"Betascope App Feedback" = "Povratne informacije za aplikaciju Betascope";
+
+"Billion Decimal Abbreviation" = "%.1fB";
+
+"Billion Integer Abbreviation" = "%dB";
+
+"Block @%@" = "Blokiraj @%@";
+
+"Block @%@ (Offensive Report Modal)" = "Blokiraj korisnika/cu @%@";
+
+"Block And Hang Up (Manage Guest Call-Ins Action Sheet)" = "Blokiraj i poklopi";
+
+"Block User" = "Blokiraj korisnika";
+
+"Block Users (%@)" = "Blokiraj korisnike (%@)";
+
+"Block {Username}" = "Blokiraj korisnika/cu @%@";
+
+"Blocked (user modal)" = "Blokiran";
+
+"Blocked by you" = "Blokirali ste";
+
+"Blocking will dismiss the broadcast and not report to Periscope. (Offensive Report Modal)" = "Blokiranjem ćete prekinuti prijenos uživo, no nećete ga prijaviti aplikaciji Periscope.";
+
+"Broadcast Actions (accessibility hint)" = "Otvara izbornik mogućnosti prijenosa uživo.";
+
+"Broadcast Details (action sheet)" = "Detaljnije o prijenosu uživo";
+
+"Broadcast Super Heart Auto-Deletion Warning" = "•|•Taj se prijenos uživo neće automatski izbrisati nakon 24 sata•|• da ne biste izgubili zvjezdice koje ste možda dobili na temelju supersrca.\n\nAko želite, prijenos uživo po završetku možete sakriti te tako njegovu vidljivost ograničiti ostalim korisnicima.";
+
+"Broadcast Title" = "Naslov prijenosa uživo";
+
+"Broadcast about to expire (Cell)" = "Prijenos uživo uskoro će isteći";
+
+"Broadcast creation" = "Stvaranje prijenosa uživo";
+
+"Broadcaster Has Disabled Call-Ins (Generic Error Message)" = "Korisnik koji prenosi uživo trenutno je onemogućio popis korisnika koji se uključuju pozivanjem.";
+
+"Broadcaster blocked •|•@%@•|•" = "Korisnik koji prenosi uživo blokirao je korisnika/cu •|•@%@•|•";
+
+"Broadcaster doesn’t accept Super Hearts" = "Korisnik koji prenosi uživo ne prima supersrca";
+
+"Broadcaster has assigned chat moderators." = "Korisnik koji prenosi uživo imenovao je moderatore čavrljanja.";
+
+"Broadcaster has to accept your request before you can join as a guest. (Guest Call-In Instructions Subtitle)" = "Da biste se mogli uključiti kao gost, %@ mora prihvatiti vaš zahtjev.";
+
+"Broadcaster is allowing guests to join (Local Chat Prompt)" = "•|•%@•|• je gostima omogućio da se uključe";
+
+"Broadcaster is not allowing guests to join (Local Chat Prompt)" = "•|•%@•|• nije omogućio gostima da se uključe";
+
+"Broadcasters earn stars from Super Hearts" = "Korisnici koji prenose uživo dobivaju zvjezdice prema broju supersrca.";
+
+"Bummer (ReplayKit)" = "U redu";
+
+"CONCATENTATION_ACCESSIBILITY_STRING" = ".";
+
+"CONTRIBUTORS WHO HAVE LEFT" = "SUDIONICI KOJI SU IZAŠLI";
+
+"COULDN'T LOAD REPLAY VIEWERS" = "UČITAVANJE GLEDATELJA SNIMKE NIJE USPJELO";
+
+"COULDN'T LOAD VIEWERS" = "UČITAVANJE GLEDATELJA NIJE USPJELO";
+
+"Camera Selection (accessibility label)" = "Odabir kamere";
+
+"Cancel" = "Odustani";
+
+"Cancel (action sheet)" = "Odustani";
+
+"Cancel Call In Button: \"Cancel Request to Join as a Guest\"" = "Poništi zahtjev za uključenje u ulozi gosta";
+
+"Cancel Guest Call-In Instructions Title: \"Waiting to join as a guest...\"" = "Čekanje na pridruživanje u ulozi gosta...";
+
+"Cannot be undone" = "Radnja se ne može poništiti";
+
+"Capture Thumbnail (action sheet)" = "Snimi minijaturu";
+
+"Cash Outs (Stars Profile)" = "Isplate";
+
+"Cash out your stars, and continue using live video on Twitter" = "Unovčite zvjezdice i nastavite upotrebljavati videozapise uživo na Twitteru";
+
+"Change Amplify Program" = "Promijeni program za pojačavanje";
+
+"Change Expiration (Cell)" = "Promjena datuma isteka";
+
+"Change Expiration Subtitle (Cell)" = "Automatsko brisanje za %@";
+
+"Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program." = "Ako program za pojačavanje promijenite u •|•%@•|•, vaš će se stari Tweet izbrisati, a objavit će se novi, s novim programom.";
+
+"Chatroom too full..." = "U sobi za čavrljanje previše je korisnika...";
+
+"Child Safety (Report Option)" = "Ugrožena sigurnost djeteta";
+
+"Choose guests to add. You can remove them at any time. (Manage Guest Callers Page Subtitle)" = "Odaberite goste koje ćete dodati. U svakom ih trenutku možete ukloniti.";
+
+"Close (accessibility label)" = "Zatvori";
+
+"Comment Tip Option 1" = "Napišite komentar da bi •|•%@•|• znao/la da ste ovdje!";
+
+"Comment Tip Option 2" = "Obavijestite korisnika/cu •|•%@•|• odakle gledate prijenos!";
+
+"Comment Tip Option 3" = "Recite „bok”  da biste čavrljali s korisnikom/com •|•%@•|• i ostalim gledateljima.";
+
+"Commenting is OFF" = "Komentiranje je isključeno";
+
+"Comments Received (CELL)" = "Primljeni komentari";
+
+"Comments Received Unavailable (CELL)" = "Nije primjenjivo";
+
+"Compose Direct Message (Accessibility Label)" = "Sastavi privatnu poruku";
+
+"Compose New Tweet (Accessibility Label)" = "Sastavi novi Tweet";
+
+"Confirm Call In Button: \"OK, Ask to Join\"" = "U redu, pošalji zahtjev za uključenje";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile and audio will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and hear you. This may include people you’ve blocked on either app.\"" = "•\tVaš profil i zvuk postat će dio ovog prijenosa uživo te se neće moći ukloniti, osim ako %1$@ ne izbriše reprodukciju.\n\n•\tOsobe koje ste blokirali vidjet će da ste se uključili u prijenos uživo korisnika/ce %1$@ te će vas moći čuti. To može obuhvaćati osobe koje ste blokirali u aplikacijama.";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile, audio and video will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and see you. This may include people you’ve blocked on either app.\"" = "•\tVaš profil, zvuk i slika postat će dio ovog prijenosa uživo te se neće moći ukloniti, osim ako %1$@ ne izbriše reprodukciju.\n\n•\tOsobe koje ste blokirali vidjet će da ste se uključili u prijenos uživo korisnika/ce %1$@ te će vas moći vidjeti. To može obuhvaćati osobe koje ste blokirali u aplikacijama.";
+
+"Confirm Guest Call-In Instructions Title: \"Good to know...\"" = "Dobro je znati...";
+
+"Connecting to chatroom" = "Povezivanje sa sobom za čavrljanje";
+
+"Connection Error" = "Pogreška veze";
+
+"Connection too" = "Veza je";
+
+"Contact Us (action sheet)" = "Javite nam se";
+
+"Contributors" = "Sudionici";
+
+"Copy Profile URL" = "Kopiraj URL profila";
+
+"Current Star Balance (Stars Profile)" = "Trenutno stanje zvjezdica";
+
+"Current Time (Accessibility Label)" = "Trenutno vrijeme";
+
+"Dear Periscope Team," = "Dragi članovi tima za Periscope,";
+
+"Delete Broadcast" = "Izbriši prijenos uživo";
+
+"Delete Broadcast (action sheet)" = "Izbriši prijenos uživo";
+
+"Delete Broadcast Now" = "Odmah izbriši prijenos uživo";
+
+"Describe the issue (Report Option)" = "Opišite problem";
+
+"Describe the issue with %@ (Report Option)" = "Opišite problem koji imate s korisnikom/korisnicom @%@";
+
+"Describe the issue with @%1$@ at %2$@ (Report Option)" = "Opišite problem koji imate s korisnikom/korisnicom @%1$@ u %2$@";
+
+"Describe the issue you are seeing at %@ (Report Option)" = "Opišite problem koji vidite u %@";
+
+"Direct Message (Compose)" = "Privatna poruka";
+
+"Disable Audio Only Broadcast" = "Onemogući prijenos uživo samo sa zvukom";
+
+"Disabled for all broadcasts" = "Onemogućeno za sve prijenose uživo";
+
+"Disabled for this broadcast" = "Onemogućeno za ovaj prijenos uživo";
+
+"Discard Changes" = "Odbaci promjene";
+
+"Display Photo (action sheet)" = "Prikaži fotografiju";
+
+"Dispute Claim (Copyright Violation)" = "Zahtjev za pokretanje spora";
+
+"Do not notify my followers (Guest Call-In Notify Followers Option)" = "Nemoj obavijestiti moje pratitelje";
+
+"Don't Allow Guests (Manage Guest Broadcasters Call-Ins List)" = "Nemoj omogućiti goste";
+
+"Don't Allow Guests (Tooltip)" = "Nemoj omogućiti goste";
+
+"Don't Auto-Delete" = "Nemoj automatski izbrisati";
+
+"Don't Send (Blocked Modal)" = "Nemoj poslati";
+
+"Done" = "Gotovo";
+
+"Done (action sheet)" = "Gotovo";
+
+"Double Tap anywhere to Exit Theater Mode (accessibility label)" = "Dvaput dodirnite da biste isključili filmski način rada.";
+
+"Double Tap to <bold>Flip Camera</bold>" = "Dvaput dodirnite da biste •|•preokrenuli kameru•|•";
+
+"Double tap to allow or disallow guests (accessibility hint)" = "Dvaput dodirnite da biste dopustili ili uklonili goste";
+
+"Duration (CELL)" = "Trajanje";
+
+"END (graph)" = "KRAJ";
+
+"ENDED" = "ZAVRŠENO";
+
+"Edit Broadcast" = "Uređivanje prijenosa uživo";
+
+"Edit Broadcast (action sheet)" = "Uređivanje prijenosa uživo";
+
+"Edit Broadcast Unavailable" = "Uređivanje prijenosa uživo nije dostupno";
+
+"Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured." = "Uređivanjem prijenosa uživo promijenit ćete način na koji se prikazuje drugim korisnicima. Te promjene neće utjecati na ranije tweetove ni obavijesti.";
+
+"Enable Audio Only Broadcast" = "Omogući prijenos uživo samo sa zvukom";
+
+"Enable Email" = "Omogućite e-poštu";
+
+"Enable camera (Permissions Screen)" = "Omogući kameru";
+
+"Enable microphone (Permissions Screen)" = "Omogući mikrofon";
+
+"Enable/Disable Audio Only Broadcast (accessibility hint)" = "Dvaput dodirnite da biste omogućili ili onemogućili prijenos samo sa zvukom.";
+
+"Enable/Disable Audio Only Broadcast (accessibility label)" = "Omogući/onemogući prijenos uživo samo sa zvukom";
+
+"Ended" = "Završeno";
+
+"Engaging Chat" = "Zanimljivo čavrljanje";
+
+"Error (ReplayKit)" = "Pogreška";
+
+"Error accessing audio from microphone." = "Pogreška prilikom pristupanja zvuku s mikrofona.";
+
+"Error accessing history." = "Pogreška prilikom pristupanja povijesti.";
+
+"Error saving video to Camera Roll" = "Pogreška prilikom spremanja videozapisa u album kamere";
+
+"Error setting Amplify Program (title)" = "Pogreška prilikom postavljanja programa za pojačavanje";
+
+"Every heart you send will be a Super Heart" = "Svako srce koje pošaljete postat će supersrce";
+
+"Everybody can chat" = "Svi mogu čavrljati";
+
+"FEATURED" = "ISTAKNUTO";
+
+"FOLLOWERS (user profile modal)" = "PRATE KORISNIKA";
+
+"FOLLOWING (user profile modal)" = "KORISNIK PRATI";
+
+"Final List separator" = "i";
+
+"Fine Control" = "Precizna kontrola";
+
+"First Super Heart" = "Prvo supersrce";
+
+"Flip Camera (action sheet)" = "Preokreni kameru";
+
+"Follow (user modal)" = "Prati";
+
+"Follow request sent. (chat message)" = "Zahtjev za praćenje je poslan.";
+
+"Follow the broadcaster to catch their next broadcast." = "Počnite pratite korisnika koji prenosi uživo da ne biste propustili njegov sljedeći prijenos uživo.";
+
+"Follow •|•%@•|• to catch their next broadcast" = "Počnite pratiti korisnika/cu •|•%@•|• da ne biste propustili sljedeći prijenos uživo";
+
+"Followed by %1$@ and %2$@" = "Prate %1$@ i %2$@";
+
+"Followed by %1$@, %2$@, %3$@ and %4$i others" = "Prate %1$@, %2$@, %3$@ i još njih %4$i";
+
+"Followed by %1$@, %2$@, and %3$@" = "Prate %1$@, %2$@ i %3$@";
+
+"Followed by %@" = "Prati %@";
+
+"Followers button (accessibility hint)" = "Dvaput dodirnite da biste vidjeli osobe koje vas prate.";
+
+"Following (user modal)" = "Pratite";
+
+"Following button (accessibility hint)" = "Dvaput dodirnite da biste pogledali korisnike koje pratite.";
+
+"Front Camera (accessibility hint)" = "Dvaput dodirnite da biste se prebacili na stražnju kameru";
+
+"Front Camera (accessiblity value)" = "Prednja kamera";
+
+"Get Coins" = "Nabavite novčiće";
+
+"Give Super Hearts (menu button)" = "Pošalji supersrca";
+
+"Go LIVE" = "Emitiraj UŽIVO";
+
+"Go LIVE to %@" = "Prijenos UŽIVO u grupi %@";
+
+"Go LIVE together (Guest Broadcasting Modal Title)" = "Emitirajte UŽIVO zajedno";
+
+"Go to Twitter Profile" = "Idi na Twitter profil";
+
+"Good Viewer Count" = "Dobar broj gledatelja";
+
+"Got It (Button Title)" = "Razumijem";
+
+"Got it (Copyright Violation)" = "Shvaćam";
+
+"Got it (ReplayKit)" = "Pročitao/la sam!";
+
+"Got it!" = "Pročitao/la sam!";
+
+"Guest Action Sheet Report Item" = "Prijavi";
+
+"Guest Call In Choice Label: \"Camera and microphone\"" = "Kamera i mikrofon";
+
+"Guest Call In Choice Label: \"Microphone only\"" = "Samo mikrofon";
+
+"Guest Call-In Audio Only Permissions Subtitle beneath Title: \"Enable microphone to become a guest\"" = "Da biste se uključili kao gost, omogućite mikrofon";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request. Learn more\"" = "Uključit ćete se kada korisnik koji prenosi uživo prihvati vaš zahtjev. •|•Saznajte više•|•";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request.\"" = "Uključit ćete se kada korisnik koji prenosi uživo prihvati vaš zahtjev.";
+
+"Guest Call-In Instructions Title: \"Ask to Join\"" = "Pošalji zahtjev za uključenje";
+
+"Guest Call-In Instructions Title: \"Join as a guest\"" = "Uključite se kao gost";
+
+"Guest Call-In Permissions Subtitle beneath Title: \"Enable camera and microphone to become a guest\"" = "Da biste se uključili kao gost, omogućite kameru i mikrofon";
+
+"Guest Call-In Permissions Title: \"Guest setup\"" = "Postavljanje gosta";
+
+"Guest List (Manage Guest Callers Page Title)" = "Popis gostiju";
+
+"Guest Was Banned Chat Message (Periscope)" = "Korisnik/ca •|•@%@•|• je prijavljen/a, Periscope je to istražio te otkrio da je prekršio/la smjernice zajednice.";
+
+"Guest Was Banned Chat Message (Twitter)" = "Korisnik/ca •|•@%@•|•  je prijavljen/a, Twitter je to istražio te otkrio da je prekršio/la pravila Twittera.";
+
+"Guests Not Allowed (Manage Guest Broadcasters Call-Ins List)" = "Gosti nisu omogućeni";
+
+"Guests can now ask to join. Use this icon to add or remove guests at any time. (Guest Broadcasting Enabled Prompt)" = "Gosti sada mogu zatražiti da ih uključite. Pomoću ove ikone goste možete u svakom trenutku dodati i ukloniti.";
+
+"HEART" = "SRCE";
+
+"HEARTS" = "SRCA";
+
+"Half-Speed" = "Pola brzine";
+
+"Hang Up (Guest Calling Menu)" = "Poklopi";
+
+"Hang Up (Manage Guest Call-Ins Action Sheet)" = "Poklopi";
+
+"Hang Up Button Label: \"Hang Up\"" = "Poklopi";
+
+"Hang Up Subtitle (Audio Only): \"Stop sharing microphone\"" = "Prestanite dijeliti mikrofon";
+
+"Hang Up Subtitle (Camera + Microphone): \"Stop sharing camera and microphone\"" = "Prestanite dijeliti kameru i mikrofon";
+
+"Hang Up on Guest or Cancel Guest From Joining" = "Prekinite vezu ili gosta poništite tijekom uključivanja";
+
+"Hang up" = "Prekini vezu";
+
+"Harassment" = "Uznemiravanje";
+
+"Hateful Conduct (Report Option)" = "Ponašanje koje potiče mržnju";
+
+"Heart Sent (accessiblity announcement)" = "Srce je poslano";
+
+"Hearts & Chats off" = "Isključi srca i čavrljanja";
+
+"Hearts & Chats on" = "Uključi srca i čavrljanja";
+
+"Help us moderate this comment..." = "Pomognite nam moderirati ovaj komentar...";
+
+"Help us understand the problem.\nWhat issue with @%@ are you reporting?" = "Objasnite nam u čemu je problem. Kakav problem s računom @%@ prijavljujete?";
+
+"Hide Broadcast" = "Sakrij prijenos uživo";
+
+"Hide everything except video (action sheet)" = "Sakrij sve osim videozapisa";
+
+"History (profile view title)" = "Povijest";
+
+"History button (accessibility hint)" = "Dvaput dodirnite da biste pogledali nedavne prijenose uživo.";
+
+"How can we improve?" = "Što možemo poboljšati?";
+
+"How was your broadcasting experience?" = "Kako vam se svidio prijenos uživo?";
+
+"I'm Not Interested in @%@" = "Ne zanima me @%@";
+
+"If this broadcast depicts pornography or sexual acts, please tap below. (Report Sexual Content Modal)" = "Ako se u ovom prijenosu uživo pojavljuju pornografski prizori ili eksplicitni prizori seksa, dodirnite mogućnost u nastavku.";
+
+"If you believe that this broadcast places a child at risk, please tap below. (Report Child Safety Modal)" = "Ako vam se čini da taj prijenos uživo izlaže djecu opasnosti, dodirnite mogućnost u nastavku.";
+
+"If you believe this broadcast contains violence or someone is being physically threatened, please tap below. (Report Violence Modal)" = "Ako vam se čini da taj prijenos uživo sadrži nasilje ili prijetnje fizičkim nasiljem, dodirnite mogućnost u nastavku.";
+
+"If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Ako vjerujete da taj prijenos uživo raspiruje mržnju prema nekoj zaštićenoj kategoriji (npr. rasi, vjeroispovijesti, spolu, seksualnoj orijentaciji ili invalidnosti), dodirnite mogućnost u nastavku.";
+
+"If you believe this broadcast exposes private information, please tap below. (Report Private Information Modal)" = "Ako smatrate da se u tom prijenosu uživo otkrivaju osobni podaci, dodirnite mogućnost u nastavku.";
+
+"If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below. (Report Harassment Modal)" = "Ako smatrate da taj prijenos uznemirava, plaši ili zastrašivanjem nastoji ušutkati neku drugu osobu, dodirnite mogućnost u nastavku.";
+
+"If you believe this guest is contemplating or encouraging suicide or self harm, please tap below. (Report Self Harm Modal)" = "Ako vam se čini da taj gost razmišlja o samoubojstvu ili samoozljeđivanju ili ga čak potiče, dodirnite mogućnost u nastavku.";
+
+"If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Ako smatrate da taj gost raspiruje mržnju prema nekim zaštićenim kategorijama (npr. rasi, vjeroispovijesti, spolu, seksualnoj orijentaciji ili invalidnosti), dodirnite mogućnost u nastavku.";
+
+"If you believe this guest is exposing private information, please tap below. (Report Private Information Modal)" = "Ako smatrate da taj gost otkriva osobne podatke, dodirnite mogućnost u nastavku.";
+
+"If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below. (Report Harassment Modal)" = "Ako smatrate da taj gost uznemirava, plaši ili zastrašivanjem nastoji ušutkati neku drugu osobu, dodirnite mogućnost u nastavku.";
+
+"If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below. (Report Violence Modal)" = "Ako vam se čini da taj gost upućuje nasilne prijetnje ili prijetnje fizičkim nasiljem, dodirnite mogućnost u nastavku.";
+
+"If you believe this guest is sharing content that places a child at risk, please tap below. (Report Child Safety Modal)" = "Ako smatrate da taj gost dijeli sadržaj koji izlaže djecu opasnosti, dodirnite mogućnost u nastavku.";
+
+"If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below. (Report Sexual Content Modal)" = "Ako smatrate da taj gost dijeli nedoličan sadržaj seksualnog sadržaja, npr. pornografski sadržaj, dodirnite mogućnost u nastavku.";
+
+"If you believe this individual is contemplating suicide or self harm, please tap below. (Report Self Harm Modal)" = "Ako vam se čini da ta osoba razmišlja o samoubojstvu ili samoozljeđivanju, dodirnite mogućnost u nastavku.";
+
+"If you delete this broadcast, you will lose the stars that you received. This cannot be undone." = "Ako izbrišete prijenos uživo, izgubit ćete sve primljene zvjezdice. Tu radnju ne možete poništiti.";
+
+"Initializing video stream..." = "Pokretanje prijenosa videozapisa...";
+
+"Invite Guests (Manage Guest Broadcasters Call-Ins List)" = "Pozovi goste";
+
+"Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Pozovite gledatelje da se kao gosti uključe u vaše prijenose uživo. Svi će ih čuti, a vi ih u svakom trenutku možete dodati odnosno ukloniti.";
+
+"Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Pozovite gledatelje da se kao gosti uključe u vaše prijenose uživo. Svi će ih vidjeti i čuti, a u svakom ih trenutku možete dodati odnosno ukloniti.";
+
+"Join as a Guest (Guest Calling Menu)" = "Uključi se kao gost";
+
+"Joined %@" = "Datum stvaranja računa: %@";
+
+"Joining as a guest... (Guest Call-In Countdown Screen Title)" = "Pridruživanje u ulozi gosta...";
+
+"Keep broadcasting to collect more stars!" = "Prenosite uživo i dalje da biste prikupili još zvjezdica!";
+
+"Keep stars received" = "Zadržat ćete sve primljene zvjezdice";
+
+"LIVE" = "UŽIVO";
+
+"LIVE VIEWER" = "GLEDATELJ UŽIVO";
+
+"LIVE VIEWERS" = "GLEDATELJI UŽIVO";
+
+"LIVE Video (Broadcast Audience)" = "Videozapis UŽIVO";
+
+"LIVE on #Periscope" = "UŽIVO u aplikaciji #Periscope";
+
+"LIVE on #Periscope: %@" = "UŽIVO u aplikaciji #Periscope: %@";
+
+"LOADING" = "UČITAVANJE";
+
+"LOST CONNECTION" = "PREKINUTA VEZA";
+
+"Later (alert view)" = "Kasnije";
+
+"Learn More" = "Saznajte više";
+
+"Learn More (Stars Profile)" = "Saznajte više";
+
+"Leave Broadcast" = "Zatvori prijenos uživo";
+
+"Limited by Broadcaster" = "Ograničio korisnik koji prenosi uživo";
+
+"Limited for %@" = "Ograničeno još %@";
+
+"List separator" = ",";
+
+"Live Time Watched (CELL)" = "Trajanje gledanja uživo";
+
+"Live watch time per minute tooltip" = "Svaku minutu ovog prijenosa uživo korisnici su ukupno zajedno gledali %@.";
+
+"Loading History." = "Učitavanje povijesti.";
+
+"Loading followers" = "Učitavanje osoba koje prate korisnika";
+
+"Loading following" = "Učitavanje osoba koje korisnik prati";
+
+"Loading history" = "Učitavanje povijesti";
+
+"Loading your followers" = "Učitavanje osoba koje vas prate";
+
+"Loading your following" = "Učitavanje osoba koje pratite";
+
+"Location Permissions Required" = "Potrebne su dozvole za lokaciju";
+
+"Location Unknown" = "Nepoznata lokacija";
+
+"Logged Out" = "Odjavljeno";
+
+"Login Error (ReplayKit)" = "Morate se prijaviti";
+
+"Login Error Instructions (ReplayKit)" = "Otvorite aplikaciju Periscope da biste se prijavili pa se vratite ovdje da biste pokrenuli prijenos uživo.";
+
+"Looks OK" = "Čini se u redu";
+
+"Looks like the connection was lost. Reconnecting... (Toast)" = "Veza se, izgleda, prekinula. Ponovno povezivanje...";
+
+"Lose stars received" = "Izgubit ćete sve primljene zvjezdice";
+
+"Low Viewer Count" = "Mali broj gledatelja";
+
+"Low disk space. A portion of this broadcast will not be available for replay later." = "Na disku nema dovoljno prostora. Dio ovog prijenosa uživo kasnije se neće moći pogledati.";
+
+"Majority voted <destructive emphasis> Abuse </destructive emphasis>\nThe commenter's chat has been limited." = "Većina je glasovala •|• Neprihvatljivo ponašanje •|•\nOgraničili smo mogućnosti čavrljanja komentatora.";
+
+"Majority voted <destructive emphasis> Looks OK  </destructive emphasis>" = "Većina je glasovala  •|• Čini se u redu •|•";
+
+"Majority voted <destructive emphasis> Not Sure </destructive emphasis>" = "Većina je glasovala  •|• Nisam siguran/na •|•";
+
+"Majority voted <destructive emphasis> Spam </destructive emphasis>\nThe commenter's chat has been limited." = "Većina je glasovala  •|• Neželjen sadržaj •|•\nOgraničili smo mogućnosti čavrljanja komentatora.";
+
+"Makes broadcast visible to everyone" = "Omogućuje prikaz prijenosa uživo svim korisnicima";
+
+"Makes broadcast visible to invited viewers" = "Omogućuje prikaz prijenosa uživo pozvanim gledateljima";
+
+"Manage details about your Broadcast (menu subtitle)" = "Upravljajte podacima o prijenosu uživo";
+
+"Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen." = "Korisnici takve poruke često blokiraju. Ako vas korisnici previše puta blokiraju, vaši se komentari više neće prikazivati.";
+
+"Million Decimal Abbreviation" = "%.1fM";
+
+"Million Integer Abbreviation" = "%dM";
+
+"Moderation Modal Button Label" = "U redu, razumijem";
+
+"Moderation Modal Example Label" = "PRIMJER";
+
+"Moderation Modal Example Message" = "Sporna poruka...";
+
+"Moderation Modal Settings Label" = "Ovo možete isključiti u postavkama.";
+
+"Moderation Modal Subtitle" = "Povremeno ćemo vas zamoliti da moderirate komentar tako da ga brzo označite oznakom •|•NEPRIHVATLJIVO PONAŠANJE•|• ili •|•NEŽELJEN SADRŽAJ•|•. Moderiranje je anonimno.";
+
+"Moderation Modal Title" = "Moderiranje";
+
+"Moderator Actions" = "Radnje moderatora";
+
+"Moderator Actions (%@)" = "Radnje moderatora (%@)";
+
+"Moderator •|•%@•|• joined" = "Pridružio se moderator •|•%@•|•";
+
+"ModeratorName muted this message (Message Carousel)" = "•|•%@•|• onemogućio/la je ovu poruku";
+
+"Monetize Broadcast" = "Unovči prijenos uživo";
+
+"Monetize Broadcast (expanded cell title)" = "Unovči prijenos";
+
+"Monetize Broadcast (minimized cell title)" = "Unovči prijenos ▾";
+
+"More (following/followers)" = "Više";
+
+"Mute" = "Onemogući";
+
+"Mute (accessibility label)" = "Onemogući";
+
+"Mute User" = "Onemogući korisnika";
+
+"Mute User Notifications" = "Onemogući obavijesti korisnika";
+
+"Muted by Moderator" = "Onemogućio moderator";
+
+"NEW" = "NOVO";
+
+"NO LIVE VIEWERS" = "NEMA GLEDATELJA UŽIVO";
+
+"NO REPLAY VIEWERS" = "NEMA GLEDATELJA SNIMKE";
+
+"New Broadcaster Education: 3 Guest Limit" = "Istodobno možete imati do 3 gosta.";
+
+"New Tweet (Compose)" = "Novi Tweet";
+
+"No history." = "Nema povijesti.";
+
+"No one has asked to join yet. Tap to invite your viewers to join. (Empty Manage Guest Broadcasters Call-Ins List)" = "Nitko vas još nije zatražio da se pridruži.\n\nDodirnite da biste pozvali gledatelje da se pridruže.";
+
+"No one is following you." = "Nitko vas ne prati.";
+
+"No, stop broadcasting (Copyright Violation)" = "Ne, prekini prijenos uživo";
+
+"Not Sure" = "Nisam siguran/na";
+
+"Not followed by anyone you're following" = "Ne prati nitko od korisnika/ca koje vi pratite";
+
+"Notifications (accessiblity label)" = "Obavijesti";
+
+"Notifications OFF" = "Obavijesti su isključene";
+
+"Notifications ON" = "Obavijesti su uključene";
+
+"Notifications Off (accessibility hint)" = "Dvaput dodirnite da biste omogućili obavijesti od tog korisnika.";
+
+"Notifications Off (accessibility value)" = "Isključeno";
+
+"Notifications On (accessibility hint)" = "Dvaput dodirnite da biste onemogućili obavijesti od tog korisnika.";
+
+"Notifications On (accessibility value)" = "Uključeno";
+
+"Notify my followers (Guest Call-In Notify Followers Option)" = "Obavijesti moje pratitelje";
+
+"OK, Got It" = "U redu, pročitao/la sam";
+
+"Offensive Guest (Report Option)" = "Uvredljiv gost";
+
+"Okay (Report Broadcast Modal)" = "U redu";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Jedan vaš komentar ili više njih skriveno je zbog NEPRIHVATLJIVOG PONAŠANJA. Onemogućeno vam je komentiranje u svim prijenosima uživo.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast." = "Jedan vaš komentar ili više njih skriveno je zbog NEPRIHVATLJIVOG PONAŠANJA. Onemogućeno vam je komentiranje u ovom prijenosu uživo.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Jedan vaš komentar ili više njih skriveno je zbog NEPRIHVATLJIVOG PONAŠANJA. Komentiranje vam je privremeno ograničeno u svim prijenosima uživo.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited." = "Jedan vaš komentar ili više njih skriveno je zbog NEPRIHVATLJIVOG PONAŠANJA. Komentiranje vam je privremeno ograničeno.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts." = "Jedan vaš komentar ili više njih skriveno je zbog NEŽELJENOG SADRŽAJA. Onemogućeno vam je komentiranje u svim prijenosima uživo.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast." = "Jedan vaš komentar ili više njih skriveno je zbog NEŽELJENOG SADRŽAJA. Onemogućeno vam je komentiranje u ovom prijenosu uživo.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Jedan vaš komentar ili više njih skriveno je zbog NEŽELJENOG SADRŽAJA. Komentiranje vam je privremeno ograničeno u svim prijenosima uživo.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited." = "Jedan vaš komentar ili više njih skriveno je zbog NEŽELJENOG SADRŽAJA. Komentiranje vam je privremeno ograničeno.";
+
+"One or more of your comments was hidden. Commenting is disabled for all broadcasts." = "Skriven je jedan vaš komentar ili više njih. Onemogućeno vam je komentiranje u svim prijenosima uživo.";
+
+"One or more of your comments was hidden. Commenting is disabled for this broadcast." = "Skriven je jedan vaš komentar ili više njih. Onemogućeno vam je komentiranje u ovom prijenosu uživo.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts." = "Skriven je jedan vaš komentar ili više njih. Komentiranje vam je privremeno onemogućeno u svim prijenosima uživo.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited." = "Skriven je jedan vaš komentar ili više njih. Komentiranje vam je privremeno ograničeno.";
+
+"One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast." = "Moderator je onemogućio jedan ili više vaših komentara. Komentiranje ovog prijenosa uživo vam je onemogućeno.";
+
+"Only available in Periscope" = "Dostupno samo u aplikaciji Periscope";
+
+"Only public broadcasts counted" = "Računaju se samo javni prijenosi uživo";
+
+"Only users you follow can chat" = "Čavrljati mogu samo korisnici koje pratite";
+
+"Only you can see your hidden broadcasts (menu subtitle)" = "Samo vi možete vidjeti sakrivene prijenose uživo";
+
+"Other Reason (Report Option)" = "Drugi razlog";
+
+"Other Reason \n e.g. Foreign Language" = "Drugi razlog•|•\nnpr. strani jezik•|•";
+
+"Our apologies for the inconvenience." = "Ispričavamo se na poteškoćama.";
+
+"POOR CONNECTION" = "LOŠA VEZA";
+
+"POSSIBLY NSFW (Interstitial)" = "POTENCIJALNO NEPRIKLADAN SADRŽAJ";
+
+"Pause (accessibility label)" = "Pauziraj";
+
+"Peak (graph label)" = "Vršna vrijednost";
+
+"Periscope App Feedback" = "Povratne informacije za aplikaciju Periscope";
+
+"Periscope account is required." = "Potreban je račun za Periscope.";
+
+"Periscope is discontinuing on •|•%@•|•" = "Periscope se ukida •|•%@•|•";
+
+"Play (accessibility label)" = "Reproduciraj";
+
+"Please allow some time for all transactions to be posted." = "Izdvojite malo vremena za objavljivanje svih transakcija.";
+
+"Positive Community" = "Pozitivna zajednica";
+
+"Post to Twitter (accessibility hint)" = "Dvaput dodirnite da biste uključili/isključili.";
+
+"Post to Twitter (accessibility label)" = "Objavi na Twitteru";
+
+"Posting to Twitter OFF" = "Objava na Twitteru je isključena";
+
+"Posting to Twitter as @%@" = "Objava na Twitter s računa @%@";
+
+"Precise Location Sharing OFF" = "Dijeljenje točne lokacije je isključeno";
+
+"Precise Location Sharing ON" = "Dijeljenje točne lokacije je uključeno";
+
+"Private (Broadcast Audience)" = "Privatno";
+
+"Private Information (Report Option)" = "Povjerljivi podaci";
+
+"Profile (accessibility label)" = "Profil";
+
+"Profile URL copied" = "URL profila je kopiran";
+
+"Public (Broadcast Audience)" = "Javno";
+
+"Public Hidden (Broadcast Audience)" = "Javno (skriveno)";
+
+"Quarter-Speed" = "Četvrtina brzine";
+
+"RECENT (user profile modal)" = "NEDAVNO";
+
+"REPLAY VIEWER" = "GLEDATELJ SNIMKE";
+
+"REPLAY VIEWERS" = "GLEDATELJI SNIMKE";
+
+"Ready to give Super Hearts!" = "Spremni ste za slanje supersrca!";
+
+"Received in: (History)" = "Primljeno u: \"%@\"";
+
+"Received stars (History)" = "Dobili ste zvjezdice.";
+
+"Release to <bold>Leave</bold> (broadcasting)" = "Otpustite da biste •|•izašli•|•";
+
+"Release to <bold>Leave</bold> (watching)" = "Otpustite da biste •|•izašli•|•";
+
+"Release to Refresh" = "Otpustite da biste osvježili";
+
+"Remove" = "Ukloni";
+
+"Remove Amplify Program" = "Ukloni program za pojačavanje";
+
+"Remove Amplify Program (cell title)" = "Ukloni program za pojačavanje";
+
+"Remove Location" = "Ukloni lokaciju";
+
+"Remove at least 1 character from your title to make room for #(example hashtag)" = "Da biste napravili mjesta za %@, iz naslova uklonite barem 1 znak";
+
+"Remove at least X characters from your title to make room for #(example hashtag)" = "Da biste napravili mjesta za %@, iz naslova uklonite barem sljedeći broj znakova: %lu";
+
+"Replay Time Watched (CELL)" = "Trajanje gledanja snimki";
+
+"Replay Unavailable" = "Snimka nije dostupna";
+
+"Replay watch time per minute tooltip" = "Svaku minutu snimke ovog prijenosa uživo korisnici su ukupno zajedno gledali %@.";
+
+"Reply" = "Odgovori";
+
+"Report @<guest's username> (Report Guest Modal)" = "Prijavi korisnika/cu @%@";
+
+"Report Abusive Behavior (Report Abusive Behavior Modal)" = "Zlonamjerno ponašanje";
+
+"Report Abusive Profile" = "Prijavi neprihvatljiv profil";
+
+"Report As Spam" = "Prijavi kao neželjeni sadržaj";
+
+"Report Broadcast (Report Broadcast Modal)" = "Prijavi prijenos uživo";
+
+"Report Child Safety (Report Child Safety Modal)" = "Sigurnost djeteta";
+
+"Report Comment" = "Prijavi komentar";
+
+"Report Hateful Conduct (Report Hateful conduct Modal)" = "Ponašanje koje potiče mržnju";
+
+"Report Private Information (Report Private Information Modal)" = "Povjerljivi podaci";
+
+"Report Self-Harm (Report Self Harm Modal)" = "Samoozljeđivanje";
+
+"Report Sexual Content (Report Sexual Content Modal)" = "Seksualni sadržaj";
+
+"Report User" = "Prijavi korisnika/cu";
+
+"Report Violence (Report Violence Modal)" = "Nasilje";
+
+"Reporting is anonymous and will hide the user's comments (just for you)." = "Slanje prijave anonimno je i skriva komentare korisnika (samo za vas).";
+
+"Restrict Chat (accessibility hint)" = "Dvaput dodirnite da biste uključili/isključili ograničenje čavrljanja za korisnike koje pratite.";
+
+"Restrict Chat (accessibility label)" = "Ograniči čavrljanje";
+
+"Return to Summary (accessibility hint)" = "Dvaput dodirnite da biste se vratili na sažetak za korisnika.";
+
+"Retweet" = "Proslijedi Tweet";
+
+"Save Changes" = "Spremi promjene";
+
+"Save To Camera Roll" = "Spremi u album kamere";
+
+"Save To Camera Roll Unavailable" = "Spremanje u album kamere nije dostupno";
+
+"Saved To Camera Roll" = "Spremljeno u album kamere";
+
+"Saved!" = "Spremljeno!";
+
+"Saving..." = "Spremanje...";
+
+"Say something..." = "Recite nešto...";
+
+"Scroll for Old Comments" = "Pomičite se po zaslonu da biste vidjeli stare komentare";
+
+"Scroll to Bottom" = "Pomakni se na dno";
+
+"Self-Harm (Report Option)" = "Samoozljeđivanje";
+
+"Send (accessibility label)" = "Pošalji";
+
+"Send Message (Blocked Modal)" = "Pošalji poruku";
+
+"Send people a notification to join this broadcast. Mutuals are people you follow that follow you back." = "Pošaljite obavijest korisnicima da se uključe u ovaj prijenos uživo. Uzajamni korisnici oni su korisnici koje pratite i koji prate vas.";
+
+"Sent for payment processing (History)" = "Poslano za obradu plaćanja.";
+
+"Separator between two names" = "i";
+
+"Set Amplify Program" = "Postavi program za pojačavanje";
+
+"Setting the broadcast Amplify Program to •|•%@•|• will publish a new Tweet." = "Ako program za pojačavanje prijenosa postavite na %@, objavit će se novi Tweet.";
+
+"Settings (app)" = "Postavke";
+
+"Sexual Content (Report Option)" = "Seksualni sadržaj";
+
+"Sexually Inappropriate \n Obscene or unwanted sexual remarks" = "Neprimjeren sadržaj koji se odnosi na seks•|•\nVulgarni ili neželjeni komentari o seksu•|•";
+
+"Share Broadcast" = "Dijeljenje prijenosa uživo";
+
+"Share From" = "Podijeli od";
+
+"Share From %@" = "Podijeli od %@";
+
+"Share From Beginning" = "Podijeli od početka";
+
+"Share Live" = "Podijeli uživo";
+
+"Share Twitter Tooltip (explaining that the feature is disabled while guests are enabled)" = "Onemogućeno za prijenose uživo s gostima";
+
+"Share precise location (accessibility label)" = "Podijeli točnu lokaciju";
+
+"Share request sent. (chat message)" = "Zahtjev za dijeljenje je poslan.";
+
+"Share screenshot and broadcast" = "Podijeli snimku zaslona i prijenos uživo";
+
+"Share this broadcast so your followers don't miss it." = "Podijelite ovaj prijenos uživo da ga osobe koje vas prate ne bi propustile.";
+
+"Share via..." = "Podijeli putem...";
+
+"Show Stats (cell)" = "Prikaz statističkih podataka";
+
+"Skip" = "Preskoči";
+
+"Sorry, that action could not be completed because you have been blocked." = "Nažalost, akciju nije moguće izvršiti jer ste blokirani.";
+
+"Sorry, that action could not be completed because you have reached the block limit." = "Nažalost, akciju nije moguće izvršiti jer ste dosegli ograničenje broja blokiranih osoba.";
+
+"Sorry, that action could not be completed because you have reached the follow limit." = "Nažalost, akciju nije moguće izvršiti jer ste dosegli ograničenje broja osoba koje pratite.";
+
+"Sorry, the broadcast is too full..." = "Nažalost, prijenos uživo gleda previše korisnika...";
+
+"Sorry, this broadcast is unavailable" = "Nažalost, ovaj prijenos uživo nije dostupan";
+
+"Sorry, we couldn't load the broadcast share URL. Please try again." = "Nažalost, nismo uspjeli učitati URL za dijeljenje prijenosa uživo. Pokušajte ponovno.";
+
+"Sorry, we couldn't save your changes. Please try again." = "Nažalost, nismo uspjeli spremiti vaše promjene. Pokušajte ponovno.";
+
+"Sorry, we encountered an error blocking some users. Please try again." = "Nažalost, prilikom blokiranja nekih korisnika naišli smo na pogrešku. Pokušajte ponovno.";
+
+"Sorry, we encountered an error blocking that user. Please try again." = "Nažalost, prilikom blokiranja tog korisnika došlo je do pogreške. Pokušajte ponovno.";
+
+"Sorry, we encountered an error loading user data. Please try again." = "Nažalost, prilikom učitavanja korisničkih podataka došlo je do pogreške. Pokušajte ponovno.";
+
+"Sorry, we encountered an error loading your broadcasts. Please try again." = "Nažalost, prilikom učitavanja vaših prijenosa uživo došlo je do pogreške. Pokušajte ponovno.";
+
+"Sorry, we encountered an error reporting this broadcast. Please try again." = "Nažalost, prilikom prijave ovog prijenosa uživo došlo je do pogreške. Pokušajte ponovno.";
+
+"Sorry, we encountered an error reporting this guest. Please try again." = "Nažalost, prilikom prijave tog gosta došlo je do pogreške. Pokušajte ponovno.";
+
+"Sorry, we've encountered a loading error. Please try again." = "Nažalost, prilikom učitavanja došlo je do pogreške. Pokušajte ponovno kasnije.";
+
+"Sorry, you've done that too many times. Try again in a few minutes." = "Nažalost, učinili ste to previše puta. Pokušajte ponovno za nekoliko minuta.";
+
+"Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv" = "Nažalost, došlo je do pogreške s učitavanjem (421 – selektor). Pošaljite e-poštu na adresu help@pscp.tv";
+
+"Sorry, you've encountered a loading error (421). Please email help@pscp.tv" = "Nažalost, došlo je do pogreške s učitavanjem (421). Pošaljite e-poštu na adresu help@pscp.tv";
+
+"Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later." = "Nažalost, vaša internetska veza preslaba je za prijenos nove minijature prijenosa uživo. Pokušajte ponovno kasnije.";
+
+"Spam" = "Neželjena poruka";
+
+"Spam in Chat" = "Neželjeni sadržaj u čavrljanju";
+
+"Star & Cash Outs History (Stars Profile)" = "Povijest zvjezdica i isplata";
+
+"Star History (Stars Profile)" = "Povijest zvjezdica";
+
+"Star balance adjustment. Contact superhearts@pscp.tv if you have any questions. (History)" = "U tijeku je prilagođavanje stanja zvjezdica. Ako imate pitanja, obratite nam se na adresu superhearts@pscp.tv.";
+
+"Stars (profile view title)" = "Zvjezdice";
+
+"Stars (profile)" = "Zvjezdice";
+
+"Start Point" = "Početna točka";
+
+"Start Sketching (action sheet)" = "Pokreni skiciranje";
+
+"Stop Broadcast" = "Prekini prijenos uživo";
+
+"Submit" = "Pošalji";
+
+"Success! You've unmuted @%@" = "Uspjeli ste! Korisniku/ci @%@ omogućili ste komentiranje";
+
+"Successfully set Amplify Program (title)" = "Uspješno ste postavili program za pojačavanje";
+
+"Suggested user is watching singlular" = "%@•|• sada gleda•|•";
+
+"Suggested users are watching plural" = "•|•Sada gleda•|• sljedeći broj prijatelja: %ld";
+
+"Super Broadcaster (Stars Profile)" = "Superkorisnik koji prenosi uživo";
+
+"Super Broadcaster Program" = "Program za superkorisnike koji prenose uživo";
+
+"Super Heart Terms" = "Odredbe za supersrca";
+
+"Super Hearts" = "Supersrca";
+
+"Super Hearts OFF" = "Supersrca su ISKLJUČENA";
+
+"Super Hearts ON" = "Supersrca su uključena";
+
+"Swipe down to <bold>Stop</bold>" = "Povucite prstom prema dolje da biste •|•zaustavili•|• prijenos";
+
+"Tap anyhwhere to <bold>Exit Theater Mode</bold>" = "Dodirnite bilo gdje da biste •|•zatvorili filmski način•|•";
+
+"Tap this icon to join Broadcaster's broadcast as a guest. (Viewer Prompt to Call-In)" = "Dodinite tu ikonu da biste se kao gost uključili u prijenos uživo korisnika/ce •|•%@•|•.";
+
+"Thank You (Report Broadcast Confirmation Modal)" = "Hvala";
+
+"Thank you for your report" = "Hvala na prijavi";
+
+"Thank you for your report (Chat Prompt)" = "Hvala na prijavi";
+
+"Thank you for your report." = "Hvala na prijavi.";
+
+"Thank you. You won't see any more messages from •|•@%@•|• in this broadcast." = "Hvala. U ovom vam se prijenosu uživo više neće prikazivati poruke korisnika/ce •|•@%@•|•.";
+
+"Thanks %@!" = "Hvala, %@!";
+
+"Thanks for your feedback!" = "Hvala vam na povratnim informacijama!";
+
+"The broadcaster blocked you in response to this message." = "Korisnik koji prenosi uživo blokirao vas je zbog te poruke.";
+
+"The broadcaster has limited chat." = "Korisnik koji prenosi uživo ograničio je čavrljanje.";
+
+"The broadcaster has the ability to remove people from their broadcasts." = "Korisnik koji prenosi uživo može uklanjati korisnike iz svojih prijenosa uživo.";
+
+"The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•." = "Trgovina novčića se zatvorila. Ako vam je preostalo novčića, iskoristite ih za slanje supersrca svojim omiljenim korisnicima koji prenose uživo prije •|•%@•|•.";
+
+"Theater Mode (action sheet)" = "Filmski način";
+
+"Their name, bio, or profile image violates the Community Guidelines" = "Korisničkim imenom, biografijom ili slikom na profilu krše se smjernice zajednice";
+
+"There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat." = "Ovaj prijenos trenutno gleda mnogo korisnika! Da bi se ograničio broj poruka korisniku koji prenosi uživo, čavrljati mogu samo korisnici koji su se ranije pridružili.";
+
+"There was an error adding @username as a guest. Please try again." = "Prilikom dodavanja korisnika/ce @%@ kao gosta došlo je do pogreške. Pokušajte ponovno.";
+
+"There was an error adding you as a guest. We've notified Broadcaster, and will alert you if we're able to try again." = "Prilikom dodavanja vas kao gosta pojavila se pogreška. Obavijestili smo korisnika/cu %@ te ćemo vas upozoriti ako budemo mogli pokušati ponovno.";
+
+"There was an error allowing guests. Please try again." = "Prilikom omogućivanja gostiju došlo je do pogreške. Pokušajte ponovno.";
+
+"There was an error cancelling your request. Please try again." = "Prilikom otkazivanja zahtjeva došlo je do pogreške. Pokušajte ponovno.";
+
+"There was an error cancelling. Please try again." = "Došlo je do pogreške prilikom otkazivanja. Pokušajte ponovno.";
+
+"There was an error disallowing guests. Please try again." = "Prilikom onemogućivanja gostiju došlo je do pogreške. Pokušajte ponovno.";
+
+"There was an error inviting guests. Please try again." = "Prilikom pozivanja gostiju došlo je do pogreške. Pokušajte ponovno.";
+
+"There was an error muting or un-muting @username. Please try again." = "Prilikom omogućivanja/onemogućivanja korisnika/ce @%@ došlo je do pogreške. Pokušajte ponovno.";
+
+"There was an error muting or un-muting you. Please try again." = "Prilikom omogućivanja/onemogućivanja vas kao korisnika došlo je do pogreške. Pokušajte ponovno.";
+
+"There was an error removing your guest @username. Please try again." = "Prilikom uklanjanja gosta @%@ došlo je do pogreške. Pokušajte ponovno.";
+
+"There was an error sending your request to join as a guest. Please try again." = "Prilikom slanja zahtjeva za pridruživanje u ulozi gosta došlo je do pogreške. Pokušajte ponovno.";
+
+"There was an error updating the settings (conversation controls and mentioned users). Please try again." = "Došlo je do pogreške pri ažuriranju postavki (kontrola razgovora i spomenutih korisnika). Pokušajte ponovno.";
+
+"There was an error updating the settings (locked/unlocked). Please try again." = "Prilikom ažuriranja postavki došlo je do pogreške (zaključano/otključano). Pokušajte ponovno.";
+
+"This broadcast is no longer available." = "Prijenos uživo više nije dostupan.";
+
+"This broadcast isn’t available (Copyright Violation)" = "Ovaj prijenos uživo nije dostupan";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}." = "Ovaj prijenos uživo podudara se sa sadržajem „%1$@” korisnika/ce %2$@ koji je zaštićen autorskim pravom. •|•Saznajte više•|•";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}. Do you have all rights necessary to broadcast this video on Twitter?" = "Ovaj se prijenos uživo podudara sa sadržajem „%1$@” korisnika/ce %2$@ koji je zaštićen autorskim pravima. Imate li sva prava potrebna za prijenos ovog videozapisa uživo na Twitteru?";
+
+"This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video." = "Ovaj je prijenos uživo snimljen panoramskom kamerom. Periscope više ne podržava reprodukciju panoramskih videozapisa.";
+
+"This broadcast’s title can’t be edited. Learn more (Copyright Violation)" = "Naslov ovog prijenosa uživo nije moguće urediti. •|•Saznajte više•|•";
+
+"This is optional" = "To nije obavezno";
+
+"This user doesn't have any followers yet" = "Tog korisnika/cu još nitko ne prati";
+
+"This user has not broadcasted yet" = "Taj korisnik/ca još nije prenosio/la uživo";
+
+"This user isn't following anyone yet" = "Taj korisnik/ca još uvijek nikog ne prati";
+
+"Thousand Decimal Abbreviation" = "%.1fK";
+
+"Thousand Integer Abbreviation" = "%dK";
+
+"Thumbnail" = "Minijatura";
+
+"Time Watched (CELL)" = "Trajanje gledanja";
+
+"Title (accessibility label)" = "Naslov";
+
+"To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off." = "Da biste čavrljali, u postavkama uključite mogućnost „Povezivanje s aplikacijom Periscope”. Ako je na računu uključena mogućnost „Zaštiti moje tweetove”, morat ćete preuzeti aplikaciju Periscope i stvoriti račun za Periscope ili se prebaciti na račun za Twitter na kojem je mogućnost „Zaštiti moje tweetove” isključena.";
+
+"To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos." = "Da biste spremali videozapise, Periscope treba dozvolu za pristup vašim fotografijama. Da biste omogućili tu značajku za buduće prijenose, dodirnite Postavke i uključite prekidač za fotografije.";
+
+"To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account." = "Da biste poslali povratne informacije putem e-pošte, najprije na uređaju morate postaviti e-poštu. Otvorite aplikaciju Postavke pa idite na Mail, kontakti i kalendari te odaberite Dodaj račun.";
+
+"To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option." = "Da biste mogli dijeliti lokaciju, Periscope treba dozvolu za pristup lokaciji na uređaju. Kliknite gumb Postavke na uređaju, idite na Lokacija i odaberite mogućnost Tijekom uporabe aplikacije.";
+
+"Top Contributor" = "Najaktivniji sudionik";
+
+"Total watch time per minute tooltip" = "Svaku minutu ovog prijenosa uživo korisnici su ukupno zajedno gledali %@.";
+
+"Total watch time per minute tooltip (broadcaster)" = "Svaku minutu ovog prijenosa uživo korisnici su ukupno zajedno gledali %@. Taj statistički podatak normalizira vrijeme gledanja u svim prijenosima uživo različitih trajanja.";
+
+"Trying to reconnect" = "Pokušaj ponovnog povezivanja";
+
+"Twitter Post OFF" = "Objava na Twitteru je isključena";
+
+"Twitter Post ON" = "Objava na Twitteru je uključena";
+
+"Unable to load broadcast." = "Učitavanje prijenosa uživo nije uspjelo.";
+
+"Unblock User" = "Deblokiraj korisnika";
+
+"Unfollow User" = "Prestani pratiti korisnika";
+
+"Unhide Broadcast (menu button)" = "Poništi sakrivanje prijenosa uživo";
+
+"Unmute" = "Omogući";
+
+"Unmute User" = "Omogući korisnika";
+
+"Unmute User Notifications" = "Omogući obavijesti korisnika";
+
+"Untitled" = "Bez naslova";
+
+"User has not provided a profile description." = "Korisnik nije naveo opis profila.";
+
+"Very bad" = "Vrlo loše";
+
+"Very good" = "Vrlo dobro";
+
+"Video Issues" = "Problemi s videozapisom";
+
+"Video Quality" = "Kvaliteta videozapisa";
+
+"Video will resume if signal improves" = "Videozapis će se nastaviti ako se signal poboljša";
+
+"View Broadcast Actions (accessibility label)" = "Prikaži mogućnosti prijenosa uživo";
+
+"View Participants (accessibility label)" = "Prikaži sudionike";
+
+"View Profile" = "Prikaži profil";
+
+"View Stats" = "Prikaži statističke podatke";
+
+"Viewers can give you Super Hearts.\n<link>Learn more.</link>" = "Gledatelji vam mogu poslati supersrca.\n•|•Saznajte više.•|•";
+
+"Viewers cannot give you Super Hearts.\n<link>Learn more.</link>" = "Gledatelji vam ne mogu poslati supersrca.\n•|•Saznajte više.•|•";
+
+"Violence (Report Option)" = "Nasilje";
+
+"Waiting for other responses..." = "Čekamo ostale odgovore...";
+
+"Waiting for you to <bold>login</bold>." = "Morate se •|•prijaviti•|•.";
+
+"Watch %1$@'s broadcast: %2$@" = "Pogledajte prijenos uživo korisnika/ce %1$@: %2$@";
+
+"Watch %@'s broadcast." = "Pogledajte prijenos uživo korisnika/ce %@.";
+
+"Watch LIVE" = "Gledajte •|•UŽIVO•|•";
+
+"Watch Live" = "Gledajte uživo";
+
+"Watch Replay" = "Prikaz snimke";
+
+"Watch Stream (User Activity)" = "Prikaži prijenos";
+
+"Watch on #Periscope" = "Gledajte u aplikaciji #Periscope";
+
+"Watch on #Periscope: %@" = "Gledajte u aplikaciji #Periscope: %@";
+
+"Watch what happened at %1$@ in %2$@'s broadcast." = "Pogledajte što se dogodilo na oznaci %1$@ u prijenosu uživo korisnika/ce %2$@.";
+
+"Watch what happened at %1$@ in %2$@'s broadcast: %3$@" = "Pogledajte što se dogodilo na oznaci %1$@ u prijenosu uživo korisnika/ce %2$@: %3$@";
+
+"We encountered an error deleting your broadcast. Please try again." = "Prilikom brisanja prijenosa uživo došlo je do pogreške. Pokušajte ponovno.";
+
+"We encountered an error updating your gift settings. Please try again." = "Prilikom ažuriranja postavki poklon-srca došlo je do pogreške. Pokušajte ponovno.";
+
+"We have received your report. Thank you for helping keep the community safe! (Report Broadcast Confirmation Modal)" = "Zaprimili smo vašu prijavu. Hvala vam što pridonosite sigurnosti zajednice!";
+
+"We're sorry, there was an error starting your broadcast. Please try starting it again." = "Nažalost, prilikom pokretanja vašeg prijenosa uživo došlo je do pogreške. Pokušajte ga ponovno pokrenuti.";
+
+"Welcome <bold>%@</bold>" = "Dobro došao/la, •|•%@•|•";
+
+"We’ve let your followers know that you joined as a guest (Chat Prompt)" = "Obavijestili smo vaše pratitelje da ste se pridružili kao gost";
+
+"What are you seeing now?" = "Što trenutno vidite?";
+
+"What do you want to talk about?" = "O čemu želite razgovarati?";
+
+"What went well?" = "Što vam se svidjelo?";
+
+"When someone follows them, they'll be listed here." = "Kada ga neka osoba počne pratiti, bit će navedena ovdje.";
+
+"When someone follows you, they'll be listed here." = "Kada vas neka osoba počne pratiti, bit će navedena ovdje.";
+
+"When they do, it'll show up here." = "Kada to učine, pojavit će se ovdje.";
+
+"When they do, they'll be listed here." = "Kada to učini, pojavit će se ovdje.";
+
+"When you do, it'll show up here" = "Kada to učinite, pojavit će se ovdje.";
+
+"When you do, they'll be listed here." = "Kada to učinite, pojavit će se ovdje.";
+
+"Yes (Copyright Violation)" = "Da";
+
+"You already have a linked Twitter account. Please use this in the future to broadcast from Twitter" = "Već ste povezali račun za Twitter. Upotrebljavajte ga ubuduće za prijenos uživo s Twittera";
+
+"You are now" = "Prenosite";
+
+"You aren't following anyone yet" = "Još uvijek nikoga ne pratite";
+
+"You aren't following anyone." = "Ne pratite nijednog korisnika.";
+
+"You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests. (Offensive Report Modal)" = "Korisnike čije prijenose uživo više ne želite gledati možete blokirati. Tako blokirane korisnike i dalje ćete vidjeti kada se prijave kao gosti.";
+
+"You can block a user whose broadcasts you no longer want to see. (Offensive Report Modal)" = "Korisnike čije prijenose uživo više ne želite gledati možete blokirati.";
+
+"You can give •|•%@•|• of these" = "Možete poslati sljedeći broj ovih srca: •|•%@•|•";
+
+"You can't broadcast right now (Copyright Violation)" = "Trenutno ne možete prenositi";
+
+"You can't watch a broadcast while you're still broadcasting." = "Ne možete gledati prijenos uživo ako sami još uvijek prenosite uživo.";
+
+"You can’t watch this because it included a copyrighted work by {Full Name}. Learn more (Copyright Violation)" = "Ne možete gledati ovaj sadržaj jer sadrži djelo korisnika/ce %@ zaštićeno autorskim pravima. •|•Saznajte više•|•";
+
+"You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster." = "Kada vam obožavatelji daju •|•supersrca•|•, prikupljate zvjezdice. Unovčite ih tako da postanete superkorisnik koji prenosi uživo.";
+
+"You didn't vote... <link>Learn about Moderation</link>" = "Niste glasovali... •|•Saznajte više o moderiranju•|•";
+
+"You don't have any followers yet" = "Nijedna vas osoba još ne prati";
+
+"You earn stars from Super Hearts" = "Prema broju supersrca dobivate zvjezdice";
+
+"You haven't broadcasted yet" = "Još niste prenosili uživo";
+
+"You were <bold>blocked</bold> by the broadcaster" = "Korisnik koji prenosi uživo vas je •|•blokirao•|•";
+
+"You will lose any unsaved changes. Are you sure you want to leave this view?" = "Izgubit ćete sve promjene koje niste spremili. Jeste li sigurni da želite napustiti ovaj prikaz?";
+
+"You will lose the stars you received" = "Izgubit ćete sve primljene zvjezdice";
+
+"You're Waiting to Join (Guest Calling Menu)" = "Čekate na uključenje";
+
+"Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv" = "Vaš je račun blokiran na temelju zahtjeva za ukidanje zbog kršenja autorskih prava. Obratite se na adresu help@pscp.tv";
+
+"Your account has been disabled. Please contact help@pscp.tv" = "Vaš je račun blokiran. Obratite se na adresu help@pscp.tv";
+
+"Your broadcast has been disabled (Copyright Violation)" = "Vaš je prijenos uživo onemogućen.";
+
+"Your broadcast matches a copyrighted work (Copyright Violation)" = "Vaš prijenos uživo podudara se sa sadržajem sa zaštićenim autorskim pravima";
+
+"Your broadcast's thumbnail has been updated to the current screen." = "Minijatura vašeg prijenosa ažurirana je na trenutnu sličicu.";
+
+"Your dispute claim was submitted (Copyright Violation)" = "Vaš je zahtjev za pokretanje spora poslan";
+
+"Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•." = "Vaše su nam povratne informacije važne prilikom stvaranja boljeg sučelja za prijenos uživo. U bilo kojem trenutku možete otvoriti •|•Postavke•|• i odlučiti se za onemogućivanje budućih anketa.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Vaša je poruka •|•„%@”•|• skrivena zbog NEPRIHVATLJIVOG PONAŠANJA. Onemogućeno vam je komentiranje u svim prijenosima uživo.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast." = "Vaša je poruka •|•„%@”•|• skrivena zbog NEPRIHVATLJIVOG PONAŠANJA. Onemogućeno vam je komentiranje u ovom prijenosu uživo.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Vaša je poruka •|•„%@”•|• skrivena zbog NEPRIHVATLJIVOG PONAŠANJA. Komentiranje vam je privremeno ograničeno u svim prijenosima uživo.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast." = "Vaša je poruka •|•„%@\"•|• skrivena zbog NEPRIHVATLJIVOG PONAŠANJA. Komentiranje u ovom prijenosu uživo privremeno vam je ograničeno.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts." = "Vaša je poruka •|•„%@”•|• skrivena zbog NEŽELJENOG SADRŽAJA. Onemogućeno vam je komentiranje u svim prijenosima uživo.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast." = "Vaša je poruka •|•„%@\"•|• skrivena zbog NEŽELJENOG SADRŽAJA. Onemogućeno vam je komentiranje u ovom prijenosu.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Vaša je poruka •|•„%@”•|• skrivena zbog NEŽELJENOG SADRŽAJA. Komentiranje vam je privremeno ograničeno u svim prijenosima uživo.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast." = "Vaša je poruka •|•„%@\"•|• skrivena zbog NEŽELJENOG SADRŽAJA. Komentiranje u ovom prijenosu uživo privremeno vam je ograničeno.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts." = "Vaša je poruka •|•„%@\"•|• skrivena. Onemogućeno vam je komentiranje u svim prijenosima uživo.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast." = "Vaša je poruka •|•„%@”•|• skrivena. Onemogućeno vam je komentiranje u ovom prijenosu uživo.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts." = "Vaša je poruka •|•„%@”•|• skrivena. Komentiranje vam je privremeno ograničeno u svim prijenosima uživo.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast." = "Vaša je poruka •|•„%@\"•|• skrivena. Komentiranje u ovom prijenosu uživo privremeno vam je ograničeno.";
+
+"Your settings are about to automatically delete this broadcast." = "Vaše će postavke uskoro automatski izbrisati ovaj prijenos uživo.";
+
+"Your settings will automatically delete this broadcast in %@" = "Vaše će postavke automatski izbrisati ovaj prijenos uživo za %@";
+
+"Your video will be available for replay after the event has ended. (Copyright Violation)" = "Vaš će videozapis nakon završetka događaja biti dostupan za reprizu.";
+
+"Your viewers have been invited to join (Local Chat Prompt)" = "Gledateljima je poslana pozivnica za uključenje";
+
+"You’re enrolled in automatic monthly cash outs. (Stars Profile)" = "Obuhvaćeni ste automatskim mjesečnim isplatama.";
+
+"You’ve blocked @username. Tap to report and share more details. (Should Report Guest User Chat Prompt)" = "Blokirali ste korisnika/cu •|•@%@•|•. Dodirnite da biste ga/je prijavili i podijelili dodatne detalje.";
+
+"[placeholder]" = "[placeholder]";
+
+"beta-feedback@pscp.tv" = "beta-feedback@pscp.tv";
+
+"coin bonus" = "Još %i %%";
+
+"coin received (accessibility label)" = "primljeni novčić";
+
+"coins received (accessibility label)" = "– broj primljenih novčića";
+
+"contact@pscp.tv" = "contact@pscp.tv";
+
+"current audience" = "trenutna publika";
+
+"failed" = "nije uspjelo";
+
+"following (accessibility hint)" = "Dvaput dodirnite da biste prestali pratiti";
+
+"following (accessibility label)" = "Pratite";
+
+"for fine control" = "za preciznu kontrolu";
+
+"heart received (accessibility label)" = "primljeno srce";
+
+"hearts received (accessibility label)" = "– broj primljenih srca";
+
+"https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119" = "https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119";
+
+"https://pscp.tv/i/super/terms" = "https://pscp.tv/i/super/terms";
+
+"iPad doesn’t support broadcasting from Split View." = "iPad ne podržava prijenos uživo s podijeljenog zaslona.";
+
+"invited" = "pozvani korisnici";
+
+"invited followers" = "pozvane osobe koje vas prate";
+
+"it's their first day on Periscope" = "prvi put koristi Periscope";
+
+"not following (accessibility hint)" = "Dvaput dodirnite da biste počeli pratiti";
+
+"not following (accessibility label)" = "Ne pratite";
+
+"people" = "osobe";
+
+"per Broadcast Minute (CELL)" = "po minuti prijenosa uživo";
+
+"per Viewer (CELL)" = "po gledatelju";
+
+"person" = "osoba";
+
+"poor" = "loše";
+
+"posting publicly on Periscope" = "javna objava u aplikaciji Periscope";
+
+"posting publicly on Twitter" = "javna objava na Twitteru";
+
+"selected Amplify Program" = "odabran je program za pojačavanje";
+
+"star received (accessibility label)" = "primljena zvjezdica";
+
+"stars received (accessibility label)" = "– broj primljenih zvjezdica";
+
+"tap to change Amplify Program" = "dodirnite da biste promijenili program za pojačavanje";
+
+"tap to change Amplify program" = "dodirnite da biste promijenili program za pojačavanje";
+
+"tap to change audience" = "dodirnite da biste promijenili publiku";
+
+"to seek" = "za traženje";
+
+"you hung up (Guest Caller Hung Up Chat Message Event)" = "prekinuli ste vezu";
+
+"you were added (New Guest Caller Chat Message Event)" = "dodani ste";
+
+"you were removed (Guest Caller Was Removed Chat Message Event)" = "uklonjeni ste";
+
+"•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•." = "•|•%1$@•|• je ažurirao/la prijenos tako da počinje •|•%2$@•|•.";
+
+"•|•%@•|• are guests (Broadcast Guests Social Proof)" = "•|•%@•|• su gosti";
+
+"•|•%@•|• invited you (Broadcast Guest Invitation Social Proof)" = "•|•%@•|• poslao/la vam je pozivnicu";
+
+"•|•%@•|• is a guest (Broadcast Guest Social Proof)" = "•|•%@•|• je gost";
+
+"•|•%@•|• shared (Broadcast Share Social Proof)" = "•|•%@•|• je dijelio/la";
+
+"•|•%@•|• was a guest (Broadcast Guest Social Proof)" = "•|•%@•|• je bio/bila gost";
+
+"•|•%@•|• were guests (Broadcast Guests Social Proof)" = "•|•%@•|• bili/bile su gosti";
+
+"•|•%@•|•\nBroadcasts" = "•|•%@•|•\nprijenosa uživo";
+
+"•|•%@•|•\nFollowers" = "•|•%@•|•\nosoba koje vas prate";
+
+"•|•%@•|•\nFollowing" = "•|•%@•|•\npratite";
+
+"•|•@%1$@•|• was muted by •|•%2$@•|•" = "Korisnik •|•%2$@•|• onemogućio je komentiranje korisniku •|•@%1$@•|•";
+
+"•|•@%1$@•|• was unmuted by •|•%2$@•|•" = "Korisnik •|•%2$@•|• omogućio je komentiranje korisniku •|•@%1$@•|•";
+
+"•|•@%@•|• Retweeted on" = "•|•@%@•|• proslijedio/la je Tweet";
+
+"•|•@%@•|• shared on" = "•|•@%@•|• podijelio/la je na";
+
+"•|•Muted•|• by %@" = "•|•Utišao/la korisnik/ca•|• %@";
+
+"•|•Not enough coins.•|• Get more coins to keep giving Super Hearts." = "•|•Nema dovoljno novčića.•|• Potrebno vam je još novčića da biste i dalje mogli slati supersrca.";
+
+"•|•Press & Hold•|• the video to skip ahead" = "•|•Pritisnite i držite•|• videozapis da biste ga premotali unaprijed";
+
+"•|•Press & Hold•|• to skip back or ahead." = "•|•Pritisnite i držite•|• da biste premotali unatrag ili unaprijed.";
+
+"•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one." = "•|•Supersrca su uključena.•|• Dodirnite prijenos uživo da biste poslali svoje prvo supersrce.";
+
+"•|•Support %@•|• by giving Super Hearts!" = "•|•Podržite korisnika/cu %@•|• slanjem supersrca!";
+
+"•|•Unmuted•|• by %@" = "•|•Poglasnio/la korisnik/ca•|• %@";
+
+"•|•You need more coins•|• to give Super Hearts" = "Da biste slali supersrca, •|•potrebno vam je još novčića•|•";
+
+"•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast." = "•|•Komentiranje vam je onemogućio•|• jedan od moderatora korisnika/ce %1$@ zbog sljedećeg komentara: •|•\"%2$@\"•|•. Više ne možete čavrljati u ovom prijenosu uživo.";
+
+"•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast." = "Jedan od moderatora korisnika/ce %@ •|•omogućio vam je komentiranje•|•. Sada u prijenosu uživo možete čavrljati.";
+

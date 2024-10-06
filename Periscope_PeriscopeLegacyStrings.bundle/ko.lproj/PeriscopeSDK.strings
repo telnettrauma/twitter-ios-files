@@ -1,0 +1,1448 @@
+"%@ New Messages" = "%@개의 새 쪽지";
+
+"%@ Viewer (Broadcast Info)" = "시청자 %@명";
+
+"%@ Viewers (Broadcast Info)" = "시청자 %@명";
+
+"%@ ago" = "%@ 전";
+
+"%@ doesn't have any followers yet" = "@%@ 님은 아직 팔로워가 없습니다.";
+
+"%@ has not broadcasted yet" = "%@ 님은 아직 생방송을 진행하지 않았습니다.";
+
+"%@ is LIVE (broadcast title)" = "%@ 님의 생방송";
+
+"%@ isn't following anyone yet" = "@%@님은 아직 아무도 팔로우하고 있지 않습니다.";
+
+"%@ joined" = "님이 참여함";
+
+"%@ wants you to moderate comments. Tap on comments to mute them." = "%@ 님이 내가 댓글 관리에 참여하기를 원합니다. 댓글을 뮤트하려면 해당 댓글을 탭하세요.";
+
+"%@ wants you to moderate comments. Tap or swipe left on comments to mute them." = "%@ 님이 내가 댓글 관리에 참여하기를 원합니다. 댓글을 뮤트하려면 해당 댓글을 탭하거나 왼쪽으로 쓸어 넘기세요.";
+
+"%@ was live  (broadcast title)" = "%@ 님이 생방송했습니다";
+
+"%d More Live Viewers" = "기타 생방송 시청자 수";
+
+"%d More Replay Viewers" = "기타 다시보기 시청자 수";
+
+"%d More Viewers" = "기타 시청자 수";
+
+"%ldd (days)" = "%ld일";
+
+"%ldh (hours)" = "%ld시간";
+
+"%ldm (minutes)" = "%ld분";
+
+"%lds (seconds)" = "%ld초";
+
+"%ldy (years)" = "%ld년";
+
+"(EDITED)" = "(수정됨)";
+
+"(Skip to) LIVE" = "생방송";
+
+"1 More Live Viewer" = "기타 생방송 시청자 수";
+
+"1 More Replay Viewier" = "기타 다시보기 시청자 수";
+
+"1 More Viewer" = "기타 시청자 수";
+
+"1 New Message" = "1개의 새 쪽지";
+
+"@username \"Tap to cancel\" (Add Guest Caller Chat Message Event)" = "취소하려면 탭하세요";
+
+"@username \"canceled\" (Add Guest Caller Chat Message Event)" = "취소하였습니다.";
+
+"@username \"has asked to join\" (Add Guest Caller Chat Message Event)" = "참여 요청을 했습니다.";
+
+"@username \"hung up\" (Guest Caller Hung Up Chat Message Event)" = "•|•@%@•|• 님이 전화를 끊었습니다.";
+
+"@username \"was added\" (Add Guest Caller Chat Message Event)" = "추가됨";
+
+"@username \"was added\" (New Guest Caller Chat Message Event)" = "•|•@%@•|• 님이 추가됨";
+
+"@username \"was removed\" (Add Guest Caller Chat Message Event)" = "삭제되었습니다.";
+
+"@username \"was removed\" (Guest Caller Was Removed Chat Message Event)" = "•|•@%@•|• 님이 삭제되었습니다.";
+
+"A Periscope account is required to edit a broadcast." = "생방송을 수정하려면 Periscope 계정이 필요합니다.";
+
+"A Periscope account is required to share a broadcast." = "생방송을 공유하려면 Periscope 계정이 필요합니다.";
+
+"A broadcast with a star balance was deleted. (History)" = "별 잔액을 보유한 생방송이 삭제되었습니다.";
+
+"ACTIVE CONTRIBUTORS" = "활동화 상태인 기부자";
+
+"Abuse" = "가학적인";
+
+"Abusive Behavior (Report Option)" = "가학적인 행위";
+
+"Accept Caller as Guest" = "전화한 사람을 게스트로 참여 허용";
+
+"Accept Super Hearts (accessibility hint)" = "이 생방송에 대한 슈퍼 하트를 받으려면 두 번 탭하세요.";
+
+"Accept Super Hearts (accessibility label)" = "슈퍼 하트 받기";
+
+"Accept as Guest" = "게스트로 참여 허용";
+
+"Actions (accessibility label)" = "활동";
+
+"Add Guest (Manage Guest Call-Ins Action Sheet)" = "게스트 추가";
+
+"Add guest \n viewer will become a guest broadcaster" = "게스트 추가•|•\n시청자가 게스트 생방송 자키가 됩니다•|•";
+
+"All-Time Stars (Stars Profile)" = "지금까지 받은 별";
+
+"Allow Guests (Tooltip Selected)" = "게스트를 허용함";
+
+"Allow guests / Don't allow guests (accessibility label)" = "게스트 허용/불허";
+
+"Anything else you'd like to share?" = "이 외에도 공유하고 싶으신 점이 있나요?";
+
+"Are you sure you want to send this message?" = "이 쪽지를 보내시겠습니까?";
+
+"Are you sure you want to unblock?" = "정말로 차단을 해제하시겠어요?";
+
+"Are you sure? (title)" = "계속 진행할까요?";
+
+"Ask for Follow (action sheet)" = "팔로우 요청 보내기";
+
+"Ask for Share (action sheet)" = "공유 요청 보내기";
+
+"Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "생방송에 게스트로 참여하도록 요청해보세요.모든 사람이 내 오디오를 들을 수 있으며 언제든지 중지할 수 있습니다.";
+
+"Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "생방송에 게스트로 참여하도록 요청해보세요.모든 사람이 내 동영상과 오디오를 보고 들을 수 있으며 언제든지 중지할 수 있습니다.";
+
+"Asking to join... Broadcaster must accept you (Local Chat Prompt)" = "전화 참여 요청 중... \n•|•%@•|• 님이 나를 수락해야 합니다.";
+
+"Audio Only (accessibility label)" = "오디오 전용 생방송";
+
+"Audio from: Headphones" = "오디오: 헤드폰";
+
+"Audio from: Phone" = "오디오: 휴대폰";
+
+"Back" = "뒤로";
+
+"Back (action sheet)" = "뒤로";
+
+"Back Camera (accessibility hint)" = "전면 카메라로 전환하려면 두 번 탭하세요.";
+
+"Back Camera (accessiblity value)" = "후면 카메라";
+
+"Back to %@" = "%@(으)로 돌아가기";
+
+"Back to Hearts" = "하트로 돌아가기";
+
+"Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. Learn more (Copyright violation)" = "최근 나의 여러 생방송에 저작권 소유 미디어가 담겨 있었으므로 생방송이 일시적으로 중단됩니다. •|•자세히 알아보기•|•";
+
+"Betascope App Feedback" = "Betascope 앱 피드백";
+
+"Billion Decimal Abbreviation" = "%.1fB";
+
+"Billion Integer Abbreviation" = "%dB";
+
+"Block @%@" = "@%@ 님 차단하기";
+
+"Block @%@ (Offensive Report Modal)" = "@%@ 님 차단하기";
+
+"Block And Hang Up (Manage Guest Call-Ins Action Sheet)" = "차단하고 전화 끊기";
+
+"Block User" = "사용자 차단";
+
+"Block Users (%@)" = "차단 사용자(%@명)";
+
+"Block {Username}" = "@%@ 님 차단하기";
+
+"Blocked (user modal)" = "차단됨";
+
+"Blocked by you" = "내가 차단한 사용자입니다";
+
+"Blocking will dismiss the broadcast and not report to Periscope. (Offensive Report Modal)" = "차단하면 이 생방송에서 나오게 되며, Periscope에 신고되지 않습니다.";
+
+"Broadcast Actions (accessibility hint)" = "생방송 작업 메뉴를 엽니다.";
+
+"Broadcast Details (action sheet)" = "생방송 세부정보";
+
+"Broadcast Super Heart Auto-Deletion Warning" = "•|•이 생방송은 슈퍼 하트에서 얻을 수 있는 별 값의 손실을 막기 위해•|• 24시간 이후에 자동으로 삭제되지 않습니다.\n\n원하실 경우 생방송이 종료된 후 생방송을 숨겨 다른 사람의 시청을 제한할 수 있습니다.";
+
+"Broadcast Title" = "생방송 제목";
+
+"Broadcast about to expire (Cell)" = "생방송이 곧 삭제됩니다";
+
+"Broadcast creation" = "생방송 만들기";
+
+"Broadcaster Has Disabled Call-Ins (Generic Error Message)" = "현재 생방송 자키가 전화 참여 리스트를 사용 정지했습니다.";
+
+"Broadcaster blocked •|•@%@•|•" = "생방송 자키가 •|•@%@•|• 님을 차단했습니다.";
+
+"Broadcaster doesn’t accept Super Hearts" = "슈퍼 하트를 받지 않는 생방송 자키입니다";
+
+"Broadcaster has assigned chat moderators." = "생방송 자키가 채팅 관리자를 지정했습니다.";
+
+"Broadcaster has to accept your request before you can join as a guest. (Guest Call-In Instructions Subtitle)" = "게스트로 참여하려면 %@ 님이 먼저 나의 요청을 수락해야 합니다.";
+
+"Broadcaster is allowing guests to join (Local Chat Prompt)" = "•|•%@•|• 님이 게스트의 참여를 허용합니다";
+
+"Broadcaster is not allowing guests to join (Local Chat Prompt)" = "•|•%@•|• 님은 게스트 참여를 허용하지 않습니다";
+
+"Broadcasters earn stars from Super Hearts" = "생방송 자키는 슈퍼 하트로 별을 획득할 수 있습니다.";
+
+"Bummer (ReplayKit)" = "확인";
+
+"CONCATENTATION_ACCESSIBILITY_STRING" = ".";
+
+"CONTRIBUTORS WHO HAVE LEFT" = "생방송에서 나간 기부자";
+
+"COULDN'T LOAD REPLAY VIEWERS" = "다시보기 시청자를 불러오지 못했습니다";
+
+"COULDN'T LOAD VIEWERS" = "시청자를 불러오지 못했습니다";
+
+"Camera Selection (accessibility label)" = "카메라 선택";
+
+"Cancel" = "취소";
+
+"Cancel (action sheet)" = "취소";
+
+"Cancel Call In Button: \"Cancel Request to Join as a Guest\"" = "게스트 참여 요청 취소";
+
+"Cancel Guest Call-In Instructions Title: \"Waiting to join as a guest...\"" = "게스트로 참여 대기 중...";
+
+"Cannot be undone" = "취소할 수 없습니다";
+
+"Capture Thumbnail (action sheet)" = "미리보기 이미지 캡처";
+
+"Cash Outs (Stars Profile)" = "현금 인출";
+
+"Cash out your stars, and continue using live video on Twitter" = "별을 현금으로 교환하고 트위터에서 계속 생방송을 이용하세요";
+
+"Change Amplify Program" = "Amplify 프로그램 변경";
+
+"Change Expiration (Cell)" = "삭제 일 변경";
+
+"Change Expiration Subtitle (Cell)" = "%@ 뒤 자동 삭제";
+
+"Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program." = "Amplify 프로그램을 •|•%@•|•(으)로 변경하면 이전 트윗이 삭제되고 새 프로그램에 대한 트윗을 다시 올립니다.";
+
+"Chatroom too full..." = "채팅방 사용자가 너무 많습니다...";
+
+"Child Safety (Report Option)" = "아동 안전";
+
+"Choose guests to add. You can remove them at any time. (Manage Guest Callers Page Subtitle)" = "추가할 게스트를 선택하세요. 언제든지 삭제할 수 있습니다.";
+
+"Close (accessibility label)" = "닫기";
+
+"Comment Tip Option 1" = "댓글을 써서 •|•%@•|• 님에게 내가 왔다고 알려보세요!";
+
+"Comment Tip Option 2" = "•|•%@•|• 님에게 내가 어디에서 보고 있는지 알려주세요!";
+
+"Comment Tip Option 3" = "•|•%@•|• 님과 다른 시청자들에게 인사하고 채팅을 시작해보세요.";
+
+"Commenting is OFF" = "댓글 기능이 꺼져 있습니다";
+
+"Comments Received (CELL)" = "받은 댓글수";
+
+"Comments Received Unavailable (CELL)" = "없음";
+
+"Compose Direct Message (Accessibility Label)" = "새 쪽지 쓰기";
+
+"Compose New Tweet (Accessibility Label)" = "새 트윗 쓰기";
+
+"Confirm Call In Button: \"OK, Ask to Join\"" = "네, 참여 요청을 합니다.";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile and audio will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and hear you. This may include people you’ve blocked on either app.\"" = "•\t나의 프로필과 오디오가 본 생방송의 한 부분이 되며 %1$@ 님이 리플레이를 삭제하지 않는 이상 삭제될 수 없습니다.\n\n•\tPeriscope 또는 트위터에서 시청하는 모든 사람들은 내가 %1$@ 님의 생방송에 참여했다는 사실을 알 수 있고 내 오디오를 들을 수 있습니다. 여기에는 이 앱 중 하나에서라도 내가 차단한 사람들이 포함될 수 있습니다.";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile, audio and video will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and see you. This may include people you’ve blocked on either app.\"" = "•\t나의 프로필, 오디오, 동영상이 본 생방송의 한 부분이 되며 %1$@ 님이 리플레이를 삭제하지 않는 이상 삭제될 수 없습니다. \n\n•\tPeriscope 또는 트위터에서 시청하는 모든 사람들은 내가 %1$@ 님의 생방송에 참여했다는 사실을 알 수 있고 나를 볼 수 있습니다. 여기에는 이 앱 중 하나에서라도 내가 차단한 사람들을 포함할 수 있습니다.";
+
+"Confirm Guest Call-In Instructions Title: \"Good to know...\"" = "알려주셔서 감사합니다...";
+
+"Connecting to chatroom" = "채팅방 연결 중";
+
+"Connection Error" = "연결 에러";
+
+"Connection too" = "연결도 확인 중";
+
+"Contact Us (action sheet)" = "연락처";
+
+"Contributors" = "기부자";
+
+"Copy Profile URL" = "프로필 URL 복사";
+
+"Current Star Balance (Stars Profile)" = "현재 별 잔액";
+
+"Current Time (Accessibility Label)" = "현 재생 시간";
+
+"Dear Periscope Team," = "Periscope 팀께,";
+
+"Delete Broadcast" = "생방송 삭제";
+
+"Delete Broadcast (action sheet)" = "생방송 삭제";
+
+"Delete Broadcast Now" = "지금 생방송 삭제";
+
+"Describe the issue (Report Option)" = "문제를 설명해 주세요.";
+
+"Describe the issue with %@ (Report Option)" = "@%@ 님 관련 문제를 설명해주세요";
+
+"Describe the issue with @%1$@ at %2$@ (Report Option)" = "%2$@에 표시되는 @%1$@ 님 관련 문제를 설명해주세요";
+
+"Describe the issue you are seeing at %@ (Report Option)" = "%@ 에서 보이는 문제를 설명해주세요.";
+
+"Direct Message (Compose)" = "쪽지";
+
+"Disable Audio Only Broadcast" = "오디오 전용 생방송 끄기";
+
+"Disabled for all broadcasts" = "모든 생방송에서 꺼짐";
+
+"Disabled for this broadcast" = "해당 생방송에서 댓글을 남길 수 없습니다";
+
+"Discard Changes" = "변경사항 삭제하기";
+
+"Display Photo (action sheet)" = "사진 표시하기";
+
+"Dispute Claim (Copyright Violation)" = "이의 제기 신청";
+
+"Do not notify my followers (Guest Call-In Notify Followers Option)" = "내 팔로워들에게 알리지 않음";
+
+"Don't Allow Guests (Manage Guest Broadcasters Call-Ins List)" = "게스트 불허";
+
+"Don't Allow Guests (Tooltip)" = "게스트 허용 안 함";
+
+"Don't Auto-Delete" = "자동 삭제 하지 않기";
+
+"Don't Send (Blocked Modal)" = "보내지 않기";
+
+"Done" = "완료";
+
+"Done (action sheet)" = "완료";
+
+"Double Tap anywhere to Exit Theater Mode (accessibility label)" = "영화관 모드에서 나가려면 두 번 탭하세요.";
+
+"Double Tap to <bold>Flip Camera</bold>" = "두 번 탭하면 •|•카메라 전환•|•";
+
+"Double tap to allow or disallow guests (accessibility hint)" = "게스트 허용, 불허를 전환하려면 두 번 탭하세요";
+
+"Duration (CELL)" = "생방송 시간";
+
+"END (graph)" = "종료";
+
+"ENDED" = "완료됨";
+
+"Edit Broadcast" = "생방송 수정하기";
+
+"Edit Broadcast (action sheet)" = "생방송 수정하기";
+
+"Edit Broadcast Unavailable" = "생방송을 수정할 수 없습니다.";
+
+"Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured." = "생방송을 수정하면 다른 사람에게 표시되는 방식이 변경됩니다. 변경 내용은 기존 트윗이나 알림에 영향을 미치지 않습니다.";
+
+"Enable Audio Only Broadcast" = "오디오 전용 생방송 켜기";
+
+"Enable Email" = "이메일 사용";
+
+"Enable camera (Permissions Screen)" = "카메라 켜기";
+
+"Enable microphone (Permissions Screen)" = "마이크 켜기";
+
+"Enable/Disable Audio Only Broadcast (accessibility hint)" = "오디오 전용 생방송 켜기, 끄기를 전환하려면 두 번 탭하세요.";
+
+"Enable/Disable Audio Only Broadcast (accessibility label)" = "오디오 전용 생방송 켜기/끄기";
+
+"Ended" = "끝남";
+
+"Engaging Chat" = "참여도가 높은 채팅";
+
+"Error (ReplayKit)" = "오류";
+
+"Error accessing audio from microphone." = "마이크에 접근하는 도중 오류가 발생했습니다.";
+
+"Error accessing history." = "생방송 기록에 접근하는 도중 문제가 발생했습니다";
+
+"Error saving video to Camera Roll" = "카메라 롤에 동영상을 저장하는 도중 문제가 발생했습니다";
+
+"Error setting Amplify Program (title)" = "Amplify 프로그램을 설정하는 중에 오류가 발생했습니다";
+
+"Every heart you send will be a Super Heart" = "내가 보내는 모든 하트가 슈퍼 하트가 됩니다";
+
+"Everybody can chat" = "모두가 채팅할 수 있습니다";
+
+"FEATURED" = "추천";
+
+"FOLLOWERS (user profile modal)" = "팔로워";
+
+"FOLLOWING (user profile modal)" = "팔로잉";
+
+"Final List separator" = ",";
+
+"Fine Control" = "미세조정";
+
+"First Super Heart" = "첫 슈퍼 하트";
+
+"Flip Camera (action sheet)" = "카메라 전환";
+
+"Follow (user modal)" = "팔로우";
+
+"Follow request sent. (chat message)" = "팔로우 요청을 보냈습니다.";
+
+"Follow the broadcaster to catch their next broadcast." = "생방송 자키를 팔로우하고 다음 중계도 놓치지 마세요.";
+
+"Follow •|•%@•|• to catch their next broadcast" = "•|•%@•|• 님을 팔로우하고 다음 생방송도 놓치지 마세요.";
+
+"Followed by %1$@ and %2$@" = "%1$@ 님과 %2$@ 님이 팔로우함";
+
+"Followed by %1$@, %2$@, %3$@ and %4$i others" = "%1$@ 님, %2$@ 님, %3$@ 님 외 %4$i명이 팔로우함";
+
+"Followed by %1$@, %2$@, and %3$@" = "%1$@ 님, %2$@ 님, %3$@ 님이 팔로우함";
+
+"Followed by %@" = "%@ 님이 팔로우함";
+
+"Followers button (accessibility hint)" = "팔로워를 보려면 두 번 탭하세요.";
+
+"Following (user modal)" = "팔로잉";
+
+"Following button (accessibility hint)" = "내가 팔로우하는 사용자를 보려면 두 번 탭하세요.";
+
+"Front Camera (accessibility hint)" = "후면 카메라로 전환하려면 두 번 탭하세요.";
+
+"Front Camera (accessiblity value)" = "전면 카메라";
+
+"Get Coins" = "코인 구입";
+
+"Give Super Hearts (menu button)" = "슈퍼 하트 보내기";
+
+"Go LIVE" = "생방송 시작";
+
+"Go LIVE to %@" = "%@에 생방송 시작하기";
+
+"Go LIVE together (Guest Broadcasting Modal Title)" = "함께 생방송 시작하기";
+
+"Go to Twitter Profile" = "트위터 프로필로 이동";
+
+"Good Viewer Count" = "시청자 수가 충분함";
+
+"Got It (Button Title)" = "알겠습니다";
+
+"Got it (Copyright Violation)" = "알겠습니다";
+
+"Got it (ReplayKit)" = "알겠습니다";
+
+"Got it!" = "알겠습니다!";
+
+"Guest Action Sheet Report Item" = "신고하기";
+
+"Guest Call In Choice Label: \"Camera and microphone\"" = "카메라 및 마이크";
+
+"Guest Call In Choice Label: \"Microphone only\"" = "마이크만";
+
+"Guest Call-In Audio Only Permissions Subtitle beneath Title: \"Enable microphone to become a guest\"" = "마이크를 켜고 게스트가 되세요";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request. Learn more\"" = "나의 요청을 수락하면 참여하게 됩니다. •|•자세히 알아보기•|•";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request.\"" = "생방송 자키가 내 요청을 수락하면 참여하게 됩니다.";
+
+"Guest Call-In Instructions Title: \"Ask to Join\"" = "참여 요청";
+
+"Guest Call-In Instructions Title: \"Join as a guest\"" = "게스트로 참여";
+
+"Guest Call-In Permissions Subtitle beneath Title: \"Enable camera and microphone to become a guest\"" = "게스트가 되려면 카메라와 마이크를 켜주세요";
+
+"Guest Call-In Permissions Title: \"Guest setup\"" = "게스트 설정";
+
+"Guest List (Manage Guest Callers Page Title)" = "게스트 리스트";
+
+"Guest Was Banned Chat Message (Periscope)" = "•|•@%@•|• 님에 대한 신고가 접수되어 Periscope에서 검토한 결과 커뮤니티 가이드라인을 위반한 것으로 밝혀졌습니다.";
+
+"Guest Was Banned Chat Message (Twitter)" = "•|•@%@•|• 님에 대한 신고가 접수되어 트위터에서 검토한 결과 트위터 운영원칙을 위반한 것으로 밝혀졌습니다.";
+
+"Guests Not Allowed (Manage Guest Broadcasters Call-Ins List)" = "게스트 허용하지 않음";
+
+"Guests can now ask to join. Use this icon to add or remove guests at any time. (Guest Broadcasting Enabled Prompt)" = "이제 게스트가 참여 요청을 할 수 있습니다. 어제든지 이 아이콘을 사용하여 게스트를 추가하거나 삭제할 수 있습니다.";
+
+"HEART" = "하트";
+
+"HEARTS" = "하트";
+
+"Half-Speed" = "1/2배속";
+
+"Hang Up (Guest Calling Menu)" = "전화 끊기";
+
+"Hang Up (Manage Guest Call-Ins Action Sheet)" = "전화 끊기";
+
+"Hang Up Button Label: \"Hang Up\"" = "전화 끊기";
+
+"Hang Up Subtitle (Audio Only): \"Stop sharing microphone\"" = "마이크 공유 중지";
+
+"Hang Up Subtitle (Camera + Microphone): \"Stop sharing camera and microphone\"" = "카메라 및 마이크 공유 중지";
+
+"Hang Up on Guest or Cancel Guest From Joining" = "게스트 전화 끊기 또는 게스트 참여 취소";
+
+"Hang up" = "전화 끊기";
+
+"Harassment" = "욕설 및 괴롭힘";
+
+"Hateful Conduct (Report Option)" = "혐오 행위";
+
+"Heart Sent (accessiblity announcement)" = "하트 보냄";
+
+"Hearts & Chats off" = "하트 및 채팅 꺼짐";
+
+"Hearts & Chats on" = "하트 및 채팅 켜짐";
+
+"Help us moderate this comment..." = "댓글 관리를 도와주세요...";
+
+"Help us understand the problem.\nWhat issue with @%@ are you reporting?" = "문제에 대해 알려 주세요. @%@ 계정의 어떤 점을 신고하려고 하시나요?";
+
+"Hide Broadcast" = "생방송 숨기기";
+
+"Hide everything except video (action sheet)" = "동영상을 제외하고 모두 숨기기";
+
+"History (profile view title)" = "기록";
+
+"History button (accessibility hint)" = "최근 생방송을 보려면 두 번 탭하세요.";
+
+"How can we improve?" = "어떤 점을 개선하면 좋을까요?";
+
+"How was your broadcasting experience?" = "생방송은 어떠셨나요?";
+
+"I'm Not Interested in @%@" = "@%@ 님의 계정에 관심이 없습니다";
+
+"If this broadcast depicts pornography or sexual acts, please tap below. (Report Sexual Content Modal)" = "만약 이 생방송이 외설적인 내용이나 성적 행위를 묘사한다면 아래를 탭하세요.";
+
+"If you believe that this broadcast places a child at risk, please tap below. (Report Child Safety Modal)" = "이 생방송이 아동을 위험에 빠지게 하는 것 같다면 아래 버튼을 탭해 주세요.";
+
+"If you believe this broadcast contains violence or someone is being physically threatened, please tap below. (Report Violence Modal)" = "이 생방송이 폭력적인 내용을 포함하거나 다른 사람을 물리적으로 위협하는 것 같다면 아래 버튼을 탭해주세요.";
+
+"If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "이 생방송이 보호받아야 할 범주(예: 인종, 종교, 성별, 정체성, 장애)에 대한 혐오를 조장한다면 아래를 탭하세요.";
+
+"If you believe this broadcast exposes private information, please tap below. (Report Private Information Modal)" = "이 생방송이 개인 정보를 유출한다면 아래를 탭하세요.";
+
+"If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below. (Report Harassment Modal)" = "이 생방송이 누군가를 괴롭히거나 위협하거나, 위력으로 다른 사람이 목소리를 내지 못하게 한다면 아래를 탭해주세요.";
+
+"If you believe this guest is contemplating or encouraging suicide or self harm, please tap below. (Report Self Harm Modal)" = "이 게스트가 자살이나 자해를 계획 중이거나 조장하는 것 같다면 아래를 탭하세요.";
+
+"If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "이 게스트가 보호받아야 할 범주(예: 인종, 종교, 성별, 정체성, 장애)에 대한 혐오를 조장한다면 아래를 탭하세요.";
+
+"If you believe this guest is exposing private information, please tap below. (Report Private Information Modal)" = "이 게스트가 개인 정보를 유출하는 것 같다면 아래를 탭해주세요.";
+
+"If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below. (Report Harassment Modal)" = "이 게스트가 누군가를 괴롭히거나 위협하거나, 위력으로 다른 사람이 목소리를 내지 못하게 하고 있다면 아래를 탭해주세요.";
+
+"If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below. (Report Violence Modal)" = "이 게스트가 신체적 안전 또는 안정에 있어 구체적인 협박을 하는 것 같다면 아래를 탭하세요.";
+
+"If you believe this guest is sharing content that places a child at risk, please tap below. (Report Child Safety Modal)" = "이 게스트가 아동을 위험에 처하게 하는 콘텐츠를 공유하는 것 같다면 아래를 탭해주세요.";
+
+"If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below. (Report Sexual Content Modal)" = "이 게스트가 음란물 등의 부적절한 성적 콘텐츠를 공유하는 것 같다면 아래를 탭하세요.";
+
+"If you believe this individual is contemplating suicide or self harm, please tap below. (Report Self Harm Modal)" = "이 사람이 자살이나 자해를 계획 중인 것 같다면 아래 버튼을 탭해주세요.";
+
+"If you delete this broadcast, you will lose the stars that you received. This cannot be undone." = "이 생방송을 삭제하면 받은 별을 잃게 됩니다. 일단 삭제하면 취소할 수 없습니다.";
+
+"Initializing video stream..." = "동영상 스트리밍 초기화중...";
+
+"Invite Guests (Manage Guest Broadcasters Call-Ins List)" = "게스트 초대";
+
+"Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "게스트를 생방송에 초대하세요. 게스트의 오디오는 모두가 들을 수 있으며, 언제든지 게스트를 추가 또는 삭제할 수 있습니다.";
+
+"Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "시청자를 게스트로 생방송에 초대하세요. 시청자의 동영상과 오디오를 모두가 들을 수 있으며, 언제든지 게스트를 추가 또는 삭제할 수 있습니다.";
+
+"Join as a Guest (Guest Calling Menu)" = "게스트로 참여";
+
+"Joined %@" = "가입일: %@";
+
+"Joining as a guest... (Guest Call-In Countdown Screen Title)" = "게스트로 참여하는 중...";
+
+"Keep broadcasting to collect more stars!" = "생방송을 진행해서 더 많은 별을 모으세요!";
+
+"Keep stars received" = "받은 별은 유지됩니다";
+
+"LIVE" = "LIVE";
+
+"LIVE VIEWER" = "생방송 시청자";
+
+"LIVE VIEWERS" = "생방송 시청자";
+
+"LIVE Video (Broadcast Audience)" = "생방송 동영상";
+
+"LIVE on #Periscope" = "#Periscope 생방송 중";
+
+"LIVE on #Periscope: %@" = "#Periscope 생방송 중: %@";
+
+"LOADING" = "불러오는 중";
+
+"LOST CONNECTION" = "연결 끊김";
+
+"Later (alert view)" = "나중에";
+
+"Learn More" = "자세히 알아보기";
+
+"Learn More (Stars Profile)" = "자세히 알아보기";
+
+"Leave Broadcast" = "생방송 나가기";
+
+"Limited by Broadcaster" = "생방송 자키가 제한함";
+
+"Limited for %@" = "%@ 동안 제한됨";
+
+"List separator" = ",";
+
+"Live Time Watched (CELL)" = "생방송 시청 시간";
+
+"Live watch time per minute tooltip" = "생방송 진행 시간을 분 단위로 집계했을 때 시청자들이 생방송을 시청한 시간은 총 %@입니다.";
+
+"Loading History." = "기록을 불러오는 중입니다.";
+
+"Loading followers" = "팔로워 불러오는 중";
+
+"Loading following" = "팔로잉 불러오는 중";
+
+"Loading history" = "생방송 기록을 불러오는 중";
+
+"Loading your followers" = "내 팔로워 불러오는 중";
+
+"Loading your following" = "내 팔로잉 불러오는 중";
+
+"Location Permissions Required" = "위치 접근 권한 필요";
+
+"Location Unknown" = "알 수 없는 위치";
+
+"Logged Out" = "로그아웃됨";
+
+"Login Error (ReplayKit)" = "로그인 필요";
+
+"Login Error Instructions (ReplayKit)" = "Periscope 앱을 열고 로그인하세요. 그런 다음 여기에 돌아와서 생방송을 시작할 수 있습니다.";
+
+"Looks OK" = "양호함";
+
+"Looks like the connection was lost. Reconnecting... (Toast)" = "연결이 끊어진 것 같습니다. 다시 연결 중입니다...";
+
+"Lose stars received" = "받은 별을 잃게 됩니다";
+
+"Low Viewer Count" = "시청자 수가 적음";
+
+"Low disk space. A portion of this broadcast will not be available for replay later." = "디스크 공간이 부족합니다. 이 생방송 일부는 다시보기를 할 수 없게 됩니다.";
+
+"Majority voted <destructive emphasis> Abuse </destructive emphasis>\nThe commenter's chat has been limited." = "대다수가 •|• 가학적 •|•이라고 답변했습니다. 해당 사용자의 댓글이 제한됩니다.";
+
+"Majority voted <destructive emphasis> Looks OK  </destructive emphasis>" = "대다수가 •|•양호함•|•이라고 답변했습니다";
+
+"Majority voted <destructive emphasis> Not Sure </destructive emphasis>" = "대다수가 •|•잘 모름•|•이라고 답변했습니다";
+
+"Majority voted <destructive emphasis> Spam </destructive emphasis>\nThe commenter's chat has been limited." = "대다수가 •|• 스팸 •|•이라고 답변했습니다. 해당 사용자의 댓글이 제한됩니다.";
+
+"Makes broadcast visible to everyone" = "모든 사람이 생방송 볼 수 있게 하기";
+
+"Makes broadcast visible to invited viewers" = "초대 받은 시청자만 생방송 볼 수 있게 하기";
+
+"Manage details about your Broadcast (menu subtitle)" = "생방송 세부정보 관리하기";
+
+"Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen." = "이런 메시지는 차단되는 경우가 많습니다. 너무 많이 차단될 경우 다른 사람들에게 내 메시지를 보여줄 수 없습니다.";
+
+"Million Decimal Abbreviation" = "%.1fM";
+
+"Million Integer Abbreviation" = "%dM";
+
+"Moderation Modal Button Label" = "예, 알겠습니다.";
+
+"Moderation Modal Example Label" = "예시";
+
+"Moderation Modal Example Message" = "확인이 필요한 메시지";
+
+"Moderation Modal Settings Label" = "설정에서 끌 수 있습니다.";
+
+"Moderation Modal Subtitle" = "트위터에서 경우에 따라 •|•가학적•|• 혹은 •|•스팸•|•이라고 생각되는 댓글의 관리를 요청할 것입니다. 댓글 관리는 익명으로 이루어집니다.";
+
+"Moderation Modal Title" = "관리";
+
+"Moderator Actions" = "관리자 활동";
+
+"Moderator Actions (%@)" = "관리자 활동(%@)";
+
+"Moderator •|•%@•|• joined" = "관리자 •|•%@•|• 님이 참여함";
+
+"ModeratorName muted this message (Message Carousel)" = "•|•%@•|• 님이 이 쪽지를 뮤트했습니다.";
+
+"Monetize Broadcast" = "생방송 수익화하기";
+
+"Monetize Broadcast (expanded cell title)" = "생방송 수익화하기";
+
+"Monetize Broadcast (minimized cell title)" = "생방송 수익화하기 ▾";
+
+"More (following/followers)" = "더 보기";
+
+"Mute" = "뮤트하기";
+
+"Mute (accessibility label)" = "뮤트하기";
+
+"Mute User" = "사용자 뮤트하기";
+
+"Mute User Notifications" = "사용자 알림 뮤트하기";
+
+"Muted by Moderator" = "관리자가 뮤트함";
+
+"NEW" = "신규";
+
+"NO LIVE VIEWERS" = "생방송 시청자가 없음";
+
+"NO REPLAY VIEWERS" = "다시보기 시청자가 없음";
+
+"New Broadcaster Education: 3 Guest Limit" = "게스트는 최대 3명까지 동시에 수락할 수 있습니다.";
+
+"New Tweet (Compose)" = "새 트윗";
+
+"No history." = "기록이 없습니다.";
+
+"No one has asked to join yet. Tap to invite your viewers to join. (Empty Manage Guest Broadcasters Call-Ins List)" = "아직 참여를 요청한 사람이 없습니다.\n\n시청자를 참여하도록 초대하려면 탭하세요.";
+
+"No one is following you." = "나를 팔로우하는 사람이 없습니다.";
+
+"No, stop broadcasting (Copyright Violation)" = "아니요, 생방송을 중단합니다";
+
+"Not Sure" = "잘 모름";
+
+"Not followed by anyone you're following" = "내가 팔로우하는 사용자 중에는 팔로워가 없습니다";
+
+"Notifications (accessiblity label)" = "알림";
+
+"Notifications OFF" = "알림 꺼짐";
+
+"Notifications ON" = "알림 켜짐";
+
+"Notifications Off (accessibility hint)" = "이 사용자의 알림을 받으려면 두 번 탭하세요.";
+
+"Notifications Off (accessibility value)" = "꺼짐";
+
+"Notifications On (accessibility hint)" = "이 사용자의 알림을 받지 않으려면 두 번 탭하세요.";
+
+"Notifications On (accessibility value)" = "켜짐";
+
+"Notify my followers (Guest Call-In Notify Followers Option)" = "내 팔로워들에게 알림";
+
+"OK, Got It" = "알겠습니다";
+
+"Offensive Guest (Report Option)" = "공격적인 게스트";
+
+"Okay (Report Broadcast Modal)" = "확인";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts." = "하나 이상의 가학적인 댓글이 숨김 처리되었습니다. 모든 생방송에서 댓글 기능이 제한됩니다.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast." = "하나 이상의 가학적인 댓글이 숨김 처리되었습니다. 이 생방송에서 댓글 기능이 제한됩니다.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "하나 이상의 가학적인 댓글이 숨김 처리되었습니다. 모든 생방송에서 댓글 기능이 일시적으로 제한됩니다.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited." = "하나 이상의 가학적인 댓글이 숨김 처리되었습니다. 댓글 기능이 일시적으로 제한됩니다.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts." = "하나 이상의 스팸 댓글이 숨김 처리되었습니다. 모든 생방송에서 댓글 기능이 제한됩니다.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast." = "하나 이상의 스팸 댓글이 숨김 처리되었습니다. 이 생방송에서 댓글 기능이 제한됩니다.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "하나 이상의 스팸 댓글이 숨김 처리되었습니다. 모든 생방송에서 댓글 기능이 일시적으로 제한됩니다.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited." = "하나 이상의 댓글이 숨김 처리되었습니다. 댓글 기능이 일시적으로 제한됩니다.";
+
+"One or more of your comments was hidden. Commenting is disabled for all broadcasts." = "하나 이상의 댓글이 숨김 처리되었습니다. 모든 방송에서 댓글 기능이 제한됩니다.";
+
+"One or more of your comments was hidden. Commenting is disabled for this broadcast." = "하나 이상의 댓글이 숨김 처리되었습니다. 이 생방송에서 댓글 기능이 제한됩니다.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts." = "하나 이상의 댓글이 숨김 처리되었습니다. 모든 생방송에서 댓글 기능이 일시적으로 제한됩니다.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited." = "하나 이상의 댓글이 숨김 처리되었습니다. 댓글 기능이 일시적으로 제한됩니다.";
+
+"One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast." = "관리자가 내 댓글을 하나 이상 뮤트했습니다. 이 생방송에서 댓글 기능이 제한됩니다.";
+
+"Only available in Periscope" = "Periscope에서만 사용 가능";
+
+"Only public broadcasts counted" = "공개 생방송만 집계됨";
+
+"Only users you follow can chat" = "나를 팔로우하는 사용자만 채팅을 할 수 있습니다";
+
+"Only you can see your hidden broadcasts (menu subtitle)" = "숨긴 생방송은 나만 볼 수 있습니다";
+
+"Other Reason (Report Option)" = "기타 사유";
+
+"Other Reason \n e.g. Foreign Language" = "기타 사유•|•\n예: 외국어•|•";
+
+"Our apologies for the inconvenience." = "이용에 불편을 드려 죄송합니다.";
+
+"POOR CONNECTION" = "연결 상태가 좋지 않음";
+
+"POSSIBLY NSFW (Interstitial)" = "불건전한 콘텐츠일 수 있음";
+
+"Pause (accessibility label)" = "일시 중지";
+
+"Peak (graph label)" = "최고";
+
+"Periscope App Feedback" = "Periscope 앱 피드백";
+
+"Periscope account is required." = "Periscope 계정이 필요합니다.";
+
+"Periscope is discontinuing on •|•%@•|•" = "Periscope는 •|•%@•|•에 중단됩니다";
+
+"Play (accessibility label)" = "재생";
+
+"Please allow some time for all transactions to be posted." = "거래가 게시되는 데는 시간이 조금 걸립니다.";
+
+"Positive Community" = "긍정적인 커뮤니티";
+
+"Post to Twitter (accessibility hint)" = "전환하려면 두 번 탭하세요.";
+
+"Post to Twitter (accessibility label)" = "트위터에 게시하기";
+
+"Posting to Twitter OFF" = "트위터 게시 꺼짐";
+
+"Posting to Twitter as @%@" = "@%@ 계정으로 트위터에 게시하기";
+
+"Precise Location Sharing OFF" = "상세 위치 공유 꺼짐";
+
+"Precise Location Sharing ON" = "상세 위치 공유 켜짐";
+
+"Private (Broadcast Audience)" = "비공개";
+
+"Private Information (Report Option)" = "개인 정보";
+
+"Profile (accessibility label)" = "프로필";
+
+"Profile URL copied" = "프로필 URL 복사 완료";
+
+"Public (Broadcast Audience)" = "공개";
+
+"Public Hidden (Broadcast Audience)" = "공개(숨겨짐)";
+
+"Quarter-Speed" = "1/4배속";
+
+"RECENT (user profile modal)" = "최신";
+
+"REPLAY VIEWER" = "다시보기 시청자";
+
+"REPLAY VIEWERS" = "다시보기 시청자";
+
+"Ready to give Super Hearts!" = "슈퍼 하트를 선물할 준비가 되었습니다!";
+
+"Received in: (History)" = "\"%@\" 내에 받음";
+
+"Received stars (History)" = "별을 받았습니다.";
+
+"Release to <bold>Leave</bold> (broadcasting)" = "놓아서 •|•나가기•|•";
+
+"Release to <bold>Leave</bold> (watching)" = "놓아서 •|•나가기•|•";
+
+"Release to Refresh" = "놓아서 새로 고침";
+
+"Remove" = "삭제";
+
+"Remove Amplify Program" = "Amplify 프로그램 삭제";
+
+"Remove Amplify Program (cell title)" = "Amplify 프로그램 삭제";
+
+"Remove Location" = "위치 삭제하기";
+
+"Remove at least 1 character from your title to make room for #(example hashtag)" = "최소 1자를 줄여야 제목에 %@을(를) 입력할 수 있습니다.";
+
+"Remove at least X characters from your title to make room for #(example hashtag)" = "최소 %lu자를 줄여야 제목에 %@을(를) 입력할 수 있습니다.";
+
+"Replay Time Watched (CELL)" = "다시보기 시청 시간";
+
+"Replay Unavailable" = "다시보기를 볼 수 없습니다";
+
+"Replay watch time per minute tooltip" = "다시보기 시간을 분 단위로 집계했을 때 시청자들이 다시보기를 시청한 시간은 총 %@입니다.";
+
+"Reply" = "답글하기";
+
+"Report @<guest's username> (Report Guest Modal)" = "@%@ 님 신고하기";
+
+"Report Abusive Behavior (Report Abusive Behavior Modal)" = "가학적인 행위";
+
+"Report Abusive Profile" = "가학적인 프로필 신고";
+
+"Report As Spam" = "스팸으로 신고";
+
+"Report Broadcast (Report Broadcast Modal)" = "생방송 신고하기";
+
+"Report Child Safety (Report Child Safety Modal)" = "아동 안전";
+
+"Report Comment" = "댓글 신고하기";
+
+"Report Hateful Conduct (Report Hateful conduct Modal)" = "혐오 행위";
+
+"Report Private Information (Report Private Information Modal)" = "개인 정보";
+
+"Report Self-Harm (Report Self Harm Modal)" = "자해";
+
+"Report Sexual Content (Report Sexual Content Modal)" = "성적인 콘텐츠";
+
+"Report User" = "사용자 신고하기";
+
+"Report Violence (Report Violence Modal)" = "폭력";
+
+"Reporting is anonymous and will hide the user's comments (just for you)." = "신고는 익명으로 이루어지며 해당 사용자의 댓글을 (나에게서만) 숨깁니다.";
+
+"Restrict Chat (accessibility hint)" = "내가 팔로우하는 사용자로 대화 상대를 제한하려면 두 번 탭하세요.";
+
+"Restrict Chat (accessibility label)" = "대화 제한하기";
+
+"Return to Summary (accessibility hint)" = "사용자 개요로 돌아가려면 두 번 탭하세요.";
+
+"Retweet" = "리트윗하기";
+
+"Save Changes" = "변경사항 저장";
+
+"Save To Camera Roll" = "카메라 롤에 저장하기";
+
+"Save To Camera Roll Unavailable" = "카메라 롤에 저장할 수 없습니다";
+
+"Saved To Camera Roll" = "카메라 롤에 저장됨";
+
+"Saved!" = "저장완료!";
+
+"Saving..." = "저장 중...";
+
+"Say something..." = "대화에 참여해보세요...";
+
+"Scroll for Old Comments" = "스크롤하여 옛날 댓글 보기";
+
+"Scroll to Bottom" = "아래로 스크롤";
+
+"Self-Harm (Report Option)" = "자해";
+
+"Send (accessibility label)" = "전송";
+
+"Send Message (Blocked Modal)" = "쪽지 보내기";
+
+"Send people a notification to join this broadcast. Mutuals are people you follow that follow you back." = "사람들에게 생방송 초대 알림을 보냅니다. 맞팔로워는 나와 서로 팔로우하는 사람입니다.";
+
+"Sent for payment processing (History)" = "결제 진행을 위해 보냄";
+
+"Separator between two names" = "&";
+
+"Set Amplify Program" = "Amplify 프로그램 설정";
+
+"Setting the broadcast Amplify Program to •|•%@•|• will publish a new Tweet." = "생방송 Amplify 프로그램을 %@(으)로 설정하면 새 트윗이 올라갑니다.";
+
+"Settings (app)" = "설정";
+
+"Sexual Content (Report Option)" = "성적인 콘텐츠";
+
+"Sexually Inappropriate \n Obscene or unwanted sexual remarks" = "성적으로 적절하지 않음•|•\음란한 내용 또는 대상이 원치 않는 성적 발언•|•";
+
+"Share Broadcast" = "생방송 공유하기";
+
+"Share From" = "다음 지점부터 공유하기";
+
+"Share From %@" = "%@부터 공유하기";
+
+"Share From Beginning" = "처음부터 공유하기";
+
+"Share Live" = "생방송 공유하기";
+
+"Share Twitter Tooltip (explaining that the feature is disabled while guests are enabled)" = "게스트가 있는 생방송에 대해 제한됨";
+
+"Share precise location (accessibility label)" = "정확한 위치 공유하기";
+
+"Share request sent. (chat message)" = "공유 요청을 보냈습니다.";
+
+"Share screenshot and broadcast" = "스크린샷 및 생방송 공유하기";
+
+"Share this broadcast so your followers don't miss it." = "팔로워들이 놓치지 않도록 이 생방송을 공유하세요.";
+
+"Share via..." = "공유하기…";
+
+"Show Stats (cell)" = "통계 보기";
+
+"Skip" = "건너뛰기";
+
+"Sorry, that action could not be completed because you have been blocked." = "현재 내가 차단된 상태이므로 선택한 작업을 수행할 수 없습니다.";
+
+"Sorry, that action could not be completed because you have reached the block limit." = "차단 한도에 도달하여 선택한 작업을 완료할 수 없습니다.";
+
+"Sorry, that action could not be completed because you have reached the follow limit." = "팔로우 한도에 도달하여 선택한 작업을 완료할 수 없습니다.";
+
+"Sorry, the broadcast is too full..." = "시청자가 너무 많습니다...";
+
+"Sorry, this broadcast is unavailable" = "이용할 수 없는 생방송입니다.";
+
+"Sorry, we couldn't load the broadcast share URL. Please try again." = "죄송합니다. 생방송 공유 URL을 불러오지 못했습니다. 다시 시도해주세요.";
+
+"Sorry, we couldn't save your changes. Please try again." = "죄송합니다. 변경 사항을 저장할 수 없습니다. 다시 시도해주세요.";
+
+"Sorry, we encountered an error blocking some users. Please try again." = "죄송합니다. 사용자를 차단하는 도중 오류가 발생했습니다. 다시 시도해주세요.";
+
+"Sorry, we encountered an error blocking that user. Please try again." = "사용자를 차단하는 도중 문제가 발생했습니다. 다시 시도해주세요.";
+
+"Sorry, we encountered an error loading user data. Please try again." = "사용자 데이터를 불러오는 중에 오류가 발생했습니다. 다시 시도해주세요.";
+
+"Sorry, we encountered an error loading your broadcasts. Please try again." = "생방송을 불러오는 중에 문제가 발생했습니다. 다시 시도해주세요.";
+
+"Sorry, we encountered an error reporting this broadcast. Please try again." = "해당 생방송을 신고하는 도중 문제가 발생했습니다. 다시 시도해주세요.";
+
+"Sorry, we encountered an error reporting this guest. Please try again." = "해당 게스트를 신고하는 도중 문제가 발생했습니다. 다시 시도해주세요.";
+
+"Sorry, we've encountered a loading error. Please try again." = "불러오는 도중 문제가 발생했습니다. 다시 시도해주세요.";
+
+"Sorry, you've done that too many times. Try again in a few minutes." = "해당 작업을 너무 많이 수행하셨습니다. 잠시 후에 다시 시도해주세요.";
+
+"Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv" = "불러오기 오류(421 - selector)가 발생했습니다. help@pscp.tv로 문의해주세요.";
+
+"Sorry, you've encountered a loading error (421). Please email help@pscp.tv" = "불러오기 오류(421)가 발생했습니다. help@pscp.tv로 문의해주세요.";
+
+"Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later." = "인터넷 연결이 상태가 좋지 않아 새 생방송 미리보기 이미지를 업로드할 수 없습니다. 나중에 다시 시도해주세요.";
+
+"Spam" = "스팸";
+
+"Spam in Chat" = "대화 내 스팸";
+
+"Star & Cash Outs History (Stars Profile)" = "별 및 현금 인출 기록";
+
+"Star History (Stars Profile)" = "별 기록";
+
+"Star balance adjustment. Contact superhearts@pscp.tv if you have any questions. (History)" = "별 잔액 조정. 질문이 있다면 superhearts@pscp.tv로 문의해주세요.";
+
+"Stars (profile view title)" = "별";
+
+"Stars (profile)" = "별";
+
+"Start Point" = "시작점";
+
+"Start Sketching (action sheet)" = "스케치 시작하기";
+
+"Stop Broadcast" = "생방송 멈추기";
+
+"Submit" = "제출";
+
+"Success! You've unmuted @%@" = "성공했습니다! @%@ 님을 언뮤트했습니다.";
+
+"Successfully set Amplify Program (title)" = "Amplify 프로그램을 설정했습니다";
+
+"Suggested user is watching singlular" = "%@•|• 님이 시청하고 있습니다•|•";
+
+"Suggested users are watching plural" = "친구 %ld명이•|• 시청하고 있습니다•|•";
+
+"Super Broadcaster (Stars Profile)" = "슈퍼 생방송 자키";
+
+"Super Broadcaster Program" = "슈퍼 생방송 자키 프로그램";
+
+"Super Heart Terms" = "슈퍼 하트 이용약관";
+
+"Super Hearts" = "슈퍼 하트";
+
+"Super Hearts OFF" = "슈퍼 하트 꺼짐";
+
+"Super Hearts ON" = "슈퍼 하트 켜짐";
+
+"Swipe down to <bold>Stop</bold>" = "아래로 쓸어 내리면 •|•멈추기•|•";
+
+"Tap anyhwhere to <bold>Exit Theater Mode</bold>" = "•|•영화관 모드를 나가려면•|• 아무 곳이나 탭하세요.";
+
+"Tap this icon to join Broadcaster's broadcast as a guest. (Viewer Prompt to Call-In)" = "•|•%@•|• 님의 생방송에 게스트로 참여 요청하려면 이 아이콘을 탭하세요.";
+
+"Thank You (Report Broadcast Confirmation Modal)" = "감사합니다";
+
+"Thank you for your report" = "신고해주셔서 감사합니다";
+
+"Thank you for your report (Chat Prompt)" = "신고해주셔서 감사합니다.";
+
+"Thank you for your report." = "신고해주셔서 감사합니다.";
+
+"Thank you. You won't see any more messages from •|•@%@•|• in this broadcast." = "감사합니다. 이 생방송에서 •|•@%@•|• 님의 메시지를 더 이상 보지 않게 됩니다.";
+
+"Thanks %@!" = "%@ 님, 감사합니다!";
+
+"Thanks for your feedback!" = "소중한 의견 감사합니다!";
+
+"The broadcaster blocked you in response to this message." = "생방송 자키가 해당 메시지를 보고 나를 차단했습니다.";
+
+"The broadcaster has limited chat." = "생방송 자키가 채팅을 제한했습니다.";
+
+"The broadcaster has the ability to remove people from their broadcasts." = "생방송 자키는 자기 방송 시청자를 강제로 퇴장시킬 수 있습니다.";
+
+"The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•." = "코인 상점이 종료되었습니다. 코인이 남아 있는 경우 •|•%@•|• 전에 좋아하는 생방송 자키에게 슈퍼 하트를 전송하세요.";
+
+"Theater Mode (action sheet)" = "영화관 모드";
+
+"Their name, bio, or profile image violates the Community Guidelines" = "이름, 자기소개 또는 프로필 이미지가 커뮤니티 가이드라인을 위반합니다";
+
+"There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat." = "정말 많은 사람들이 생방송을 보고 있습니다! 너무 많은 채팅이 오가는 것을 막기 위해 일찍 방송을 보기 시작한 분들에게만 채팅을 허용합니다.";
+
+"There was an error adding @username as a guest. Please try again." = "@%@ 님을 게스트로 추가하는 중 오류가 발생했습니다. 다시 시도해주세요.";
+
+"There was an error adding you as a guest. We've notified Broadcaster, and will alert you if we're able to try again." = "게스트로 추가하는 중 오류가 발생했습니다. %@ 님에게 이 사실을 알렸고, 다시 시도가 가능해질 시 알림을 드리겠습니다.";
+
+"There was an error allowing guests. Please try again." = "게스트를 허용하는 중 오류가 발생했습니다. 다시 시도해주세요.";
+
+"There was an error cancelling your request. Please try again." = "요청을 취소하는 동안 오류가 발생했습니다. 다시 시도해주세요";
+
+"There was an error cancelling. Please try again." = "취소하는 중 오류가 발생했습니다. 다시 시도해주세요.";
+
+"There was an error disallowing guests. Please try again." = "게스트를 불허하는 중 오류가 발생했습니다. 다시 시도해주세요.";
+
+"There was an error inviting guests. Please try again." = "게스트를 초대하는 중 오류가 발생했습니다. 다시 시도해주세요.";
+
+"There was an error muting or un-muting @username. Please try again." = "@%@ 님을 뮤트 또는 언뮤트하는 중 오류가 발생했습니다. 다시 시도해주세요.";
+
+"There was an error muting or un-muting you. Please try again." = "나를 뮤트 또는 언뮤트하는 중 오류가 발생했습니다. 다시 시도해주세요.";
+
+"There was an error removing your guest @username. Please try again." = "게스트 @%@ 님을 삭제하는 중 오류가 발생했습니다. 다시 시도해주세요.";
+
+"There was an error sending your request to join as a guest. Please try again." = "게스트로 참여 신청을 보내는 중 오류가 발생했습니다. 다시 시도해주세요.";
+
+"There was an error updating the settings (conversation controls and mentioned users). Please try again." = "설정(대화 관리 및 멘션된 사용자) 업데이트 중 오류가 발생했습니다. 다시 시도하세요.";
+
+"There was an error updating the settings (locked/unlocked). Please try again." = "잠금/잠금 해제 설정을 업데이트하는 동안 오류가 발생했습니다. 다시 시도해 보세요.";
+
+"This broadcast is no longer available." = "이 생방송은 더 이상 볼 수 없습니다.";
+
+"This broadcast isn’t available (Copyright Violation)" = "시청할 수 없는 생방송입니다.";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}." = "이 생방송은 %2$@ 님이 저작권을 가진 저작물 “%1$@(와)과 일치합니다. •|•자세히 알아보기•|•";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}. Do you have all rights necessary to broadcast this video on Twitter?" = "이 생방송은 %2$@ 님이 저작권을 가진 저작물 “%1$@”와(과) 일치합니다. 이 동영상을 트위터에서 생방송하는 데 필요한 모든 권한을 보유하고 계신가요?";
+
+"This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video." = "이 생방송은 360도 카메라로 촬영되었습니다. Periscope에서는 360도 동영상 재생이 더 이상 지원되지 않습니다.";
+
+"This broadcast’s title can’t be edited. Learn more (Copyright Violation)" = "이 생방송의 제목은 수정할 수 없습니다. •|•자세히 알아보기•|•";
+
+"This is optional" = "선택사항입니다";
+
+"This user doesn't have any followers yet" = "이 사용자는 아직 팔로워가 없습니다.";
+
+"This user has not broadcasted yet" = "이 사용자는 아직 생방송을 진행하지 않았습니다.";
+
+"This user isn't following anyone yet" = "이 사용자는 아직 아무도 팔로우하고 있지 않습니다.";
+
+"Thousand Decimal Abbreviation" = "%.1fK";
+
+"Thousand Integer Abbreviation" = "%dK";
+
+"Thumbnail" = "미리보기";
+
+"Time Watched (CELL)" = "전체 시청 시간";
+
+"Title (accessibility label)" = "제목";
+
+"To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off." = "채팅하려면 설정에서 'Periscope에 연결'을 켜 주세요. 계정이 '트윗 비공개' 상태라면 Periscope 앱을 다운로드해 Periscope 계정을 만들거나 '트윗 비공개' 설정을 끈 트위터 계정으로 전환해야 합니다.";
+
+"To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos." = "동영상을 저장하려면 사진에 액세스 권한이 필요합니다. 앞으로의 생방송에 이 기능을 활성화하려면 설정을 탭한 후 사진 스위치를 켜 주세요.";
+
+"To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account." = "이메일로 피드백을 보내려면 우선 이메일을 만들어야합니다. 설정 앱을 여신 후 Mail, 연락처, 캘린더에서 계정 추가를 눌러주세요.";
+
+"To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option." = "위치를 공유하려면 현재 위치 정보에 접근이 필요합니다. 설정 버튼을 누른 후 위치 서비스에서 Periscope의 위치 공유를 'App을 사용하는 동안'으로 선택해주세요.";
+
+"Top Contributor" = "최다 기부자";
+
+"Total watch time per minute tooltip" = "생방송 시간을 분 단위로 집계했을 때 시청자들이 생방송을 시청한 시간은 총 %@입니다.";
+
+"Total watch time per minute tooltip (broadcaster)" = "생방송 시간을 분 단위로 집계했을 때 시청자들이 생방송을 시청한 시간은 총 %@입니다. 이 통계는 서로 다른 길이의 생방송 전체에 대한 시청 시간의 평균값입니다.";
+
+"Trying to reconnect" = "다시 접속 시도 중";
+
+"Twitter Post OFF" = "트위터 게시 꺼짐";
+
+"Twitter Post ON" = "트위터 게시 켜짐";
+
+"Unable to load broadcast." = "생방송을 불러올 수 없습니다.";
+
+"Unblock User" = "사용자 차단 해제하기";
+
+"Unfollow User" = "사용자 언팔로우";
+
+"Unhide Broadcast (menu button)" = "생방송 숨김 해제";
+
+"Unmute" = "언뮤트하기";
+
+"Unmute User" = "사용자 언뮤트하기";
+
+"Unmute User Notifications" = "사용자 알림 언뮤트하기";
+
+"Untitled" = "제목 없음";
+
+"User has not provided a profile description." = "사용자의 프로필 정보가 없습니다.";
+
+"Very bad" = "아주 나쁨";
+
+"Very good" = "아주 좋음";
+
+"Video Issues" = "동영상 문제";
+
+"Video Quality" = "동영상 화질";
+
+"Video will resume if signal improves" = "연결 상태가 나아지면 동영상이 다시 재생될 겁니다";
+
+"View Broadcast Actions (accessibility label)" = "생방송 작업 보기";
+
+"View Participants (accessibility label)" = "참여자 보기";
+
+"View Profile" = "프로필 보기";
+
+"View Stats" = "통계 보기";
+
+"Viewers can give you Super Hearts.\n<link>Learn more.</link>" = "시청자가 내게 슈퍼 하트를 선물할 수 있습니다.\n•|•자세히 알아보기•|•";
+
+"Viewers cannot give you Super Hearts.\n<link>Learn more.</link>" = "시청자가 내게 슈퍼 하트를 선물할 수 없습니다.\n•|•자세히 알아보기•|•";
+
+"Violence (Report Option)" = "폭력적인 내용";
+
+"Waiting for other responses..." = "다른 사용자의 답변을 기다리고 있습니다...";
+
+"Waiting for you to <bold>login</bold>." = "•|•로그인•|•해주세요.";
+
+"Watch %1$@'s broadcast: %2$@" = "%1$@ 님의 생방송 시청하기: %2$@";
+
+"Watch %@'s broadcast." = "%@ 님의 생방송을 시청하세요.";
+
+"Watch LIVE" = "•|•생방송•|• 시청하기";
+
+"Watch Live" = "생방송 시청하기";
+
+"Watch Replay" = "다시보기 시청하기";
+
+"Watch Stream (User Activity)" = "스트림 시청하기";
+
+"Watch on #Periscope" = "#Periscope에서 생방송 보기";
+
+"Watch on #Periscope: %@" = "#Periscope 생방송 시청하기: %@";
+
+"Watch what happened at %1$@ in %2$@'s broadcast." = "%1$@에 %2$@ 님의 생방송에서 무슨 일이 일어났는지 확인하세요.";
+
+"Watch what happened at %1$@ in %2$@'s broadcast: %3$@" = "%1$@에 %2$@ 님의 생방송 %3$@에서 무슨 일이 일어났는지 확인하세요";
+
+"We encountered an error deleting your broadcast. Please try again." = "생방송을 삭제하는 도중 문제가 발생했습니다. 다시 시도해주세요.";
+
+"We encountered an error updating your gift settings. Please try again." = "선물 설정을 업데이트하는 도중 문제가 발생했습니다. 다시 시도해 주세요.";
+
+"We have received your report. Thank you for helping keep the community safe! (Report Broadcast Confirmation Modal)" = "신고를 접수했습니다. 안전한 커뮤니티를 만들도록 도와주셔서 감사합니다!";
+
+"We're sorry, there was an error starting your broadcast. Please try starting it again." = "생방송을 시작하는 도중 문제가 발생했습니다. 다시 시작해주세요.";
+
+"Welcome <bold>%@</bold>" = "•|•%@•|• 님, 환영합니다.";
+
+"We’ve let your followers know that you joined as a guest (Chat Prompt)" = "귀하가 게스트로 참여했음을 팔로워들에게 알렸습니다.";
+
+"What are you seeing now?" = "무엇을 보고 계시나요?";
+
+"What do you want to talk about?" = "어떤 이야기를 하고 싶으신가요?";
+
+"What went well?" = "어떤 점이 맘에 드셨나요?";
+
+"When someone follows them, they'll be listed here." = "다른 사람이 이 사용자들을 팔로우하면 여기에 표시됩니다.";
+
+"When someone follows you, they'll be listed here." = "다른 사람이 나를 팔로우하면 여기에 표시됩니다.";
+
+"When they do, it'll show up here." = "팔로워가 추가되면 여기에 표시됩니다.";
+
+"When they do, they'll be listed here." = "다른 사용자를 팔로우하면 여기에 표시됩니다.";
+
+"When you do, it'll show up here" = "사용자를 팔로우하면 여기에 표시됩니다.";
+
+"When you do, they'll be listed here." = "팔로워가 추가되면 여기에 표시됩니다.";
+
+"Yes (Copyright Violation)" = "예";
+
+"You already have a linked Twitter account. Please use this in the future to broadcast from Twitter" = "이미 연결된 트위터 계정이 있습니다. 나중에 트위터에서 생방송을 진행할 때 사용하세요";
+
+"You are now" = "현재 상태";
+
+"You aren't following anyone yet" = "아무도 팔로우하고 있지 않습니다.";
+
+"You aren't following anyone." = "아무도 팔로우하지 않고 있습니다.";
+
+"You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests. (Offensive Report Modal)" = "보고 싶지 않은 생방송을 하는 사용자를 차단할 수 있습니다. 차단한 사용자가 게스트일 경우 계속 보이게 됩니다.";
+
+"You can block a user whose broadcasts you no longer want to see. (Offensive Report Modal)" = "보고 싶지 않은 생방송을 하는 사용자를 차단할 수 있습니다.";
+
+"You can give •|•%@•|• of these" = "•|•%@•|•을(를) 선물할 수 있습니다";
+
+"You can't broadcast right now (Copyright Violation)" = "지금은 생방송할 수 없습니다.";
+
+"You can't watch a broadcast while you're still broadcasting." = "생방송을 하며 다른 생방송을 시청할 수 없습니다.";
+
+"You can’t watch this because it included a copyrighted work by {Full Name}. Learn more (Copyright Violation)" = "%@ 님이 저작권을 가진 저작물을 포함했기 때문에 시청할 수 없습니다. •|•자세히 알아보기•|•";
+
+"You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster." = "팬이 •|•슈퍼 하트•|•를 선물하면 별을 모을 수 있습니다. 슈퍼 생방송 자키가 되어 별을 현금으로 인출하세요.";
+
+"You didn't vote... <link>Learn about Moderation</link>" = "답변을 남기지 않았습니다... •|•댓글 관리에 대해 자세히 알아보기•|•";
+
+"You don't have any followers yet" = "아직 팔로워가 없습니다.";
+
+"You earn stars from Super Hearts" = "슈퍼 하트로 별을 획득했습니다";
+
+"You haven't broadcasted yet" = "아직 생방송을 진행하지 않았습니다.";
+
+"You were <bold>blocked</bold> by the broadcaster" = "해당 생방송 자키가 나를 •|•차단•|•했습니다";
+
+"You will lose any unsaved changes. Are you sure you want to leave this view?" = "저장하지 않은 변경사항이 유실됩니다. 이 보기를 끝내시겠습니까?";
+
+"You will lose the stars you received" = "받은 별을 잃게 됩니다";
+
+"You're Waiting to Join (Guest Calling Menu)" = "참여 대기 중...";
+
+"Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv" = "저작권 관련 삭제 요청이 접수되어 계정이 비활성화되었습니다. help@pscp.tv로 문의해주세요.";
+
+"Your account has been disabled. Please contact help@pscp.tv" = "계정이 비활성화되었습니다. help@pscp.tv로 문의해주세요.";
+
+"Your broadcast has been disabled (Copyright Violation)" = "생방송이 비활성화되었습니다.";
+
+"Your broadcast matches a copyrighted work (Copyright Violation)" = "귀하의 생방송이 저작권이 있는 저작물과 일치합니다.";
+
+"Your broadcast's thumbnail has been updated to the current screen." = "생방송 미리보기 이미지가 현재 화면으로 설정되었습니다.";
+
+"Your dispute claim was submitted (Copyright Violation)" = "이의 제기 신청서가 제출되었습니다.";
+
+"Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•." = "더 나은 생방송 이용에 있어 회원님의 피드백이 중요합니다. 앞으로 설문조사에 참여하고 싶지 않으실 경우 언제든지 •|•설정•|• 에서 취소하실 수 있습니다.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts." = "내 메시지(•|•\"%@\"•|•)가 가학적 콘텐츠로 분류되어 숨김 처리되었습니다. 모든 생방송에서 댓글 기능이 제한되었습니다.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast." = "내 메시지(•|•\"%@\"•|•)가 가학적인 콘텐츠로 분류되어 숨김 처리되었습니다. 이 생방송에서 댓글 기능이 제한되었습니다.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "내 메시지(•|•\"%@\"•|•)가 가학적인 콘텐츠로 분류되어 숨김 처리되었습니다. 모든 생방송에서 댓글 기능이 일시적으로 제한되었습니다.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast." = "내 메시지(•|•\"%@\"•|• )가 가학성으로 분류되어 숨김 처리되었습니다. 모든 생방송에서 댓글 기능이 일시적으로 제한되었습니다.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts." = "내 메시지(•|•\"%@\"•|• )가 스팸으로 분류되어 숨김 처리되었습니다. 모든 생방송에서 댓글 기능이 제한되었습니다.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast." = "내 메시지(•|•\"%@\"•|• )가 스팸으로 분류되어 숨김 처리되었습니다. 이 생방송에서 댓글 기능이 제한되었습니다.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "내 메시지(•|•\"%@\"•|• )가 스팸으로 분류되어 숨김 처리되었습니다. 모든 생방송에서 댓글 기능이 일시적으로 제한되었습니다.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast." = "내 메시지(•|•\"%@\"•|• )가 스팸으로 분류되어 숨김 처리되었습니다. 이 생방송에서 댓글 기능이 일시적으로 제한되었습니다.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts." = "내 메시지(•|•\"%@\"•|• )가 숨김 처리되었습니다. 모든 생방송에서 댓글 기능이 제한되었습니다.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast." = "내 메시지(•|•\"%@\"•|• )가 숨김 처리되었습니다. 이 생방송에서 댓글 기능이 제한되었습니다.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts." = "내 메시지(•|•\"%@\"•|• )가 숨김 처리되었습니다. 모든 생방송에서 댓글 기능이 일시적으로 제한되었습니다.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast." = "내 메시지(•|•\"%@\"•|• )가 숨김 처리되었습니다. 이 생방송에서 댓글 기능이 일시적으로 제한되었습니다.";
+
+"Your settings are about to automatically delete this broadcast." = "설정에 따라 이 생방송이 자동으로 삭제될 예정입니다.";
+
+"Your settings will automatically delete this broadcast in %@" = "설정에 따라 이 생방송이 %@ 후에 자동으로 삭제될 예정입니다";
+
+"Your video will be available for replay after the event has ended. (Copyright Violation)" = "이벤트가 끝나면 동영상을 다시보기할 수 있습니다.";
+
+"Your viewers have been invited to join (Local Chat Prompt)" = "시청자를 참여하도록 초대했습니다";
+
+"You’re enrolled in automatic monthly cash outs. (Stars Profile)" = "월간 자동 현금 인출에 등록되었습니다.";
+
+"You’ve blocked @username. Tap to report and share more details. (Should Report Guest User Chat Prompt)" = "•|•@%@•|• 님을 차단했습니다. 탭하여 신고하고 세부사항을 알려주세요";
+
+"[placeholder]" = "[placeholder]";
+
+"beta-feedback@pscp.tv" = "beta-feedback@pscp.tv";
+
+"coin bonus" = "%i%% 추가";
+
+"coin received (accessibility label)" = "코인 받음";
+
+"coins received (accessibility label)" = "코인 받음";
+
+"contact@pscp.tv" = "contact@pscp.tv";
+
+"current audience" = "현재 시청자";
+
+"failed" = "실패";
+
+"following (accessibility hint)" = "언팔로우하려면 두 번 탭하세요.";
+
+"following (accessibility label)" = "팔로잉";
+
+"for fine control" = "미세조정용";
+
+"heart received (accessibility label)" = "개 하트 받음";
+
+"hearts received (accessibility label)" = "개 하트 받음";
+
+"https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119" = "https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119";
+
+"https://pscp.tv/i/super/terms" = "https://pscp.tv/i/super/terms";
+
+"iPad doesn’t support broadcasting from Split View." = "아이패드의 스플릿 스크린 모드에서는 생방송이 지원되지 않습니다.";
+
+"invited" = "초대됨";
+
+"invited followers" = "초대된 팔로워";
+
+"it's their first day on Periscope" = "Periscope에 오늘 가입한 사용자입니다.";
+
+"not following (accessibility hint)" = "팔로우하려면 두 번 탭하세요.";
+
+"not following (accessibility label)" = "팔로우하지 않음";
+
+"people" = "사람들";
+
+"per Broadcast Minute (CELL)" = "시청 시간/생방송 시간";
+
+"per Viewer (CELL)" = "시청 시간/시청자 수";
+
+"person" = "사람";
+
+"poor" = "약함";
+
+"posting publicly on Periscope" = "Periscope에 공개 생방송";
+
+"posting publicly on Twitter" = "트위터에 공개 생방송";
+
+"selected Amplify Program" = "선택된 Amplify 프로그램";
+
+"star received (accessibility label)" = "별 받음";
+
+"stars received (accessibility label)" = "별 받음";
+
+"tap to change Amplify Program" = "Amplify 프로그램을 변경하려면 탭하세요";
+
+"tap to change Amplify program" = "Amplify 프로그램을 변경하려면 탭하세요";
+
+"tap to change audience" = "시청자를 변경하려면 탭하세요";
+
+"to seek" = "시간 탐색";
+
+"you hung up (Guest Caller Hung Up Chat Message Event)" = "전화를 끊었습니다.";
+
+"you were added (New Guest Caller Chat Message Event)" = "내가 추가되었습니다";
+
+"you were removed (Guest Caller Was Removed Chat Message Event)" = "내가 삭제되었습니다";
+
+"•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•." = "•|•%1$@ 님이•|• 생방송 시작시간을•|•%2$@•|•로 업데이트 했습니다.";
+
+"•|•%@•|• are guests (Broadcast Guests Social Proof)" = "•|•%@•|• 님이 게스트로 참여하고 있습니다";
+
+"•|•%@•|• invited you (Broadcast Guest Invitation Social Proof)" = "•|•%@•|• 님이 나를 초대함";
+
+"•|•%@•|• is a guest (Broadcast Guest Social Proof)" = "•|•%@•|• 님이 게스트로 참여하고 있습니다";
+
+"•|•%@•|• shared (Broadcast Share Social Proof)" = "•|•%@•|• 님이 공유한 생방송";
+
+"•|•%@•|• was a guest (Broadcast Guest Social Proof)" = "•|•%@•|• 님은 게스트였습니다";
+
+"•|•%@•|• were guests (Broadcast Guests Social Proof)" = "•|•%@•|• 님이 게스트로 참여했습니다";
+
+"•|•%@•|•\nBroadcasts" = "•|•%@•|•\n생방송";
+
+"•|•%@•|•\nFollowers" = "•|•%@•|•\n팔로워";
+
+"•|•%@•|•\nFollowing" = "•|•%@•|•\n팔로잉";
+
+"•|•@%1$@•|• was muted by •|•%2$@•|•" = "•|•%2$@•|• 님이 •|•@%1$@•|• 님을 뮤트했습니다.";
+
+"•|•@%1$@•|• was unmuted by •|•%2$@•|•" = "•|•%2$@•|• 님이 •|•@%1$@•|• 님을 뮤트했습니다.";
+
+"•|•@%@•|• Retweeted on" = "•|•@%@•|• 님이 리트윗:";
+
+"•|•@%@•|• shared on" = "•|•@%@•|• 님이 공유";
+
+"•|•Muted•|• by %@" = "%@ 님이 •|•뮤트함•|•";
+
+"•|•Not enough coins.•|• Get more coins to keep giving Super Hearts." = "•|•코인이 부족합니다.•|• 슈퍼 하트를 계속 선물하려면 코인이 더 필요합니다.";
+
+"•|•Press & Hold•|• the video to skip ahead" = "앞으로 건너뛰려면 동영상을 •|•길게 누르세요•|•.";
+
+"•|•Press & Hold•|• to skip back or ahead." = "앞으로 또는 뒤로 건너뛰려면 •|•길게 누르세요•|•";
+
+"•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one." = "•|•슈퍼 하트가 켜진 상태입니다.•|• 생방송을 탭하여 내 첫 슈퍼 하트를 선물할 생방송 자키를 찾아보세요.";
+
+"•|•Support %@•|• by giving Super Hearts!" = "슈퍼 하트를 보내 •|•%@ 님을 지원하세요!•|•";
+
+"•|•Unmuted•|• by %@" = "%@ 님이 •|•언뮤트함•|•";
+
+"•|•You need more coins•|• to give Super Hearts" = "슈퍼 하트를 선물하려면 •|•코인이 더 필요합니다•|•";
+
+"•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast." = "내 댓글(•|•\"%2$@\"•|•) 때문에 %1$@ 관리자 중 한 명이 •|•나를 뮤트했습니다•|•. 이 생방송에서 더 이상 채팅할 수 없습니다.";
+
+"•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast." = "%@의 관리자 한 명이 •|•나를 언뮤트했습니다•|•. 이제 이 생방송에서 채팅할 수 있습니다.";
+

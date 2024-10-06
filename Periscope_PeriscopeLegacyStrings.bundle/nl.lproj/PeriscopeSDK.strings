@@ -1,0 +1,1448 @@
+"%@ New Messages" = "%@ nieuwe berichten";
+
+"%@ Viewer (Broadcast Info)" = "%@ kijker";
+
+"%@ Viewers (Broadcast Info)" = "%@ kijkers";
+
+"%@ ago" = "%@ geleden";
+
+"%@ doesn't have any followers yet" = "%@ heeft nog geen volgers";
+
+"%@ has not broadcasted yet" = "%@ heeft nog niet uitgezonden";
+
+"%@ is LIVE (broadcast title)" = "%@ is LIVE";
+
+"%@ isn't following anyone yet" = "%@ volgt nog niemand";
+
+"%@ joined" = "neemt deel";
+
+"%@ wants you to moderate comments. Tap on comments to mute them." = "%@ wil dat jij reacties beoordeelt. Tik op reacties om ze te verbergen.";
+
+"%@ wants you to moderate comments. Tap or swipe left on comments to mute them." = "%@ wil dat jij reacties beoordeelt. Tik op reacties of swipe ze naar links om ze te negeren.";
+
+"%@ was live  (broadcast title)" = "%@ was live";
+
+"%d More Live Viewers" = "andere kijkers";
+
+"%d More Replay Viewers" = "andere herhalingkijkers";
+
+"%d More Viewers" = "andere kijkers";
+
+"%ldd (days)" = "%ldd";
+
+"%ldh (hours)" = "%ldu";
+
+"%ldm (minutes)" = "%ldm";
+
+"%lds (seconds)" = "%lds";
+
+"%ldy (years)" = "%ldj";
+
+"(EDITED)" = "(BEWERKT)";
+
+"(Skip to) LIVE" = "LIVE";
+
+"1 More Live Viewer" = "andere kijker";
+
+"1 More Replay Viewier" = "andere herhalingkijker";
+
+"1 More Viewer" = "andere kijker";
+
+"1 New Message" = "1 nieuw bericht";
+
+"@username \"Tap to cancel\" (Add Guest Caller Chat Message Event)" = "Tik om te annuleren";
+
+"@username \"canceled\" (Add Guest Caller Chat Message Event)" = "heeft geannuleerd";
+
+"@username \"has asked to join\" (Add Guest Caller Chat Message Event)" = "heeft gevraagd om in te bellen";
+
+"@username \"hung up\" (Guest Caller Hung Up Chat Message Event)" = "•|•@%@•|• heeft opgehangen";
+
+"@username \"was added\" (Add Guest Caller Chat Message Event)" = "is toegevoegd";
+
+"@username \"was added\" (New Guest Caller Chat Message Event)" = "•|•@%@•|• is toegevoegd";
+
+"@username \"was removed\" (Add Guest Caller Chat Message Event)" = "is verwijderd";
+
+"@username \"was removed\" (Guest Caller Was Removed Chat Message Event)" = "•|•@%@•|• is verwijderd";
+
+"A Periscope account is required to edit a broadcast." = "Om een uitzending te bewerken, is een Periscope-account vereist.";
+
+"A Periscope account is required to share a broadcast." = "Je hebt een Periscope-account nodig om een uitzending te delen.";
+
+"A broadcast with a star balance was deleted. (History)" = "Een uitzending met sterrensaldo is verwijderd.";
+
+"ACTIVE CONTRIBUTORS" = "ACTIEVE BIJDRAGERS";
+
+"Abuse" = "Wangedrag";
+
+"Abusive Behavior (Report Option)" = "Beledigend gedrag";
+
+"Accept Caller as Guest" = "Accepteer beller als gast";
+
+"Accept Super Hearts (accessibility hint)" = "Dubbeltik om superhartjes te accepteren tijdens deze uitzending.";
+
+"Accept Super Hearts (accessibility label)" = "Accepteer superhartjes";
+
+"Accept as Guest" = "Accepteer als gast";
+
+"Actions (accessibility label)" = "Acties";
+
+"Add Guest (Manage Guest Call-Ins Action Sheet)" = "Voeg gast toe";
+
+"Add guest \n viewer will become a guest broadcaster" = "Voeg gast toe•|•\nkijker wordt gastuitzender•|•";
+
+"All-Time Stars (Stars Profile)" = "Totaal aantal sterren";
+
+"Allow Guests (Tooltip Selected)" = "Sta gasten toe";
+
+"Allow guests / Don't allow guests (accessibility label)" = "Sta gasten toe / Sta gasten niet toe";
+
+"Anything else you'd like to share?" = "Wil je nog iets met ons delen?";
+
+"Are you sure you want to send this message?" = "Weet je zeker dat je dit bericht wilt versturen?";
+
+"Are you sure you want to unblock?" = "Weet je zeker dat je wilt deblokkeren?";
+
+"Are you sure? (title)" = "Weet je het zeker?";
+
+"Ask for Follow (action sheet)" = "Vraag om gevolgd te worden";
+
+"Ask for Share (action sheet)" = "Vraag om gedeeld te worden";
+
+"Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Vraag of je als gast mag inbellen in deze uitzending. Iedereen kan je horen. Je kan op elk moment ophangen.";
+
+"Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Vraag of je als gast mag inbellen in deze uitzending. Iedereen kan je zien en horen. Je kan op elk moment ophangen.";
+
+"Asking to join... Broadcaster must accept you (Local Chat Prompt)" = "Vragen om in te bellen ... \n•|•@%@•|• moet jou eerst accepteren";
+
+"Audio Only (accessibility label)" = "Uitzenden met enkel geluid";
+
+"Audio from: Headphones" = "Geluid via: hoofdtelefoon";
+
+"Audio from: Phone" = "Geluid via: telefoon";
+
+"Back" = "Terug";
+
+"Back (action sheet)" = "Terug";
+
+"Back Camera (accessibility hint)" = "Tik dubbel om over te schakelen op de camera aan de voorkant";
+
+"Back Camera (accessiblity value)" = "Camera aan de achterkant";
+
+"Back to %@" = "Terug naar %@";
+
+"Back to Hearts" = "Terug naar hartjes";
+
+"Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. Learn more (Copyright violation)" = "Omdat je in meerdere uitzendingen materiaal hebt gebruikt waarop auteursrechten rusten, kan je tijdelijk niet uitzenden. •|•Meer informatie•|•";
+
+"Betascope App Feedback" = "Feedback voor Betascope-app";
+
+"Billion Decimal Abbreviation" = "%.1f mld";
+
+"Billion Integer Abbreviation" = "%d mld";
+
+"Block @%@" = "@%@ blokkeren";
+
+"Block @%@ (Offensive Report Modal)" = "Blokkeer @%@";
+
+"Block And Hang Up (Manage Guest Call-Ins Action Sheet)" = "Blokkeer en hang op";
+
+"Block User" = "Blokkeer gebruiker";
+
+"Block Users (%@)" = "Blokkeer gebruikers (%@)";
+
+"Block {Username}" = "Blokkeer @%@";
+
+"Blocked (user modal)" = "Geblokkeerd";
+
+"Blocked by you" = "Geblokkeerd door jou";
+
+"Blocking will dismiss the broadcast and not report to Periscope. (Offensive Report Modal)" = "Als je de uitzending blokkeert, wordt deze afgesloten maar niet aan Periscope gerapporteerd.";
+
+"Broadcast Actions (accessibility hint)" = "Opent een menu van zendacties";
+
+"Broadcast Details (action sheet)" = "Details van uitzending";
+
+"Broadcast Super Heart Auto-Deletion Warning" = "•|•Deze uitzending wordt niet automatisch na 24 uur verwijderd•|• om geen sterren te verliezen van superhartjes die je ontvangt.\n\nAls je wil, kan je de uitzending na afloop verbergen zodat deze niet zichtbaar is voor anderen.";
+
+"Broadcast Title" = "Titel uitzending";
+
+"Broadcast about to expire (Cell)" = "Uitzending vervalt bijna";
+
+"Broadcast creation" = "Aanmaak van uitzendingen";
+
+"Broadcaster Has Disabled Call-Ins (Generic Error Message)" = "De uitzender heeft momenteel de inbellerslijst uitgeschakeld.";
+
+"Broadcaster blocked •|•@%@•|•" = "Uitzender blokkeerde •|•@%@•|•";
+
+"Broadcaster doesn’t accept Super Hearts" = "Zender accepteert geen superhartjes";
+
+"Broadcaster has assigned chat moderators." = "De uitzender heeft gespreksmoderators aangesteld.";
+
+"Broadcaster has to accept your request before you can join as a guest. (Guest Call-In Instructions Subtitle)" = "%@ moet eerst je verzoek accepteren voordat je kan inbellen als gast.";
+
+"Broadcaster is allowing guests to join (Local Chat Prompt)" = "•|•%@•|• laat gasten inbellen";
+
+"Broadcaster is not allowing guests to join (Local Chat Prompt)" = "•|•%@•|• staat inbellen van gasten niet toe";
+
+"Broadcasters earn stars from Super Hearts" = "Uitzenders verdienen sterren met superhartjes";
+
+"Bummer (ReplayKit)" = "Jammer";
+
+"CONCATENTATION_ACCESSIBILITY_STRING" = ".";
+
+"CONTRIBUTORS WHO HAVE LEFT" = "BIJDRAGERS DIE ZIJN VERTROKKEN";
+
+"COULDN'T LOAD REPLAY VIEWERS" = "KON HERHALINGKIJKERS NIET LADEN";
+
+"COULDN'T LOAD VIEWERS" = "KON KIJKERS NIET LADEN";
+
+"Camera Selection (accessibility label)" = "Camera selecteren";
+
+"Cancel" = "Annuleer";
+
+"Cancel (action sheet)" = "Annuleer";
+
+"Cancel Call In Button: \"Cancel Request to Join as a Guest\"" = "Annuleer verzoek om in te bellen als gast";
+
+"Cancel Guest Call-In Instructions Title: \"Waiting to join as a guest...\"" = "Wachten om in te bellen als gast ...";
+
+"Cannot be undone" = "Kan niet ongedaan worden gemaakt";
+
+"Capture Thumbnail (action sheet)" = "Miniatuur kiezen";
+
+"Cash Outs (Stars Profile)" = "Uitbetalingen";
+
+"Cash out your stars, and continue using live video on Twitter" = "Verzilver je sterren en blijf live video gebruiken op Twitter";
+
+"Change Amplify Program" = "Amplify-programma wijzigen";
+
+"Change Expiration (Cell)" = "Vervalmoment wijzigen";
+
+"Change Expiration Subtitle (Cell)" = "Automatisch verwijderen in %@";
+
+"Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program." = "Door het wijzigen van het Amplify-programma in •|•%@•|• wordt je oude Tweet verwijderd en een nieuwe Tweet geplaatst met het nieuwe programma.";
+
+"Chatroom too full..." = "Chatroom vol...";
+
+"Child Safety (Report Option)" = "Kindveiligheid";
+
+"Choose guests to add. You can remove them at any time. (Manage Guest Callers Page Subtitle)" = "Kies gasten om toe te voegen. Je kan ze op elk moment verwijderen.";
+
+"Close (accessibility label)" = "Sluit";
+
+"Comment Tip Option 1" = "Schrijf een reactie en laat •|•%@•|• weten dat je er bent.";
+
+"Comment Tip Option 2" = "Laat •|•%@•|• weten waarvandaan je kijkt!";
+
+"Comment Tip Option 3" = "Zeg hallo om te chatten met •|•%@•|• en andere kijkers.";
+
+"Commenting is OFF" = "Reageren is UIT";
+
+"Comments Received (CELL)" = "Ontvangen reacties";
+
+"Comments Received Unavailable (CELL)" = "n.v.t.";
+
+"Compose Direct Message (Accessibility Label)" = "Stel privébericht op";
+
+"Compose New Tweet (Accessibility Label)" = "Stel nieuwe Tweet op";
+
+"Confirm Call In Button: \"OK, Ask to Join\"" = "Oké, vraag om in te bellen";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile and audio will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and hear you. This may include people you’ve blocked on either app.\"" = "•\tJe profiel en geluid worden onderdeel van deze uitzending en kunnen niet worden verwijderd, tenzij %1$@ de herhaling verwijdert.\n\n•\tIedereen die kijkt op Periscope of Twitter kan zien dat jij hebt ingebeld in de uitzending van %1$@ en kan je horen. Dit kan ook gelden voor mensen die je in een van de apps hebt geblokkeerd.";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile, audio and video will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and see you. This may include people you’ve blocked on either app.\"" = "•\tJe profiel en geluid worden onderdeel van deze uitzending en kunnen niet worden verwijderd, tenzij %1$@ de herhaling verwijdert.\n\n•\tIedereen die kijkt op Periscope of Twitter kan zien dat jij hebt ingebeld in de uitzending van %1$@ en kan je horen. Dit kan ook gelden voor mensen die je in een van de apps hebt geblokkeerd.";
+
+"Confirm Guest Call-In Instructions Title: \"Good to know...\"" = "Goed om te weten ...";
+
+"Connecting to chatroom" = "Verbinden met chatroom";
+
+"Connection Error" = "Verbindingsfout";
+
+"Connection too" = "Verbinding is";
+
+"Contact Us (action sheet)" = "Neem contact met ons op";
+
+"Contributors" = "Bijdragers";
+
+"Copy Profile URL" = "Kopieer URL voor profiel";
+
+"Current Star Balance (Stars Profile)" = "Huidige aantal sterren";
+
+"Current Time (Accessibility Label)" = "Huidig moment";
+
+"Dear Periscope Team," = "Beste Periscope-team,";
+
+"Delete Broadcast" = "Verwijder uitzending";
+
+"Delete Broadcast (action sheet)" = "Verwijder uitzending";
+
+"Delete Broadcast Now" = "Verwijder uitzending nu";
+
+"Describe the issue (Report Option)" = "Beschrijf het probleem";
+
+"Describe the issue with %@ (Report Option)" = "Beschrijf het probleem met @%@";
+
+"Describe the issue with @%1$@ at %2$@ (Report Option)" = "Beschrijf het probleem met @%1$@ op %2$@";
+
+"Describe the issue you are seeing at %@ (Report Option)" = "Beschrijf het probleem dat je tegenkomt op %@";
+
+"Direct Message (Compose)" = "Privébericht";
+
+"Disable Audio Only Broadcast" = "Schakel uitzendingen met enkel geluid uit";
+
+"Disabled for all broadcasts" = "Uitgeschakeld voor alle uitzendingen";
+
+"Disabled for this broadcast" = "Uitgeschakeld voor deze uitzending";
+
+"Discard Changes" = "Maak wijzigingen ongedaan";
+
+"Display Photo (action sheet)" = "Foto weergeven";
+
+"Dispute Claim (Copyright Violation)" = "Betwist claim";
+
+"Do not notify my followers (Guest Call-In Notify Followers Option)" = "Meld het mijn volgers niet";
+
+"Don't Allow Guests (Manage Guest Broadcasters Call-Ins List)" = "Sta gasten niet toe";
+
+"Don't Allow Guests (Tooltip)" = "Sta gasten niet toe";
+
+"Don't Auto-Delete" = "Niet automatisch verwijderen";
+
+"Don't Send (Blocked Modal)" = "Stuur niet";
+
+"Done" = "Gereed";
+
+"Done (action sheet)" = "Gereed";
+
+"Double Tap anywhere to Exit Theater Mode (accessibility label)" = "Tik ergens om de Theatermodus te verlaten";
+
+"Double Tap to <bold>Flip Camera</bold>" = "Dubbeltik voor •|•andere camera•|•";
+
+"Double tap to allow or disallow guests (accessibility hint)" = "Tik dubbel om inbellen van gasten in- of uit te schakelen";
+
+"Duration (CELL)" = "Duur";
+
+"END (graph)" = "EINDE";
+
+"ENDED" = "AFGELOPEN";
+
+"Edit Broadcast" = "Bewerk uitzending";
+
+"Edit Broadcast (action sheet)" = "Bewerk uitzending";
+
+"Edit Broadcast Unavailable" = "Uitzending bewerken is niet beschikbaar";
+
+"Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured." = "Als je je uitzending bewerkt, wijzig je de manier waarop die eruitziet voor kijkers. Deze wijzigingen hebben geen invloed op eerdere Tweets of meldingen.";
+
+"Enable Audio Only Broadcast" = "Schakel uitzending met enkel geluid in";
+
+"Enable Email" = "Schakel e-mail in";
+
+"Enable camera (Permissions Screen)" = "Schakel camera in";
+
+"Enable microphone (Permissions Screen)" = "Schakel microfoon in";
+
+"Enable/Disable Audio Only Broadcast (accessibility hint)" = "Tik dubbel om uitzendingen met enkel geluid in- of uit te schakelen";
+
+"Enable/Disable Audio Only Broadcast (accessibility label)" = "Schakel uitzendingen met enkel geluid in of uit";
+
+"Ended" = "Beëindigd";
+
+"Engaging Chat" = "Boeiende chat";
+
+"Error (ReplayKit)" = "Fout";
+
+"Error accessing audio from microphone." = "Er is een fout opgetreden bij het gebruiken van audio van de microfoon.";
+
+"Error accessing history." = "Er is een fout opgetreden bij het openen van de geschiedenis.";
+
+"Error saving video to Camera Roll" = "Er is een fout opgetreden bij het bewaren van de video in de filmrol";
+
+"Error setting Amplify Program (title)" = "Fout bij het instellen van het Amplify-programma";
+
+"Every heart you send will be a Super Heart" = "Elk hartje dat je stuurt, wordt een superhartje";
+
+"Everybody can chat" = "Iedereen kan chatten";
+
+"FEATURED" = "UITGELICHT";
+
+"FOLLOWERS (user profile modal)" = "VOLGERS";
+
+"FOLLOWING (user profile modal)" = "VOLGEND";
+
+"Final List separator" = "en";
+
+"Fine Control" = "Fijnafstemming";
+
+"First Super Heart" = "Eerste superhartje";
+
+"Flip Camera (action sheet)" = "Andere camera";
+
+"Follow (user modal)" = "Volg";
+
+"Follow request sent. (chat message)" = "Volgverzoek verstuurd.";
+
+"Follow the broadcaster to catch their next broadcast." = "Volg de uitzender om de volgende uitzending te bekijken.";
+
+"Follow •|•%@•|• to catch their next broadcast" = "Volg •|•%@•|• om de volgende uitzending te bekijken";
+
+"Followed by %1$@ and %2$@" = "Gevolgd door %1$@ en %2$@";
+
+"Followed by %1$@, %2$@, %3$@ and %4$i others" = "Gevolgd door %1$@, %2$@, %3$@ en %4$i anderen";
+
+"Followed by %1$@, %2$@, and %3$@" = "Gevolgd door %1$@, %2$@ en %3$@";
+
+"Followed by %@" = "Gevolgd door %@";
+
+"Followers button (accessibility hint)" = "Tik dubbel om volgers weer te geven.";
+
+"Following (user modal)" = "Volgend";
+
+"Following button (accessibility hint)" = "Tik dubbel om gevolgde gebruikers weer te geven.";
+
+"Front Camera (accessibility hint)" = "Tik dubbel om over te schakelen op de camera aan de achterkant";
+
+"Front Camera (accessiblity value)" = "Camera aan de voorkant";
+
+"Get Coins" = "Koop munten";
+
+"Give Super Hearts (menu button)" = "Geef superhartjes";
+
+"Go LIVE" = "Ga LIVE";
+
+"Go LIVE to %@" = "Ga LIVE voor %@";
+
+"Go LIVE together (Guest Broadcasting Modal Title)" = "Ga samen LIVE";
+
+"Go to Twitter Profile" = "Ga naar Twitter-profiel";
+
+"Good Viewer Count" = "Goed aantal kijkers";
+
+"Got It (Button Title)" = "Begrepen";
+
+"Got it (Copyright Violation)" = "Ik snap het";
+
+"Got it (ReplayKit)" = "Ik snap het";
+
+"Got it!" = "Ik snap het!";
+
+"Guest Action Sheet Report Item" = "Rapporteer";
+
+"Guest Call In Choice Label: \"Camera and microphone\"" = "Camera en microfoon";
+
+"Guest Call In Choice Label: \"Microphone only\"" = "Alleen microfoon";
+
+"Guest Call-In Audio Only Permissions Subtitle beneath Title: \"Enable microphone to become a guest\"" = "Schakel microfoon in om gast te worden";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request. Learn more\"" = "Je mag inbellen als de uitzender je verzoek accepteert. •|•Meer informatie•|•";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request.\"" = "Je mag inbellen als de uitzender je verzoek accepteert.";
+
+"Guest Call-In Instructions Title: \"Ask to Join\"" = "Vraag om in te bellen";
+
+"Guest Call-In Instructions Title: \"Join as a guest\"" = "Bel in als gast";
+
+"Guest Call-In Permissions Subtitle beneath Title: \"Enable camera and microphone to become a guest\"" = "Schakel camera en microfoon in om gast te worden";
+
+"Guest Call-In Permissions Title: \"Guest setup\"" = "Instellingen gasten";
+
+"Guest List (Manage Guest Callers Page Title)" = "Gastenlijst";
+
+"Guest Was Banned Chat Message (Periscope)" = "•|•@%@•|• is gerapporteerd en beoordeeld door Periscope. Hij of zij heeft de communityrichtlijnen geschonden.";
+
+"Guest Was Banned Chat Message (Twitter)" = "•|•@%@•|• is gerapporteerd en beoordeeld door Twitter. Hij of zij heeft de Twitter-regels overtreden.";
+
+"Guests Not Allowed (Manage Guest Broadcasters Call-Ins List)" = "Gasten niet toegestaan";
+
+"Guests can now ask to join. Use this icon to add or remove guests at any time. (Guest Broadcasting Enabled Prompt)" = "Gasten kunnen nu vragen om in te mogen bellen. Gebruik dit pictogram om gasten toe te voegen of te verwijderen.";
+
+"HEART" = "HARTJE";
+
+"HEARTS" = "HARTJES";
+
+"Half-Speed" = "Halve snelheid";
+
+"Hang Up (Guest Calling Menu)" = "Hang op";
+
+"Hang Up (Manage Guest Call-Ins Action Sheet)" = "Hang op";
+
+"Hang Up Button Label: \"Hang Up\"" = "Hang op";
+
+"Hang Up Subtitle (Audio Only): \"Stop sharing microphone\"" = "Stop delen microfoon";
+
+"Hang Up Subtitle (Camera + Microphone): \"Stop sharing camera and microphone\"" = "Stop met delen camera en microfoon";
+
+"Hang Up on Guest or Cancel Guest From Joining" = "Hang beller op of annuleer inbellen gast";
+
+"Hang up" = "Hang op";
+
+"Harassment" = "Intimidatie";
+
+"Hateful Conduct (Report Option)" = "Haatdragend gedrag";
+
+"Heart Sent (accessiblity announcement)" = "Hartje verstuurd";
+
+"Hearts & Chats off" = "Hartjes en chat uitgeschakeld";
+
+"Hearts & Chats on" = "Hartjes en chat ingeschakeld";
+
+"Help us moderate this comment..." = "Help ons deze reactie te beoordelen...";
+
+"Help us understand the problem.\nWhat issue with @%@ are you reporting?" = "Vertel ons meer.\nWat is er mis met het account @%@ dat je rapporteert?";
+
+"Hide Broadcast" = "Verberg uitzending";
+
+"Hide everything except video (action sheet)" = "Verberg alles behalve video";
+
+"History (profile view title)" = "Geschiedenis";
+
+"History button (accessibility hint)" = "Tik dubbel om recente uitzendingen weer te geven.";
+
+"How can we improve?" = "Hoe kunnen we dingen verbeteren?";
+
+"How was your broadcasting experience?" = "Hoe was je ervaring met de uitzending?";
+
+"I'm Not Interested in @%@" = "Ik ben niet geïnteresseerd in @%@";
+
+"If this broadcast depicts pornography or sexual acts, please tap below. (Report Sexual Content Modal)" = "Tik hierbeneden als er in deze uitzending seksuele activiteit of pornografie voorkomt.";
+
+"If you believe that this broadcast places a child at risk, please tap below. (Report Child Safety Modal)" = "Tik hieronder als deze uitzending kindonvriendelijk is.";
+
+"If you believe this broadcast contains violence or someone is being physically threatened, please tap below. (Report Violence Modal)" = "Tik hierbeneden als deze uitzending geweld bevat of als iemand lichamelijk wordt bedreigd.";
+
+"If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Als je vindt dat deze uitzending haatdragend is naar een beschermde categorie (bijv. ras, religie, geslacht, seksuele oriëntatie, handicap), tik dan hieronder.";
+
+"If you believe this broadcast exposes private information, please tap below. (Report Private Information Modal)" = "Als je vindt dat in deze uitzending privégegevens worden getoond, tik dan hieronder.";
+
+"If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below. (Report Harassment Modal)" = "Als je vindt dat deze uitzending iemand lastigvalt, intimideert, of angst aanjaagt om hem of haar het zwijgen op te leggen, tik dan hieronder.";
+
+"If you believe this guest is contemplating or encouraging suicide or self harm, please tap below. (Report Self Harm Modal)" = "Als je vindt dat dat deze persoon zelfdoding of zelfverwonding overweegt of aanmoedigt, tik dan hieronder.";
+
+"If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Als je vindt dat deze gast haatdragend is naar een beschermde categorie (bijv. ras, religie, geslacht, seksuele oriëntatie, handicap), tik dan hieronder.";
+
+"If you believe this guest is exposing private information, please tap below. (Report Private Information Modal)" = "Als je vindt dat deze gast privégegevens deelt, tik dan hieronder.";
+
+"If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below. (Report Harassment Modal)" = "Als je vindt dat deze gast iemand lastigvalt, intimideert, of angst aanjaagt om hem of haar het zwijgen op te leggen, tik dan hieronder.";
+
+"If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below. (Report Violence Modal)" = "Als je vindt dat deze gast specifieke gewelddadige bedreigingen uit die te maken hebben met fysieke veiligheid of welzijn, tik dan hieronder.";
+
+"If you believe this guest is sharing content that places a child at risk, please tap below. (Report Child Safety Modal)" = "Als je vindt dat deze gast kindonvriendelijke content deelt, tik dan hieronder.";
+
+"If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below. (Report Sexual Content Modal)" = "Als je vindt dat deze gast ongepaste seksuele content zoals pornografie deelt, tik dan hieronder.";
+
+"If you believe this individual is contemplating suicide or self harm, please tap below. (Report Self Harm Modal)" = "Tik hierbeneden als je denkt dat deze persoon zelfmoord of zelfverwonding overweegt.";
+
+"If you delete this broadcast, you will lose the stars that you received. This cannot be undone." = "Als je deze uitzending verwijdert, raak je je ontvangen sterren kwijt. Dit kan je niet ongedaan maken.";
+
+"Initializing video stream..." = "Videostream initialiseren...";
+
+"Invite Guests (Manage Guest Broadcasters Call-Ins List)" = "Nodig gasten uit";
+
+"Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Nodig kijkers uit als gasten in je uitzending. Iedereen kan ze horen. Je kan ze op elk moment toevoegen of verwijderen.";
+
+"Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Nodig kijkers uit als gasten in je uitzending. Iedereen kan ze zien en horen. Je kan ze op elk moment toevoegen of verwijderen.";
+
+"Join as a Guest (Guest Calling Menu)" = "Bel in als gast";
+
+"Joined %@" = "Geregistreerd in %@";
+
+"Joining as a guest... (Guest Call-In Countdown Screen Title)" = "Inbellen als gast ...";
+
+"Keep broadcasting to collect more stars!" = "Blijf uitzenden om nog meer sterren te verdienen!";
+
+"Keep stars received" = "Je behoudt je ontvangen sterren";
+
+"LIVE" = "LIVE";
+
+"LIVE VIEWER" = "KIJKER";
+
+"LIVE VIEWERS" = "KIJKERS";
+
+"LIVE Video (Broadcast Audience)" = "LIVE video";
+
+"LIVE on #Periscope" = "LIVE op #Periscope";
+
+"LIVE on #Periscope: %@" = "LIVE op #Periscope: %@";
+
+"LOADING" = "LADEN";
+
+"LOST CONNECTION" = "VERBINDING VERLOREN";
+
+"Later (alert view)" = "Later";
+
+"Learn More" = "Meer informatie";
+
+"Learn More (Stars Profile)" = "Meer informatie";
+
+"Leave Broadcast" = "Verlaat uitzending";
+
+"Limited by Broadcaster" = "Beperkt door uitzender";
+
+"Limited for %@" = "Beperken voor %@";
+
+"List separator" = ",";
+
+"Live Time Watched (CELL)" = "Live weergavetijd";
+
+"Live watch time per minute tooltip" = "Voor elke minuut dat deze uitzending live was, hebben kijkers in totaal %@ gekeken.";
+
+"Loading History." = "Geschiedenis laden.";
+
+"Loading followers" = "Volgers aan het laden";
+
+"Loading following" = "Volgend aan het laden";
+
+"Loading history" = "Geschiedenis aan het laden";
+
+"Loading your followers" = "Je volgers worden geladen";
+
+"Loading your following" = "Je gevolgde gebruikers worden geladen";
+
+"Location Permissions Required" = "Locatiemachtigingen vereist";
+
+"Location Unknown" = "Locatie onbekend";
+
+"Logged Out" = "Uitgelogd";
+
+"Login Error (ReplayKit)" = "Inloggen vereist";
+
+"Login Error Instructions (ReplayKit)" = "Open de Periscope-app om in te loggen. Kom daarna hier terug om je uitzending te starten.";
+
+"Looks OK" = "Ziet er prima uit";
+
+"Looks like the connection was lost. Reconnecting... (Toast)" = "De verbinding is verbroken. Opnieuw verbinden ...";
+
+"Lose stars received" = "Je raakt je ontvangen sterren kwijt";
+
+"Low Viewer Count" = "Laag aantal kijkers";
+
+"Low disk space. A portion of this broadcast will not be available for replay later." = "Weinig opslagruimte. Voor een deel van deze uitzending is later geen herhaling beschikbaar.";
+
+"Majority voted <destructive emphasis> Abuse </destructive emphasis>\nThe commenter's chat has been limited." = "Meerderheid heeft gestemd op •|• Beledigend•|•nDe chat van degene die de reactie heeft geplaatst, is beperkt.";
+
+"Majority voted <destructive emphasis> Looks OK  </destructive emphasis>" = "Meerderheid heeft gestemd op •|• Ziet er prima uit•|•";
+
+"Majority voted <destructive emphasis> Not Sure </destructive emphasis>" = "Meerderheid heeft gestemd op •|• Weet het niet zeker•|•";
+
+"Majority voted <destructive emphasis> Spam </destructive emphasis>\nThe commenter's chat has been limited." = "Meerderheid heeft gestemd op •|• Spam•|•nDe chat van degene die de reactie heeft geplaatst, is beperkt.";
+
+"Makes broadcast visible to everyone" = "Maakt uitzending zichtbaar voor iedereen";
+
+"Makes broadcast visible to invited viewers" = "Maakt uitzending zichtbaar voor uitgenodigde kijkers";
+
+"Manage details about your Broadcast (menu subtitle)" = "Beheer gegevens over je uitzending";
+
+"Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen." = "Berichten als dit bericht worden vaak geblokkeerd. Als je te vaak wordt geblokkeerd, worden je opmerkingen niet meer weergegeven.";
+
+"Million Decimal Abbreviation" = "%.1f mln";
+
+"Million Integer Abbreviation" = "%d mln";
+
+"Moderation Modal Button Label" = "Oké, ik begrijp het";
+
+"Moderation Modal Example Label" = "VOORBEELD";
+
+"Moderation Modal Example Message" = "Twijfelachtig bericht...";
+
+"Moderation Modal Settings Label" = "Je kunt dit uitschakelen in de instellingen.";
+
+"Moderation Modal Subtitle" = "We vragen je af en toe om een reactie te beoordelen door snel te bepalen of het gaat om•|•WANGEDRAG•|• of •|•SPAM•|•. Het beoordelen gebeurt anoniem.";
+
+"Moderation Modal Title" = "Beoordelen";
+
+"Moderator Actions" = "Acties uitgevoerd door moderator";
+
+"Moderator Actions (%@)" = "Acties (%@) uitgevoerd door moderator";
+
+"Moderator •|•%@•|• joined" = "Moderator •|•%@•|• neemt deel";
+
+"ModeratorName muted this message (Message Carousel)" = "•|•%@•|• heeft dit bericht genegeerd";
+
+"Monetize Broadcast" = "Genereer inkomsten met uitzending";
+
+"Monetize Broadcast (expanded cell title)" = "Genereer inkomsten met uitzending";
+
+"Monetize Broadcast (minimized cell title)" = "Genereer inkomsten met uitzending ▾";
+
+"More (following/followers)" = "Meer";
+
+"Mute" = "Demp";
+
+"Mute (accessibility label)" = "Negeer";
+
+"Mute User" = "Negeer gebruiker";
+
+"Mute User Notifications" = "Negeer meldingen van deze gebruiker";
+
+"Muted by Moderator" = "Genegeerd door moderator";
+
+"NEW" = "NIEUW";
+
+"NO LIVE VIEWERS" = "GEEN KIJKERS";
+
+"NO REPLAY VIEWERS" = "GEEN HERHALINGKIJKERS";
+
+"New Broadcaster Education: 3 Guest Limit" = "Je kan maximaal 3 gasten tegelijk hebben.";
+
+"New Tweet (Compose)" = "Nieuwe Tweet";
+
+"No history." = "Geen geschiedenis.";
+
+"No one has asked to join yet. Tap to invite your viewers to join. (Empty Manage Guest Broadcasters Call-Ins List)" = "Er heeft nog niemand gevraagd om in te bellen.\n\nTik om kijkers uit te nodigen om in te bellen.";
+
+"No one is following you." = "Niemand volgt jou.";
+
+"No, stop broadcasting (Copyright Violation)" = "Nee, stop met uitzenden";
+
+"Not Sure" = "Weet het niet zeker";
+
+"Not followed by anyone you're following" = "Niet gevolgd door iemand die jij volgt";
+
+"Notifications (accessiblity label)" = "Meldingen";
+
+"Notifications OFF" = "Meldingen UIT";
+
+"Notifications ON" = "Meldingen AAN";
+
+"Notifications Off (accessibility hint)" = "Tik dubbel om meldingen van deze gebruiker in te schakelen.";
+
+"Notifications Off (accessibility value)" = "Uit";
+
+"Notifications On (accessibility hint)" = "Tik dubbel om meldingen van deze gebruiker uit te schakelen.";
+
+"Notifications On (accessibility value)" = "Aan";
+
+"Notify my followers (Guest Call-In Notify Followers Option)" = "Meld het mijn volgers";
+
+"OK, Got It" = "Oké, ik snap het";
+
+"Offensive Guest (Report Option)" = "Aanstootgevende gast";
+
+"Okay (Report Broadcast Modal)" = "Oké";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Een of meer van je reacties is verborgen wegens WANGEDRAG. Het plaatsen van reacties is uitgeschakeld voor alle uitzendingen.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast." = "Een of meer van je reacties is verborgen wegens WANGEDRAG. Het plaatsen van reacties is uitgeschakeld voor deze uitzending.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Een of meer van je reacties is verborgen wegens WANGEDRAG. Het plaatsen van reacties is tijdelijk uitgeschakeld voor alle uitzendingen.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited." = "Een of meer van je reacties is verborgen wegens WANGEDRAG. Het plaatsen van reacties is tijdelijk uitgeschakeld.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts." = "Een of meer van je reacties is verborgen wegens SPAM. Het plaatsen van reacties is uitgeschakeld voor alle uitzendingen.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast." = "Een of meer van je reacties is verborgen wegens SPAM. Het plaatsen van reacties is uitgeschakeld voor deze uitzending.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Een of meer van je reacties is verborgen wegens SPAM. Het plaatsen van reacties is tijdelijk uitgeschakeld voor alle uitzendingen.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited." = "Een of meer van je reacties is verborgen wegens SPAM. Het plaatsen van reacties is tijdelijk uitgeschakeld.";
+
+"One or more of your comments was hidden. Commenting is disabled for all broadcasts." = "Een of meer van je reacties is verborgen. Het plaatsen van reacties is uitgeschakeld voor alle uitzendingen.";
+
+"One or more of your comments was hidden. Commenting is disabled for this broadcast." = "Een of meer van je reacties is verborgen. Het plaatsen van reacties is uitgeschakeld voor deze uitzending.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts." = "Een of meer van je reacties is verborgen. Het plaatsen van reacties is tijdelijk uitgeschakeld voor alle uitzendingen.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited." = "Een of meer van je reacties is verborgen. Het plaatsen van reacties is tijdelijk uitgeschakeld.";
+
+"One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast." = "Een of meer van je reacties zijn genegeerd door een moderator. Je kan niet langer reacties plaatsen bij deze uitzending.";
+
+"Only available in Periscope" = "Alleen beschikbaar in Periscope";
+
+"Only public broadcasts counted" = "Alleen openbare uitzendingen geteld";
+
+"Only users you follow can chat" = "Alleen gebruikers die je volgt, kunnen chatten";
+
+"Only you can see your hidden broadcasts (menu subtitle)" = "Alleen jij kunt je verborgen uitzendingen zien";
+
+"Other Reason (Report Option)" = "Andere reden";
+
+"Other Reason \n e.g. Foreign Language" = "Andere reden•|•\nbijv. Andere taal•|•";
+
+"Our apologies for the inconvenience." = "Onze excuses voor het ongemak.";
+
+"POOR CONNECTION" = "SLECHTE VERBINDING";
+
+"POSSIBLY NSFW (Interstitial)" = "BEVAT MOGELIJK GEVOELIG OF EXPLICIET MATERIAAL";
+
+"Pause (accessibility label)" = "Pauze";
+
+"Peak (graph label)" = "Piek";
+
+"Periscope App Feedback" = "Feedback voor Periscope-app";
+
+"Periscope account is required." = "Periscope-account is vereist.";
+
+"Periscope is discontinuing on •|•%@•|•" = "Periscope stopt op •|•%@•|•";
+
+"Play (accessibility label)" = "Speel af";
+
+"Please allow some time for all transactions to be posted." = "Het kan even duren voordat alle transacties zijn geplaatst.";
+
+"Positive Community" = "Positieve community";
+
+"Post to Twitter (accessibility hint)" = "Tik dubbel om in te schakelen.";
+
+"Post to Twitter (accessibility label)" = "Plaatsen op Twitter";
+
+"Posting to Twitter OFF" = "Plaats op Twitter UIT";
+
+"Posting to Twitter as @%@" = "Plaats op Twitter als @%@";
+
+"Precise Location Sharing OFF" = "Nauwkeurige locatie delen UIT";
+
+"Precise Location Sharing ON" = "Nauwkeurige locatie delen AAN";
+
+"Private (Broadcast Audience)" = "Privé";
+
+"Private Information (Report Option)" = "Privégegevens";
+
+"Profile (accessibility label)" = "Profiel";
+
+"Profile URL copied" = "URL voor profiel gekopieerd";
+
+"Public (Broadcast Audience)" = "Openbaar";
+
+"Public Hidden (Broadcast Audience)" = "Openbaar (verborgen)";
+
+"Quarter-Speed" = "1/4e snelheid";
+
+"RECENT (user profile modal)" = "RECENT";
+
+"REPLAY VIEWER" = "HERHALINGKIJKER";
+
+"REPLAY VIEWERS" = "HERHALINGKIJKERS";
+
+"Ready to give Super Hearts!" = "Klaar om superhartjes te geven!";
+
+"Received in: (History)" = "Ontvangen in: \"%@\"";
+
+"Received stars (History)" = "Ontvangen sterren.";
+
+"Release to <bold>Leave</bold> (broadcasting)" = "Laat los om te •|•verlaten•|•";
+
+"Release to <bold>Leave</bold> (watching)" = "Laat los om te •|•verlaten•|•";
+
+"Release to Refresh" = "Laat los om te vernieuwen";
+
+"Remove" = "Verwijder";
+
+"Remove Amplify Program" = "Amplify-programma verwijderen";
+
+"Remove Amplify Program (cell title)" = "Verwijder Amplify-programma";
+
+"Remove Location" = "Verwijder locatie";
+
+"Remove at least 1 character from your title to make room for #(example hashtag)" = "Verwijder minimaal 1 teken uit de titel om ruimte te maken voor %@";
+
+"Remove at least X characters from your title to make room for #(example hashtag)" = "Verwijder minimaal %lu tekens uit de titel om ruimte te maken voor %@";
+
+"Replay Time Watched (CELL)" = "Weergavetijd herhalingen";
+
+"Replay Unavailable" = "Herhaling niet beschikbaar";
+
+"Replay watch time per minute tooltip" = "Voor elke minuut van de herhaling van deze uitzending hebben kijkers in totaal %@ gekeken.";
+
+"Reply" = "Beantwoord";
+
+"Report @<guest's username> (Report Guest Modal)" = "Rapporteer @%@";
+
+"Report Abusive Behavior (Report Abusive Behavior Modal)" = "Beledigend gedrag";
+
+"Report Abusive Profile" = "Beledigend profiel rapporteren";
+
+"Report As Spam" = "Als spam rapporteren";
+
+"Report Broadcast (Report Broadcast Modal)" = "Rapporteer uitzending";
+
+"Report Child Safety (Report Child Safety Modal)" = "Kindveiligheid";
+
+"Report Comment" = "Rapporteer reactie";
+
+"Report Hateful Conduct (Report Hateful conduct Modal)" = "Haatdragend gedrag";
+
+"Report Private Information (Report Private Information Modal)" = "Privégegevens";
+
+"Report Self-Harm (Report Self Harm Modal)" = "Zelfverwonding";
+
+"Report Sexual Content (Report Sexual Content Modal)" = "Seksuele content";
+
+"Report User" = "Gebruiker rapporteren";
+
+"Report Violence (Report Violence Modal)" = "Geweld";
+
+"Reporting is anonymous and will hide the user's comments (just for you)." = "Rapporteren is anoniem en zorgt ervoor dat de reacties van de gebruiker worden verborgen (alleen voor jou).";
+
+"Restrict Chat (accessibility hint)" = "Tik dubbel om de chat te beperken tot gebruikers die jou volgen.";
+
+"Restrict Chat (accessibility label)" = "Chat beperken";
+
+"Return to Summary (accessibility hint)" = "Tik dubbel om terug te gaan naar het overzicht van de gebruiker.";
+
+"Retweet" = "Retweet";
+
+"Save Changes" = "Sla wijzigingen op";
+
+"Save To Camera Roll" = "Bewaar in filmrol";
+
+"Save To Camera Roll Unavailable" = "'Bewaar in filmrol' niet beschikbaar";
+
+"Saved To Camera Roll" = "Bewaard in filmrol";
+
+"Saved!" = "Opgeslagen!";
+
+"Saving..." = "Opslaan ...";
+
+"Say something..." = "Zeg iets...";
+
+"Scroll for Old Comments" = "Scrol voor oude reacties";
+
+"Scroll to Bottom" = "Scroll naar beneden";
+
+"Self-Harm (Report Option)" = "Zelfverwonding";
+
+"Send (accessibility label)" = "Verstuur";
+
+"Send Message (Blocked Modal)" = "Stuur bericht";
+
+"Send people a notification to join this broadcast. Mutuals are people you follow that follow you back." = "Stuur mensen een melding om deel te nemen aan deze uitzending. Wederzijdse volgers zijn mensen die je volgt en die jou ook volgen.";
+
+"Sent for payment processing (History)" = "Verstuurd ter verwerking van betaling.";
+
+"Separator between two names" = "en";
+
+"Set Amplify Program" = "Amplify-programma instellen";
+
+"Setting the broadcast Amplify Program to •|•%@•|• will publish a new Tweet." = "Door de uitzending van het Amplify-programma op %@ te zetten, wordt een nieuwe Tweet geplaatst.";
+
+"Settings (app)" = "Instellingen";
+
+"Sexual Content (Report Option)" = "Seksuele content";
+
+"Sexually Inappropriate \n Obscene or unwanted sexual remarks" = "Seksueel ongepast•|•\nObscene of ongewenste seksuele opmerkingen•|•";
+
+"Share Broadcast" = "Deel uitzending";
+
+"Share From" = "Deel vanaf";
+
+"Share From %@" = "Deel vanaf %@";
+
+"Share From Beginning" = "Deel vanaf het begin";
+
+"Share Live" = "Deel live";
+
+"Share Twitter Tooltip (explaining that the feature is disabled while guests are enabled)" = "Uitgeschakeld voor uitzendingen met gasten";
+
+"Share precise location (accessibility label)" = "Exacte locatie delen";
+
+"Share request sent. (chat message)" = "Deelverzoek verstuurd.";
+
+"Share screenshot and broadcast" = "Deel screenshot en uitzending";
+
+"Share this broadcast so your followers don't miss it." = "Deel deze uitzending zodat je volgers hem niet missen.";
+
+"Share via..." = "Deel via ...";
+
+"Show Stats (cell)" = "Geef statistieken weer";
+
+"Skip" = "Sla over";
+
+"Sorry, that action could not be completed because you have been blocked." = "Sorry, die actie kon niet worden voltooid omdat je bent geblokkeerd.";
+
+"Sorry, that action could not be completed because you have reached the block limit." = "Sorry, die actie kan niet worden voltooid omdat je de blokkeerlimiet hebt bereikt.";
+
+"Sorry, that action could not be completed because you have reached the follow limit." = "Sorry, die actie kan niet worden voltooid omdat je de volglimiet hebt bereikt.";
+
+"Sorry, the broadcast is too full..." = "Sorry, de uitzending is vol...";
+
+"Sorry, this broadcast is unavailable" = "Sorry, deze uitzending is niet beschikbaar.";
+
+"Sorry, we couldn't load the broadcast share URL. Please try again." = "Sorry, het laden van de URL om de uitzending te delen is mislukt. Probeer het opnieuw.";
+
+"Sorry, we couldn't save your changes. Please try again." = "We konden je wijzigingen niet opslaan. Probeer het opnieuw.";
+
+"Sorry, we encountered an error blocking some users. Please try again." = "Sorry, er is een fout opgetreden met het blokkeren van enkele gebruikers. Probeer het opnieuw.";
+
+"Sorry, we encountered an error blocking that user. Please try again." = "Er is een fout opgetreden bij het blokkeren van die gebruiker. Probeer het opnieuw.";
+
+"Sorry, we encountered an error loading user data. Please try again." = "Er is een fout opgetreden tijdens het laden van de gebruikersgegevens. Probeer het opnieuw.";
+
+"Sorry, we encountered an error loading your broadcasts. Please try again." = "Sorry, er is een fout opgetreden bij het laden van je uitzendingen. Probeer het opnieuw.";
+
+"Sorry, we encountered an error reporting this broadcast. Please try again." = "Er is een fout opgetreden bij het melden van die uitzending. Probeer het opnieuw.";
+
+"Sorry, we encountered an error reporting this guest. Please try again." = "Sorry, er is een fout opgetreden bij het rapporteren van deze gast. Probeer het opnieuw.";
+
+"Sorry, we've encountered a loading error. Please try again." = "Er is een fout opgetreden bij het laden. Probeer het opnieuw.";
+
+"Sorry, you've done that too many times. Try again in a few minutes." = "Je hebt het te vaak geprobeerd. Probeer het over een paar minuten opnieuw.";
+
+"Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv" = "Sorry, er is een fout opgetreden bij het laden (421). Stuur een e-mail naar help@pscp.tv";
+
+"Sorry, you've encountered a loading error (421). Please email help@pscp.tv" = "Sorry, er is een fout opgetreden bij het laden (421). Stuur een e-mail naar help@pscp.tv";
+
+"Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later." = "Sorry, je internetaansluiting is niet stabiel genoeg om een nieuwe miniatuur voor je uitzending te uploaden. Probeer het later opnieuw.";
+
+"Spam" = "Spam";
+
+"Spam in Chat" = "Spam in chat";
+
+"Star & Cash Outs History (Stars Profile)" = "Ster- en uitbetalingsgeschiedenis";
+
+"Star History (Stars Profile)" = "Stergeschiedenis";
+
+"Star balance adjustment. Contact superhearts@pscp.tv if you have any questions. (History)" = "Saldo sterren aangepast. Mail naar superhearts@pscp.tv met vragen.";
+
+"Stars (profile view title)" = "Sterren";
+
+"Stars (profile)" = "Sterren";
+
+"Start Point" = "Startpunt";
+
+"Start Sketching (action sheet)" = "Tekenen met Sketch";
+
+"Stop Broadcast" = "Stop uitzending";
+
+"Submit" = "Verstuur";
+
+"Success! You've unmuted @%@" = "Gelukt! Je hebt @%@ gedeblokkeerd";
+
+"Successfully set Amplify Program (title)" = "Amplify-programma succesvol ingesteld";
+
+"Suggested user is watching singlular" = "%@•|• is nu aan het kijken•|•";
+
+"Suggested users are watching plural" = "%ld vrienden•|• zijn nu aan het kijken•|•";
+
+"Super Broadcaster (Stars Profile)" = "Superzender";
+
+"Super Broadcaster Program" = "Superzendersprogramma";
+
+"Super Heart Terms" = "Algemene voorwaarden superhartjes";
+
+"Super Hearts" = "Superhartjes";
+
+"Super Hearts OFF" = "Superhartjes staan UIT";
+
+"Super Hearts ON" = "Superhartjes AAN";
+
+"Swipe down to <bold>Stop</bold>" = "Veeg omlaag om te •|•stoppen•|•";
+
+"Tap anyhwhere to <bold>Exit Theater Mode</bold>" = "Tik ergens om •|•de theatermodus te verlaten•|•";
+
+"Tap this icon to join Broadcaster's broadcast as a guest. (Viewer Prompt to Call-In)" = "Tik op dit pictogram om als gast in te bellen in de uitzending van •|•%@•|•.";
+
+"Thank You (Report Broadcast Confirmation Modal)" = "Bedankt";
+
+"Thank you for your report" = "Bedankt voor je melding";
+
+"Thank you for your report (Chat Prompt)" = "Bedankt voor je melding";
+
+"Thank you for your report." = "Bedankt voor je melding.";
+
+"Thank you. You won't see any more messages from •|•@%@•|• in this broadcast." = "Bedankt. Je ziet geen berichten van •|•@%@•|• meer tijdens deze uitzending.";
+
+"Thanks %@!" = "Bedankt %@!";
+
+"Thanks for your feedback!" = "Bedankt voor je feedback!";
+
+"The broadcaster blocked you in response to this message." = "De uitzender heeft je geblokkeerd in antwoord op dit bericht.";
+
+"The broadcaster has limited chat." = "De uitzender heeft de chatfunctionaliteit beperkt.";
+
+"The broadcaster has the ability to remove people from their broadcasts." = "De uitzender kan mensen verwijderen van hun uitzendingen.";
+
+"The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•." = "De muntenwinkel is gesloten. Als je nog munten hebt, gebruik ze dan om Superhartjes te versturen naar je favoriete uitzenders vóór •|•%@•|•.";
+
+"Theater Mode (action sheet)" = "Theatermodus";
+
+"Their name, bio, or profile image violates the Community Guidelines" = "Zijn of haar naam, bio of profielafbeelding schendt de communityrichtlijnen";
+
+"There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat." = "Er kijken een heleboel mensen naar deze uitzending! Alleen vroege kijkers kunnen chatten om het aantal berichten aan de uitzender te beperken.";
+
+"There was an error adding @username as a guest. Please try again." = "Er is een fout opgetreden met het toevoegen van @%@ als gast. Probeer het opnieuw.";
+
+"There was an error adding you as a guest. We've notified Broadcaster, and will alert you if we're able to try again." = "Jou toevoegen als gast is mislukt. We hebben dit gemeld aan %@ en laten je weten wanneer je het opnieuw kan proberen.";
+
+"There was an error allowing guests. Please try again." = "Gasten toestaan in te bellen inschakelen is mislukt. Probeer het opnieuw.";
+
+"There was an error cancelling your request. Please try again." = "Er is een fout opgetreden met het annuleren van je verzoek om in te bellen. Probeer het opnieuw.";
+
+"There was an error cancelling. Please try again." = "Er is een fout opgetreden met het annuleren. Probeer het opnieuw.";
+
+"There was an error disallowing guests. Please try again." = "Gasten niet toestaan in te bellen inschakelen is mislukt. Probeer het opnieuw.";
+
+"There was an error inviting guests. Please try again." = "Er is een fout opgetreden met het uitnodigen van gasten. Probeer het opnieuw.";
+
+"There was an error muting or un-muting @username. Please try again." = "Er is een fout opgetreden met het dempen of niet langer dempen van @%@. Probeer het opnieuw.";
+
+"There was an error muting or un-muting you. Please try again." = "Er is een fout opgetreden met het dempen of niet langer dempen van jou. Probeer het opnieuw.";
+
+"There was an error removing your guest @username. Please try again." = "Er is een fout opgetreden met het verwijderen van @%@ als jouw gast. Probeer het opnieuw.";
+
+"There was an error sending your request to join as a guest. Please try again." = "Er is een fout opgetreden met het verzenden van je verzoek om in te bellen als gast. Probeer het opnieuw.";
+
+"There was an error updating the settings (conversation controls and mentioned users). Please try again." = "Er is een fout opgetreden bij het bijwerken van de instellingen (instellingen voor gesprekken en vermelde gebruikers). Probeer het opnieuw.";
+
+"There was an error updating the settings (locked/unlocked). Please try again." = "Er is een fout opgetreden bij het bijwerken van de instellingen (vergrendeld/ontgrendeld). Probeer het opnieuw.";
+
+"This broadcast is no longer available." = "Deze uitzending is niet langer beschikbaar.";
+
+"This broadcast isn’t available (Copyright Violation)" = "Deze uitzending is niet beschikbaar";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}." = "Deze uitzending komt overeen met '%1$@', content van %2$@ waarop auteursrechten berusten. •|•Meer informatie•|•";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}. Do you have all rights necessary to broadcast this video on Twitter?" = "Deze uitzending komt overeen met '%1$@', content van %2$@ waarop auteursrechten berusten. Beschik je over de noodzakelijke rechten om deze video op Twitter uit te zenden?";
+
+"This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video." = "Deze uitzending werd opgenomen met een 360-gradencamera. Periscope ondersteunt 360-gradenvideo's niet langer.";
+
+"This broadcast’s title can’t be edited. Learn more (Copyright Violation)" = "De titel van deze uitzending kan niet worden gewijzigd. •|•Meer informatie•|•";
+
+"This is optional" = "Dit is optioneel";
+
+"This user doesn't have any followers yet" = "Deze gebruiker heeft nog geen volgers.";
+
+"This user has not broadcasted yet" = "Deze gebruiker heeft nog niet uitgezonden";
+
+"This user isn't following anyone yet" = "Deze gebruiker volgt nog niemand";
+
+"Thousand Decimal Abbreviation" = "%.1fK";
+
+"Thousand Integer Abbreviation" = "%dK";
+
+"Thumbnail" = "Miniatuur";
+
+"Time Watched (CELL)" = "Weergavetijd";
+
+"Title (accessibility label)" = "Titel";
+
+"To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off." = "Schakel 'Verbind met Periscope' in je instellingen in om te chatten. Als je in je account 'Scherm mijn Tweets af' hebt ingeschakeld, moet je de Periscope-app downloaden en een Periscope-account maken. Je kunt ook een Twitter-account gebruiken waarvoor 'Scherm mijn Tweets af' niet is ingeschakeld.";
+
+"To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos." = "Als je jouw video wilt bewaren, moet Periscope toegang hebben tot je foto's. Als je deze functionaliteit voor toekomstige uitzendingen wilt inschakelen, tik je op Instellingen en schakel je de machtigingsoptie voor Foto's in.";
+
+"To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account." = "Als je feedback via e-mail wilt versturen, moet je eerst e-mail op je apparaat instellen. Open eerst de app Instellingen. Ga vervolgens naar 'Mail, Contacten, Agenda' en selecteer Voeg account toe.";
+
+"To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option." = "Als je jouw locatie wilt delen, heeft Periscope toestemming nodig om je locatie te openen op je apparaat. Klik op Instellingen, ga naar Locatie en schakel de machtigingsoptie 'Bij gebruik van app' in.";
+
+"Top Contributor" = "Topbijdrager";
+
+"Total watch time per minute tooltip" = "Voor elke minuut van deze uitzending hebben kijkers in totaal %@ gekeken.";
+
+"Total watch time per minute tooltip (broadcaster)" = "Voor elke minuut van deze uitzending hebben kijkers in totaal %@ gekeken. Deze statistiek normaliseert de weergavetijd van uitzendingen van verschillende lengtes.";
+
+"Trying to reconnect" = "Opnieuw proberen verbinding te maken";
+
+"Twitter Post OFF" = "Plaatsen op Twitter UIT";
+
+"Twitter Post ON" = "Plaatsen op Twitter AAN";
+
+"Unable to load broadcast." = "Kan uitzending niet laden.";
+
+"Unblock User" = "Deblokkeer gebruiker";
+
+"Unfollow User" = "Ontvolg gebruiker";
+
+"Unhide Broadcast (menu button)" = "Maak uitzending zichtbaar";
+
+"Unmute" = "Niet langer dempen";
+
+"Unmute User" = "Gebruiker deblokkeren";
+
+"Unmute User Notifications" = "Negeer meldingen van deze gebruiker niet meer";
+
+"Untitled" = "Naamloos";
+
+"User has not provided a profile description." = "De gebruiker heeft geen profielbeschrijving opgegeven.";
+
+"Very bad" = "Heel slecht";
+
+"Very good" = "Heel goed";
+
+"Video Issues" = "Problemen met video";
+
+"Video Quality" = "Videokwaliteit";
+
+"Video will resume if signal improves" = "De video wordt hervat als de signaalsterkte verbetert";
+
+"View Broadcast Actions (accessibility label)" = "Bekijk zendacties";
+
+"View Participants (accessibility label)" = "Bekijk deelnemers";
+
+"View Profile" = "Bekijk profiel";
+
+"View Stats" = "Bekijk statistieken";
+
+"Viewers can give you Super Hearts.\n<link>Learn more.</link>" = "Kijkers kunnen je superhartjes geven.\n•|•Meer informatie.•|•";
+
+"Viewers cannot give you Super Hearts.\n<link>Learn more.</link>" = "Kijkers kunnen je geen superhartjes geven.\n•|•Meer informatie.•|•";
+
+"Violence (Report Option)" = "Geweld";
+
+"Waiting for other responses..." = "Wachten op andere reacties...";
+
+"Waiting for you to <bold>login</bold>." = "Wachten tot je •|•inlogt•|•.";
+
+"Watch %1$@'s broadcast: %2$@" = "Bekijk de uitzending van %1$@: %2$@";
+
+"Watch %@'s broadcast." = "Bekijk de uitzending van %@.";
+
+"Watch LIVE" = "Kijk •|•LIVE•|•";
+
+"Watch Live" = "Kijk live";
+
+"Watch Replay" = "Bekijk herhaling";
+
+"Watch Stream (User Activity)" = "Bekijk stream";
+
+"Watch on #Periscope" = "Bekijk op #Periscope";
+
+"Watch on #Periscope: %@" = "Bekijk op #Periscope: %@";
+
+"Watch what happened at %1$@ in %2$@'s broadcast." = "Bekijk wat er op %1$@ gebeurde in de uitzending van %2$@.";
+
+"Watch what happened at %1$@ in %2$@'s broadcast: %3$@" = "Bekijk wat er op %1$@ gebeurde in de uitzending van %2$@: %3$@";
+
+"We encountered an error deleting your broadcast. Please try again." = "Er is een fout opgetreden bij het verwijderen van je uitzending. Probeer het opnieuw.";
+
+"We encountered an error updating your gift settings. Please try again." = "Er is een fout opgetreden bij het bijwerken van je cadeau-instellingen. Probeer het opnieuw.";
+
+"We have received your report. Thank you for helping keep the community safe! (Report Broadcast Confirmation Modal)" = "We hebben je melding ontvangen. Bedankt dat je helpt onze community veilig te houden!";
+
+"We're sorry, there was an error starting your broadcast. Please try starting it again." = "Er is een fout opgetreden bij het starten van je uitzending. Probeer de uitzending opnieuw te starten.";
+
+"Welcome <bold>%@</bold>" = "Welkom •|•%@•|•";
+
+"We’ve let your followers know that you joined as a guest (Chat Prompt)" = "We hebben je volgers laten weten dat je hebt ingebeld als gast";
+
+"What are you seeing now?" = "Wat zie je nu?";
+
+"What do you want to talk about?" = "Waar wil je over praten?";
+
+"What went well?" = "Wat ging er goed?";
+
+"When someone follows them, they'll be listed here." = "Wanneer iemand hem of haar volgt, zie je dat hier.";
+
+"When someone follows you, they'll be listed here." = "Wanneer iemand jou volgt, zie je dat hier.";
+
+"When they do, it'll show up here." = "Wanneer hij of zij een uitzending heeft gemaakt, zie je dat hier.";
+
+"When they do, they'll be listed here." = "Wanneer hij of zij iemand volgt, zie je dat hier.";
+
+"When you do, it'll show up here" = "Wanneer je een uitzending hebt gemaakt, zie je dat hier.";
+
+"When you do, they'll be listed here." = "Wanneer je iemand volgt, zie je dat hier.";
+
+"Yes (Copyright Violation)" = "Ja";
+
+"You already have a linked Twitter account. Please use this in the future to broadcast from Twitter" = "Je hebt al een gekoppeld Twitter-account. Gebruik dat voortaan om uit te zenden vanuit Twitter.";
+
+"You are now" = "Je bent nu";
+
+"You aren't following anyone yet" = "Je volgt nog niemand.";
+
+"You aren't following anyone." = "Je volgt niemand.";
+
+"You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests. (Offensive Report Modal)" = "Je kan een gebruiker wiens uitzendingen je niet meer wil zien, blokkeren. Gebruikers die je hebt geblokkeerd, zie je nog wel als ze gasten zijn.";
+
+"You can block a user whose broadcasts you no longer want to see. (Offensive Report Modal)" = "Je kan een gebruiker wiens uitzendingen je niet meer wil zien, blokkeren.";
+
+"You can give •|•%@•|• of these" = "Je kunt er hier •|•%@•|• van geven";
+
+"You can't broadcast right now (Copyright Violation)" = "Je kan nu niet uitzenden";
+
+"You can't watch a broadcast while you're still broadcasting." = "Je kunt geen uitzendingen bekijken terwijl je aan het uitzenden bent.";
+
+"You can’t watch this because it included a copyrighted work by {Full Name}. Learn more (Copyright Violation)" = "Je kan dit niet bekijken omdat het content bevat van %@ waarop auteursrechten berusten. •|•Meer informatie•|•";
+
+"You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster." = "Je verdient sterren wanneer fans jou •|•superhartjes•|• geven. Word Superzender om jouw sterren in geld om te wisselen.";
+
+"You didn't vote... <link>Learn about Moderation</link>" = "Je hebt niet gestemd... •|•Meer informatie over beoordelen•|•";
+
+"You don't have any followers yet" = "Je hebt nog geen volgers";
+
+"You earn stars from Super Hearts" = "Je verdient sterren met superhartjes";
+
+"You haven't broadcasted yet" = "Je hebt nog niet uitgezonden";
+
+"You were <bold>blocked</bold> by the broadcaster" = "De uitzender heeft je •|•geblokkeerd•|•";
+
+"You will lose any unsaved changes. Are you sure you want to leave this view?" = "Niet-opgeslagen wijzigingen gaan verloren. Weet je zeker dat je verder wil gaan?";
+
+"You will lose the stars you received" = "Je raakt de sterren die je hebt ontvangen kwijt.";
+
+"You're Waiting to Join (Guest Calling Menu)" = "Je wacht om in te bellen als gast";
+
+"Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv" = "Je account is uitgeschakeld vanwege een takedownverzoek wegens auteursrechten. Neem contact op met help@pscp.tv";
+
+"Your account has been disabled. Please contact help@pscp.tv" = "Je account is uitgeschakeld. Neem contact op met help@pscp.tv";
+
+"Your broadcast has been disabled (Copyright Violation)" = "Je uitzending is uitgeschakeld.";
+
+"Your broadcast matches a copyrighted work (Copyright Violation)" = "Je uitzending komt overeen met content waarop auteursrechten berusten";
+
+"Your broadcast's thumbnail has been updated to the current screen." = "De miniatuurweergave van je uitzending is bijgewerkt naar het huidige scherm.";
+
+"Your dispute claim was submitted (Copyright Violation)" = "Je bezwaar tegen de claim is ingediend";
+
+"Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•." = "Je feedback is belangrijk omdat we daarmee je ervaring met uitzenden kunnen verbeteren. Je kan altijd aangeven dat je niet mee wil doen aan toekomstige enquêtes in je •|•Instellingen•|•.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Je bericht •|•\"%@\"•|• is verborgen wegens WANGEDRAG. Het plaatsen van reacties is uitgeschakeld voor alle uitzendingen.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast." = "Je bericht •|•\"%@\"•|• is verborgen wegens WANGEDRAG. Het plaatsen van reacties is uitgeschakeld voor deze uitzending.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Je bericht •|•\"%@\"•|• is verborgen wegens WANGEDRAG. Het plaatsen van reacties is tijdelijk beperkt voor alle uitzendingen.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast." = "Je bericht •|•\"%@\"•|• is verborgen wegens WANGEDRAG. Het plaatsen van reacties is tijdelijk beperkt voor deze uitzending.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts." = "Je bericht •|•\"%@\"•|• is verborgen wegens SPAM. Het plaatsen van reacties is uitgeschakeld voor alle uitzendingen.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast." = "Je bericht •|•\"%@\"•|• is verborgen wegens SPAM. Het plaatsen van reacties is uitgeschakeld voor deze uitzending.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Je bericht •|•\"%@\"•|• is verborgen wegens SPAM. Het plaatsen van reacties is tijdelijk beperkt voor alle uitzendingen.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast." = "Je bericht •|•\"%@\"•|• is verborgen wegens SPAM. Het plaatsen van reacties is tijdelijk beperkt voor deze uitzending.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts." = "Je bericht •|•\"%@\"•|• is verborgen. Het plaatsen van reacties is uitgeschakeld voor alle uitzendingen.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast." = "Je bericht •|•\"%@\"•|• is verborgen. Het plaatsen van reacties is uitgeschakeld voor deze uitzending.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts." = "Je bericht •|•\"%@\"•|• is verborgen. Het plaatsen van reacties is tijdelijk beperkt voor alle uitzendingen.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast." = "Je bericht •|•\"%@\"•|• is verborgen. Het plaatsen van reacties is tijdelijk beperkt voor deze uitzending.";
+
+"Your settings are about to automatically delete this broadcast." = "Deze uitzending staat op het punt te worden verwijderd vanwege je instellingen.";
+
+"Your settings will automatically delete this broadcast in %@" = "Deze uitzending wordt automatisch verwijderd in %@ vanwege je instellingen";
+
+"Your video will be available for replay after the event has ended. (Copyright Violation)" = "Je video kan opnieuw worden afgespeeld nadat de claim is behandeld.";
+
+"Your viewers have been invited to join (Local Chat Prompt)" = "Je kijkers zijn uitgenodigd om in te bellen";
+
+"You’re enrolled in automatic monthly cash outs. (Stars Profile)" = "Je hebt je aangemeld voor automatische maandelijkse uitbetalingen.";
+
+"You’ve blocked @username. Tap to report and share more details. (Should Report Guest User Chat Prompt)" = "Je hebt •|•@%@•|• geblokkeerd. Tik om dit te rapporteren en meer gegevens te delen.";
+
+"[placeholder]" = "[placeholder]";
+
+"beta-feedback@pscp.tv" = "beta-feedback@pscp.tv";
+
+"coin bonus" = "%i%% extra";
+
+"coin received (accessibility label)" = "ontvangen munt";
+
+"coins received (accessibility label)" = "ontvangen munten";
+
+"contact@pscp.tv" = "contact@pscp.tv";
+
+"current audience" = "huidig publiek";
+
+"failed" = "mislukt";
+
+"following (accessibility hint)" = "Tik dubbel om te ontvolgen";
+
+"following (accessibility label)" = "Volgend";
+
+"for fine control" = "voor fijnafstemming";
+
+"heart received (accessibility label)" = "hartje ontvangen";
+
+"hearts received (accessibility label)" = "hartjes ontvangen";
+
+"https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119" = "https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119";
+
+"https://pscp.tv/i/super/terms" = "https://pscp.tv/i/super/terms";
+
+"iPad doesn’t support broadcasting from Split View." = "iPad ondersteunt uitzenden niet in Split View.";
+
+"invited" = "uitgenodigd";
+
+"invited followers" = "heeft volgers uitgenodigd";
+
+"it's their first day on Periscope" = "het is zijn of haar eerste dag op Periscope";
+
+"not following (accessibility hint)" = "Tik dubbel om te volgen";
+
+"not following (accessibility label)" = "Niet volgend";
+
+"people" = "personen";
+
+"per Broadcast Minute (CELL)" = "per uitzendingsminuut";
+
+"per Viewer (CELL)" = "per kijker";
+
+"person" = "persoon";
+
+"poor" = "slecht";
+
+"posting publicly on Periscope" = "plaats openbaar op Periscope";
+
+"posting publicly on Twitter" = "plaats openbaar op Twitter";
+
+"selected Amplify Program" = "geselecteerd Amplify-programma";
+
+"star received (accessibility label)" = "ontvangen ster";
+
+"stars received (accessibility label)" = "ontvangen sterren";
+
+"tap to change Amplify Program" = "tik om Amplify-programma te wijzigen";
+
+"tap to change Amplify program" = "tik om Amplify-programma te wijzigen";
+
+"tap to change audience" = "tik om publiek te wijzigen";
+
+"to seek" = "om te zoeken";
+
+"you hung up (Guest Caller Hung Up Chat Message Event)" = "je hebt opgehangen";
+
+"you were added (New Guest Caller Chat Message Event)" = "je bent toegevoegd";
+
+"you were removed (Guest Caller Was Removed Chat Message Event)" = "je bent verwijderd";
+
+"•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•." = "•|•%1$@•|• heeft de begintijd van zijn of haar uitzending gewijzigd naar •|•%2$@•|•.";
+
+"•|•%@•|• are guests (Broadcast Guests Social Proof)" = "•|•%@•|• zijn gasten";
+
+"•|•%@•|• invited you (Broadcast Guest Invitation Social Proof)" = "•|•%@•|• heeft jou uitgenodigd";
+
+"•|•%@•|• is a guest (Broadcast Guest Social Proof)" = "•|•%@•|• is gast";
+
+"•|•%@•|• shared (Broadcast Share Social Proof)" = "•|•%@•|• heeft gedeeld";
+
+"•|•%@•|• was a guest (Broadcast Guest Social Proof)" = "•|•%@•|• was gast";
+
+"•|•%@•|• were guests (Broadcast Guests Social Proof)" = "•|•%@•|• waren gasten";
+
+"•|•%@•|•\nBroadcasts" = "•|•%@•|•\nuitzendingen";
+
+"•|•%@•|•\nFollowers" = "•|•%@•|•\nvolgers";
+
+"•|•%@•|•\nFollowing" = "•|•%@•|•\nvolgend";
+
+"•|•@%1$@•|• was muted by •|•%2$@•|•" = "•|•@%1$@•|• wordt genegeerd door •|•%2$@•|•";
+
+"•|•@%1$@•|• was unmuted by •|•%2$@•|•" = "•|•@%1$@•|• wordt niet meer genegeerd door •|•%2$@•|•";
+
+"•|•@%@•|• Retweeted on" = "•|•@%@•|• heeft geretweet op";
+
+"•|•@%@•|• shared on" = "•|•@%@•|• heeft gedeeld op";
+
+"•|•Muted•|• by %@" = "•|•Genegeerd•|• door %@";
+
+"•|•Not enough coins.•|• Get more coins to keep giving Super Hearts." = "•|•Niet genoeg munten.•|• Koop meer munten om superhartjes te blijven geven.";
+
+"•|•Press & Hold•|• the video to skip ahead" = "•|•Houd de video ingedrukt•|• om vooruit te spoelen";
+
+"•|•Press & Hold•|• to skip back or ahead." = "•|•Houd de video ingedrukt•|• om vooruit of terug te spoelen.";
+
+"•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one." = "•|•Superhartjes staan AAN.•|• Tik op de uitzending om je eerste superhartje te geven.";
+
+"•|•Support %@•|• by giving Super Hearts!" = "•|•Steun %@•|• door superhartjes te geven!";
+
+"•|•Unmuted•|• by %@" = "•|•Gedeblokkeerd•|• door %@";
+
+"•|•You need more coins•|• to give Super Hearts" = "•|•Je hebt meer munten nodig•|• om superhartjes te geven";
+
+"•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast." = "•|•Je bent genegeerd•|• door een van de moderators van %1$@ vanwege je reactie •|•\"%2$@\"•|•. Je kan niet langer meepraten in deze uitzending.";
+
+"•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast." = "•|•Je bent gedeblokkeerd•|• door een van de moderators van %@. Je kan nu meepraten in deze uitzending.";
+

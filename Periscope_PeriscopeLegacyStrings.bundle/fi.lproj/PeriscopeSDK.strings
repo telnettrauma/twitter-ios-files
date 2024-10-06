@@ -1,0 +1,1448 @@
+"%@ New Messages" = "%@ uutta viestiä";
+
+"%@ Viewer (Broadcast Info)" = "%@ katsoja";
+
+"%@ Viewers (Broadcast Info)" = "%@ katsojaa";
+
+"%@ ago" = "%@ sitten";
+
+"%@ doesn't have any followers yet" = "Kukaan ei vielä seuraa käyttäjää %@";
+
+"%@ has not broadcasted yet" = "%@ ei ole lähettänyt vielä yhtään lähetystä";
+
+"%@ is LIVE (broadcast title)" = "%@ on LIVE-tilassa";
+
+"%@ isn't following anyone yet" = "%@ ei seuraa vielä ketään.";
+
+"%@ joined" = "liittyi";
+
+"%@ wants you to moderate comments. Tap on comments to mute them." = "%@ toivoo sinun moderoivan kommentteja. Napauta kommenttia hiljentääksesi sen.";
+
+"%@ wants you to moderate comments. Tap or swipe left on comments to mute them." = "%@ toivoo sinun moderoivan kommentteja. Napauta kommenttia tai pyyhkäise vasemmalle hiljentääksesi sen.";
+
+"%@ was live  (broadcast title)" = "%@ oli live-tilassa";
+
+"%d More Live Viewers" = "muuta livekatsojaa";
+
+"%d More Replay Viewers" = "muuta uusintakatsojaa";
+
+"%d More Viewers" = "muuta katsojaa";
+
+"%ldd (days)" = "%ld pv";
+
+"%ldh (hours)" = "%ld h";
+
+"%ldm (minutes)" = "%ld min";
+
+"%lds (seconds)" = "%ld s";
+
+"%ldy (years)" = "%ld v";
+
+"(EDITED)" = "(MUOKATTU)";
+
+"(Skip to) LIVE" = "LIVE";
+
+"1 More Live Viewer" = "muu livekatsoja";
+
+"1 More Replay Viewier" = "muuta uusintakatsojaa";
+
+"1 More Viewer" = "muu katsoja";
+
+"1 New Message" = "1 uusi viesti";
+
+"@username \"Tap to cancel\" (Add Guest Caller Chat Message Event)" = "Napauta peruuttaaksesi";
+
+"@username \"canceled\" (Add Guest Caller Chat Message Event)" = "on perunut";
+
+"@username \"has asked to join\" (Add Guest Caller Chat Message Event)" = "on pyytänyt liittyä mukaan";
+
+"@username \"hung up\" (Guest Caller Hung Up Chat Message Event)" = "•|•@%@•|• katkaisi puhelun";
+
+"@username \"was added\" (Add Guest Caller Chat Message Event)" = "lisättiin";
+
+"@username \"was added\" (New Guest Caller Chat Message Event)" = "•|•@%@•|• lisättiin";
+
+"@username \"was removed\" (Add Guest Caller Chat Message Event)" = "poistettiin";
+
+"@username \"was removed\" (Guest Caller Was Removed Chat Message Event)" = "•|•@%@•|• poistettiin";
+
+"A Periscope account is required to edit a broadcast." = "Tarvitset Periscope-tilin voidaksesi muokata lähetystä.";
+
+"A Periscope account is required to share a broadcast." = "Tarvitset Periscope-tilin voidaksesi jakaa lähetyksen.";
+
+"A broadcast with a star balance was deleted. (History)" = "Poistit lähetyksen, jolla oli tähtisaldoa.";
+
+"ACTIVE CONTRIBUTORS" = "AKTIIVISET LAHJOITTAJAT";
+
+"Abuse" = "Häirintää";
+
+"Abusive Behavior (Report Option)" = "Häirintä";
+
+"Accept Caller as Guest" = "Hyväksy soittaja vieraaksi";
+
+"Accept Super Hearts (accessibility hint)" = "Kaksoisnapauttamalla voit hyväksyä supersydämet tässä lähetyksessä.";
+
+"Accept Super Hearts (accessibility label)" = "Hyväksy supersydämiä";
+
+"Accept as Guest" = "Hyväksy vieraaksi";
+
+"Actions (accessibility label)" = "Toiminnot";
+
+"Add Guest (Manage Guest Call-Ins Action Sheet)" = "Lisää vieras";
+
+"Add guest \n viewer will become a guest broadcaster" = "Lisää vieras•|•\nkatsojasta tulee lähettäjävieras•|•";
+
+"All-Time Stars (Stars Profile)" = "Tähdet alusta asti";
+
+"Allow Guests (Tooltip Selected)" = "Salli vieraat";
+
+"Allow guests / Don't allow guests (accessibility label)" = "Salli vieraat / Älä salli vieraita";
+
+"Anything else you'd like to share?" = "Mitä muuta haluaisit kertoa?";
+
+"Are you sure you want to send this message?" = "Haluatko varmasti lähettää tämän viestin?";
+
+"Are you sure you want to unblock?" = "Haluatko varmasti poistaa eston?";
+
+"Are you sure? (title)" = "Oletko varma?";
+
+"Ask for Follow (action sheet)" = "Pyydä seuraamaan";
+
+"Ask for Share (action sheet)" = "Pyydä jakamaan";
+
+"Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Pyydä, että saat osallistua lähetykseen vieraana. Kaikki lähetyksen katsojat kuulevat äänesi, ja voit kuitenkin keskeyttää osallistumisen halutessasi.";
+
+"Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Pyydä, että saat osallistua lähetykseen vieraana. Kaikki lähetyksen katsojat näkevät ja kuulevat sinut, ja voit kuitenkin keskeyttää osallistumisen halutessasi.";
+
+"Asking to join... Broadcaster must accept you (Local Chat Prompt)" = "Olet pyytänyt liittyä mukaan...\nOdottaa käyttäjän •|•@%@•|• hyväksyntää";
+
+"Audio Only (accessibility label)" = "Vain äänen lähettäminen";
+
+"Audio from: Headphones" = "Audiolähde: Kuulokkeet";
+
+"Audio from: Phone" = "Audiolähde: Puhelin";
+
+"Back" = "Takaisin";
+
+"Back (action sheet)" = "Takaisin";
+
+"Back Camera (accessibility hint)" = "Kaksoisnapauta vaihtaaksesi etukameraan";
+
+"Back Camera (accessiblity value)" = "Takakamera";
+
+"Back to %@" = "Takaisin sovellukseen %@";
+
+"Back to Hearts" = "Takaisin sydämiin";
+
+"Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. Learn more (Copyright violation)" = "Koska useampi lähetyksesi on viime aikoina sisältänyt toisen tekijänoikeudella suojattua materiaalia, oikeutesi lähettää lähetyksiä on toistaiseksi evätty. •|•Lue lisää•|•";
+
+"Betascope App Feedback" = "Betascope-sovelluspalaute";
+
+"Billion Decimal Abbreviation" = "%.1f mrd";
+
+"Billion Integer Abbreviation" = "%d mrd";
+
+"Block @%@" = "Estä @%@";
+
+"Block @%@ (Offensive Report Modal)" = "Estä @%@";
+
+"Block And Hang Up (Manage Guest Call-Ins Action Sheet)" = "Estä ja katkaise puhelu";
+
+"Block User" = "Estä käyttäjä";
+
+"Block Users (%@)" = "Estä käyttäjät (%@)";
+
+"Block {Username}" = "Estä @%@";
+
+"Blocked (user modal)" = "Estetty";
+
+"Blocked by you" = "Estämäsi";
+
+"Blocking will dismiss the broadcast and not report to Periscope. (Offensive Report Modal)" = "Estäminen poistaa lähetyksen näkyvistäsi, mutta ei lähetä ilmoitusta Periscopelle.";
+
+"Broadcast Actions (accessibility hint)" = "Avaa lähetystoimintojen valikon.";
+
+"Broadcast Details (action sheet)" = "Lähetyksen tiedot";
+
+"Broadcast Super Heart Auto-Deletion Warning" = "•|•Tätä lähetystä ei poisteta automaattisesti 24 tunnin kuluttua•|•, jotta et menettäisi mahdollisesti saamillasi supersydämillä ansaittuja tähtiä.\n\nJos haluat, voit rajoittaa lähetyksen näkyvyyttä piilottamalla sen itse lähetyksen päätyttyä.";
+
+"Broadcast Title" = "Lähetyksen otsikko";
+
+"Broadcast about to expire (Cell)" = "Lähetys vanhentumassa";
+
+"Broadcast creation" = "Lähetyksen luominen";
+
+"Broadcaster Has Disabled Call-Ins (Generic Error Message)" = "Lähettäjä on poistanut soittajalistan käytöstä.";
+
+"Broadcaster blocked •|•@%@•|•" = "Lähettäjä esti käyttäjän •|•@%@•|•";
+
+"Broadcaster doesn’t accept Super Hearts" = "Lähettäjä ei vastaanota supersydämiä";
+
+"Broadcaster has assigned chat moderators." = "Lähettäjä on nimennyt moderaattoreita valvomaan keskustelua.";
+
+"Broadcaster has to accept your request before you can join as a guest. (Guest Call-In Instructions Subtitle)" = "Käyttäjän %@ on hyväksyttävä pyyntösi, ennen kuin voit liittyä lähetykseen vieraana.";
+
+"Broadcaster is allowing guests to join (Local Chat Prompt)" = "•|•%@•|• sallii vieraiden liittymisen lähetykseen";
+
+"Broadcaster is not allowing guests to join (Local Chat Prompt)" = "•|•%@•|• ei salli vieraita lähetykseen";
+
+"Broadcasters earn stars from Super Hearts" = "Lähettäjän saamat supersydämet kerryttävät tähtiä";
+
+"Bummer (ReplayKit)" = "Harmi!";
+
+"CONCATENTATION_ACCESSIBILITY_STRING" = ".";
+
+"CONTRIBUTORS WHO HAVE LEFT" = "POISTUNEET LAHJOITTAJAT";
+
+"COULDN'T LOAD REPLAY VIEWERS" = "UUSINTAKATSOJIA EI VOITU LADATA";
+
+"COULDN'T LOAD VIEWERS" = "KATSOJIA EI VOITU LADATA";
+
+"Camera Selection (accessibility label)" = "Kameravalinta";
+
+"Cancel" = "Peruuta";
+
+"Cancel (action sheet)" = "Peruuta";
+
+"Cancel Call In Button: \"Cancel Request to Join as a Guest\"" = "Peru pyyntö liittyä mukaan vieraana";
+
+"Cancel Guest Call-In Instructions Title: \"Waiting to join as a guest...\"" = "Odotetaan liittymistä lähetykseen vieraana...";
+
+"Cannot be undone" = "Ei voi kumota";
+
+"Capture Thumbnail (action sheet)" = "Valitse esikatselukuva";
+
+"Cash Outs (Stars Profile)" = "Kotiutukset";
+
+"Cash out your stars, and continue using live video on Twitter" = "Muuta tähdet rahaksi ja jatka live-videon käyttöä Twitterissä";
+
+"Change Amplify Program" = "Vaihda Amplify-ohjelmaa";
+
+"Change Expiration (Cell)" = "Muuta vanhentumista";
+
+"Change Expiration Subtitle (Cell)" = "Poistetaan automaattisesti %@ kuluttua";
+
+"Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program." = "Kun vaihdat Amplify-ohjelmaksi •|•%@•|•, vanha twiitti katoaa ja uusi twiitti julkaistaan uudessa ohjelmassa.";
+
+"Chatroom too full..." = "Keskusteluhuone liian täynnä...";
+
+"Child Safety (Report Option)" = "Lasten hyvinvointi";
+
+"Choose guests to add. You can remove them at any time. (Manage Guest Callers Page Subtitle)" = "Valitse lisättäviä vieraita. Voit poistaa vieraan milloin tahansa.";
+
+"Close (accessibility label)" = "Sulje";
+
+"Comment Tip Option 1" = "Kirjoita kommentti ja näytä käyttäjälle •|•%@•|•, että olet täällä!";
+
+"Comment Tip Option 2" = "Kerro käyttäjälle •|•%@•|• , mistä katsot lähetystä!";
+
+"Comment Tip Option 3" = "Voit moikata ja jutella käyttäjän •|•%@•|•  ja muiden katsojien kanssa.";
+
+"Commenting is OFF" = "Kommentit POISSA käytöstä";
+
+"Comments Received (CELL)" = "Vastaanotetut kommentit";
+
+"Comments Received Unavailable (CELL)" = "ei tietoa";
+
+"Compose Direct Message (Accessibility Label)" = "Laadi yksityisviesti";
+
+"Compose New Tweet (Accessibility Label)" = "Laadi uusi twiitti";
+
+"Confirm Call In Button: \"OK, Ask to Join\"" = "Selvä. Pyydä liittyä";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile and audio will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and hear you. This may include people you’ve blocked on either app.\"" = "•\tProfiilisi ja äänesi tulevat osaksi lähetystä, eikä niitä voi poistaa, paitsi jos %1$@ poistaa uusinnan.\n\n•\tKaikki Periscopessa tai Twitterissä lähetystä katsovat näkevät, että olet liittynyt käyttäjän %1$@ lähetykseen ja kuulevat sinut. Myös kummassa tahansa sovelluksessa estämäsi käyttäjät kuulevat sinut lähetystä seuratessaan.";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile, audio and video will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and see you. This may include people you’ve blocked on either app.\"" = "•\tProfiilisi, äänesi ja videokuvasi tulevat osaksi lähetystä, eikä niitä voi poistaa, paitsi jos %1$@ poistaa uusinnan.\n\n•\tKaikki Periscopessa tai Twitterissä lähetystä katsovat näkevät, että olet liittynyt käyttäjän %1$@ lähetykseen ja kuulevat sinut. Myös kummassa tahansa sovelluksessa estämäsi käyttäjät kuulevat sinut lähetystä seuratessaan.";
+
+"Confirm Guest Call-In Instructions Title: \"Good to know...\"" = "Hyvä tietää...";
+
+"Connecting to chatroom" = "Yhdistetään keskusteluhuoneeseen";
+
+"Connection Error" = "Yhteysvirhe";
+
+"Connection too" = "Yhteys myös";
+
+"Contact Us (action sheet)" = "Ota yhteyttä";
+
+"Contributors" = "Lahjoittajat";
+
+"Copy Profile URL" = "Kopioi profiilin URL-osoite";
+
+"Current Star Balance (Stars Profile)" = "Tähtisaldo";
+
+"Current Time (Accessibility Label)" = "Tämä hetki";
+
+"Dear Periscope Team," = "Hyvä Periscope-tiimi,";
+
+"Delete Broadcast" = "Poista lähetys";
+
+"Delete Broadcast (action sheet)" = "Poista lähetys";
+
+"Delete Broadcast Now" = "Poista lähetys nyt";
+
+"Describe the issue (Report Option)" = "Kuvaile ongelmaa";
+
+"Describe the issue with %@ (Report Option)" = "Kerro, mikä on ongelma käyttäjän @%@ kanssa";
+
+"Describe the issue with @%1$@ at %2$@ (Report Option)" = "Kuvaile, miksi käyttäjän @%1$@ toiminta kohdassa %2$@ on ongelmallista";
+
+"Describe the issue you are seeing at %@ (Report Option)" = "Kuvaile kohdassa %@ näkemääsi ongelmaa";
+
+"Direct Message (Compose)" = "Yksityisviesti";
+
+"Disable Audio Only Broadcast" = "Estä vain äänen lähettäminen";
+
+"Disabled for all broadcasts" = "Poistettu käytöstä kaikille lähetyksille";
+
+"Disabled for this broadcast" = "Poistettu käytöstä tämän lähetyksen ajaksi";
+
+"Discard Changes" = "Hylkää muutokset";
+
+"Display Photo (action sheet)" = "Näytä kuva";
+
+"Dispute Claim (Copyright Violation)" = "Kiistä väite";
+
+"Do not notify my followers (Guest Call-In Notify Followers Option)" = "Älä ilmoita seuraajilleni";
+
+"Don't Allow Guests (Manage Guest Broadcasters Call-Ins List)" = "Älä salli vieraita";
+
+"Don't Allow Guests (Tooltip)" = "Älä salli vieraita";
+
+"Don't Auto-Delete" = "Älä poista automaattisesti";
+
+"Don't Send (Blocked Modal)" = "Älä lähetä";
+
+"Done" = "Valmis";
+
+"Done (action sheet)" = "Valmis";
+
+"Double Tap anywhere to Exit Theater Mode (accessibility label)" = "Kaksoisnapauta mitä tahansa kohtaa poistuaksesi teatteritilasta";
+
+"Double Tap to <bold>Flip Camera</bold>" = "•|•Vaihda kameraa•|• kaksoisnapauttamalla";
+
+"Double tap to allow or disallow guests (accessibility hint)" = "Kaksoisnapauta salliaksesi tai kieltääksesi vieraat";
+
+"Duration (CELL)" = "Kesto";
+
+"END (graph)" = "LOPPU";
+
+"ENDED" = "PÄÄTTYNYT";
+
+"Edit Broadcast" = "Muokkaa lähetystä";
+
+"Edit Broadcast (action sheet)" = "Muokkaa lähetystä";
+
+"Edit Broadcast Unavailable" = "Lähetys ei ole muokattavissa";
+
+"Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured." = "Lähetyksesi muokkaus muuttaa sitä, miten se näkyy katsojille. Nämä muutokset eivät vaikuta jo menneisiin twiitteihin tai ilmoituksiin.";
+
+"Enable Audio Only Broadcast" = "Salli vain äänen lähettäminen";
+
+"Enable Email" = "Salli sähköposti";
+
+"Enable camera (Permissions Screen)" = "Salli kamera";
+
+"Enable microphone (Permissions Screen)" = "Salli mikrofoni";
+
+"Enable/Disable Audio Only Broadcast (accessibility hint)" = "Kaksoisnapauta salliaksesi tai estääksesi vain äänen lähettämisen.";
+
+"Enable/Disable Audio Only Broadcast (accessibility label)" = "Salli/estä vain äänen lähettäminen";
+
+"Ended" = "Päättynyt";
+
+"Engaging Chat" = "Kiinnostava keskustelu";
+
+"Error (ReplayKit)" = "Virhe";
+
+"Error accessing audio from microphone." = "Virhe mikrofonin äänen käyttämisessä.";
+
+"Error accessing history." = "Virhe historian käyttämisessä.";
+
+"Error saving video to Camera Roll" = "Virhe videon tallentamisessa kameran rullalle";
+
+"Error setting Amplify Program (title)" = "Amplify-ohjelman määritys ei onnistunut";
+
+"Every heart you send will be a Super Heart" = "Jokainen lähettämäsi sydän on supersydän";
+
+"Everybody can chat" = "Kuka tahansa voi keskustella";
+
+"FEATURED" = "ESITTELYSSÄ";
+
+"FOLLOWERS (user profile modal)" = "SEURAAJAT";
+
+"FOLLOWING (user profile modal)" = "SEURATUT";
+
+"Final List separator" = "ja";
+
+"Fine Control" = "Hienosäätö";
+
+"First Super Heart" = "Ensimmäinen supersydän";
+
+"Flip Camera (action sheet)" = "Vaihda kameraa";
+
+"Follow (user modal)" = "Seuraa";
+
+"Follow request sent. (chat message)" = "Seuraamispyyntö lähetetty.";
+
+"Follow the broadcaster to catch their next broadcast." = "Seuraa lähettäjää nähdäksesi hänen seuraavan lähetyksensä.";
+
+"Follow •|•%@•|• to catch their next broadcast" = "Seuraa käyttäjää •|•%@•|• nähdäksesi hänen seuraavan lähetyksensä";
+
+"Followed by %1$@ and %2$@" = "%1$@ ja %2$@ seuraavat";
+
+"Followed by %1$@, %2$@, %3$@ and %4$i others" = "%1$@, %2$@, %3$@ ja %4$i muuta seuraavat";
+
+"Followed by %1$@, %2$@, and %3$@" = "%1$@, %2$@ ja %3$@ seuraavat";
+
+"Followed by %@" = "%@ seuraa";
+
+"Followers button (accessibility hint)" = "Kaksoisnapauta nähdäksesi seuraajat.";
+
+"Following (user modal)" = "Seurataan";
+
+"Following button (accessibility hint)" = "Kaksoisnapauta nähdäksesi seuratut käyttäjät.";
+
+"Front Camera (accessibility hint)" = "Kaksoisnapauta vaihtaaksesi takakameraan";
+
+"Front Camera (accessiblity value)" = "Etukamera";
+
+"Get Coins" = "Osta kolikoita";
+
+"Give Super Hearts (menu button)" = "Anna supersydämiä";
+
+"Go LIVE" = "Siirry LIVE-tilaan";
+
+"Go LIVE to %@" = "Siirry LIVE-tilaan ryhmässä %@";
+
+"Go LIVE together (Guest Broadcasting Modal Title)" = "Siirtykää yhdessä live-tilaan";
+
+"Go to Twitter Profile" = "Siirry Twitter-profiiliin";
+
+"Good Viewer Count" = "Hyvä katsojamäärä";
+
+"Got It (Button Title)" = "Selvä";
+
+"Got it (Copyright Violation)" = "Selvä";
+
+"Got it (ReplayKit)" = "Ok";
+
+"Got it!" = "Ok";
+
+"Guest Action Sheet Report Item" = "Ilmianna";
+
+"Guest Call In Choice Label: \"Camera and microphone\"" = "Kamera ja mikrofoni";
+
+"Guest Call In Choice Label: \"Microphone only\"" = "Vain mikrofoni";
+
+"Guest Call-In Audio Only Permissions Subtitle beneath Title: \"Enable microphone to become a guest\"" = "Salli mikrofonin käyttö päästäksesi vieraaksi";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request. Learn more\"" = "Liityt mukaan, kun lähettäjä hyväksyy pyyntösi. •|•Lue lisää•|•";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request.\"" = "Liityt lähetykseen, kun lähettäjä hyväksyy pyyntösi.";
+
+"Guest Call-In Instructions Title: \"Ask to Join\"" = "Pyydä liittyä";
+
+"Guest Call-In Instructions Title: \"Join as a guest\"" = "Liity vieraana";
+
+"Guest Call-In Permissions Subtitle beneath Title: \"Enable camera and microphone to become a guest\"" = "Salli kameran ja mikrofonin käyttö päästäksesi vieraaksi";
+
+"Guest Call-In Permissions Title: \"Guest setup\"" = "Vierasasetukset";
+
+"Guest List (Manage Guest Callers Page Title)" = "Vieraslista";
+
+"Guest Was Banned Chat Message (Periscope)" = "Käyttäjästä •|•@%@•|• tehtiin ilmianto, jonka Periscope tarkasti. Käyttäjän todettiin rikkoneen yhteisön sääntöjä.";
+
+"Guest Was Banned Chat Message (Twitter)" = "Käyttäjästä •|•@%@•|• tehtiin ilmianto, jonka Twitter tarkasti. Käyttäjän todettiin rikkoneen Twitterin sääntöjä.";
+
+"Guests Not Allowed (Manage Guest Broadcasters Call-Ins List)" = "Vieraita ei sallita";
+
+"Guests can now ask to join. Use this icon to add or remove guests at any time. (Guest Broadcasting Enabled Prompt)" = "Vieraat voivat nyt pyytää liittyä lähetykseen. Käytä tätä kuvaketta lisätäksesi tai poistaaksesi vieraan milloin tahansa.";
+
+"HEART" = "SYDÄN";
+
+"HEARTS" = "SYDÄNTÄ";
+
+"Half-Speed" = "Puolinopeus";
+
+"Hang Up (Guest Calling Menu)" = "Katkaise puhelu";
+
+"Hang Up (Manage Guest Call-Ins Action Sheet)" = "Katkaise puhelu";
+
+"Hang Up Button Label: \"Hang Up\"" = "Katkaise puhelu";
+
+"Hang Up Subtitle (Audio Only): \"Stop sharing microphone\"" = "Keskeytä mikrofonin jakaminen";
+
+"Hang Up Subtitle (Camera + Microphone): \"Stop sharing camera and microphone\"" = "Keskeytä kameran ja mikrofonin jakaminen";
+
+"Hang Up on Guest or Cancel Guest From Joining" = "Katkaise yhteys vieraaseen tai peruuta osallistuminen";
+
+"Hang up" = "Katkaise yhteys";
+
+"Harassment" = "Häirintä";
+
+"Hateful Conduct (Report Option)" = "Vihakäytös";
+
+"Heart Sent (accessiblity announcement)" = "Sydän lähetetty";
+
+"Hearts & Chats off" = "Sydämet ja keskustelu poissa käytöstä";
+
+"Hearts & Chats on" = "Sydämet ja keskustelu käytössä";
+
+"Help us moderate this comment..." = "Auta meitä tämän kommentin moderoinnissa...";
+
+"Help us understand the problem.\nWhat issue with @%@ are you reporting?" = "Auta meitä ymmärtämään ongelma.\nMistä haluat ilmiantaa käyttäjän @%@?";
+
+"Hide Broadcast" = "Piilota lähetys";
+
+"Hide everything except video (action sheet)" = "Piilota kaikki paitsi video";
+
+"History (profile view title)" = "Historia";
+
+"History button (accessibility hint)" = "Kaksoisnapauta nähdäksesi viimeisimmät lähetykset.";
+
+"How can we improve?" = "Miten kokemusta voisi parantaa?";
+
+"How was your broadcasting experience?" = "Miten arvioit kokemuksesi suorasta lähetyksestä?";
+
+"I'm Not Interested in @%@" = "En ole kiinnostunut tilistä @%@";
+
+"If this broadcast depicts pornography or sexual acts, please tap below. (Report Sexual Content Modal)" = "Jos tämä lähetys sisältää pornoa tai seksuaalisia akteja, napauta alta.";
+
+"If you believe that this broadcast places a child at risk, please tap below. (Report Child Safety Modal)" = "Jos uskot, että tämä lähetys uhkaa lapsen hyvinvointia, napauta alta.";
+
+"If you believe this broadcast contains violence or someone is being physically threatened, please tap below. (Report Violence Modal)" = "Jos uskot, että tämä lähetys sisältää väkivaltaa tai fyysistä uhkailua, napauta alta.";
+
+"If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Jos uskot tämän lähetyksen kohdistavan vihaa johonkin ryhmään suojatun ominaisuuden (kuten rodun, uskonnon, sukupuolen, suuntautumisen tai vamman) perusteella, napauta alta.";
+
+"If you believe this broadcast exposes private information, please tap below. (Report Private Information Modal)" = "Jos tässä lähetyksessä mielestäsi paljastetaan yksityistä tietoa, napauta alta.";
+
+"If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below. (Report Harassment Modal)" = "Jos uskot tämän lähetyksen sisältävän häirintää, uhkailua tai toisen ihmisen pelottelemista hiljaiseksi, napauta alta.";
+
+"If you believe this guest is contemplating or encouraging suicide or self harm, please tap below. (Report Self Harm Modal)" = "Jos uskot tämän vieraan suunnittelevan itsemurhaa tai itsensä vahingoittamista tai yllyttävän toisia siihen, napauta alta.";
+
+"If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Jos uskot tämän vieraan kohdistavan vihaa johonkuhun suojatun ominaisuuden (kuten rodun, uskonnon, sukupuolen, suuntautumisen tai vamman) perusteella, napauta alta.";
+
+"If you believe this guest is exposing private information, please tap below. (Report Private Information Modal)" = "Jos uskot tämän vieraan paljastavan yksityistä tietoa, napauta alta.";
+
+"If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below. (Report Harassment Modal)" = "Jos uskot tämän vieraan häiritsevän, uhkailevan tai pelottelevan toista ihmistä hiljaiseksi, napauta alta.";
+
+"If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below. (Report Violence Modal)" = "Jos uskot tämän vieraan uhkaavan jonkun nimenomaisen henkilön fyysistä koskemattomuutta tai hyvinvointia väkivaltaisella teolla, napauta alta.";
+
+"If you believe this guest is sharing content that places a child at risk, please tap below. (Report Child Safety Modal)" = "Jos uskot tämän vieraan jakavan lapsen hyvinvointia uhkaavaa sisältöä, napauta alta.";
+
+"If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below. (Report Sexual Content Modal)" = "Jos uskot tämän vieraan jakavan sopimatonta seksuaalista sisältöä, kuten pornografiaa, napauta alta.";
+
+"If you believe this individual is contemplating suicide or self harm, please tap below. (Report Self Harm Modal)" = "Jos uskot, että henkilö suunnittelee itsemurhaa tai itsensä vahingoittamista, napauta alta.";
+
+"If you delete this broadcast, you will lose the stars that you received. This cannot be undone." = "Jos poistat tämän lähetyksen, menetät saamasi tähdet. Poistoa ei voi myöhemmin kumota.";
+
+"Initializing video stream..." = "Käynnistetään videolähetystä...";
+
+"Invite Guests (Manage Guest Broadcasters Call-Ins List)" = "Kutsu vieraita";
+
+"Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Kutsu  katsojia osallistumaan lähetykseen vieraana. Kaikki lähetyksen katsojat kuulevat heidät, ja voit lisätä tai poistaa vieraan halutessasi.";
+
+"Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Kutsu  katsojia osallistumaan lähetykseen vieraana. Kaikki lähetyksen katsojat näkevät ja kuulevat heidät, ja voit lisätä tai poistaa vieraan halutessasi.";
+
+"Join as a Guest (Guest Calling Menu)" = "Liity vieraana";
+
+"Joined %@" = "Liittyi %@";
+
+"Joining as a guest... (Guest Call-In Countdown Screen Title)" = "Liitytään vieraana...";
+
+"Keep broadcasting to collect more stars!" = "Tee uusia lähetyksiä, jotta saat lisää tähtiä!";
+
+"Keep stars received" = "Säilytä ansaitut tähdet";
+
+"LIVE" = "LIVE";
+
+"LIVE VIEWER" = "LIVEKATSOJA";
+
+"LIVE VIEWERS" = "LIVEKATSOJIA";
+
+"LIVE Video (Broadcast Audience)" = "Livevideo";
+
+"LIVE on #Periscope" = "LIVE-lähetys #Periscope-sovelluksessa";
+
+"LIVE on #Periscope: %@" = "LIVE-lähetys #Periscope-sovelluksessa: %@";
+
+"LOADING" = "LADATAAN";
+
+"LOST CONNECTION" = "YHTEYS KATKESI";
+
+"Later (alert view)" = "Myöhemmin";
+
+"Learn More" = "Lue lisää";
+
+"Learn More (Stars Profile)" = "Lue lisää";
+
+"Leave Broadcast" = "Poistu lähetyksestä";
+
+"Limited by Broadcaster" = "Lähettäjän rajoittama";
+
+"Limited for %@" = "Rajoitusta jäljellä %@";
+
+"List separator" = ",";
+
+"Live Time Watched (CELL)" = "Livekatseluaika";
+
+"Live watch time per minute tooltip" = "Jokaista lähetyksen liveminuuttia kohden katselijat käyttivät aikaa yhteensä %@.";
+
+"Loading History." = "Ladataan historiaa.";
+
+"Loading followers" = "Ladataan seuraajia";
+
+"Loading following" = "Ladataan seurattavia";
+
+"Loading history" = "Ladataan historiaa";
+
+"Loading your followers" = "Ladataan seuraajiasi";
+
+"Loading your following" = "Ladataan seurattaviasi";
+
+"Location Permissions Required" = "Sijainninkäyttöoikeus vaaditaan";
+
+"Location Unknown" = "Tuntematon sijainti";
+
+"Logged Out" = "Uloskirj.";
+
+"Login Error (ReplayKit)" = "Sisäänkirjautuminen vaaditaan";
+
+"Login Error Instructions (ReplayKit)" = "Kirjaudu sisään Periscope-sovelluksen kautta. Palaa sitten tänne aloittamaan lähetyksesi.";
+
+"Looks OK" = "Näyttää OK:lta";
+
+"Looks like the connection was lost. Reconnecting... (Toast)" = "Yhteys näyttää katkenneen. Yhdistetään uudelleen...";
+
+"Lose stars received" = "Menetä ansaitut tähdet";
+
+"Low Viewer Count" = "Alhainen katsojamäärä";
+
+"Low disk space. A portion of this broadcast will not be available for replay later." = "Tallennustila vähissä. Osa tästä lähetyksestä ei ole katseltavissa uusintana.";
+
+"Majority voted <destructive emphasis> Abuse </destructive emphasis>\nThe commenter's chat has been limited." = "Enemmistön mielestä viesti oli •|• häirintää •|•\nKommentoijan keskustelua on rajoitettu.";
+
+"Majority voted <destructive emphasis> Looks OK  </destructive emphasis>" = "Enemmistö äänesti •|• näyttää OK:ltä •|•";
+
+"Majority voted <destructive emphasis> Not Sure </destructive emphasis>" = "Enemmistö äänesti •|• epävarmaa •|•";
+
+"Majority voted <destructive emphasis> Spam </destructive emphasis>\nThe commenter's chat has been limited." = "Enemmistö äänesti •|• roskapostiksi •|•\nKommentoijan keskustelu on rajoitettu.";
+
+"Makes broadcast visible to everyone" = "Tekee lähetyksen kaikille näkyväksi";
+
+"Makes broadcast visible to invited viewers" = "Tekee lähetyksen kutsutuille katsojille näkyväksi";
+
+"Manage details about your Broadcast (menu subtitle)" = "Muokkaa lähetyksesi tietoja";
+
+"Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen." = "Tämänkaltaiset viestit estetään usein. Jos sinut estetään liian monta kertaa, kommenttejasi ei enää näytetä.";
+
+"Million Decimal Abbreviation" = "%.1f M";
+
+"Million Integer Abbreviation" = "%d M";
+
+"Moderation Modal Button Label" = "OK, ymmärrän";
+
+"Moderation Modal Example Label" = "ESIMERKKI";
+
+"Moderation Modal Example Message" = "Kyseenalainen viesti...";
+
+"Moderation Modal Settings Label" = "Voit poistaa tämän käytöstä asetuksissa.";
+
+"Moderation Modal Subtitle" = "Pyydämme sinua silloin tällöin moderoimaan kommentin nopeasti päättämällä, onko se •|•HÄIRINTÄÄ•|• tai •|•ROSKAPOSTIA•|•. Moderointi on anonyymiä.";
+
+"Moderation Modal Title" = "Moderointi";
+
+"Moderator Actions" = "Moderointitoimet";
+
+"Moderator Actions (%@)" = "Moderointitoimet (%@)";
+
+"Moderator •|•%@•|• joined" = "Moderaattori •|•%@•|• liittyi mukaan";
+
+"ModeratorName muted this message (Message Carousel)" = "•|•%@•|• hiljensi tämän viestin";
+
+"Monetize Broadcast" = "Ota lähetys kaupalliseen käyttöön";
+
+"Monetize Broadcast (expanded cell title)" = "Ota lähetys kaupalliseen käyttöön";
+
+"Monetize Broadcast (minimized cell title)" = "Ota lähetys kaupalliseen käyttöön ▾";
+
+"More (following/followers)" = "Muuta";
+
+"Mute" = "Hiljennä";
+
+"Mute (accessibility label)" = "Hiljennä";
+
+"Mute User" = "Hiljennä käyttäjä";
+
+"Mute User Notifications" = "Hiljennä käyttäjäilmoitukset";
+
+"Muted by Moderator" = "Moderaattorin hiljentämä";
+
+"NEW" = "UUSI";
+
+"NO LIVE VIEWERS" = "EI LIVE-KATSOJIA";
+
+"NO REPLAY VIEWERS" = "EI UUSINTAKATSOJIA";
+
+"New Broadcaster Education: 3 Guest Limit" = "Sinulla voi olla kerralla enintään kolme vierasta.";
+
+"New Tweet (Compose)" = "Uusi twiitti";
+
+"No history." = "Ei historiaa.";
+
+"No one has asked to join yet. Tap to invite your viewers to join. (Empty Manage Guest Broadcasters Call-Ins List)" = "Kukaan ei ole vielä pyytänyt liittyä lähetykseen.\n\nNapauta pyytääksesi katsojia liittymään mukaan.";
+
+"No one is following you." = "Kukaan ei seuraa sinua.";
+
+"No, stop broadcasting (Copyright Violation)" = "Ei, keskeytä lähetys";
+
+"Not Sure" = "Epävarma";
+
+"Not followed by anyone you're following" = "Seuraajien joukossa ei ole ketään, jota seuraat";
+
+"Notifications (accessiblity label)" = "Ilmoitukset";
+
+"Notifications OFF" = "Ilmoitukset POIS";
+
+"Notifications ON" = "Ilmoitukset PÄÄLLÄ";
+
+"Notifications Off (accessibility hint)" = "Kaksoisnapauta ottaaksesi käyttöön ilmoitukset tältä käyttäjältä.";
+
+"Notifications Off (accessibility value)" = "Pois";
+
+"Notifications On (accessibility hint)" = "Kaksoisnapauta poistaaksesi käytöstä ilmoitukset tältä käyttäjältä.";
+
+"Notifications On (accessibility value)" = "Päällä";
+
+"Notify my followers (Guest Call-In Notify Followers Option)" = "Ilmoita seuraajilleni";
+
+"OK, Got It" = "Selvä";
+
+"Offensive Guest (Report Option)" = "Loukkaava vieras";
+
+"Okay (Report Broadcast Modal)" = "Ok";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Yksi tai useampi kommenttisi piilotettiin, koska se sisälsi HÄIRINTÄÄ. Kommentointi on poistettu käytöstä kaikissa lähetyksissä.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast." = "Yksi tai useampi kommenttisi piilotettiin, koska se sisälsi HÄIRINTÄÄ. Kommentointi on poistettu käytöstä tässä lähetyksessä.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Yksi tai useampi kommenttisi piilotettiin, koska se sisälsi HÄIRINTÄÄ. Kommentointia on tilapäisesti rajoitettu kaikissa lähetyksissä.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited." = "Yksi tai useampi kommenttisi piilotettiin, koska se sisälsi HÄIRINTÄÄ. Kommentointia on tilapäisesti rajoitettu.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts." = "Yksi tai useampia kommenttejasi piilotettiin ROSKAPOSTIN vuoksi. Kommentointi on poistettu käytöstä kaikissa lähetyksissä.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast." = "Yksi tai useampia kommenttejasi piilotettiin ROSKAPOSTIN vuoksi. Kommentointi on poistettu käytöstä tässä lähetyksessä.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Yksi tai useampia kommenttejasi piilotettiin ROSKAPOSTIN vuoksi. Kommentointi on tilapäisesti rajoitettu kaikissa lähetyksissä.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited." = "Yksi tai useampia kommenttejasi piilotettiin ROSKAPOSTIN vuoksi. Kommentointi on tilapäisesti rajoitettu.";
+
+"One or more of your comments was hidden. Commenting is disabled for all broadcasts." = "Yksi tai useampia kommenttejasi piilotettiin. Kommentointi on poistettu käytöstä kaikissa lähetyksissä.";
+
+"One or more of your comments was hidden. Commenting is disabled for this broadcast." = "Yksi tai useampia kommenttejasi piilotettiin. Kommentointi on poistettu käytöstä tässä lähetyksessä.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts." = "Yksi tai useampia kommenttejasi piilotettiin. Kommentointi on tilapäisesti rajoitettu kaikissa lähetyksissä.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited." = "Yksi tai useampia kommenttejasi piilotettiin. Kommentointi on tilapäisesti rajoitettu.";
+
+"One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast." = "Moderaattori hiljensi yhden tai useamman kommenttisi. Et voi enää kommentoida tähän lähetykseen.";
+
+"Only available in Periscope" = "Saatavana vain Periscopessa";
+
+"Only public broadcasts counted" = "Vain julkiset lähetykset lasketaan";
+
+"Only users you follow can chat" = "Vain seuraamasi käyttäjät voivat keskustella";
+
+"Only you can see your hidden broadcasts (menu subtitle)" = "Vain sinä näet piilotetut lähetyksesi";
+
+"Other Reason (Report Option)" = "Muu syy";
+
+"Other Reason \n e.g. Foreign Language" = "Muu syy•|•\nesim. vieras kieli•|•";
+
+"Our apologies for the inconvenience." = "Pahoittelut tilanteesta.";
+
+"POOR CONNECTION" = "HUONO YHTEYS";
+
+"POSSIBLY NSFW (Interstitial)" = "MAHDOLLISESTI SOPIMATONTA";
+
+"Pause (accessibility label)" = "Pysäytä";
+
+"Peak (graph label)" = "suurin yleisö";
+
+"Periscope App Feedback" = "Periscope-sovelluspalaute";
+
+"Periscope account is required." = "Tarvitset Periscope-tilin.";
+
+"Periscope is discontinuing on •|•%@•|•" = "Periscope lopettaa toimintansa •|•%@•|•";
+
+"Play (accessibility label)" = "Toista";
+
+"Please allow some time for all transactions to be posted." = "Kuluu jonkin aikaa, ennen kuin kaikki tapahtumat näkyvät täällä.";
+
+"Positive Community" = "Myönteinen yhteisö";
+
+"Post to Twitter (accessibility hint)" = "Kaksoisnapauta vaihtaaksesi.";
+
+"Post to Twitter (accessibility label)" = "Julkaise Twitteriin";
+
+"Posting to Twitter OFF" = "Julkaisu Twitteriin POIS";
+
+"Posting to Twitter as @%@" = "Julkaistaan Twitteriin käyttäjänä @%@";
+
+"Precise Location Sharing OFF" = "Tarkan sijainnin jakaminen POIS";
+
+"Precise Location Sharing ON" = "Tarkan sijainnin jakaminen PÄÄLLÄ";
+
+"Private (Broadcast Audience)" = "Yksityinen";
+
+"Private Information (Report Option)" = "Yksityiset tiedot";
+
+"Profile (accessibility label)" = "Profiili";
+
+"Profile URL copied" = "Profiilin URL-osoite kopioitu";
+
+"Public (Broadcast Audience)" = "Julkinen";
+
+"Public Hidden (Broadcast Audience)" = "Julkinen (piilotettu)";
+
+"Quarter-Speed" = "Neljännesnopeus";
+
+"RECENT (user profile modal)" = "VIIMEISIMMÄT";
+
+"REPLAY VIEWER" = "UUSINTAKATSOJA";
+
+"REPLAY VIEWERS" = "UUSINTAKATSOJAA";
+
+"Ready to give Super Hearts!" = "Valmiina antamaan supersydämiä!";
+
+"Received in: (History)" = "Saatu: \"%@\"";
+
+"Received stars (History)" = "Saadut tähdet.";
+
+"Release to <bold>Leave</bold> (broadcasting)" = "Päästä irti •|•poistuaksesi•|•";
+
+"Release to <bold>Leave</bold> (watching)" = "Päästä irti •|•poistuaksesi•|•";
+
+"Release to Refresh" = "Päästä irti päivittääksesi";
+
+"Remove" = "Poista";
+
+"Remove Amplify Program" = "Poista Amplify-ohjelma";
+
+"Remove Amplify Program (cell title)" = "Poista Amplify-ohjelma";
+
+"Remove Location" = "Poista sijainti";
+
+"Remove at least 1 character from your title to make room for #(example hashtag)" = "Poista ainakin yksi merkki otsikosta, jotta %@ mahtuu";
+
+"Remove at least X characters from your title to make room for #(example hashtag)" = "Poista ainakin %lu merkkiä otsikosta, jotta %@ mahtuu";
+
+"Replay Time Watched (CELL)" = "Katsottu uusintana";
+
+"Replay Unavailable" = "Uusinta ei saatavilla";
+
+"Replay watch time per minute tooltip" = "Jokaista lähetyksen uusintaminuuttia kohden katselijat käyttivät aikaa yhteensä %@.";
+
+"Reply" = "Vastaa";
+
+"Report @<guest's username> (Report Guest Modal)" = "Ilmianna @%@";
+
+"Report Abusive Behavior (Report Abusive Behavior Modal)" = "Häirintä";
+
+"Report Abusive Profile" = "Ilmianna loukkaava profiili";
+
+"Report As Spam" = "Ilmianna roskapostina";
+
+"Report Broadcast (Report Broadcast Modal)" = "Ilmianna lähetys";
+
+"Report Child Safety (Report Child Safety Modal)" = "Lasten hyvinvointi";
+
+"Report Comment" = "Ilmianna kommentti";
+
+"Report Hateful Conduct (Report Hateful conduct Modal)" = "Vihakäytös";
+
+"Report Private Information (Report Private Information Modal)" = "Yksityiset tiedot";
+
+"Report Self-Harm (Report Self Harm Modal)" = "Itsetuhoisuus";
+
+"Report Sexual Content (Report Sexual Content Modal)" = "Seksuaalinen sisältö";
+
+"Report User" = "Ilmianna käyttäjä";
+
+"Report Violence (Report Violence Modal)" = "Väkivalta";
+
+"Reporting is anonymous and will hide the user's comments (just for you)." = "Ilmiantaminen on anonyymiä ja se piilottaa käyttäjän kommentit (vain sinulta).";
+
+"Restrict Chat (accessibility hint)" = "Kaksoisnapauta rajoittaaksesi keskustelun seuraamillesi käyttäjille.";
+
+"Restrict Chat (accessibility label)" = "Rajoita keskustelu";
+
+"Return to Summary (accessibility hint)" = "Kaksoisnapauta palataksesi käyttäjän yhteenvetoon.";
+
+"Retweet" = "Uudelleentwiittaa";
+
+"Save Changes" = "Tallenna muutokset";
+
+"Save To Camera Roll" = "Tallenna kameran rullalle";
+
+"Save To Camera Roll Unavailable" = "Tallentaminen kameran rullalle ei onnistu";
+
+"Saved To Camera Roll" = "Tallennettu kameran rullalle";
+
+"Saved!" = "Tallennettu!";
+
+"Saving..." = "Tallennetaan...";
+
+"Say something..." = "Sano jotain...";
+
+"Scroll for Old Comments" = "Vierittämällä näet vanhempia kommentteja";
+
+"Scroll to Bottom" = "Vieritä alas";
+
+"Self-Harm (Report Option)" = "Itsetuhoisuus";
+
+"Send (accessibility label)" = "Lähetä";
+
+"Send Message (Blocked Modal)" = "Lähetä viesti";
+
+"Send people a notification to join this broadcast. Mutuals are people you follow that follow you back." = "Lähetä ilmoitus lähetykseen liittymisestä. Molemminpuoliset seuraajat ovat seuraamiasi henkilöitä, jotka myös seuraavat sinua.";
+
+"Sent for payment processing (History)" = "Lähetetty maksujenkäsittelyyn.";
+
+"Separator between two names" = "ja";
+
+"Set Amplify Program" = "Valitse Amplify-ohjelma";
+
+"Setting the broadcast Amplify Program to •|•%@•|• will publish a new Tweet." = "Määrittämällä lähetyksen Amplify-ohjelmaksi %@ julkaiset uuden twiitin.";
+
+"Settings (app)" = "Asetukset";
+
+"Sexual Content (Report Option)" = "Seksuaalinen sisältö";
+
+"Sexually Inappropriate \n Obscene or unwanted sexual remarks" = "Siveellisyyttä loukkaava•|•\nSäädyttömiä tai ei-toivottuja seksuaalissävyisiä kommentteja•|•";
+
+"Share Broadcast" = "Jaa lähetys";
+
+"Share From" = "Jaa kohdasta";
+
+"Share From %@" = "Jaa kohdasta %@";
+
+"Share From Beginning" = "Jaa alusta";
+
+"Share Live" = "Jaa suorana";
+
+"Share Twitter Tooltip (explaining that the feature is disabled while guests are enabled)" = "Poistettu käytöstä, kun lähetyksessä on vieraita";
+
+"Share precise location (accessibility label)" = "Jaa tarkka sijainti";
+
+"Share request sent. (chat message)" = "Jakopyyntö lähetetty.";
+
+"Share screenshot and broadcast" = "Jaa näyttökuva ja lähetys";
+
+"Share this broadcast so your followers don't miss it." = "Jaa tämä lähetys, jotta seuraajasi eivät jää paitsi siitä.";
+
+"Share via..." = "Jaa käyttäen...";
+
+"Show Stats (cell)" = "Näytä tilastot";
+
+"Skip" = "Ohita";
+
+"Sorry, that action could not be completed because you have been blocked." = "Valitettavasti tuota toimintoa ei voitu suorittaa, koska sinut on estetty.";
+
+"Sorry, that action could not be completed because you have reached the block limit." = "Valitettavasti toimintoa ei voitu suorittaa, koska olet saavuttanut estorajan.";
+
+"Sorry, that action could not be completed because you have reached the follow limit." = "Valitettavasti toimintoa ei voitu suorittaa, koska olet saavuttanut seuraamisrajan.";
+
+"Sorry, the broadcast is too full..." = "Valitettavasti lähetys on liian täynnä...";
+
+"Sorry, this broadcast is unavailable" = "Valitettavasti tämä lähetys ei ole saatavilla";
+
+"Sorry, we couldn't load the broadcast share URL. Please try again." = "Valitettavasti emme voineet ladata URL-osoitetta lähetyksen jakamiseen. Yritä uudelleen.";
+
+"Sorry, we couldn't save your changes. Please try again." = "Muutostesi tallennus ei valitettavasti onnistunut. Yritä uudelleen.";
+
+"Sorry, we encountered an error blocking some users. Please try again." = "Valitettavasti käyttäjän tai käyttäjien estämisessä tapahtui virhe. Yritä uudelleen.";
+
+"Sorry, we encountered an error blocking that user. Please try again." = "Valitettavasti käyttäjän estämisessä tapahtui virhe. Yritä uudelleen.";
+
+"Sorry, we encountered an error loading user data. Please try again." = "Käyttäjätietojen latauksessa tapahtui virhe. Yritä uudelleen.";
+
+"Sorry, we encountered an error loading your broadcasts. Please try again." = "Lähetystesi lataamisessa tapahtui virhe. Yritä uudelleen.";
+
+"Sorry, we encountered an error reporting this broadcast. Please try again." = "Valitettavasti tämän lähetyksen ilmiantamisessa tapahtui virhe. Yritä uudelleen.";
+
+"Sorry, we encountered an error reporting this guest. Please try again." = "Valitettavasti tämän vieraan ilmiantamisessa tapahtui virhe. Yritä uudelleen.";
+
+"Sorry, we've encountered a loading error. Please try again." = "Valitettavasti tapahtui latausvirhe. Yritä uudelleen.";
+
+"Sorry, you've done that too many times. Try again in a few minutes." = "Olet tehnyt tuon liian monta kertaa. Yritä uudelleen muutaman minuutin kuluttua.";
+
+"Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv" = "Valitettavasti tapahtui latausvirhe (421 - selector). Ota yhteys tukeen osoitteessa help@pscp.tv";
+
+"Sorry, you've encountered a loading error (421). Please email help@pscp.tv" = "Valitettavasti tapahtui latausvirhe (421). Ota yhteys tukeen osoitteessa help@pscp.tv";
+
+"Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later." = "Valitettavasti verkkoyhteytesi ei riitä lataamaan uutta esikatselukuvaa. Yritä myöhemmin uudelleen.";
+
+"Spam" = "Roskaposti";
+
+"Spam in Chat" = "Roskapostia keskustelussa";
+
+"Star & Cash Outs History (Stars Profile)" = "Tähti- ja kotiutushistoria";
+
+"Star History (Stars Profile)" = "Tähtihistoria";
+
+"Star balance adjustment. Contact superhearts@pscp.tv if you have any questions. (History)" = "Tähtisaldon oikaisu. Jos sinulla on kysyttävää, lähetä viesti osoitteeseen superhearts@pscp.tv.";
+
+"Stars (profile view title)" = "Tähdet";
+
+"Stars (profile)" = "Tähdet";
+
+"Start Point" = "Aloituskohta";
+
+"Start Sketching (action sheet)" = "Ala piirtää";
+
+"Stop Broadcast" = "Lopeta lähetys";
+
+"Submit" = "Lähetä";
+
+"Success! You've unmuted @%@" = "Onnistui! Käyttäjän @%@ hiljennys on poistettu";
+
+"Successfully set Amplify Program (title)" = "Amplify-ohjelman määritys onnistui";
+
+"Suggested user is watching singlular" = "%@•|• katselee nyt•|•";
+
+"Suggested users are watching plural" = "%ld ystävää•|• katselee nyt•|•";
+
+"Super Broadcaster (Stars Profile)" = "Superlähettäjä";
+
+"Super Broadcaster Program" = "Superlähettäjäohjelma";
+
+"Super Heart Terms" = "Supersydänten käyttöehdot";
+
+"Super Hearts" = "Supersydämet";
+
+"Super Hearts OFF" = "Supersydämet POIS";
+
+"Super Hearts ON" = "Supersydämet KÄYTÖSSÄ";
+
+"Swipe down to <bold>Stop</bold>" = "Pyyhkäise alas •|•lopettaaksesi•|•";
+
+"Tap anyhwhere to <bold>Exit Theater Mode</bold>" = "Napauta mitä kohtaa tahansa •|•poistuaksesi teatteritilasta•|•";
+
+"Tap this icon to join Broadcaster's broadcast as a guest. (Viewer Prompt to Call-In)" = "Napauta tätä kuvaketta liittyäksesi vieraana käyttäjän •|•%@•|• lähetykseen.";
+
+"Thank You (Report Broadcast Confirmation Modal)" = "Kiitos";
+
+"Thank you for your report" = "Kiitos ilmoituksestasi";
+
+"Thank you for your report (Chat Prompt)" = "Kiitos ilmoituksestasi";
+
+"Thank you for your report." = "Kiitos ilmoituksestasi.";
+
+"Thank you. You won't see any more messages from •|•@%@•|• in this broadcast." = "Kiitos. Et enää näe käyttäjän •|•@%@•|• viestejä tässä lähetyksessä.";
+
+"Thanks %@!" = "Kiitos %@!";
+
+"Thanks for your feedback!" = "Kiitos palautteestasi!";
+
+"The broadcaster blocked you in response to this message." = "Lähettäjä esti sinut vastauksena tähän viestiin.";
+
+"The broadcaster has limited chat." = "Lähettäjä on rajoittanut keskustelua.";
+
+"The broadcaster has the ability to remove people from their broadcasts." = "Lähettäjällä on mahdollisuus poistaa henkilöitä lähetyksistään.";
+
+"The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•." = "Kolikkokauppa on suljettu. Jos sinulla on kolikoita jäljellä, käytä ne Supersydänten lähettämiseen suosikkilähettäjillesi ennen •|•%@•|•.";
+
+"Theater Mode (action sheet)" = "Teatteritila";
+
+"Their name, bio, or profile image violates the Community Guidelines" = "Käyttäjän nimi, kuvaus tai profiilikuva rikkoo yhteisön sääntöjä";
+
+"There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat." = "Moni katselee tätä juuri nyt! Lähettäjän saamien viestien määrän rajoittamisen vuoksi vain aikaiset liittyjät voivat keskustella.";
+
+"There was an error adding @username as a guest. Please try again." = "Käyttäjän @%@ lisääminen lähetykseen vieraana ei onnistunut. Yritä uudelleen.";
+
+"There was an error adding you as a guest. We've notified Broadcaster, and will alert you if we're able to try again." = "Vieraaksi liittyminen ei onnistunut. %@ on saanut ilmoituksen, ja saat hälytyksen, jos onnistumme yrittämään uudelleen.";
+
+"There was an error allowing guests. Please try again." = "Vieraiden salliminen ei onnistunut. Yritä uudelleen.";
+
+"There was an error cancelling your request. Please try again." = "Pyyntösi peruminen ei onnistunut. Yritä uudelleen";
+
+"There was an error cancelling. Please try again." = "Peruminen ei onnistunut. Yritä uudelleen.";
+
+"There was an error disallowing guests. Please try again." = "Vieraiden kieltämisessä tapahtui virhe. Yritä uudelleen.";
+
+"There was an error inviting guests. Please try again." = "Vieraiden kutsumisessa tapahtui virhe. Yritä uudelleen.";
+
+"There was an error muting or un-muting @username. Please try again." = "Käyttäjän @%@ hiljentäminen tai hiljennyksen poisto ei onnistunut. Yritä uudelleen.";
+
+"There was an error muting or un-muting you. Please try again." = "Hiljentämisesi tai hiljennyksesi poisto ei onnistunut. Yritä uudelleen.";
+
+"There was an error removing your guest @username. Please try again." = "Vieraan @%@ poistaminen ei onnistunut. Yritä uudelleen.";
+
+"There was an error sending your request to join as a guest. Please try again." = "Lähetykseen liittymispyyntösi lähettäminen ei onnistunut. Yritä uudelleen.";
+
+"There was an error updating the settings (conversation controls and mentioned users). Please try again." = "Virhe asetusten päivityksessä (keskustelun hallinta ja mainitut käyttäjät). Yritä uudelleen.";
+
+"There was an error updating the settings (locked/unlocked). Please try again." = "Asetusten (lukittu/lukitsematon) päivityksessä tapahtui virhe. Yritä uudelleen.";
+
+"This broadcast is no longer available." = "Lähetys ei ole enää saatavilla.";
+
+"This broadcast isn’t available (Copyright Violation)" = "Tämä lähetys ei ole saatavilla";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}." = "Tämä lähetys vastaa teosta ”%1$@”, jonka tekijänoikeus kuuluu käyttäjälle %2$@. •|•Lue lisää•|•";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}. Do you have all rights necessary to broadcast this video on Twitter?" = "Tämä lähetys vastaa teosta ”%1$@”, jonka tekijänoikeudet kuuluvat käyttäjälle %2$@. Onko sinulla tarvittavat oikeudet tämän videon lähettämiseen Twitterissä?";
+
+"This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video." = "Tämä lähetys on kuvattu 360 asteen kameralla. Periscope ei enää tue 360 asteen videon toistoa.";
+
+"This broadcast’s title can’t be edited. Learn more (Copyright Violation)" = "Lähetyksen otsikkoa ei voi muuttaa. •|•Lue lisää•|•";
+
+"This is optional" = "Tämä on valinnainen";
+
+"This user doesn't have any followers yet" = "Tällä käyttäjällä ei ole vielä yhtään seuraajaa";
+
+"This user has not broadcasted yet" = "Tämä käyttäjä ei ole lähettänyt vielä yhtään lähetystä";
+
+"This user isn't following anyone yet" = "Tämä käyttäjä ei seuraa vielä ketään";
+
+"Thousand Decimal Abbreviation" = "%.1f t";
+
+"Thousand Integer Abbreviation" = "%d t";
+
+"Thumbnail" = "Esikatselukuva";
+
+"Time Watched (CELL)" = "Katseltu aika";
+
+"Title (accessibility label)" = "Otsikko";
+
+"To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off." = "Voidaksesi käydä chat-keskustelua ota asetuksista käyttöön \"Yhdistä Periscopeen\". Jos tililläsi on käytössä asetus \"Suojaa twiittejäni\", sinun on ladattava Periscope-sovellus ja luotava Periscope-tili tai vaihdettava Twitter-tiliin, jossa \"Suojaa twiittejäni\" on poissa käytöstä.";
+
+"To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos." = "Voidakseen tallentaa videon Periscope tarvitsee luvan valokuviesi käyttöön. Anna lupa tulevaa lähetystä varten valitsemalla Asetukset ja vaihtamalla Valokuvat-kohdan valinta.";
+
+"To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account." = "Jotta voit lähettää palautetta sähköpostilla, sinun on ensin otettava sähköposti käyttöön laitteellasi. Avaa ensin Asetukset-sovellus. Siirry sitten kohtaan Posti, yhteystiedot, kalenterit ja valitse Lisää tili.";
+
+"To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option." = "Jotta voit jakaa sijaintisi, Periscope tarvitsee luvan käyttää sitä \nlaitteellasi. Napsauta Asetukset-painiketta ja siirry sitten kohtaan Sijainti ja valitse vaihtoehto Käytettäessä.";
+
+"Top Contributor" = "Suurin lahjoittaja";
+
+"Total watch time per minute tooltip" = "Jokaista lähetyksen minuuttia kohden katselijat käyttivät aikaa yhteensä %@.";
+
+"Total watch time per minute tooltip (broadcaster)" = "Jokaista lähetyksen liveminuuttia kohden katselijat käyttivät aikaa yhteensä %@. Tämä tilasto normalisoi katseluajan eri pituisten lähetysten välillä.";
+
+"Trying to reconnect" = "Yritetään yhdistää uudelleen";
+
+"Twitter Post OFF" = "Twitter-viesti POIS";
+
+"Twitter Post ON" = "Twitter-viesti PÄÄLLÄ";
+
+"Unable to load broadcast." = "Lähetyksen lataaminen ei onnistunut.";
+
+"Unblock User" = "Poista esto";
+
+"Unfollow User" = "Lopeta käyttäjän seuraaminen";
+
+"Unhide Broadcast (menu button)" = "Peru lähetyksen piilotus";
+
+"Unmute" = "Poista hiljennys";
+
+"Unmute User" = "Poista käyttäjän hiljennys";
+
+"Unmute User Notifications" = "Poista käyttäjäilmoitusten hiljennys";
+
+"Untitled" = "Nimetön";
+
+"User has not provided a profile description." = "Käyttäjällä ei ole profiilikuvausta.";
+
+"Very bad" = "Erittäin huono";
+
+"Very good" = "Erittäin hyvä";
+
+"Video Issues" = "Ongelmat videossa";
+
+"Video Quality" = "Videon laatu";
+
+"Video will resume if signal improves" = "Video jatkuu, jos signaali paranee";
+
+"View Broadcast Actions (accessibility label)" = "Näytä lähetystoiminnot";
+
+"View Participants (accessibility label)" = "Näytä osallistujat";
+
+"View Profile" = "Näytä profiili";
+
+"View Stats" = "Näytä tilastot";
+
+"Viewers can give you Super Hearts.\n<link>Learn more.</link>" = "Katsojat voivat antaa sinulle supersydämiä.\n•|•Lue lisää.•|•";
+
+"Viewers cannot give you Super Hearts.\n<link>Learn more.</link>" = "Katsojat eivät voi antaa sinulle supersydämiä.\n•|•Lue lisää.•|•";
+
+"Violence (Report Option)" = "Väkivalta";
+
+"Waiting for other responses..." = "Odotetaan muita vastauksia...";
+
+"Waiting for you to <bold>login</bold>." = "Odotetaan •|•sisäänkirjautumista•|•.";
+
+"Watch %1$@'s broadcast: %2$@" = "Katso käyttäjän %1$@ lähetys %2$@";
+
+"Watch %@'s broadcast." = "Katso käyttäjän %@ lähetys.";
+
+"Watch LIVE" = "Katso •|•SUORANA•|•";
+
+"Watch Live" = "Katso suorana";
+
+"Watch Replay" = "Katso uusinta";
+
+"Watch Stream (User Activity)" = "Katso lähetystä";
+
+"Watch on #Periscope" = "Katso #Periscope-sovelluksessa";
+
+"Watch on #Periscope: %@" = "Katso #Periscope-sovleluksessa: %@";
+
+"Watch what happened at %1$@ in %2$@'s broadcast." = "Katso, mitä tapahtui käyttäjän %2$@ lähetyksen kohdassa %1$@.";
+
+"Watch what happened at %1$@ in %2$@'s broadcast: %3$@" = "Katso, mitä tapahtui käyttäjän %2$@ lähetyksen %3$@ kohdassa %1$@";
+
+"We encountered an error deleting your broadcast. Please try again." = "Lähetyksesi poistamisessa tapahtui virhe. Yritä uudelleen.";
+
+"We encountered an error updating your gift settings. Please try again." = "Lahja-asetustesi päivittämisessä tapahtui virhe. Yritä uudelleen";
+
+"We have received your report. Thank you for helping keep the community safe! (Report Broadcast Confirmation Modal)" = "Olemme saaneet ilmiantosi. Kiitos, kun autat meitä pitämään yhteisön turvallisena!";
+
+"We're sorry, there was an error starting your broadcast. Please try starting it again." = "Lähetyksesi käynnistämisessä tapahtui virhe. Yritä käynnistämistä uudelleen.";
+
+"Welcome <bold>%@</bold>" = "Tervetuloa •|•%@•|•";
+
+"We’ve let your followers know that you joined as a guest (Chat Prompt)" = "Olemme ilmoittaneet seuraajillesi, että liityit mukaan vieraana";
+
+"What are you seeing now?" = "Mitä näet nyt?";
+
+"What do you want to talk about?" = "Mistä haluat keskustella?";
+
+"What went well?" = "Mikä meni hyvin?";
+
+"When someone follows them, they'll be listed here." = "Kun joku seuraa häntä, seuraajat näkyvät täällä.";
+
+"When someone follows you, they'll be listed here." = "Kun joku seuraa sinua, seuraajat näkyvät täällä.";
+
+"When they do, it'll show up here." = "Kun on, se näkyy täällä.";
+
+"When they do, they'll be listed here." = "Kun hän tekee sen, seuratut näkyvät täällä.";
+
+"When you do, it'll show up here" = "Kun olet, se näkyy täällä.";
+
+"When you do, they'll be listed here." = "Kun seuraat, seuratut näkyvät täällä.";
+
+"Yes (Copyright Violation)" = "Kyllä";
+
+"You already have a linked Twitter account. Please use this in the future to broadcast from Twitter" = "Tiliisi on jo liitetty Twitter-tili. Käytä sitä jatkossa suoriin lähetyksiin Twitteristä";
+
+"You are now" = "Olet nyt";
+
+"You aren't following anyone yet" = "Et seuraa vielä ketään";
+
+"You aren't following anyone." = "Et seuraa ketään.";
+
+"You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests. (Offensive Report Modal)" = "Voit estää käyttäjän, jonka lähetyksiä et halua nähdä. Näet silti estämäsi käyttäjän, jos hän on vieraana toisen lähetyksessä.";
+
+"You can block a user whose broadcasts you no longer want to see. (Offensive Report Modal)" = "Voit estää käyttäjän, jonka lähetyksiä et halua enää nähdä.";
+
+"You can give •|•%@•|• of these" = "Voit antaa •|•%@•|• tällaista";
+
+"You can't broadcast right now (Copyright Violation)" = "Et voi lähettää lähetyksiä juuri nyt";
+
+"You can't watch a broadcast while you're still broadcasting." = "Et voi katsella lähetystä samalla, kun lähetät itse.";
+
+"You can’t watch this because it included a copyrighted work by {Full Name}. Learn more (Copyright Violation)" = "Et voi katsoa tätä, koska lähetys sisälsi tekijänoikeudella suojattua materiaalia tekijältä %@. •|•Lue lisää•|•";
+
+"You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster." = "Kerrytät tähtiä, kun fanit antavat sinulle •|•supersydämiä•|•. Muuta tähdet rahaksi ryhtymällä superlähettäjäksi.";
+
+"You didn't vote... <link>Learn about Moderation</link>" = "Et äänestänyt... •|•Lue lisää moderoinnista•|•";
+
+"You don't have any followers yet" = "Sinulla ei ole vielä yhtään seuraajaa";
+
+"You earn stars from Super Hearts" = "Supersydämet kerryttävät tähtisaldoasi";
+
+"You haven't broadcasted yet" = "Et ole vielä lähettänyt yhtään lähetystä";
+
+"You were <bold>blocked</bold> by the broadcaster" = "Lähettäjä •|•esti•|• sinut";
+
+"You will lose any unsaved changes. Are you sure you want to leave this view?" = "Menetät kaikki tallentamattomat muutokset. Haluatko varmasti poistua tästä näkymästä?";
+
+"You will lose the stars you received" = "Menetät saamasi tähdet";
+
+"You're Waiting to Join (Guest Calling Menu)" = "Odotetaan liittymistä";
+
+"Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv" = "Tilisi on poistettu käytöstä tekijäoikeuksia koskevan poistoilmoituksen vuoksi. Ota yhteys tukeen osoitteessa help@pscp.tv";
+
+"Your account has been disabled. Please contact help@pscp.tv" = "Tilisi on poistettu käytöstä. Ota yhteys tukeen osoitteessa help@pscp.tv";
+
+"Your broadcast has been disabled (Copyright Violation)" = "Lähetyksesi on poistettu käytöstä.";
+
+"Your broadcast matches a copyrighted work (Copyright Violation)" = "Lähetyksesi vastaa tekijänoikeuden alaista teosta";
+
+"Your broadcast's thumbnail has been updated to the current screen." = "Tämä ruutu on päivitetty lähetyksesi esikatselukuvaksi.";
+
+"Your dispute claim was submitted (Copyright Violation)" = "Olet nyt kiistänyt väitteen";
+
+"Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•." = "Palautteesi on tärkeää paremman lähetyskokemuksen aikaansaamiseksi. Voit kieltää kyselyiden osoittamisen itsellesi •|•Asetuksista•|•.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Viestisi •|•\"%@\"•|• piilotettiin, koska se sisälsi HÄIRINTÄÄ. Kommentointi on poistettu käytöstä kaikissa lähetyksissä.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast." = "Viestisi •|•\"%@\"•|• piilotettiin, koska se sisälsi HÄIRINTÄÄ. Kommentointi on poistettu käytöstä tässä lähetyksessä.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Viestisi •|•\"%@\"•|• piilotettiin, koska se sisälsi HÄIRINTÄÄ. Kommentointia on tilapäisesti rajoitettu kaikissa lähetyksissä.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast." = "Viestisi •|•\"%@\"•|• piilotettiin, koska se sisälsi HÄIRINTÄÄ. Kommentointia on tilapäisesti rajoitettu tässä lähetyksessä.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts." = "Viestisi •|•\"%@\"•|• piilotettiin ROSKAPOSTIN vuoksi. Kommentointi on poistettu käytöstä kaikissa lähetyksissä.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast." = "Viestisi •|•\"%@\"•|• piilotettiin ROSKAPOSTIN vuoksi. Kommentointi on poistettu käytöstä tässä lähetyksessä.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Viestisi •|•\"%@\"•|• piilotettiin ROSKAPOSTIN vuoksi. Kommentointi on tilapäisesti rajoitettu kaikissa lähetyksissä.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast." = "Viestisi •|•\"%@\"•|• piilotettiin ROSKAPOSTIN vuoksi. Kommentointi on tilapäisesti rajoitettu tässä lähetyksessä.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts." = "Viestisi •|•\"%@\"•|• piilotettiin. Kommentointi on poistettu käytöstä kaikissa lähetyksissä.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast." = "Viestisi •|•\"%@\"•|• piilotettiin. Kommentointi on poistettu käytöstä tässä lähetyksessä.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts." = "Viestisi •|•\"%@\"•|• piilotettiin. Kommentointi on tilapäisesti rajoitettu kaikissa lähetyksissä.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast." = "Viestisi •|•\"%@\"•|• piilotettiin. Kommentointi on tilapäisesti rajoitettu tässä lähetyksessä.";
+
+"Your settings are about to automatically delete this broadcast." = "Tämä lähetys poistetaan asetustesi perusteella pian.";
+
+"Your settings will automatically delete this broadcast in %@" = "Asetustesi perusteella tämä lähetys poistetaan automaattisesti %@ kuluttua";
+
+"Your video will be available for replay after the event has ended. (Copyright Violation)" = "Videosi tulee katseltavaksi uusintana, kun tapahtuma on päättynyt.";
+
+"Your viewers have been invited to join (Local Chat Prompt)" = "Katsojat on kutsuttu liittymään lähetykseen";
+
+"You’re enrolled in automatic monthly cash outs. (Stars Profile)" = "Automaattiset kuukausittaiset kotiutukset ovat käytössä tililläsi.";
+
+"You’ve blocked @username. Tap to report and share more details. (Should Report Guest User Chat Prompt)" = "Olet estänyt käyttäjän •|•@%@•|•. Napauttamalla voit tehdä ilmoituksen käyttäjästä ja kertoa lisätietoja.";
+
+"[placeholder]" = "[placeholder]";
+
+"beta-feedback@pscp.tv" = "beta-feedback@pscp.tv";
+
+"coin bonus" = "%i %% enemmän";
+
+"coin received (accessibility label)" = "kolikko saatu";
+
+"coins received (accessibility label)" = "kolikkoa saatu";
+
+"contact@pscp.tv" = "contact@pscp.tv";
+
+"current audience" = "tämänhetkinen yleisö";
+
+"failed" = "epäonnistui";
+
+"following (accessibility hint)" = "Kaksoisnapauta lopettaaksesi seuraamisen";
+
+"following (accessibility label)" = "Seurataan";
+
+"for fine control" = "hienosäätö";
+
+"heart received (accessibility label)" = "sydän saatu";
+
+"hearts received (accessibility label)" = "sydäntä saatu";
+
+"https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119" = "https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119";
+
+"https://pscp.tv/i/super/terms" = "https://pscp.tv/i/super/terms";
+
+"iPad doesn’t support broadcasting from Split View." = "iPad ei tue lähettämistä jaetussa näkymässä.";
+
+"invited" = "kutsuttu";
+
+"invited followers" = "kutsui seuraajia";
+
+"it's their first day on Periscope" = "on hänen ensimmäinen päivänsä Periscopessa";
+
+"not following (accessibility hint)" = "Kaksoisnapauta seurataksesi";
+
+"not following (accessibility label)" = "Ei seurata";
+
+"people" = "henkilöt";
+
+"per Broadcast Minute (CELL)" = "lähetysminuuttia kohden";
+
+"per Viewer (CELL)" = "katsojaa kohden";
+
+"person" = "henkilö";
+
+"poor" = "huono";
+
+"posting publicly on Periscope" = "lähetetään julkisena Periscopeen";
+
+"posting publicly on Twitter" = "lähetetään julkisena Twitteriin";
+
+"selected Amplify Program" = "valittu Amplify-ohjelma";
+
+"star received (accessibility label)" = "tähti saatu";
+
+"stars received (accessibility label)" = "tähteä saatu";
+
+"tap to change Amplify Program" = "napauta vaihtaaksesi Amplify-ohjelmaa";
+
+"tap to change Amplify program" = "napauta vaihtaaksesi Amplify-ohjelmaa";
+
+"tap to change audience" = "napauta muuttaaksesi yleisöä";
+
+"to seek" = "kelaus";
+
+"you hung up (Guest Caller Hung Up Chat Message Event)" = "katkaisit puhelun";
+
+"you were added (New Guest Caller Chat Message Event)" = "sinut lisättiin";
+
+"you were removed (Guest Caller Was Removed Chat Message Event)" = "sinut poistettiin";
+
+"•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•." = "•|•%1$@•|• päivitti lähetyksensä alkamaan klo •|•%2$@•|•.";
+
+"•|•%@•|• are guests (Broadcast Guests Social Proof)" = "•|•%@•|• ovat vieraina";
+
+"•|•%@•|• invited you (Broadcast Guest Invitation Social Proof)" = "•|•%@•|• kutsui sinut";
+
+"•|•%@•|• is a guest (Broadcast Guest Social Proof)" = "•|•%@•|• on vieraana";
+
+"•|•%@•|• shared (Broadcast Share Social Proof)" = "•|•%@•|• jakoi";
+
+"•|•%@•|• was a guest (Broadcast Guest Social Proof)" = "•|•%@•|• oli vieraana";
+
+"•|•%@•|• were guests (Broadcast Guests Social Proof)" = "•|•%@•|• olivat vieraina";
+
+"•|•%@•|•\nBroadcasts" = "•|•%@•|•\nlähetystä";
+
+"•|•%@•|•\nFollowers" = "•|•%@•|•\nseuraajaa";
+
+"•|•%@•|•\nFollowing" = "•|•%@•|•\nseurattavaa";
+
+"•|•@%1$@•|• was muted by •|•%2$@•|•" = "•|•%2$@•|• hiljensi käyttäjän •|•@%1$@•|•";
+
+"•|•@%1$@•|• was unmuted by •|•%2$@•|•" = "•|•%2$@•|• poisti käyttäjän •|•@%1$@•|• hiljennyksen";
+
+"•|•@%@•|• Retweeted on" = "•|•@%@•|• uudelleentwiittasi sovelluksessa";
+
+"•|•@%@•|• shared on" = "•|•@%@•|• jakoi kohteessa";
+
+"•|•Muted•|• by %@" = "%@ •|•hiljensi•|•";
+
+"•|•Not enough coins.•|• Get more coins to keep giving Super Hearts." = "•|•Kolikot eivät riitä.•|• Osta lisää kolikoita jatkaaksesi supersydänten antamista.";
+
+"•|•Press & Hold•|• the video to skip ahead" = "•|•Paina videota pitkään•|• kelataksesi eteenpäin";
+
+"•|•Press & Hold•|• to skip back or ahead." = "•|•Pidä painettuna•|• siirtyäksesi taakse- tai eteenpäin.";
+
+"•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one." = "•|•Supersydämet ovat KÄYTÖSSÄ.•|• Napauta lähetystä antaaksesi ensimmäisen supersydämesi.";
+
+"•|•Support %@•|• by giving Super Hearts!" = "•|•Tue %@•|• antamalla supersydämiä!";
+
+"•|•Unmuted•|• by %@" = "%@ •|•poisti hiljennyksen•|•";
+
+"•|•You need more coins•|• to give Super Hearts" = "•|•Tarvitset lisää kolikoita•|• antaaksesi supersydämiä";
+
+"•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast." = "Yksi käyttäjän %1$@ moderaattoreista on •|•hiljentänyt sinut•|•, mikä johtuu kommentistasi •|•\"%2$@\"•|•. Et voit enää kommentoida lähetykseen.";
+
+"•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast." = "Yksi käyttäjän %@ moderaattoreista on •|•poistanut hiljennyksesi•|•. Voit nyt kommentoida lähetykseen.";
+

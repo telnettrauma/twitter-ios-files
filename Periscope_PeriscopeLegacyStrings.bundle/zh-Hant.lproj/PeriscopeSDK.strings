@@ -1,0 +1,1448 @@
+"%@ New Messages" = "%@ 則新訊息";
+
+"%@ Viewer (Broadcast Info)" = "%@ 位觀眾";
+
+"%@ Viewers (Broadcast Info)" = "%@ 位觀眾";
+
+"%@ ago" = "%@前";
+
+"%@ doesn't have any followers yet" = "%@ 還沒有任何跟隨者";
+
+"%@ has not broadcasted yet" = "%@ 尚未廣播過";
+
+"%@ is LIVE (broadcast title)" = "%@ 正在直播";
+
+"%@ isn't following anyone yet" = "%@ 尚未跟隨任何人";
+
+"%@ joined" = "已加入";
+
+"%@ wants you to moderate comments. Tap on comments to mute them." = "%@ 要求你仲裁評論。點選評論以靜音評論。";
+
+"%@ wants you to moderate comments. Tap or swipe left on comments to mute them." = "%@ 要求你仲裁評論。請點選評論或向左滑動評論設定為靜音。";
+
+"%@ was live  (broadcast title)" = "%@ 正在直播";
+
+"%d More Live Viewers" = "位額外的直播觀眾";
+
+"%d More Replay Viewers" = "位額外的重播觀眾";
+
+"%d More Viewers" = "位額外的觀眾";
+
+"%ldd (days)" = "%ld天";
+
+"%ldh (hours)" = "%ld時";
+
+"%ldm (minutes)" = "%ld分";
+
+"%lds (seconds)" = "%ld秒";
+
+"%ldy (years)" = "%ld年";
+
+"(EDITED)" = "(已編輯)";
+
+"(Skip to) LIVE" = "直播";
+
+"1 More Live Viewer" = "位額外的直播觀眾";
+
+"1 More Replay Viewier" = "位額外的重播觀眾";
+
+"1 More Viewer" = "位額外的觀眾";
+
+"1 New Message" = "1 則新訊息";
+
+"@username \"Tap to cancel\" (Add Guest Caller Chat Message Event)" = "點選以取消";
+
+"@username \"canceled\" (Add Guest Caller Chat Message Event)" = "已取消";
+
+"@username \"has asked to join\" (Add Guest Caller Chat Message Event)" = "已要求加入";
+
+"@username \"hung up\" (Guest Caller Hung Up Chat Message Event)" = "•|•@%@•|• 已掛斷";
+
+"@username \"was added\" (Add Guest Caller Chat Message Event)" = "已加入";
+
+"@username \"was added\" (New Guest Caller Chat Message Event)" = "•|•@%@•|• 已加入";
+
+"@username \"was removed\" (Add Guest Caller Chat Message Event)" = "已移除";
+
+"@username \"was removed\" (Guest Caller Was Removed Chat Message Event)" = "•|•@%@•|• 遭到移除";
+
+"A Periscope account is required to edit a broadcast." = "需要有 Periscope 帳戶，才能編輯廣播。";
+
+"A Periscope account is required to share a broadcast." = "需要有 Periscope 帳戶，才能分享廣播。";
+
+"A broadcast with a star balance was deleted. (History)" = "有個含有星星的廣播已被刪除。";
+
+"ACTIVE CONTRIBUTORS" = "當前的贈送者";
+
+"Abuse" = "謾罵";
+
+"Abusive Behavior (Report Option)" = "謾罵行為";
+
+"Accept Caller as Guest" = "接受來電者成為來賓";
+
+"Accept Super Hearts (accessibility hint)" = "點選兩下以接受此廣播的超級愛心。";
+
+"Accept Super Hearts (accessibility label)" = "接受超級愛心";
+
+"Accept as Guest" = "接受成為來賓";
+
+"Actions (accessibility label)" = "動作";
+
+"Add Guest (Manage Guest Call-Ins Action Sheet)" = "加入來賓";
+
+"Add guest \n viewer will become a guest broadcaster" = "加入來賓•|•\n觀眾將成為來賓廣播者•|•";
+
+"All-Time Stars (Stars Profile)" = "歷來的星星數";
+
+"Allow Guests (Tooltip Selected)" = "允許來賓";
+
+"Allow guests / Don't allow guests (accessibility label)" = "允許來賓/不允許來賓";
+
+"Anything else you'd like to share?" = "還有其他要分享的事項嗎？";
+
+"Are you sure you want to send this message?" = "你確定要發送此訊息嗎？";
+
+"Are you sure you want to unblock?" = "你確定要解除封鎖嗎？";
+
+"Are you sure? (title)" = "你確定嗎？";
+
+"Ask for Follow (action sheet)" = "請求跟隨";
+
+"Ask for Share (action sheet)" = "請求分享";
+
+"Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "要求以來賓身分加入此廣播。所有人都將聽到你的發言，而且你可以隨時停止。";
+
+"Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "要求以來賓身分加入此廣播。所有人將會看到你的影像並聽到你的發言，而且你可以隨時停止。";
+
+"Asking to join... Broadcaster must accept you (Local Chat Prompt)" = "正在要求加入…\n•|•%@•|• 必須接受你";
+
+"Audio Only (accessibility label)" = "只有音訊輸出的廣播";
+
+"Audio from: Headphones" = "音訊來源：耳機";
+
+"Audio from: Phone" = "音訊來源：手機";
+
+"Back" = "返回";
+
+"Back (action sheet)" = "返回";
+
+"Back Camera (accessibility hint)" = "點選兩下以切換至正面相機";
+
+"Back Camera (accessiblity value)" = "背面相機";
+
+"Back to %@" = "返回 %@";
+
+"Back to Hearts" = "返回愛心";
+
+"Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. Learn more (Copyright violation)" = "由於你最近有多個廣播包含受著作權保護的作品，你將暫時無法廣播。•|•了解更多•|•";
+
+"Betascope App Feedback" = "Betascope 應用程式意見回饋";
+
+"Billion Decimal Abbreviation" = "%.1fB";
+
+"Billion Integer Abbreviation" = "%dB";
+
+"Block @%@" = "封鎖 @%@";
+
+"Block @%@ (Offensive Report Modal)" = "封鎖 @%@";
+
+"Block And Hang Up (Manage Guest Call-Ins Action Sheet)" = "封鎖並掛斷";
+
+"Block User" = "封鎖使用者";
+
+"Block Users (%@)" = "封鎖使用者 (%@)";
+
+"Block {Username}" = "封鎖 @%@";
+
+"Blocked (user modal)" = "已封鎖";
+
+"Blocked by you" = "已被你封鎖";
+
+"Blocking will dismiss the broadcast and not report to Periscope. (Offensive Report Modal)" = "封鎖將會關閉此廣播，而不會向 Periscope 檢舉。";
+
+"Broadcast Actions (accessibility hint)" = "開啟廣播動作選單。";
+
+"Broadcast Details (action sheet)" = "廣播詳細資料";
+
+"Broadcast Super Heart Auto-Deletion Warning" = "•|•此廣播不會在 24 小時後自動刪除•|•，以防你失去可透過收到之超級愛心所賺取的星星值。\n\n如有需要，你可以在廣播結束後加以隱藏，讓其他人無法看到此廣播。";
+
+"Broadcast Title" = "廣播標題";
+
+"Broadcast about to expire (Cell)" = "廣播即將到期";
+
+"Broadcast creation" = "建立廣播";
+
+"Broadcaster Has Disabled Call-Ins (Generic Error Message)" = "廣播者目前已停用 Call-In 的列表。";
+
+"Broadcaster blocked •|•@%@•|•" = "廣播者已封鎖 •|•@%@•|•";
+
+"Broadcaster doesn’t accept Super Hearts" = "廣播者不接受超級愛心";
+
+"Broadcaster has assigned chat moderators." = "廣播者已指派聊天仲裁者。";
+
+"Broadcaster has to accept your request before you can join as a guest. (Guest Call-In Instructions Subtitle)" = "%@ 必須先接受你的要求，你才能以來賓身分加入。";
+
+"Broadcaster is allowing guests to join (Local Chat Prompt)" = "•|•%@•|• 目前允許來賓加入";
+
+"Broadcaster is not allowing guests to join (Local Chat Prompt)" = "•|•%@•|• 目前不允許來賓加入";
+
+"Broadcasters earn stars from Super Hearts" = "超級廣播者可透過超級愛心賺取星星";
+
+"Bummer (ReplayKit)" = "糟糕";
+
+"CONCATENTATION_ACCESSIBILITY_STRING" = "。";
+
+"CONTRIBUTORS WHO HAVE LEFT" = "已離開的贈送者";
+
+"COULDN'T LOAD REPLAY VIEWERS" = "無法載入重播觀眾";
+
+"COULDN'T LOAD VIEWERS" = "無法載入觀眾";
+
+"Camera Selection (accessibility label)" = "相機選擇";
+
+"Cancel" = "取消";
+
+"Cancel (action sheet)" = "取消";
+
+"Cancel Call In Button: \"Cancel Request to Join as a Guest\"" = "取消以來賓身分加入的要求";
+
+"Cancel Guest Call-In Instructions Title: \"Waiting to join as a guest...\"" = "正在等候以來賓身分加入…";
+
+"Cannot be undone" = "無法復原";
+
+"Capture Thumbnail (action sheet)" = "擷取縮圖";
+
+"Cash Outs (Stars Profile)" = "兌現";
+
+"Cash out your stars, and continue using live video on Twitter" = "將你的星星兌換成現金，並在 Twitter 上繼續使用直播視訊";
+
+"Change Amplify Program" = "變更 Amplify 方案";
+
+"Change Expiration (Cell)" = "變更到期日";
+
+"Change Expiration Subtitle (Cell)" = "在 %@後自動刪除";
+
+"Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program." = "將 Amplify 方案變更為 •|•%@•|• 將會刪除你的舊推文，並用新方案發佈新推文。";
+
+"Chatroom too full..." = "聊天室人數過多…";
+
+"Child Safety (Report Option)" = "兒少安全";
+
+"Choose guests to add. You can remove them at any time. (Manage Guest Callers Page Subtitle)" = "選擇要加入的來賓。你可以隨時移除他們。";
+
+"Close (accessibility label)" = "關閉";
+
+"Comment Tip Option 1" = "寫下評論，讓 •|•%@•|• 知道你在這裡！";
+
+"Comment Tip Option 2" = "讓 •|•%@•|• 知道你是從哪裡觀看的！";
+
+"Comment Tip Option 3" = "打聲招呼，與 •|•%@•|• 和其他觀眾聊聊天。";
+
+"Commenting is OFF" = "評論功能已關閉";
+
+"Comments Received (CELL)" = "收到的評論數";
+
+"Comments Received Unavailable (CELL)" = "無法取得";
+
+"Compose Direct Message (Accessibility Label)" = "撰寫私人訊息";
+
+"Compose New Tweet (Accessibility Label)" = "撰寫新推文";
+
+"Confirm Call In Button: \"OK, Ask to Join\"" = "好的，要求加入";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile and audio will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and hear you. This may include people you’ve blocked on either app.\"" = "•\t你的個人資料和音訊將會呈現在此廣播中，除非 %1$@ 刪除重播，否則無法移除這些內容。\n\n•\t在 Periscope 或 Twitter 上觀看的每個人將會看到你已加入 %1$@ 的廣播並聽到你的發言。其中可能包括你已在這兩個應用程式上封鎖的人。";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile, audio and video will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and see you. This may include people you’ve blocked on either app.\"" = "•\t你的個人資料、音訊和視訊將會呈現在此廣播中，除非 %1$@ 刪除重播，否則無法移除這些內容。\n\n•\t在 Periscope 或 Twitter 上觀看的每個人將會看到你已加入 %1$@ 的廣播並看到你的影像。其中可能包括你已在這兩個應用程式上封鎖的人。";
+
+"Confirm Guest Call-In Instructions Title: \"Good to know...\"" = "你應該知道…";
+
+"Connecting to chatroom" = "正在連線至聊天室";
+
+"Connection Error" = "連線錯誤";
+
+"Connection too" = "連線太";
+
+"Contact Us (action sheet)" = "聯絡我們";
+
+"Contributors" = "贈送者";
+
+"Copy Profile URL" = "複製個人資料網址";
+
+"Current Star Balance (Stars Profile)" = "目前的星星餘額";
+
+"Current Time (Accessibility Label)" = "目前時刻";
+
+"Dear Periscope Team," = "親愛的 Periscope 團隊：";
+
+"Delete Broadcast" = "刪除廣播";
+
+"Delete Broadcast (action sheet)" = "刪除廣播";
+
+"Delete Broadcast Now" = "立即刪除廣播";
+
+"Describe the issue (Report Option)" = "描述問題";
+
+"Describe the issue with %@ (Report Option)" = "描述 @%@ 的問題";
+
+"Describe the issue with @%1$@ at %2$@ (Report Option)" = "描述 @%1$@ 在 %2$@ 出現的問題";
+
+"Describe the issue you are seeing at %@ (Report Option)" = "描述你在 %@ 看到的問題";
+
+"Direct Message (Compose)" = "私人訊息";
+
+"Disable Audio Only Broadcast" = "停用只有音訊輸出的廣播";
+
+"Disabled for all broadcasts" = "所有廣播都已停用評論功能";
+
+"Disabled for this broadcast" = "此廣播已停用評論功能";
+
+"Discard Changes" = "捨棄變更";
+
+"Display Photo (action sheet)" = "顯示照片";
+
+"Dispute Claim (Copyright Violation)" = "對所有權提出質疑";
+
+"Do not notify my followers (Guest Call-In Notify Followers Option)" = "不要通知我的跟隨者";
+
+"Don't Allow Guests (Manage Guest Broadcasters Call-Ins List)" = "不允許來賓";
+
+"Don't Allow Guests (Tooltip)" = "不允許來賓";
+
+"Don't Auto-Delete" = "不要自動刪除";
+
+"Don't Send (Blocked Modal)" = "不發送";
+
+"Done" = "完成";
+
+"Done (action sheet)" = "完成";
+
+"Double Tap anywhere to Exit Theater Mode (accessibility label)" = "在任何地方點選兩下即可結束劇院模式";
+
+"Double Tap to <bold>Flip Camera</bold>" = "點選兩下以•|•翻轉相機•|•";
+
+"Double tap to allow or disallow guests (accessibility hint)" = "點選兩下以允許或不允許來賓";
+
+"Duration (CELL)" = "時間長度";
+
+"END (graph)" = "結束";
+
+"ENDED" = "已結束";
+
+"Edit Broadcast" = "編輯廣播";
+
+"Edit Broadcast (action sheet)" = "編輯廣播";
+
+"Edit Broadcast Unavailable" = "編輯廣播功能無法使用";
+
+"Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured." = "編輯廣播，變更廣播尋找觀眾的方式。這些廣播不會影響任何既有的推文或通知。";
+
+"Enable Audio Only Broadcast" = "啟用只有音訊輸出的廣播";
+
+"Enable Email" = "啟用電子郵件";
+
+"Enable camera (Permissions Screen)" = "啟用相機";
+
+"Enable microphone (Permissions Screen)" = "啟用麥克風";
+
+"Enable/Disable Audio Only Broadcast (accessibility hint)" = "點選兩下以啟用或停用只有音訊輸出的廣播。";
+
+"Enable/Disable Audio Only Broadcast (accessibility label)" = "啟用/停用只有音訊輸出的廣播";
+
+"Ended" = "已結束";
+
+"Engaging Chat" = "令人愉快的聊天";
+
+"Error (ReplayKit)" = "錯誤";
+
+"Error accessing audio from microphone." = "存取麥克風的音訊時發生錯誤。";
+
+"Error accessing history." = "存取記錄時發生錯誤。";
+
+"Error saving video to Camera Roll" = "將視訊儲存至相機膠卷時發生錯誤";
+
+"Error setting Amplify Program (title)" = "設定 Amplify 方案時發生錯誤";
+
+"Every heart you send will be a Super Heart" = "你發送的每個愛心都會是超級愛心";
+
+"Everybody can chat" = "每個人都可以聊天";
+
+"FEATURED" = "精選";
+
+"FOLLOWERS (user profile modal)" = "跟隨者";
+
+"FOLLOWING (user profile modal)" = "跟隨中";
+
+"Final List separator" = "和";
+
+"Fine Control" = "細部控制";
+
+"First Super Heart" = "第一個超級愛心";
+
+"Flip Camera (action sheet)" = "翻轉相機";
+
+"Follow (user modal)" = "跟隨";
+
+"Follow request sent. (chat message)" = "跟隨請求已發送。";
+
+"Follow the broadcaster to catch their next broadcast." = "跟隨廣播者以趕上他們的下一個廣播。";
+
+"Follow •|•%@•|• to catch their next broadcast" = "跟隨 •|•%@•|• 以趕上他們的下一個廣播";
+
+"Followed by %1$@ and %2$@" = "已被 %1$@ 和 %2$@ 跟隨";
+
+"Followed by %1$@, %2$@, %3$@ and %4$i others" = "已被 %1$@、%2$@、%3$@ 和其他 %4$i 人跟隨";
+
+"Followed by %1$@, %2$@, and %3$@" = "已被 %1$@、%2$@ 和 %3$@ 跟隨";
+
+"Followed by %@" = "已被 %@ 跟隨";
+
+"Followers button (accessibility hint)" = "點選兩下以查看跟隨者。";
+
+"Following (user modal)" = "跟隨中";
+
+"Following button (accessibility hint)" = "點選兩下以查看已跟隨的使用者。";
+
+"Front Camera (accessibility hint)" = "點選兩下以切換至背面相機";
+
+"Front Camera (accessiblity value)" = "正面相機";
+
+"Get Coins" = "取得代幣";
+
+"Give Super Hearts (menu button)" = "贈送超級愛心";
+
+"Go LIVE" = "開始直播";
+
+"Go LIVE to %@" = "開始直播至 %@";
+
+"Go LIVE together (Guest Broadcasting Modal Title)" = "共同直播";
+
+"Go to Twitter Profile" = "前往 Twitter 個人資料";
+
+"Good Viewer Count" = "觀眾人數眾多";
+
+"Got It (Button Title)" = "知道了";
+
+"Got it (Copyright Violation)" = "知道了";
+
+"Got it (ReplayKit)" = "知道了";
+
+"Got it!" = "知道了！";
+
+"Guest Action Sheet Report Item" = "檢舉";
+
+"Guest Call In Choice Label: \"Camera and microphone\"" = "相機和麥克風";
+
+"Guest Call In Choice Label: \"Microphone only\"" = "僅限麥克風";
+
+"Guest Call-In Audio Only Permissions Subtitle beneath Title: \"Enable microphone to become a guest\"" = "啟用麥克風以成為來賓";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request. Learn more\"" = "你將在廣播者接受你的要求後加入。•|•了解更多•|•";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request.\"" = "你將在廣播者接受你的要求後加入。";
+
+"Guest Call-In Instructions Title: \"Ask to Join\"" = "要求加入";
+
+"Guest Call-In Instructions Title: \"Join as a guest\"" = "以來賓身分加入";
+
+"Guest Call-In Permissions Subtitle beneath Title: \"Enable camera and microphone to become a guest\"" = "啟用相機和麥克風以成為來賓";
+
+"Guest Call-In Permissions Title: \"Guest setup\"" = "來賓設定";
+
+"Guest List (Manage Guest Callers Page Title)" = "來賓列表";
+
+"Guest Was Banned Chat Message (Periscope)" = "•|•@%@•|• 已遭到檢舉，在經 Periscope 審核後發現他違反社群方針。";
+
+"Guest Was Banned Chat Message (Twitter)" = "•|•@%@•|• 已遭到檢舉，在經 Twitter 審核後發現他違反 Twitter 規則。";
+
+"Guests Not Allowed (Manage Guest Broadcasters Call-Ins List)" = "不允許來賓";
+
+"Guests can now ask to join. Use this icon to add or remove guests at any time. (Guest Broadcasting Enabled Prompt)" = "來賓現在可要求加入。請使用此圖示，隨時加入或移除來賓。";
+
+"HEART" = "個愛心";
+
+"HEARTS" = "個愛心";
+
+"Half-Speed" = "半速";
+
+"Hang Up (Guest Calling Menu)" = "掛斷";
+
+"Hang Up (Manage Guest Call-Ins Action Sheet)" = "掛斷";
+
+"Hang Up Button Label: \"Hang Up\"" = "掛斷";
+
+"Hang Up Subtitle (Audio Only): \"Stop sharing microphone\"" = "停止共用麥克風";
+
+"Hang Up Subtitle (Camera + Microphone): \"Stop sharing camera and microphone\"" = "停止共用相機和麥克風";
+
+"Hang Up on Guest or Cancel Guest From Joining" = "掛斷來賓的來電或取消來賓加入";
+
+"Hang up" = "掛斷";
+
+"Harassment" = "騷擾";
+
+"Hateful Conduct (Report Option)" = "仇恨行為";
+
+"Heart Sent (accessiblity announcement)" = "愛心已發送";
+
+"Hearts & Chats off" = "關閉愛心和聊天功能";
+
+"Hearts & Chats on" = "開啟愛心和聊天功能";
+
+"Help us moderate this comment..." = "幫助我們仲裁這則評論...";
+
+"Help us understand the problem.\nWhat issue with @%@ are you reporting?" = "請協助我們釐清問題。你檢舉的 @%@ 有什麼問題？";
+
+"Hide Broadcast" = "隱藏廣播";
+
+"Hide everything except video (action sheet)" = "隱藏影片以外的所有內容";
+
+"History (profile view title)" = "記錄";
+
+"History button (accessibility hint)" = "點選兩下以觀看最近的廣播。";
+
+"How can we improve?" = "有哪些需要改進的地方？";
+
+"How was your broadcasting experience?" = "告訴我們你對於廣播體驗的滿意程度？";
+
+"I'm Not Interested in @%@" = "我對 @%@ 不感興趣";
+
+"If this broadcast depicts pornography or sexual acts, please tap below. (Report Sexual Content Modal)" = "如果此廣播中出現情色內容或性行為，請點選下方。";
+
+"If you believe that this broadcast places a child at risk, please tap below. (Report Child Safety Modal)" = "如果你認為此廣播使某個孩子處於風險之中，請點選下方。";
+
+"If you believe this broadcast contains violence or someone is being physically threatened, please tap below. (Report Violence Modal)" = "如果你認為此廣播包含暴力，或是某個人正在遭受實際的威脅，請點選這裡。";
+
+"If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "如果你認為此廣播會導致仇視受保護的類別 (例如：種族、宗教、性別、性傾向、殘疾)，請點選下方。";
+
+"If you believe this broadcast exposes private information, please tap below. (Report Private Information Modal)" = "如果你認為此廣播暴露私人資訊，請點選下方。";
+
+"If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below. (Report Harassment Modal)" = "如果你認為此廣播從事騷擾、恐嚇或利用恐懼手段來讓其他人噤聲，請點選下方。";
+
+"If you believe this guest is contemplating or encouraging suicide or self harm, please tap below. (Report Self Harm Modal)" = "如果你認為此來賓正在考慮或鼓勵自殺或自殘，請點選下方。";
+
+"If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "如果你認為此來賓正在引導對受保護類別 (例如：種族、宗教、性別、性傾向、殘疾) 的仇視，請點選下方。";
+
+"If you believe this guest is exposing private information, please tap below. (Report Private Information Modal)" = "如果你認為此來賓正在暴露私人資訊，請點選下方。";
+
+"If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below. (Report Harassment Modal)" = "如果你認為此來賓正在從事騷擾、恐嚇或利用恐懼手段來讓其他人噤聲，請點選下方。";
+
+"If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below. (Report Violence Modal)" = "如果你認為此來賓正在從事涉及人身安全或健康的特定暴力威脅，請點選下方。";
+
+"If you believe this guest is sharing content that places a child at risk, please tap below. (Report Child Safety Modal)" = "如果你認為此來賓正在分享使某個孩子處於風險中的內容，請點選下方。";
+
+"If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below. (Report Sexual Content Modal)" = "如果你認為此來賓正在分享不當的色情內容 (例如色情圖片)，請點選下方。";
+
+"If you believe this individual is contemplating suicide or self harm, please tap below. (Report Self Harm Modal)" = "如果你認為這個人正在考慮自殺或自殘，請點選這裡。";
+
+"If you delete this broadcast, you will lose the stars that you received. This cannot be undone." = "如果刪除此廣播，你將會失去收到的星星。此動作無法復原。";
+
+"Initializing video stream..." = "正在開始視訊串流…";
+
+"Invite Guests (Manage Guest Broadcasters Call-Ins List)" = "邀請來賓";
+
+"Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "邀請觀眾成為廣播中的來賓。所有人都將聽到他們的發言，而且你可以隨時加入或移除他們。";
+
+"Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "邀請觀眾成為廣播中的來賓。所有人都將看到他們的影像並聽到其發言，而且你可以隨時加入或移除他們。";
+
+"Join as a Guest (Guest Calling Menu)" = "以來賓身分加入";
+
+"Joined %@" = "加入日期：%@";
+
+"Joining as a guest... (Guest Call-In Countdown Screen Title)" = "正在以來賓身分加入…";
+
+"Keep broadcasting to collect more stars!" = "繼續廣播，收集更多星星！";
+
+"Keep stars received" = "保有收到的星星";
+
+"LIVE" = "直播";
+
+"LIVE VIEWER" = "位直播觀眾";
+
+"LIVE VIEWERS" = "直播觀眾";
+
+"LIVE Video (Broadcast Audience)" = "直播視訊";
+
+"LIVE on #Periscope" = "在 #Periscope 上直播";
+
+"LIVE on #Periscope: %@" = "在 #Periscope 上直播：%@";
+
+"LOADING" = "載入中";
+
+"LOST CONNECTION" = "連線中斷";
+
+"Later (alert view)" = "稍後";
+
+"Learn More" = "了解更多";
+
+"Learn More (Stars Profile)" = "了解更多";
+
+"Leave Broadcast" = "離開廣播";
+
+"Limited by Broadcaster" = "已受廣播者限制";
+
+"Limited for %@" = "限時 %@";
+
+"List separator" = "、";
+
+"Live Time Watched (CELL)" = "觀看直播的時間";
+
+"Live watch time per minute tooltip" = "針對此廣播在直播時的每分鐘而言，觀眾觀看所花費的總計%@。";
+
+"Loading History." = "正在載入記錄。";
+
+"Loading followers" = "正在載入跟隨者";
+
+"Loading following" = "正在載入跟隨中";
+
+"Loading history" = "正在載入記錄";
+
+"Loading your followers" = "正在載入你的跟隨者";
+
+"Loading your following" = "正在載入你的跟隨中";
+
+"Location Permissions Required" = "需要位置的使用權限";
+
+"Location Unknown" = "不明位置";
+
+"Logged Out" = "已登出";
+
+"Login Error (ReplayKit)" = "需要登入";
+
+"Login Error Instructions (ReplayKit)" = "請開啟 Periscope 應用程式以登入。然後返回這裡以開始廣播。";
+
+"Looks OK" = "看起來沒問題";
+
+"Looks like the connection was lost. Reconnecting... (Toast)" = "連線似乎已中斷。正在重新連線…";
+
+"Lose stars received" = "失去收到的星星";
+
+"Low Viewer Count" = "觀眾人數太少";
+
+"Low disk space. A portion of this broadcast will not be available for replay later." = "磁碟空間不足。此廣播的部分內容將無法稍後重播。";
+
+"Majority voted <destructive emphasis> Abuse </destructive emphasis>\nThe commenter's chat has been limited." = "多數票 •|• 謾罵 •|•\n評論者的聊天已受限制。";
+
+"Majority voted <destructive emphasis> Looks OK  </destructive emphasis>" = "多數票 •|• 看起來沒問題 •|•";
+
+"Majority voted <destructive emphasis> Not Sure </destructive emphasis>" = "多數票 •|• 不確定 •|•";
+
+"Majority voted <destructive emphasis> Spam </destructive emphasis>\nThe commenter's chat has been limited." = "多數票 •|• 垃圾訊息 •|•\n評論者的聊天已受限制。";
+
+"Makes broadcast visible to everyone" = "讓所有人都能看到廣播";
+
+"Makes broadcast visible to invited viewers" = "讓受邀的觀眾都能看到廣播";
+
+"Manage details about your Broadcast (menu subtitle)" = "管理廣播詳細資料";
+
+"Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen." = "像這樣的訊息通常會被封鎖。如果被封鎖太多次，你的評論將不再顯示。";
+
+"Million Decimal Abbreviation" = "%.1fM";
+
+"Million Integer Abbreviation" = "%dM";
+
+"Moderation Modal Button Label" = "好的，我了解";
+
+"Moderation Modal Example Label" = "範例";
+
+"Moderation Modal Example Message" = "可疑的訊息…";
+
+"Moderation Modal Settings Label" = "你可以在設定中關閉此功能。";
+
+"Moderation Modal Subtitle" = "我們偶爾會要求你快速判定某個評論是否為•|•謾罵•|•或•|•垃圾訊息•|•。仲裁是匿名的。";
+
+"Moderation Modal Title" = "仲裁評論";
+
+"Moderator Actions" = "仲裁者動作";
+
+"Moderator Actions (%@)" = "仲裁者行動 (%@)";
+
+"Moderator •|•%@•|• joined" = "仲裁者 •|•%@•|• 已加入";
+
+"ModeratorName muted this message (Message Carousel)" = "•|•%@•|• 將此訊息設為靜音";
+
+"Monetize Broadcast" = "利用廣播營利";
+
+"Monetize Broadcast (expanded cell title)" = "利用廣播營利";
+
+"Monetize Broadcast (minimized cell title)" = "利用廣播營利 ▾";
+
+"More (following/followers)" = "更多";
+
+"Mute" = "靜音";
+
+"Mute (accessibility label)" = "靜音";
+
+"Mute User" = "將使用者靜音";
+
+"Mute User Notifications" = "將使用者通知靜音";
+
+"Muted by Moderator" = "仲裁者設為靜音";
+
+"NEW" = "新功能";
+
+"NO LIVE VIEWERS" = "沒有直播觀眾";
+
+"NO REPLAY VIEWERS" = "沒有重播觀眾";
+
+"New Broadcaster Education: 3 Guest Limit" = "你最多可以同時有 3 位來賓。";
+
+"New Tweet (Compose)" = "新推文";
+
+"No history." = "沒有記錄。";
+
+"No one has asked to join yet. Tap to invite your viewers to join. (Empty Manage Guest Broadcasters Call-Ins List)" = "目前還沒有人要求加入。\n\n點選即可邀請觀眾加入。";
+
+"No one is following you." = "目前沒有人跟隨你。";
+
+"No, stop broadcasting (Copyright Violation)" = "否，停止廣播";
+
+"Not Sure" = "不確定";
+
+"Not followed by anyone you're following" = "未被你跟隨的任何人跟隨";
+
+"Notifications (accessiblity label)" = "通知";
+
+"Notifications OFF" = "通知已關閉";
+
+"Notifications ON" = "通知已開啟";
+
+"Notifications Off (accessibility hint)" = "點選兩下以啟用此使用者的通知。";
+
+"Notifications Off (accessibility value)" = "關閉";
+
+"Notifications On (accessibility hint)" = "點選兩下以停用此使用者的通知。";
+
+"Notifications On (accessibility value)" = "開啟";
+
+"Notify my followers (Guest Call-In Notify Followers Option)" = "通知我的跟隨者";
+
+"OK, Got It" = "好的，知道了";
+
+"Offensive Guest (Report Option)" = "令人反感的來賓";
+
+"Okay (Report Broadcast Modal)" = "確定";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts." = "你的一則或多則評論因為包含謾罵內容所以已被隱藏。所有廣播都已停用評論功能。";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast." = "你的一則或多則評論因為包含謾罵內容所以已被隱藏。這個廣播已停用評論功能。";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "你的一則或多則評論因為包含謾罵內容所以已被隱藏。所有廣播都已暫時限制評論功能。";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited." = "你的一則或多則評論因為包含謾罵內容所以已被隱藏。已暫時限制評論功能。";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts." = "你的一則或多則評論因為包含垃圾訊息內容所以已被隱藏。所有廣播都已停用評論功能。";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast." = "你的一則或多則評論因為包含垃圾訊息內容所以已被隱藏。這個廣播已停用評論功能。";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "你的一則或多則評論因為包含垃圾訊息內容所以已被隱藏。所有廣播都已暫時限制評論功能。";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited." = "你的一則或多則評論因為包含垃圾訊息內容所以已被隱藏。已暫時限制評論功能。";
+
+"One or more of your comments was hidden. Commenting is disabled for all broadcasts." = "你的一則或多則評論已被隱藏。所有廣播都已停用評論功能。";
+
+"One or more of your comments was hidden. Commenting is disabled for this broadcast." = "你的一則或多則評論已被隱藏。這個廣播已停用評論功能。";
+
+"One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts." = "你的一則或多則評論已被隱藏。所有廣播都已暫時限制評論功能。";
+
+"One or more of your comments was hidden. Commenting is temporarily limited." = "你的一則或多則評論已被隱藏。已暫時限制評論功能。";
+
+"One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast." = "你的一則或多則評論遭到仲裁者靜音。這個廣播已停用評論功能。";
+
+"Only available in Periscope" = "僅在 Periscope 中提供";
+
+"Only public broadcasts counted" = "只有公開廣播會列入計算";
+
+"Only users you follow can chat" = "只有你跟隨的使用者可以聊天";
+
+"Only you can see your hidden broadcasts (menu subtitle)" = "只有你能看到隱藏的廣播";
+
+"Other Reason (Report Option)" = "其他理由";
+
+"Other Reason \n e.g. Foreign Language" = "其他原因•|•\n例如外語•|•";
+
+"Our apologies for the inconvenience." = "對於不便之處，我們深感抱歉。";
+
+"POOR CONNECTION" = "連線不良";
+
+"POSSIBLY NSFW (Interstitial)" = "可能 NSFW (不適合工作場合觀看)";
+
+"Pause (accessibility label)" = "暫停";
+
+"Peak (graph label)" = "最高值";
+
+"Periscope App Feedback" = "Periscope 應用程式意見回饋";
+
+"Periscope account is required." = "需要 Periscope 帳戶。";
+
+"Periscope is discontinuing on •|•%@•|•" = "Periscope 將於 •|•%@•|•終止服務";
+
+"Play (accessibility label)" = "播放";
+
+"Please allow some time for all transactions to be posted." = "發佈所有交易需要一些時間，請稍候。";
+
+"Positive Community" = "積極正面的社群";
+
+"Post to Twitter (accessibility hint)" = "點選兩下以切換。";
+
+"Post to Twitter (accessibility label)" = "發佈至 Twitter";
+
+"Posting to Twitter OFF" = "發佈至 Twitter 已關閉";
+
+"Posting to Twitter as @%@" = "發佈至 Twitter 為 @%@";
+
+"Precise Location Sharing OFF" = "確切位置分享已關閉";
+
+"Precise Location Sharing ON" = "確切位置分享已開啟";
+
+"Private (Broadcast Audience)" = "私人";
+
+"Private Information (Report Option)" = "私人資訊";
+
+"Profile (accessibility label)" = "個人資料";
+
+"Profile URL copied" = "個人資料網址已複製";
+
+"Public (Broadcast Audience)" = "公開";
+
+"Public Hidden (Broadcast Audience)" = "公開 (已隱藏)";
+
+"Quarter-Speed" = "四分之一速度";
+
+"RECENT (user profile modal)" = "最近";
+
+"REPLAY VIEWER" = "重播觀眾";
+
+"REPLAY VIEWERS" = "重播觀眾";
+
+"Ready to give Super Hearts!" = "可開始贈送超級愛心了！";
+
+"Received in: (History)" = "接收於：\"%@\"";
+
+"Received stars (History)" = "收到星星。";
+
+"Release to <bold>Leave</bold> (broadcasting)" = "放開以•|•離開•|•";
+
+"Release to <bold>Leave</bold> (watching)" = "放開以•|•離開•|•";
+
+"Release to Refresh" = "放開以重新整理";
+
+"Remove" = "移除";
+
+"Remove Amplify Program" = "移除 Amplify 方案";
+
+"Remove Amplify Program (cell title)" = "移除 Amplify 方案";
+
+"Remove Location" = "移除位置";
+
+"Remove at least 1 character from your title to make room for #(example hashtag)" = "請從你的標題中至少移除 1 個字元，以騰出空間給 %@";
+
+"Remove at least X characters from your title to make room for #(example hashtag)" = "請從你的標題中至少移除 %lu 個字元，以騰出空間給 %@";
+
+"Replay Time Watched (CELL)" = "觀看重播的時間";
+
+"Replay Unavailable" = "無法觀看重播";
+
+"Replay watch time per minute tooltip" = "針對此廣播在重播時的每分鐘而言，觀眾觀看所花費的總計%@。";
+
+"Reply" = "回覆";
+
+"Report @<guest's username> (Report Guest Modal)" = "檢舉 @%@";
+
+"Report Abusive Behavior (Report Abusive Behavior Modal)" = "謾罵行為";
+
+"Report Abusive Profile" = "檢舉濫用的個人資料";
+
+"Report As Spam" = "檢舉為垃圾訊息";
+
+"Report Broadcast (Report Broadcast Modal)" = "檢舉廣播";
+
+"Report Child Safety (Report Child Safety Modal)" = "兒少安全";
+
+"Report Comment" = "檢舉評論";
+
+"Report Hateful Conduct (Report Hateful conduct Modal)" = "仇恨行為";
+
+"Report Private Information (Report Private Information Modal)" = "私人資訊";
+
+"Report Self-Harm (Report Self Harm Modal)" = "自殘";
+
+"Report Sexual Content (Report Sexual Content Modal)" = "色情內容";
+
+"Report User" = "檢舉使用者";
+
+"Report Violence (Report Violence Modal)" = "暴力";
+
+"Reporting is anonymous and will hide the user's comments (just for you)." = "檢舉是匿名的，並且將會 (為你) 隱藏該使用者的評論。";
+
+"Restrict Chat (accessibility hint)" = "點選兩下以將聊天限制在你跟隨的使用者。";
+
+"Restrict Chat (accessibility label)" = "限制聊天";
+
+"Return to Summary (accessibility hint)" = "點選兩下以返回使用者摘要。";
+
+"Retweet" = "轉推";
+
+"Save Changes" = "儲存變更";
+
+"Save To Camera Roll" = "儲存至相機膠卷";
+
+"Save To Camera Roll Unavailable" = "儲存至相機膠卷無法使用";
+
+"Saved To Camera Roll" = "已儲存至相機膠卷";
+
+"Saved!" = "已儲存！";
+
+"Saving..." = "儲存中...";
+
+"Say something..." = "說點什麼吧…";
+
+"Scroll for Old Comments" = "捲動以查看舊的評論";
+
+"Scroll to Bottom" = "捲動至底部";
+
+"Self-Harm (Report Option)" = "自殘";
+
+"Send (accessibility label)" = "發送";
+
+"Send Message (Blocked Modal)" = "發送訊息";
+
+"Send people a notification to join this broadcast. Mutuals are people you follow that follow you back." = "發送加入此廣播的通知給其他人。相互跟隨者是指與你相互跟隨的人。";
+
+"Sent for payment processing (History)" = "已發送進行付款處理。";
+
+"Separator between two names" = "和";
+
+"Set Amplify Program" = "設定 Amplify 方案";
+
+"Setting the broadcast Amplify Program to •|•%@•|• will publish a new Tweet." = "將廣播 Amplify 方案設定為 %@ 將會發佈新推文。";
+
+"Settings (app)" = "設定";
+
+"Sexual Content (Report Option)" = "色情內容";
+
+"Sexually Inappropriate \n Obscene or unwanted sexual remarks" = "不當的情色內容•|•\n猥褻或令人不悅的情色評論•|•";
+
+"Share Broadcast" = "分享廣播";
+
+"Share From" = "分享起自";
+
+"Share From %@" = "分享起自 %@";
+
+"Share From Beginning" = "從頭開始分享";
+
+"Share Live" = "分享直播";
+
+"Share Twitter Tooltip (explaining that the feature is disabled while guests are enabled)" = "在允許來賓的廣播中已停用";
+
+"Share precise location (accessibility label)" = "分享確切位置";
+
+"Share request sent. (chat message)" = "分享請求已發送。";
+
+"Share screenshot and broadcast" = "分享螢幕擷圖和廣播";
+
+"Share this broadcast so your followers don't miss it." = "分享此廣播，這樣你的跟隨者就不會錯過它。";
+
+"Share via..." = "分享方式…";
+
+"Show Stats (cell)" = "顯示統計資料";
+
+"Skip" = "略過";
+
+"Sorry, that action could not be completed because you have been blocked." = "很抱歉，無法完成這個動作，因為你已遭到封鎖。";
+
+"Sorry, that action could not be completed because you have reached the block limit." = "很抱歉，無法完成這個動作，因為你已達到封鎖限制。";
+
+"Sorry, that action could not be completed because you have reached the follow limit." = "很抱歉，無法完成這個動作，因為你已達到跟隨限制。";
+
+"Sorry, the broadcast is too full..." = "抱歉，廣播聊天人數過多…";
+
+"Sorry, this broadcast is unavailable" = "抱歉，無法取得此廣播";
+
+"Sorry, we couldn't load the broadcast share URL. Please try again." = "抱歉，我們無法載入廣播分享網址。請再試一次。";
+
+"Sorry, we couldn't save your changes. Please try again." = "抱歉，我們無法儲存變更。請再試一次。";
+
+"Sorry, we encountered an error blocking some users. Please try again." = "抱歉，我們在封鎖某些使用者時發生錯誤。請重試。";
+
+"Sorry, we encountered an error blocking that user. Please try again." = "抱歉，封鎖該使用者時發生錯誤。請再試一次。";
+
+"Sorry, we encountered an error loading user data. Please try again." = "抱歉，載入使用者資料時發生錯誤。請再試一次。";
+
+"Sorry, we encountered an error loading your broadcasts. Please try again." = "載入你的廣播時發生錯誤。請再試一次。";
+
+"Sorry, we encountered an error reporting this broadcast. Please try again." = "抱歉，檢舉此廣播時發生錯誤。請再試一次。";
+
+"Sorry, we encountered an error reporting this guest. Please try again." = "抱歉，檢舉此來賓時發生錯誤。請再試一次。";
+
+"Sorry, we've encountered a loading error. Please try again." = "抱歉，發生載入錯誤。請再試一次。";
+
+"Sorry, you've done that too many times. Try again in a few minutes." = "抱歉，你已重複此操作太多次。請稍後再試。";
+
+"Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv" = "很抱歉，發生載入錯誤 (421 - 選取器)。請寄送電子郵件至 help@pscp.tv";
+
+"Sorry, you've encountered a loading error (421). Please email help@pscp.tv" = "很抱歉，發生載入錯誤 (421)。請寄送電子郵件至 help@pscp.tv";
+
+"Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later." = "抱歉，你的網際網路連線不穩定，無法上傳新的廣播縮圖。請稍後再試。";
+
+"Spam" = "垃圾訊息";
+
+"Spam in Chat" = "聊天中有垃圾訊息";
+
+"Star & Cash Outs History (Stars Profile)" = "星星及兌現記錄";
+
+"Star History (Stars Profile)" = "星星記錄";
+
+"Star balance adjustment. Contact superhearts@pscp.tv if you have any questions. (History)" = "星星餘額調整。如有任何問題，請聯絡：superhearts@pscp.tv。";
+
+"Stars (profile view title)" = "星星";
+
+"Stars (profile)" = "星星";
+
+"Start Point" = "開始點";
+
+"Start Sketching (action sheet)" = "開始繪製";
+
+"Stop Broadcast" = "停止廣播";
+
+"Submit" = "提交";
+
+"Success! You've unmuted @%@" = "成功了！你已經取消 @%@ 的靜音";
+
+"Successfully set Amplify Program (title)" = "已成功設定 Amplify 方案";
+
+"Suggested user is watching singlular" = "%@•|• 現正觀看中•|•";
+
+"Suggested users are watching plural" = "%ld 個朋友•|• 現正觀看中•|•";
+
+"Super Broadcaster (Stars Profile)" = "超級廣播者";
+
+"Super Broadcaster Program" = "超級廣播者計劃";
+
+"Super Heart Terms" = "超級愛心條款";
+
+"Super Hearts" = "超級愛心";
+
+"Super Hearts OFF" = "超級愛心已關閉";
+
+"Super Hearts ON" = "超級愛心已開啟";
+
+"Swipe down to <bold>Stop</bold>" = "向下滑動以•|•停止•|•";
+
+"Tap anyhwhere to <bold>Exit Theater Mode</bold>" = "點選任何地方即可•|•結束劇院模式•|•";
+
+"Tap this icon to join Broadcaster's broadcast as a guest. (Viewer Prompt to Call-In)" = "點選此圖示，以來賓身分加入 •|•%@•|• 的廣播。";
+
+"Thank You (Report Broadcast Confirmation Modal)" = "謝謝你";
+
+"Thank you for your report" = "感謝你的檢舉";
+
+"Thank you for your report (Chat Prompt)" = "感謝你的檢舉";
+
+"Thank you for your report." = "感謝你的檢舉。";
+
+"Thank you. You won't see any more messages from •|•@%@•|• in this broadcast." = "謝謝你。在這個廣播中，你將不會再看到來自 •|•@%@•|• 的任何訊息。";
+
+"Thanks %@!" = "謝謝 %@！";
+
+"Thanks for your feedback!" = "感謝你的寶貴意見！";
+
+"The broadcaster blocked you in response to this message." = "廣播者已禁止你回應此訊息。";
+
+"The broadcaster has limited chat." = "廣播者已限制聊天功能。";
+
+"The broadcaster has the ability to remove people from their broadcasts." = "廣播者可以從他們的廣播中移除任何人。";
+
+"The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•." = "代幣商店已關閉。如果你有任何剩餘的代幣，請在 •|•%@•|•之前，使用這些代幣來發送超級愛心給你喜愛的廣播者。";
+
+"Theater Mode (action sheet)" = "劇院模式";
+
+"Their name, bio, or profile image violates the Community Guidelines" = "他們的名稱、自我介紹或個人資料圖片違反社群方針";
+
+"There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat." = "現在有許多人正在觀看此廣播！請限制發送給廣播者的訊息，僅限較早的加入者可以聊天。";
+
+"There was an error adding @username as a guest. Please try again." = "將 @%@ 以來賓身分加入時發生錯誤。請再試一次。";
+
+"There was an error adding you as a guest. We've notified Broadcaster, and will alert you if we're able to try again." = "將你以來賓身分加入時發生錯誤。我們已通知 %@，並且將在能夠重試時通知你。";
+
+"There was an error allowing guests. Please try again." = "允許來賓時發生錯誤。請再試一次。";
+
+"There was an error cancelling your request. Please try again." = "取消你的要求時發生錯誤。請再試一次。";
+
+"There was an error cancelling. Please try again." = "取消時發生錯誤。請再試一次。";
+
+"There was an error disallowing guests. Please try again." = "不允許來賓時發生錯誤。請再試一次。";
+
+"There was an error inviting guests. Please try again." = "邀請來賓時發生錯誤。請再試一次。";
+
+"There was an error muting or un-muting @username. Please try again." = "將 @%@ 靜音或取消靜音時發生錯誤。請再試一次。";
+
+"There was an error muting or un-muting you. Please try again." = "將你靜音或取消靜音時發生錯誤。請再試一次。";
+
+"There was an error removing your guest @username. Please try again." = "移除來賓 @%@ 時發生錯誤。請再試一次。";
+
+"There was an error sending your request to join as a guest. Please try again." = "傳送你以來賓身分加入的要求時發生錯誤。請再試一次。";
+
+"There was an error updating the settings (conversation controls and mentioned users). Please try again." = "更新設定 (對話控制項和被提及的使用者) 時發生錯誤。請再試一次。";
+
+"There was an error updating the settings (locked/unlocked). Please try again." = "更新設定 (已鎖定/已解除鎖定) 時發生錯誤。請再試一次。";
+
+"This broadcast is no longer available." = "此廣播已無法取得。";
+
+"This broadcast isn’t available (Copyright Violation)" = "此廣播無法觀看";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}." = "廣播與 “%1$@,” 相符，此為 %2$@ 的著作權內容。•|•了解更多•|•";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}. Do you have all rights necessary to broadcast this video on Twitter?" = "此廣播與 “%1$@,” 相符，此為 %2$@ 的著作權內容。你有在 Twitter 上播放此影片所需的所有權嗎？";
+
+"This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video." = "此廣播是使用 360 相機拍攝。Periscope 已不再支援播放 360 影片。";
+
+"This broadcast’s title can’t be edited. Learn more (Copyright Violation)" = "這則廣播的標題無法編輯。•|•了解更多•|•";
+
+"This is optional" = "此為選填欄位";
+
+"This user doesn't have any followers yet" = "此使用者還沒有任何跟隨者";
+
+"This user has not broadcasted yet" = "此使用者尚未廣播過";
+
+"This user isn't following anyone yet" = "此使用者尚未跟隨任何人";
+
+"Thousand Decimal Abbreviation" = "%.1fK";
+
+"Thousand Integer Abbreviation" = "%dK";
+
+"Thumbnail" = "縮圖";
+
+"Time Watched (CELL)" = "觀看時間";
+
+"Title (accessibility label)" = "標題";
+
+"To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off." = "若要聊天，請在設定中開啟「連線至 Periscope」。若你的帳戶已開啟「保護我的推文」，則必須下載 Periscope 應用程式並建立 Periscope 帳戶，或切換至將「保護我的推文」關閉的 Twitter 帳戶。";
+
+"To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos." = "為了儲存你的視訊，Periscope 需要權限才能存取你的照片。若要啟用此功能以供未來的廣播使用，請點選「設定」，然後開啟「 照片」的開關。";
+
+"To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account." = "為了透過電子郵件發送意見回饋，你必須先設定裝置上的電子郵件。首先，請開啟「設定」應用程式。然後前往「郵件、聯絡資訊、行事曆」，並選取「新增帳號」。";
+
+"To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option." = "為了分享你的位置，Periscope 需要權限以存取你裝置上的位置資訊。請點擊「設定」按鈕，然後前往「定位服務」，並選取「使用 App 期間」選項。";
+
+"Top Contributor" = "排名最高的贈送者";
+
+"Total watch time per minute tooltip" = "針對此廣播的每分鐘而言，觀眾觀看所花費的總計%@。";
+
+"Total watch time per minute tooltip (broadcaster)" = "針對此廣播的每分鐘而言，觀眾的總觀看時間為 %@。此統計資料可將不同長度之廣播的觀看時間正規化。";
+
+"Trying to reconnect" = "正在嘗試重新連線";
+
+"Twitter Post OFF" = "Twitter 發佈已關閉";
+
+"Twitter Post ON" = "Twitter 發佈已開啟";
+
+"Unable to load broadcast." = "無法載入廣播。";
+
+"Unblock User" = "解除封鎖使用者";
+
+"Unfollow User" = "取消跟隨使用者";
+
+"Unhide Broadcast (menu button)" = "取消隱藏廣播";
+
+"Unmute" = "取消靜音";
+
+"Unmute User" = "取消使用者靜音";
+
+"Unmute User Notifications" = "將使用者通知取消靜音";
+
+"Untitled" = "無標題";
+
+"User has not provided a profile description." = "使用者尚未提供個人資料描述。";
+
+"Very bad" = "非常差";
+
+"Very good" = "非常好";
+
+"Video Issues" = "視訊問題";
+
+"Video Quality" = "視訊畫質";
+
+"Video will resume if signal improves" = "視訊將會在訊號改善時繼續";
+
+"View Broadcast Actions (accessibility label)" = "查看廣播動作";
+
+"View Participants (accessibility label)" = "查看參與者";
+
+"View Profile" = "查看個人資料";
+
+"View Stats" = "查看統計資料";
+
+"Viewers can give you Super Hearts.\n<link>Learn more.</link>" = "觀眾可以贈送超級愛心給你。\n•|•了解更多。•|•";
+
+"Viewers cannot give you Super Hearts.\n<link>Learn more.</link>" = "觀眾無法贈送超級愛心給你。\n•|•了解更多。•|•";
+
+"Violence (Report Option)" = "暴力";
+
+"Waiting for other responses..." = "正在等候其他回應...";
+
+"Waiting for you to <bold>login</bold>." = "正在等候•|•登入•|•。";
+
+"Watch %1$@'s broadcast: %2$@" = "觀看 %1$@ 的廣播：%2$@";
+
+"Watch %@'s broadcast." = "觀看 %@ 的廣播。";
+
+"Watch LIVE" = "觀看•|•直播•|•";
+
+"Watch Live" = "觀看直播";
+
+"Watch Replay" = "觀看重播";
+
+"Watch Stream (User Activity)" = "觀看串流";
+
+"Watch on #Periscope" = "在 #Periscope 上觀看";
+
+"Watch on #Periscope: %@" = "在 #Periscope 上觀看：%@";
+
+"Watch what happened at %1$@ in %2$@'s broadcast." = "觀看 %2$@ 的廣播中在 %1$@ 發生的內容。";
+
+"Watch what happened at %1$@ in %2$@'s broadcast: %3$@" = "觀看 %2$@ 的廣播中在 %1$@ 發生的內容：%3$@";
+
+"We encountered an error deleting your broadcast. Please try again." = "刪除你的廣播時發生錯誤。請再試一次。";
+
+"We encountered an error updating your gift settings. Please try again." = "更新你的禮物設定時發生錯誤，請再試一次。";
+
+"We have received your report. Thank you for helping keep the community safe! (Report Broadcast Confirmation Modal)" = "我們已收到你的檢舉。感謝你協助維護社群的安全！";
+
+"We're sorry, there was an error starting your broadcast. Please try starting it again." = "很抱歉，開始你的廣播時發生錯誤。請嘗試重新開始。";
+
+"Welcome <bold>%@</bold>" = "歡迎 •|•%@•|•";
+
+"We’ve let your followers know that you joined as a guest (Chat Prompt)" = "我們已讓你的跟隨者知道你已使用來賓身分加入";
+
+"What are you seeing now?" = "你正在看什麼呢？";
+
+"What do you want to talk about?" = "你想要聊什麼話題？";
+
+"What went well?" = "你對哪些方面感到滿意？";
+
+"When someone follows them, they'll be listed here." = "當有人跟隨他們時，就會在這裡列出。";
+
+"When someone follows you, they'll be listed here." = "當有人跟隨你時，就會在這裡列出。";
+
+"When they do, it'll show up here." = "如果有，就會顯示在這裡。";
+
+"When they do, they'll be listed here." = "如果有，就會在這裡列出。";
+
+"When you do, it'll show up here" = "如果有，就會顯示在這裡";
+
+"When you do, they'll be listed here." = "如果有，就會在這裡列出。";
+
+"Yes (Copyright Violation)" = "是";
+
+"You already have a linked Twitter account. Please use this in the future to broadcast from Twitter" = "你已有連結的 Twitter 帳戶。請在未來使用此帳戶，從 Twitter 中進行廣播。";
+
+"You are now" = "你正在";
+
+"You aren't following anyone yet" = "你尚未跟隨任何人";
+
+"You aren't following anyone." = "你沒有跟隨任何人。";
+
+"You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests. (Offensive Report Modal)" = "你可以封鎖你不想看到其廣播的使用者。當你封鎖的使用者是來賓身分時，你仍會看到他們。";
+
+"You can block a user whose broadcasts you no longer want to see. (Offensive Report Modal)" = "你可以封鎖不想再看到其廣播的使用者。";
+
+"You can give •|•%@•|• of these" = "你可以贈送 •|•%@•|• 個這種愛心";
+
+"You can't broadcast right now (Copyright Violation)" = "你現在無法廣播";
+
+"You can't watch a broadcast while you're still broadcasting." = "當你仍在廣播中時，無法觀看其他廣播。";
+
+"You can’t watch this because it included a copyrighted work by {Full Name}. Learn more (Copyright Violation)" = "你無法觀看此內容，因為它包含 %@ 的受著作權保護的作品。 •|•了解更多•|•";
+
+"You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster." = "你可在粉絲贈送•|•超級愛心•|•給你時收集星星。只要成為超級廣播者，就能將星星兌換成現金。";
+
+"You didn't vote... <link>Learn about Moderation</link>" = "你並未投票... •|•了解仲裁•|•";
+
+"You don't have any followers yet" = "你還沒有任何跟隨者";
+
+"You earn stars from Super Hearts" = "你可透過超級愛心賺取星星";
+
+"You haven't broadcasted yet" = "你尚未廣播過";
+
+"You were <bold>blocked</bold> by the broadcaster" = "廣播者已將你•|•封鎖•|•";
+
+"You will lose any unsaved changes. Are you sure you want to leave this view?" = "你將會失去所有未儲存的變更。你確定要離開這個畫面嗎？";
+
+"You will lose the stars you received" = "你將會失去收到的星星";
+
+"You're Waiting to Join (Guest Calling Menu)" = "你正在等候加入";
+
+"Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv" = "由於與著作權相關的撤除要求，你的帳戶已遭到停用。請聯絡 help@pscp.tv";
+
+"Your account has been disabled. Please contact help@pscp.tv" = "你的帳戶已被停用。請聯絡 help@pscp.tv";
+
+"Your broadcast has been disabled (Copyright Violation)" = "你的廣播已停用。";
+
+"Your broadcast matches a copyrighted work (Copyright Violation)" = "你的廣播與有著作權的內容相符";
+
+"Your broadcast's thumbnail has been updated to the current screen." = "你的廣播縮圖已更新為目前的畫面。";
+
+"Your dispute claim was submitted (Copyright Violation)" = "你的質疑要求已提交";
+
+"Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•." = "為提供更好的廣播體驗，你的意見對我們相當重要。你可以隨時前往•|•設定•|•，選擇不參加未來的意見調查。";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts." = "因為包含謾罵內容，你的訊息 •|•\"%@\"•|• 已被隱藏。所有廣播的評論功能都已停用。";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast." = "因為包含謾罵內容，你的訊息 •|•\"%@\"•|• 已被隱藏。此廣播的評論功能已停用。";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "因為包含謾罵內容，你的訊息 •|•\"%@\"•|• 已被隱藏。所有廣播的評論功能都暫時受到限制。";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast." = "因為包含謾罵內容，你的訊息 •|•\"%@\"•|• 已被隱藏。此廣播的評論功能暫時受到限制。";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts." = "由於包含垃圾訊息，你的訊息 •|•\"%@\"•|• 已被隱藏。所有廣播的評論功能都已停用。";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast." = "由於包含垃圾訊息，你的訊息 •|•\"%@\"•|• 已被隱藏。此廣播的評論功能已停用。";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "由於包含垃圾訊息，你的訊息 •|•\"%@\"•|• 已被隱藏。所有廣播的評論功能都暫時受到限制。";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast." = "由於包含垃圾訊息，你的訊息 •|•\"%@\"•|• 已被隱藏。此廣播的評論功能暫時受到限制。";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts." = "你的訊息 •|•\"%@\"•|• 已被隱藏。所有廣播的評論功能都已停用。";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast." = "你的訊息 •|•\"%@\"•|• 已被隱藏。此廣播的評論功能已停用。";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts." = "你的訊息 •|•\"%@\"•|• 已被隱藏。所有廣播的評論功能都暫時受到限制。";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast." = "你的訊息 •|•\"%@\"•|• 已被隱藏。此廣播的評論功能暫時受到限制。";
+
+"Your settings are about to automatically delete this broadcast." = "你的設定即將自動刪除此廣播。";
+
+"Your settings will automatically delete this broadcast in %@" = "你的設定將在 %@後自動刪除此廣播";
+
+"Your video will be available for replay after the event has ended. (Copyright Violation)" = "活動結束後，你的影片將可提供重播使用。";
+
+"Your viewers have been invited to join (Local Chat Prompt)" = "你的觀眾已收到加入邀請";
+
+"You’re enrolled in automatic monthly cash outs. (Stars Profile)" = "你已註冊要每月自動兌現。";
+
+"You’ve blocked @username. Tap to report and share more details. (Should Report Guest User Chat Prompt)" = "你已封鎖 •|•@%@•|•。點選即可檢舉並分享更多詳細資料。";
+
+"[placeholder]" = "[placeholder]";
+
+"beta-feedback@pscp.tv" = "beta-feedback@pscp.tv";
+
+"coin bonus" = "多 %i%%";
+
+"coin received (accessibility label)" = "個代幣已收到";
+
+"coins received (accessibility label)" = "個代幣已收到";
+
+"contact@pscp.tv" = "contact@pscp.tv";
+
+"current audience" = "目前觀眾";
+
+"failed" = "失敗";
+
+"following (accessibility hint)" = "點選兩下以取消跟隨";
+
+"following (accessibility label)" = "跟隨中";
+
+"for fine control" = "進行細部控制";
+
+"heart received (accessibility label)" = "個愛心已收到";
+
+"hearts received (accessibility label)" = "個愛心已收到";
+
+"https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119" = "https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119";
+
+"https://pscp.tv/i/super/terms" = "https://pscp.tv/i/super/terms";
+
+"iPad doesn’t support broadcasting from Split View." = "iPad 不支援從分割顯示中廣播。";
+
+"invited" = "已邀請";
+
+"invited followers" = "已邀請跟隨者";
+
+"it's their first day on Periscope" = "這是他們第一天使用 Periscope";
+
+"not following (accessibility hint)" = "點選兩下以跟隨";
+
+"not following (accessibility label)" = "未跟隨";
+
+"people" = "人";
+
+"per Broadcast Minute (CELL)" = "每一廣播分鐘";
+
+"per Viewer (CELL)" = "每位觀眾";
+
+"person" = "人";
+
+"poor" = "差";
+
+"posting publicly on Periscope" = "公開發佈於 Periscope";
+
+"posting publicly on Twitter" = "公開發佈於 Twitter";
+
+"selected Amplify Program" = "已選取 Amplify 方案";
+
+"star received (accessibility label)" = "顆星星已收到";
+
+"stars received (accessibility label)" = "顆星星已收到";
+
+"tap to change Amplify Program" = "點選以變更 Amplify 方案";
+
+"tap to change Amplify program" = "點選以變更 Amplify 方案";
+
+"tap to change audience" = "點選以變更觀眾";
+
+"to seek" = "進行搜尋";
+
+"you hung up (Guest Caller Hung Up Chat Message Event)" = "你已掛斷";
+
+"you were added (New Guest Caller Chat Message Event)" = "你已加入";
+
+"you were removed (Guest Caller Was Removed Chat Message Event)" = "你已移除";
+
+"•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•." = "•|•%1$@•|• 已更新其廣播，開始時間改為 •|•%2$@•|•。";
+
+"•|•%@•|• are guests (Broadcast Guests Social Proof)" = "•|•%@•|• 現在是來賓";
+
+"•|•%@•|• invited you (Broadcast Guest Invitation Social Proof)" = "•|•%@•|• 已邀請你";
+
+"•|•%@•|• is a guest (Broadcast Guest Social Proof)" = "•|•%@•|• 現在是來賓";
+
+"•|•%@•|• shared (Broadcast Share Social Proof)" = "•|•%@•|• 已分享";
+
+"•|•%@•|• was a guest (Broadcast Guest Social Proof)" = "•|•%@•|• 曾是來賓";
+
+"•|•%@•|• were guests (Broadcast Guests Social Proof)" = "•|•%@•|• 曾是來賓";
+
+"•|•%@•|•\nBroadcasts" = "•|•%@•|•\n個廣播";
+
+"•|•%@•|•\nFollowers" = "•|•%@•|•\n位跟隨者";
+
+"•|•%@•|•\nFollowing" = "•|•%@•|•\n個跟隨中";
+
+"•|•@%1$@•|• was muted by •|•%2$@•|•" = "•|•@%1$@•|• 已被 •|•%2$@•|• 靜音";
+
+"•|•@%1$@•|• was unmuted by •|•%2$@•|•" = "•|•@%1$@•|• 已被 •|•%2$@•|• 取消靜音";
+
+"•|•@%@•|• Retweeted on" = "•|•@%@•|• 已轉推於";
+
+"•|•@%@•|• shared on" = "•|•@%@•|• 已分享於";
+
+"•|•Muted•|• by %@" = "已被 %@ •|•靜音•|•";
+
+"•|•Not enough coins.•|• Get more coins to keep giving Super Hearts." = "•|•代幣不足。•|• 取得更多代幣以繼續贈送超級愛心。";
+
+"•|•Press & Hold•|• the video to skip ahead" = "將影片•|•按住不放•|•可向前快轉";
+
+"•|•Press & Hold•|• to skip back or ahead." = "•|•按住不放•|•可向後或向前快轉。";
+
+"•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one." = "•|•超級愛心已開啟。•|• 在廣播上點選，贈送第一個愛心。";
+
+"•|•Support %@•|• by giving Super Hearts!" = "贈送超級愛心來表達•|•對 %@ 的支持•|•！";
+
+"•|•Unmuted•|• by %@" = "已被 %@ •|•取消靜音•|•";
+
+"•|•You need more coins•|• to give Super Hearts" = "•|•你需要更多代幣•|• 才能贈送超級愛心";
+
+"•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast." = "由於你的評論 •|•\"%2$@\"•|•，%1$@ 的其中一位仲裁者•|•已將你靜音•|•。你已無法在此廣播中聊天。";
+
+"•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast." = "•|•你已經被取消靜音•|• 設定人為 %@ 的仲裁者之一。現在你可以在這段廣播中與人聊天了。";
+

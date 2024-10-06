@@ -1,0 +1,1438 @@
+"%@ New Messages" = "%@ Tin nhắn mới";
+
+"%@ Viewer (Broadcast Info)" = "%@ Người xem";
+
+"%@ Viewers (Broadcast Info)" = "%@ Người xem";
+
+"%@ ago" = "%@ trước";
+
+"%@ doesn't have any followers yet" = "%@ chưa có người theo dõi nào.";
+
+"%@ has not broadcasted yet" = "%@ chưa có nguồn phát nào";
+
+"%@ is LIVE (broadcast title)" = "%@ TRỰC TUYẾN";
+
+"%@ isn't following anyone yet" = "%@ chưa theo dõi ai cả";
+
+"%@ joined" = "đã tham gia";
+
+"%@ wants you to moderate comments. Tap on comments to mute them." = "%@ muốn bạn kiểm duyệt bình luận. Nhấn vào bình luận để tắt tiếng chúng.";
+
+"%@ wants you to moderate comments. Tap or swipe left on comments to mute them." = "%@ muốn bạn kiểm duyệt bình luận. Nhấn hoặc lướt sang trái trên những bình luận để tắt tiếng chúng.";
+
+"%@ was live  (broadcast title)" = "%@ đã trực tuyến";
+
+"%d More Live Viewers" = "Người xem Trực tuyến Khác";
+
+"%d More Replay Viewers" = "Người xem Phát lại Khác";
+
+"%d More Viewers" = "Người xem Khác";
+
+"%ldd (days)" = "%ldn";
+
+"%ldh (hours)" = "%ldg";
+
+"%ldm (minutes)" = "%ldth";
+
+"%lds (seconds)" = "%ldgi";
+
+"%ldy (years)" = "%ldn";
+
+"(EDITED)" = "(ĐÃ CHỈNH SỬA)";
+
+"(Skip to) LIVE" = "TRỰC TUYẾN";
+
+"1 More Live Viewer" = "N.xem T.tuyến Khác";
+
+"1 More Replay Viewier" = "Người xem Phát lại Khác";
+
+"1 More Viewer" = "Người xem Khác";
+
+"1 New Message" = "1 Tin nhắn mới";
+
+"@username \"Tap to cancel\" (Add Guest Caller Chat Message Event)" = "Nhấn để hủy";
+
+"@username \"canceled\" (Add Guest Caller Chat Message Event)" = "đã hủy";
+
+"@username \"has asked to join\" (Add Guest Caller Chat Message Event)" = "đã yêu cầu tham gia";
+
+"@username \"hung up\" (Guest Caller Hung Up Chat Message Event)" = "•|•@%@•|• đã gác máy";
+
+"@username \"was added\" (Add Guest Caller Chat Message Event)" = "đã thêm";
+
+"@username \"was added\" (New Guest Caller Chat Message Event)" = "•|•@%@•|• đã được thêm";
+
+"@username \"was removed\" (Add Guest Caller Chat Message Event)" = "đã bị xóa";
+
+"@username \"was removed\" (Guest Caller Was Removed Chat Message Event)" = "•|•@%@•|• đã bị xóa";
+
+"A Periscope account is required to edit a broadcast." = "Cần có tài khoản Periscope để chỉnh sửa nguồn phát.";
+
+"A Periscope account is required to share a broadcast." = "Cần có tài khoản Periscope để chia sẻ nguồn phát.";
+
+"A broadcast with a star balance was deleted. (History)" = "Một nguồn phát có số dư sao đã bị xóa.";
+
+"ACTIVE CONTRIBUTORS" = "CỘNG TÁC VIÊN TÍCH CỰC";
+
+"Abuse" = "Xúc phạm";
+
+"Abusive Behavior (Report Option)" = "Hành vi lạm dụng";
+
+"Accept Caller as Guest" = "Chấp nhận người gọi là khách";
+
+"Accept Super Hearts (accessibility hint)" = "Nhấn đúp để chấp nhận siêu trái tim cho nguồn phát này.";
+
+"Accept Super Hearts (accessibility label)" = "Chấp nhận Siêu trái tim";
+
+"Accept as Guest" = "Chấp nhận là khách";
+
+"Actions (accessibility label)" = "Hành động";
+
+"Add Guest (Manage Guest Call-Ins Action Sheet)" = "Thêm khách mời";
+
+"Add guest \n viewer will become a guest broadcaster" = "Thêm khách mời•|•\nngười xem sẽ trở thành người phát khách mời•|•";
+
+"All-Time Stars (Stars Profile)" = "Tổng số sao đã nhận";
+
+"Allow Guests (Tooltip Selected)" = "Cho phép khách mời";
+
+"Allow guests / Don't allow guests (accessibility label)" = "Cho phép khách mời / Không cho phép khách mời";
+
+"Anything else you'd like to share?" = "Còn điều gì khác mà bạn muốn chia sẻ không?";
+
+"Are you sure you want to send this message?" = "Bạn có chắc muốn gửi tin nhắn này không?";
+
+"Are you sure you want to unblock?" = "Bạn có chắc muốn bỏ chặn?";
+
+"Are you sure? (title)" = "Bạn có chắc không?";
+
+"Ask for Follow (action sheet)" = "Yêu cầu Theo dõi";
+
+"Ask for Share (action sheet)" = "Yêu cầu Chia sẻ";
+
+"Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Yêu cầu tham gia nguồn phát này như một khách mời. Mọi người sẽ nghe thấy bạn và bạn có thể dừng lại bất kỳ lúc nào.";
+
+"Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Yêu cầu tham gia nguồn phát này như một khách mời. Mọi người sẽ thấy và nghe thấy bạn, và bạn có thể dừng lại bất kỳ lúc nào.";
+
+"Asking to join... Broadcaster must accept you (Local Chat Prompt)" = "Yêu cầu tham gia...\n•|•@%@•|• phải chấp nhận bạn";
+
+"Audio Only (accessibility label)" = "Nguồn phát chỉ có âm thanh";
+
+"Audio from: Headphones" = "Âm thanh đang phát ra từ: Tai nghe";
+
+"Audio from: Phone" = "Âm thanh đang phát ra từ: Điện thoại";
+
+"Back" = "Quay lại";
+
+"Back (action sheet)" = "Quay lại";
+
+"Back Camera (accessibility hint)" = "Nhấn đúp để chuyển sang Camera Trước";
+
+"Back Camera (accessiblity value)" = "Camera Sau";
+
+"Back to %@" = "Quay lại %@";
+
+"Back to Hearts" = "Quay lại Trái tim";
+
+"Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. Learn more (Copyright violation)" = "Vì bạn có nhiều nguồn phát gần đây bao gồm những tác phẩm có bản quyền, bạn sẽ tạm thời không thể phát. •|•Tìm hiểu thêm•|•";
+
+"Betascope App Feedback" = "Phản hồi Ứng dụng Betascope";
+
+"Billion Decimal Abbreviation" = "%.1fT";
+
+"Billion Integer Abbreviation" = "%dT";
+
+"Block @%@" = "Chặn @%@";
+
+"Block @%@ (Offensive Report Modal)" = "Chặn @%@";
+
+"Block And Hang Up (Manage Guest Call-Ins Action Sheet)" = "Chặn và gác máy";
+
+"Block User" = "Chặn Người dùng";
+
+"Block Users (%@)" = "Chặn người dùng (%@)";
+
+"Block {Username}" = "Chặn @%@";
+
+"Blocked (user modal)" = "Đã chặn";
+
+"Blocked by you" = "Chặn bởi bạn";
+
+"Blocking will dismiss the broadcast and not report to Periscope. (Offensive Report Modal)" = "Việc chặn sẽ bỏ qua nguồn phát và không báo cáo với Periscope.";
+
+"Broadcast Actions (accessibility hint)" = "Mở menu các hành động nguồn phát.";
+
+"Broadcast Details (action sheet)" = "Chi tiết nguồn phát";
+
+"Broadcast Super Heart Auto-Deletion Warning" = "•|•Nguồn phát này sẽ không được tự động xóa sau 24 giờ•|• để ngăn chặn mất sao từ bất kỳ Siêu trái tim nào bạn có thể nhận.\n\nNếu bạn muốn, bạn có thể ẩn nguồn phát sau khi nó kết thúc để hạn chế khả năng hiển thị của nó đến những người khác.";
+
+"Broadcast Title" = "Tiêu đề nguồn phát";
+
+"Broadcast about to expire (Cell)" = "Nguồn phát Sắp Hết hạn";
+
+"Broadcast creation" = "Tạo nguồn phát";
+
+"Broadcaster Has Disabled Call-Ins (Generic Error Message)" = "Người phát hiện đã vô hiệu hóa danh sách gọi đến.";
+
+"Broadcaster blocked •|•@%@•|•" = "Người phát đã chặn •|•@%@•|•";
+
+"Broadcaster doesn’t accept Super Hearts" = "Người phát không chấp nhận Siêu trái tim";
+
+"Broadcaster has assigned chat moderators." = "Người phát đã chỉ định người kiểm duyệt trò chuyện.";
+
+"Broadcaster has to accept your request before you can join as a guest. (Guest Call-In Instructions Subtitle)" = "@%@ phải chấp nhận yêu cầu của bạn trước khi bạn có thể tham gia như một khách mời.";
+
+"Broadcaster is allowing guests to join (Local Chat Prompt)" = "•|•%@•|• đang cho phép khách mời tham gia";
+
+"Broadcaster is not allowing guests to join (Local Chat Prompt)" = "•|•%@•|• không cho phép khách mời tham gia";
+
+"Broadcasters earn stars from Super Hearts" = "Người phát kiếm sao từ Siêu trái tim";
+
+"Bummer (ReplayKit)" = "Thất vọng";
+
+"CONCATENTATION_ACCESSIBILITY_STRING" = ".";
+
+"CONTRIBUTORS WHO HAVE LEFT" = "CỘNG TÁC VIÊN ĐÃ RỜI ĐI";
+
+"COULDN'T LOAD REPLAY VIEWERS" = "KHÔNG THỂ TẢI NHỮNG NGƯỜI XEM PHÁT LẠI";
+
+"COULDN'T LOAD VIEWERS" = "KHÔNG THỂ TẢI NGƯỜI XEM";
+
+"Camera Selection (accessibility label)" = "Chọn Camera";
+
+"Cancel" = "Hủy";
+
+"Cancel (action sheet)" = "Hủy";
+
+"Cancel Call In Button: \"Cancel Request to Join as a Guest\"" = "Hủy yêu cầu tham gia như một khách mời";
+
+"Cancel Guest Call-In Instructions Title: \"Waiting to join as a guest...\"" = "Đang chờ để tham gia như một khách mời...";
+
+"Cannot be undone" = "Không thể hoàn tác";
+
+"Capture Thumbnail (action sheet)" = "Chụp Hình thu nhỏ";
+
+"Cash Outs (Stars Profile)" = "Rút tiền";
+
+"Cash out your stars, and continue using live video on Twitter" = "Rút sao của bạn và tiếp tục sử dụng video trực tuyến trên Twitter";
+
+"Change Amplify Program" = "Thay đổi Chương trình khuếch đại";
+
+"Change Expiration (Cell)" = "Thay đổi Ngày hết hạn";
+
+"Change Expiration Subtitle (Cell)" = "Tự động Xóa trong %@";
+
+"Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program." = "Thay đổi Chương trình khuếch đại để •|•%@•|• sẽ xóa Tweet cũ của bạn và đăng một Tweet mới bằng Chương trình mới.";
+
+"Chatroom too full..." = "Phòng chat quá đầy...";
+
+"Child Safety (Report Option)" = "An toàn cho trẻ em";
+
+"Choose guests to add. You can remove them at any time. (Manage Guest Callers Page Subtitle)" = "Chon khách mời để thêm. Bạn có thể xóa họ bất cứ lúc nào.";
+
+"Close (accessibility label)" = "Đóng";
+
+"Comment Tip Option 1" = "Viết một bình luận và để •|•%@•|• biết bạn ở đây!";
+
+"Comment Tip Option 2" = "Để •|•%@•|• biết bạn đang xem từ đâu!";
+
+"Comment Tip Option 3" = "Nói xin chào để trò chuyện với •|•%@•|• và những người xem khác.";
+
+"Commenting is OFF" = "TẮT bình luận";
+
+"Comments Received (CELL)" = "Các bình luận đã Nhận";
+
+"Comments Received Unavailable (CELL)" = "n/a";
+
+"Compose Direct Message (Accessibility Label)" = "Soạn tin nhắn trực tiếp";
+
+"Compose New Tweet (Accessibility Label)" = "Soạn Tweet mới";
+
+"Confirm Call In Button: \"OK, Ask to Join\"" = "OK, Yêu cầu tham gia";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile and audio will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and hear you. This may include people you’ve blocked on either app.\"" = "•\tHồ sơ và âm thanh của bạn sẽ trở thành một phần của nguồn phát này và không thể bị xóa trừ khi %1$@ xóa phát lại.\n\n•\tNhững người đang xem trên Periscope hoặc Twitter sẽ thấy bạn vừa tham gia nguồn phát của %1$@ và nghe thấy bạn, bao gồm cả những người bạn đã chặn trên hai ứng dụng này.";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile, audio and video will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and see you. This may include people you’ve blocked on either app.\"" = "•\tHồ sơ, âm thanh và video của bạn sẽ trở thành một phần của nguồn phát này và không thể bị xóa trừ khi %1$@ xóa phát lại.\n\n•\tNhững người đang xem trên Periscope hoặc Twitter sẽ thấy bạn vừa tham gia nguồn phát của %1$@ và nhìn thấy bạn, bao gồm cả những người bạn đã chặn trên hai ứng dụng này.";
+
+"Confirm Guest Call-In Instructions Title: \"Good to know...\"" = "Thật tốt khi biết...";
+
+"Connecting to chatroom" = "Kết nối tới phòng chat";
+
+"Connection Error" = "Lỗi Kết nối";
+
+"Connection too" = "Kết nối quá";
+
+"Contact Us (action sheet)" = "Liên hệ với chúng tôi";
+
+"Contributors" = "Cộng tác viên";
+
+"Copy Profile URL" = "Sao chép URL Hồ sơ";
+
+"Current Star Balance (Stars Profile)" = "Số dư sao hiện tại";
+
+"Current Time (Accessibility Label)" = "Thời điểm hiện tại";
+
+"Dear Periscope Team," = "Nhóm Periscope thân mến,";
+
+"Delete Broadcast" = "Xóa Nguồn phát";
+
+"Delete Broadcast (action sheet)" = "Xóa nguồn phát";
+
+"Delete Broadcast Now" = "Xóa Nguồn phát Ngay";
+
+"Describe the issue (Report Option)" = "Mô tả vấn đề";
+
+"Describe the issue with %@ (Report Option)" = "Mô tả vấn đề bằng @%@";
+
+"Describe the issue with @%1$@ at %2$@ (Report Option)" = "Mô tả vấn đề với @%1$@ lúc %2$@";
+
+"Describe the issue you are seeing at %@ (Report Option)" = "Mô tả vấn đề bạn đang thấy tại %@";
+
+"Direct Message (Compose)" = "Tin nhắn trực tiếp";
+
+"Disable Audio Only Broadcast" = "Vô hiệu hóa Nguồn phát chỉ có âm thanh";
+
+"Disabled for this broadcast" = "Tắt đối với nguồn phát này";
+
+"Discard Changes" = "Xóa bỏ thay đổi";
+
+"Display Photo (action sheet)" = "Hiển thị Ảnh";
+
+"Dispute Claim (Copyright Violation)" = "Khiếu nại tranh chấp";
+
+"Do not notify my followers (Guest Call-In Notify Followers Option)" = "Không thông báo cho những người theo dõi tôi";
+
+"Don't Allow Guests (Manage Guest Broadcasters Call-Ins List)" = "Không cho phép khách mời";
+
+"Don't Allow Guests (Tooltip)" = "Không cho phép khách mời";
+
+"Don't Auto-Delete" = "Không Tự động Xóa";
+
+"Don't Send (Blocked Modal)" = "Không Gửi";
+
+"Done" = "Xong";
+
+"Done (action sheet)" = "Xong";
+
+"Double Tap anywhere to Exit Theater Mode (accessibility label)" = "Nhấn đúp bất kỳ đâu để thoát chế độ rạp chiếu phim";
+
+"Double Tap to <bold>Flip Camera</bold>" = "Nhấn Đúp để •|•Xoay Camera•|•";
+
+"Double tap to allow or disallow guests (accessibility hint)" = "Nhấn đúp để cho phép hoặc không cho phép khách mời";
+
+"Duration (CELL)" = "Thời lượng";
+
+"END (graph)" = "KẾT THÚC";
+
+"ENDED" = "KẾT THÚC";
+
+"Edit Broadcast" = "Chỉnh sửa nguồn phát";
+
+"Edit Broadcast (action sheet)" = "Chỉnh sửa nguồn phát";
+
+"Edit Broadcast Unavailable" = "Chỉnh sửa nguồn phát không khả dụng";
+
+"Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured." = "Chỉnh sửa nguồn phát của bạn làm thay đổi cách nguồn phát tìm kiếm những người thấy nó. Những thay đổi này sẽ không ảnh hưởng đến bất kỳ Tweet hay Thông báo nào đã xuất hiện.";
+
+"Enable Audio Only Broadcast" = "Kích hoạt nguồn phát chỉ có âm thanh";
+
+"Enable Email" = "Bật Email";
+
+"Enable camera (Permissions Screen)" = "Bật camera";
+
+"Enable microphone (Permissions Screen)" = "Bật micrô";
+
+"Enable/Disable Audio Only Broadcast (accessibility hint)" = "Nhấn đúp để kích hoạt hoặc vô hiệu hóa Nguồn phát chỉ có âm thanh.";
+
+"Enable/Disable Audio Only Broadcast (accessibility label)" = "Kích hoạt/Vô hiệu hóa Nguồn phát chỉ có âm thanh";
+
+"Ended" = "Kết thúc";
+
+"Engaging Chat" = "Cuộc trò chuyện thú vị";
+
+"Error (ReplayKit)" = "Lỗi";
+
+"Error accessing audio from microphone." = "Lỗi truy cập âm thanh từ micrô.";
+
+"Error accessing history." = "Lỗi truy cập lịch sử.";
+
+"Error saving video to Camera Roll" = "Lỗi lưu video vào Camera Roll";
+
+"Error setting Amplify Program (title)" = "Lỗi cài đặt Chương trình khuếch đại";
+
+"Every heart you send will be a Super Heart" = "Mỗi trái tim bạn gửi sẽ là một Siêu trái tim";
+
+"Everybody can chat" = "Mọi người đều có thể chat";
+
+"FEATURED" = "NỔI BẬT";
+
+"FOLLOWERS (user profile modal)" = "NGƯỜI THEO DÕI";
+
+"FOLLOWING (user profile modal)" = "ĐANG THEO DÕI";
+
+"Final List separator" = ", &";
+
+"Fine Control" = "Kiểm soát Tốt";
+
+"First Super Heart" = "Siêu trái tim đầu tiên";
+
+"Flip Camera (action sheet)" = "Xoay Camera";
+
+"Follow (user modal)" = "Theo dõi";
+
+"Follow request sent. (chat message)" = "Theo dõi yêu cầu đã gửi.";
+
+"Follow the broadcaster to catch their next broadcast." = "Theo dõi người phát để bắt kịp nguồn phát kế tiếp của họ.";
+
+"Follow •|•%@•|• to catch their next broadcast" = "Theo dõi •|•%@•|• để bắt kịp nguồn phát kế tiếp của họ";
+
+"Followed by %1$@ and %2$@" = "Được theo dõi bởi %1$@ và %2$@";
+
+"Followed by %1$@, %2$@, %3$@ and %4$i others" = "Được theo dõi bởi %1$@, %2$@, %3$@ và %4$i người khác";
+
+"Followed by %1$@, %2$@, and %3$@" = "Được theo dõi bởi %1$@, %2$@, và %3$@";
+
+"Followed by %@" = "Được theo dõi bởi %@";
+
+"Followers button (accessibility hint)" = "Nhấn đúp để xem những người theo dõi.";
+
+"Following (user modal)" = "Đang theo dõi";
+
+"Following button (accessibility hint)" = "Nhấn đúp để xem những người dùng được theo dõi.";
+
+"Front Camera (accessibility hint)" = "Nhấn đúp để chuyển sang Camera Sau";
+
+"Front Camera (accessiblity value)" = "Camera Trước";
+
+"Get Coins" = "Kiếm thêm xu";
+
+"Give Super Hearts (menu button)" = "Tặng Siêu trái tim";
+
+"Go LIVE" = "Phát TRỰC TUYẾN";
+
+"Go LIVE to %@" = "Phát TRỰC TUYẾN cho %@";
+
+"Go LIVE together (Guest Broadcasting Modal Title)" = "Cùng phát TRỰC TUYẾN";
+
+"Go to Twitter Profile" = "Di chuyển tới Hồ sơ Twitter";
+
+"Good Viewer Count" = "Số người xem tốt";
+
+"Got It (Button Title)" = "Đã hiểu";
+
+"Got it (Copyright Violation)" = "Đã hiểu";
+
+"Got it (ReplayKit)" = "Đã hiểu";
+
+"Got it!" = "Đã hiểu!";
+
+"Guest Action Sheet Report Item" = "Báo cáo";
+
+"Guest Call In Choice Label: \"Camera and microphone\"" = "Camera và micrô";
+
+"Guest Call In Choice Label: \"Microphone only\"" = "Chỉ micrô";
+
+"Guest Call-In Audio Only Permissions Subtitle beneath Title: \"Enable microphone to become a guest\"" = "Bật micrô để trở thành một khách mời";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request. Learn more\"" = "Bạn sẽ tham gia khi người phát chấp nhận yêu cầu của bạn. •|•Tìm hiểu thêm•|•";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request.\"" = "Bạn sẽ tham gia khi người phát chấp nhận yêu cầu của bạn.";
+
+"Guest Call-In Instructions Title: \"Ask to Join\"" = "Yêu cầu tham gia";
+
+"Guest Call-In Instructions Title: \"Join as a guest\"" = "Tham gia như một khách mời";
+
+"Guest Call-In Permissions Subtitle beneath Title: \"Enable camera and microphone to become a guest\"" = "Bật camera và micrô để trở thành một khách mời";
+
+"Guest Call-In Permissions Title: \"Guest setup\"" = "Thiết lập khách mời";
+
+"Guest List (Manage Guest Callers Page Title)" = "Danh sách khách mời";
+
+"Guest Was Banned Chat Message (Periscope)" = "•|•@%@•|• đã bị báo cáo, xem xét bởi Periscope, và bị phát hiện vi phạm các Nguyên tắc Cộng đồng.";
+
+"Guest Was Banned Chat Message (Twitter)" = "•|•@%@•|• đã bị báo cáo, xem xét bởi Twitter, và bị phát hiện vi phạm các Quy tắc của Twitter.";
+
+"Guests Not Allowed (Manage Guest Broadcasters Call-Ins List)" = "Khách mời không được phép";
+
+"Guests can now ask to join. Use this icon to add or remove guests at any time. (Guest Broadcasting Enabled Prompt)" = "Các vị khách mời bây giờ có thể tham gia để hỏi. Sử dụng biểu tượng này để thêm hoặc xóa các khách mời vào bất cứ lúc nào.";
+
+"HEART" = "TRÁI TIM";
+
+"HEARTS" = "TRÁI TIM";
+
+"Half-Speed" = "1/2-Tốc độ";
+
+"Hang Up (Guest Calling Menu)" = "Gác máy";
+
+"Hang Up (Manage Guest Call-Ins Action Sheet)" = "Gác máy";
+
+"Hang Up Button Label: \"Hang Up\"" = "Gác máy";
+
+"Hang Up Subtitle (Audio Only): \"Stop sharing microphone\"" = "Dừng chia sẻ micrô";
+
+"Hang Up Subtitle (Camera + Microphone): \"Stop sharing camera and microphone\"" = "Dừng chia sẻ camera và micrô";
+
+"Hang Up on Guest or Cancel Guest From Joining" = "Gác máy Khách hoặc Hủy cho khách tham gia";
+
+"Hang up" = "Gác máy";
+
+"Harassment" = "Quấy rối";
+
+"Hateful Conduct (Report Option)" = "Hành vi thù địch";
+
+"Heart Sent (accessiblity announcement)" = "Trái tim Đã gửi";
+
+"Hearts & Chats off" = "Tắt trái tim & trò chuyện";
+
+"Hearts & Chats on" = "Bật trái tim & trò chuyện";
+
+"Help us moderate this comment..." = "Giúp chúng tôi phân loại bình luận này...";
+
+"Help us understand the problem.\nWhat issue with @%@ are you reporting?" = "Hãy giúp chúng tôi hiểu được vấn đề.\nBạn đang báo cáo vấn đề gì xảy ra với @%@?";
+
+"Hide Broadcast" = "Ẩn nguồn phát";
+
+"Hide everything except video (action sheet)" = "Ẩn mọi thứ ngoại trừ video";
+
+"History (profile view title)" = "Lịch sử";
+
+"History button (accessibility hint)" = "Nhấn đúp để xem các nguồn phát gần đây.";
+
+"How can we improve?" = "Chúng tôi có thể cải thiện như thế nào?";
+
+"How was your broadcasting experience?" = "Trải nghiệm nguồn phát của bạn thế nào?";
+
+"I'm Not Interested in @%@" = "Tôi không quan tâm  @%@";
+
+"If this broadcast depicts pornography or sexual acts, please tap below. (Report Sexual Content Modal)" = "Nếu nguồn phát này mô tả hành động khiêu dâm hoặc các hành vi tình dục, vui lòng nhấn vào bên dưới.";
+
+"If you believe that this broadcast places a child at risk, please tap below. (Report Child Safety Modal)" = "Nếu bạn tin rằng nguồn phát này khiến trẻ em gặp rủi ro, hãy nhấn vào bên dưới.";
+
+"If you believe this broadcast contains violence or someone is being physically threatened, please tap below. (Report Violence Modal)" = "Nếu bạn tin rằng nguồn phát này chứa nội dung bạo lực hoặc ai đó đang bị đe dọa về thể chất, hãy nhấn vào bên dưới.";
+
+"If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Nếu bạn cho rằng nguồn phát này hướng sự căm ghét vào một hạng mục được bảo vệ (ví dụ như chủng tộc, tôn giáo, giới tính, khuynh hướng, khuyết tật), vui lòng nhấn bên dưới.";
+
+"If you believe this broadcast exposes private information, please tap below. (Report Private Information Modal)" = "Nếu bạn cho rằng nguồn phát này tiết lộ các thông tin riêng tư, vui lòng nhấn bên dưới.";
+
+"If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below. (Report Harassment Modal)" = "Nếu bạn cho rằng nguồn phát này có nội dung quấy rối, đe dọa, hoặc sử dụng nỗi sợ hãi để khiến người khác im lặng, vui lòng nhấn bên dưới.";
+
+"If you believe this guest is contemplating or encouraging suicide or self harm, please tap below. (Report Self Harm Modal)" = "Nếu bạn cho rằng khách mời này đang dự định hoặc khuyến khích tự tử hay tự làm hại bản thân mình, vui lòng nhấn bên dưới.";
+
+"If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Nếu bạn cho rằng khách mời này đang hướng sự căm ghét vào một hạng mục được bảo vệ (ví dụ như chủng tộc, tôn giáo, giới tính, khuynh hướng, khuyết tật), vui lòng nhấn bên dưới.";
+
+"If you believe this guest is exposing private information, please tap below. (Report Private Information Modal)" = "Nếu bạn cho rằng khách mời này đang tiết lộ thông tin cá nhân, vui lòng nhấn bên dưới.";
+
+"If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below. (Report Harassment Modal)" = "Nếu bạn cho rằng khách mời này đang quấy rối, đe dọa hoặc sử dụng nỗi sợ để khiến người khác im lặng, vui lòng nhấn bên dưới.";
+
+"If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below. (Report Violence Modal)" = "Nếu bạn cho rằng khách mời này đang tạo ra mối đe dọa bạo lực cụ thể liên quan tới an toàn thân thể hoặc sức khỏe, vui lòng nhấn bên dưới.";
+
+"If you believe this guest is sharing content that places a child at risk, please tap below. (Report Child Safety Modal)" = "Nếu bạn cho rằng khách mời này đang chia sẻ nội dung gây nguy hiểm cho trẻ em, vui lòng nhấn bên dưới.";
+
+"If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below. (Report Sexual Content Modal)" = "Nếu bạn cho rằng khách mời này đang chia sẻ nội dung về tình dục không phù hợp như nội dung khiêu dâm, vui lòng nhấn bên dưới.";
+
+"If you believe this individual is contemplating suicide or self harm, please tap below. (Report Self Harm Modal)" = "Nếu bạn tin rằng cá nhân này đang có ý định tự tử hoặc tự làm hại, vui lòng nhấn vào bên dưới.";
+
+"If you delete this broadcast, you will lose the stars that you received. This cannot be undone." = "Nếu bạn xóa nguồn phát này, bạn sẽ mất số sao mà bạn đã nhận được. Việc này không thể hoàn tác.";
+
+"Initializing video stream..." = "Đang khởi tạo luồng video...";
+
+"Invite Guests (Manage Guest Broadcasters Call-Ins List)" = "Mời khách mời";
+
+"Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Mời người xem trở thành khách mời trong nguồn phát của bạn. Mọi người sẽ nghe thấy Họ, và bạn có thể thêm hoặc xóa họ bất kỳ lúc nào.";
+
+"Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Mời người xem trở thành khách mời trong nguồn phát của bạn. Mọi người sẽ thấy và nghe thấy họ, và bạn có thể thêm hoặc xóa họ bất kỳ lúc nào.";
+
+"Join as a Guest (Guest Calling Menu)" = "Tham gia như một khách mời";
+
+"Joined %@" = "Đã tham gia %@";
+
+"Joining as a guest... (Guest Call-In Countdown Screen Title)" = "Đang tham gia như một khách mời...";
+
+"Keep broadcasting to collect more stars!" = "Tiếp tục phát để thu thập nhiều sao hơn!";
+
+"Keep stars received" = "Giữ lại số sao đã nhận";
+
+"LIVE" = "LIVE";
+
+"LIVE VIEWER" = "NGƯỜI XEM TRỰC TUYẾN";
+
+"LIVE VIEWERS" = "NGƯỜI XEM TRỰC TUYẾN";
+
+"LIVE Video (Broadcast Audience)" = "Video TRỰC TUYẾN";
+
+"LIVE on #Periscope" = "TRỰC TUYẾN trên #Periscope";
+
+"LIVE on #Periscope: %@" = "TRỰC TUYẾN trên #Periscope: %@";
+
+"LOADING" = "ĐANG TẢI";
+
+"LOST CONNECTION" = "MẤT KẾT NỐI";
+
+"Later (alert view)" = "Sau";
+
+"Learn More (Stars Profile)" = "Tìm hiểu thêm";
+
+"Leave Broadcast" = "Rời Nguồn phát";
+
+"Limited by Broadcaster" = "Bị giới hạn bởi Người phát";
+
+"Limited for %@" = "Còn lại %@";
+
+"List separator" = ",";
+
+"Live Time Watched (CELL)" = "Thời gian Xem Trực tuyến";
+
+"Live watch time per minute tooltip" = "Với mỗi phút mà nguồn phát này trực tuyến, người xem dành tổng cộng %@ xem nó.";
+
+"Loading History." = "Đang tải lịch sử.";
+
+"Loading followers" = "Đang tải người theo dõi";
+
+"Loading following" = "Đang tải theo dõi";
+
+"Loading history" = "Đang tải lịch sử";
+
+"Loading your followers" = "Đang tải người theo dõi của bạn";
+
+"Loading your following" = "Đang tải theo dõi của bạn";
+
+"Location Permissions Required" = "Yêu cầu Quyền về Vị trí";
+
+"Location Unknown" = "Vị trí Không xác định";
+
+"Logged Out" = "Đã đăng xuất";
+
+"Login Error (ReplayKit)" = "Yêu cầu Đăng nhập";
+
+"Login Error Instructions (ReplayKit)" = "Vui lòng mở ứng dụng Periscope để đăng nhập. Sau đó trở lại đây để bắt đầu nguồn phát của bạn.";
+
+"Looks OK" = "Trông ỔN";
+
+"Looks like the connection was lost. Reconnecting... (Toast)" = "Có vẻ như đã bị mất kết nối. Đang kết nối lại ...";
+
+"Lose stars received" = "Mất số sao đã nhận";
+
+"Low Viewer Count" = "Số người xem thấp";
+
+"Low disk space. A portion of this broadcast will not be available for replay later." = "Dung lượng đĩa thấp. Một phần nguồn phát này sẽ không khả dụng để phát lại sau đó.";
+
+"Majority voted <destructive emphasis> Looks OK  </destructive emphasis>" = "Đa số chọn  •|• Trông ỔN •|•";
+
+"Majority voted <destructive emphasis> Not Sure </destructive emphasis>" = "Đa số chọn •|• Không Chắc •|•";
+
+"Makes broadcast visible to everyone" = "Hiển thị nguồn phát cho mọi người";
+
+"Makes broadcast visible to invited viewers" = "Hiển thị nguồn phát cho những người xem được mời";
+
+"Manage details about your Broadcast (menu subtitle)" = "Quản lý chi tiết về Nguồn phát của bạn";
+
+"Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen." = "Những tin nhắn như thế này thường bị chặn. Nếu bạn bị chặn quá nhiều lần thì các bình luận của bạn sẽ không còn được hiển thị nữa.";
+
+"Million Decimal Abbreviation" = "%.1fT";
+
+"Million Integer Abbreviation" = "%dT";
+
+"Moderation Modal Button Label" = "OK, Tôi hiểu";
+
+"Moderation Modal Example Label" = "VÍ DỤ";
+
+"Moderation Modal Settings Label" = "Bạn có thể tắt tính năng này trong cài đặt";
+
+"Moderation Modal Subtitle" = "Chùng tôi sẽ thỉnh thoảng yêu cầu bạn kiểm duyệt một bình luận bằng cách quyết định nhanh chóng nó là •|•LẠM DỤNG•|• or •|•TIN RÁC•|•. Kiểm duyệt ẩn danh.";
+
+"Moderation Modal Title" = "Kiểm duyệt";
+
+"Moderator Actions" = "Hành động của người kiểm duyệt";
+
+"Moderator Actions (%@)" = "Hành động của người kiểm duyệt (%@)";
+
+"Moderator •|•%@•|• joined" = "Người kiểm duyệt •|•%@•|• đã tham gia";
+
+"ModeratorName muted this message (Message Carousel)" = "•|•%@•|• đã tắt tiếng tin nhắn này";
+
+"Monetize Broadcast" = "Tiền tệ hóa nguồn phát";
+
+"Monetize Broadcast (expanded cell title)" = "Tiền tệ hóa nguồn phát";
+
+"Monetize Broadcast (minimized cell title)" = "Tiền tệ hóa nguồn phát ▾";
+
+"More (following/followers)" = "Thêm";
+
+"Mute" = "Tắt tiếng";
+
+"Mute (accessibility label)" = "Tắt tiếng";
+
+"Mute User" = "Tắt tiếng Người dùng";
+
+"Mute User Notifications" = "Tắt tiếng Thông báo Người dùng";
+
+"Muted by Moderator" = "Tắt tiếng bởi Người kiểm duyệt";
+
+"NEW" = "MỚI";
+
+"NO LIVE VIEWERS" = "KHÔNG CÓ NGƯỜI XEM TRỰC TUYẾN";
+
+"NO REPLAY VIEWERS" = "KHÔNG CÓ NGƯỜI XEM PHÁT LẠI";
+
+"New Broadcaster Education: 3 Guest Limit" = "Bạn có thể có tới 3 khách mời cùng lúc.";
+
+"New Tweet (Compose)" = "Tweet mới";
+
+"No history." = "Không có lịch sử.";
+
+"No one has asked to join yet. Tap to invite your viewers to join. (Empty Manage Guest Broadcasters Call-Ins List)" = "Chưa có ai yêu cầu tham gia.\n\nNhấn để mời người xem của bạn tham gia.";
+
+"No one is following you." = "Không có ai đang theo dõi bạn.";
+
+"No, stop broadcasting (Copyright Violation)" = "Không, dừng phát";
+
+"Not Sure" = "Không Chắc";
+
+"Not followed by anyone you're following" = "Không được theo dõi bởi bất kỳ ai mà bạn đang theo dõi";
+
+"Notifications (accessiblity label)" = "Thông báo";
+
+"Notifications OFF" = "Thông báo TẮT";
+
+"Notifications ON" = "Thông báo BẬT";
+
+"Notifications Off (accessibility hint)" = "Nhấn đúp để cho phép thông báo từ người dùng này.";
+
+"Notifications Off (accessibility value)" = "Tắt";
+
+"Notifications On (accessibility hint)" = "Nhấn đúp để vô hiệu hóa thông báo từ người dùng này.";
+
+"Notifications On (accessibility value)" = "Bật";
+
+"Notify my followers (Guest Call-In Notify Followers Option)" = "Thông báo cho những người theo dõi tôi";
+
+"OK, Got It" = "OK, Đã hiểu";
+
+"Offensive Guest (Report Option)" = "Khách mời xúc phạm";
+
+"Okay (Report Broadcast Modal)" = "OK";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts." = "One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast." = "One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited." = "One or more of your comments was hidden for ABUSE. Commenting is temporarily limited.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts." = "One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast." = "One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited." = "One or more of your comments was hidden for SPAM. Commenting is temporarily limited.";
+
+"One or more of your comments was hidden. Commenting is disabled for all broadcasts." = "Một hoặc nhiều hơn trong số những bình luận của bạn đã bị ẩn đi. Bình luận bị vô hiệu hoá cho tất cả các nguồn phát.";
+
+"One or more of your comments was hidden. Commenting is disabled for this broadcast." = "Một hoặc nhiều hơn trong số những bình luận của bạn đã bị ẩn đi. Bình luận bị vô hiệu hoá cho nguồn phát này.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts." = "Một hoặc nhiều hơn trong số những bình luận của bạn đã bị ẩn đi. Bình luận tạm thời bị giới hạn cho tất cả các nguồn phát.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited." = "One or more of your comments was hidden. Commenting is temporarily limited.";
+
+"One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast." = "Một hoặc nhiều bình luận của bạn bị một người kiểm duyệt tắt tiếng. Bình luận đã bị vô hiệu hóa cho nguồn phát này.";
+
+"Only available in Periscope" = "Chỉ có sẵn trong Periscope";
+
+"Only public broadcasts counted" = "Chỉ tính những nguồn phát công khai";
+
+"Only users you follow can chat" = "Chỉ người dùng mà bạn theo dõi mới có thể chat";
+
+"Only you can see your hidden broadcasts (menu subtitle)" = "Chỉ bạn mới có thể thấy tất cả các nguồn phát ẩn của bạn";
+
+"Other Reason (Report Option)" = "Lý do khác";
+
+"Other Reason \n e.g. Foreign Language" = "Lý do khác•|•\nví dụ như Ngoại Ngữ•|•";
+
+"Our apologies for the inconvenience." = "Chúng tôi xin lỗi về sự bất tiện này.";
+
+"POOR CONNECTION" = "KẾT NỐI KÉM";
+
+"POSSIBLY NSFW (Interstitial)" = "CÓ THỂ CHỨA NỘI DUNG KHÔNG PHÙ HỢP";
+
+"Pause (accessibility label)" = "Tạm dừng";
+
+"Peak (graph label)" = "Đỉnh";
+
+"Periscope App Feedback" = "Phản hồi Ứng dụng Periscope";
+
+"Periscope account is required." = "Cần có tài khoản Periscope.";
+
+"Periscope is discontinuing on •|•%@•|•" = "Periscope sẽ ngừng hoạt động vào •|•%@•|•";
+
+"Play (accessibility label)" = "Phát";
+
+"Please allow some time for all transactions to be posted." = "Xin đợi một lúc để tất cả các giao dịch được đăng tải.";
+
+"Positive Community" = "Cộng đồng tích cực";
+
+"Post to Twitter (accessibility hint)" = "Nhấn đúp để bật tắt.";
+
+"Post to Twitter (accessibility label)" = "Đăng lên Twitter";
+
+"Posting to Twitter OFF" = "Đăng lên Twitter TẮT";
+
+"Posting to Twitter as @%@" = "Đăng lên Twitter như @%@";
+
+"Precise Location Sharing OFF" = "Chia sẻ Vị trí Chính xác TẮT";
+
+"Precise Location Sharing ON" = "Chia sẻ Vị trí Chính xác BẬT";
+
+"Private (Broadcast Audience)" = "Riêng tư";
+
+"Private Information (Report Option)" = "Thông tin riêng tư";
+
+"Profile (accessibility label)" = "Hồ sơ";
+
+"Profile URL copied" = "URL Hồ sơ đã được sao chép";
+
+"Public (Broadcast Audience)" = "Công khai";
+
+"Public Hidden (Broadcast Audience)" = "Công khai (Ẩn)";
+
+"Quarter-Speed" = "1/4-Tốc độ";
+
+"RECENT (user profile modal)" = "GẦN ĐÂY";
+
+"REPLAY VIEWER" = "NGƯỜI XEM PHÁT LẠI";
+
+"REPLAY VIEWERS" = "NGƯỜI XEM PHÁT LẠI";
+
+"Ready to give Super Hearts!" = "Sẵn sàng tặng Siêu trái tim!";
+
+"Received in: (History)" = "Đã nhận trong: \"%@\"";
+
+"Received stars (History)" = "Số sao đã nhận.";
+
+"Release to <bold>Leave</bold> (broadcasting)" = "Thả ra để •|•Rời khỏi•|•";
+
+"Release to <bold>Leave</bold> (watching)" = "Thả ra để •|•Rời khỏi•|•";
+
+"Release to Refresh" = "Thả ra để Làm mới";
+
+"Remove" = "Xoá";
+
+"Remove Amplify Program" = "Xóa Chương trình khuếch đại";
+
+"Remove Amplify Program (cell title)" = "Xóa chương trình khuếch đại";
+
+"Remove Location" = "Xóa Vị trí";
+
+"Remove at least 1 character from your title to make room for #(example hashtag)" = "Xóa ít nhất 1 ký tự khỏi tiêu đề của bạn để nhường chỗ cho %@";
+
+"Remove at least X characters from your title to make room for #(example hashtag)" = "Xóa ít nhất %lu ký tự khỏi tiêu đề của bạn để nhường chỗ cho %@";
+
+"Replay Time Watched (CELL)" = "Thời gian Xem Phát lại";
+
+"Replay Unavailable" = "Phát lại Không khả dụng";
+
+"Replay watch time per minute tooltip" = "Với mỗi phút mà nguồn phát này phát lại, người xem dành tổng cộng %@ xem nó.";
+
+"Reply" = "Trả lời";
+
+"Report @<guest's username> (Report Guest Modal)" = "Báo cáo @%@";
+
+"Report Abusive Behavior (Report Abusive Behavior Modal)" = "Hành vi lạm dụng";
+
+"Report Abusive Profile" = "Báo cáo hồ sơ lạm dụng";
+
+"Report As Spam" = "Báo cáo là tin rác";
+
+"Report Broadcast (Report Broadcast Modal)" = "Báo cáo Nguồn phát";
+
+"Report Child Safety (Report Child Safety Modal)" = "An toàn cho trẻ em";
+
+"Report Comment" = "Báo cáo Bình luận";
+
+"Report Hateful Conduct (Report Hateful conduct Modal)" = "Hành vi thù địch";
+
+"Report Private Information (Report Private Information Modal)" = "Thông tin cá nhân";
+
+"Report Self-Harm (Report Self Harm Modal)" = "Tự hành hạ Bản thân";
+
+"Report Sexual Content (Report Sexual Content Modal)" = "Nội dung Khiêu dâm";
+
+"Report User" = "Báo cáo người dùng";
+
+"Report Violence (Report Violence Modal)" = "Bạo lực";
+
+"Reporting is anonymous and will hide the user's comments (just for you)." = "Báo cáo được ẩn danh và sẽ ẩn những bình luận của người dùng (chỉ với bạn).";
+
+"Restrict Chat (accessibility hint)" = "Nhấn đúp để bật tắt hạn chế trò chuyện đối với những người dùng mà bạn theo dõi.";
+
+"Restrict Chat (accessibility label)" = "Hạn chế Trò chuyện";
+
+"Return to Summary (accessibility hint)" = "Nhấn đúp để quay lại tóm tắt người dùng.";
+
+"Retweet" = "Tweet lại";
+
+"Save Changes" = "Lưu thay đổi";
+
+"Save To Camera Roll" = "Lưu Vào Camera Roll";
+
+"Save To Camera Roll Unavailable" = "Lưu Vào Camera Roll Không khả dụng";
+
+"Saved To Camera Roll" = "Đã lưu Vào Camera Roll";
+
+"Saved!" = "Đã lưu!";
+
+"Saving..." = "Đang lưu...";
+
+"Say something..." = "Nói điều gì đó...";
+
+"Scroll for Old Comments" = "Cuộn để xem bình luận cũ";
+
+"Scroll to Bottom" = "Cuộn đến Dưới cùng";
+
+"Self-Harm (Report Option)" = "Tự Làm hại";
+
+"Send (accessibility label)" = "Gửi";
+
+"Send Message (Blocked Modal)" = "Gửi Tin nhắn";
+
+"Send people a notification to join this broadcast. Mutuals are people you follow that follow you back." = "Gửi mọi người một thông báo để tham gia nguồn phát này. Bạn chung là những người bạn theo dõi mà theo dõi lại bạn.";
+
+"Sent for payment processing (History)" = "Đã gửi để xử lý thanh toán.";
+
+"Separator between two names" = "&";
+
+"Set Amplify Program" = "Cài đặt Chương trình khuếch đại";
+
+"Setting the broadcast Amplify Program to •|•%@•|• will publish a new Tweet." = "Cài đặt Chương trình khuếch đại nguồn phát để %@ sẽ công khai một Tweet mới.";
+
+"Settings (app)" = "Cài đặt";
+
+"Sexual Content (Report Option)" = "Nội dung Tình dục";
+
+"Sexually Inappropriate \n Obscene or unwanted sexual remarks" = "Những nhận xét không phù hợp về giới tính•|•\ncó nội dung khiêu dâm tục tĩu hoặc không mong muốn•|•";
+
+"Share Broadcast" = "Chia sẻ Nguồn phát";
+
+"Share From" = "Chia sẻ từ";
+
+"Share From %@" = "Chia sẻ từ %@";
+
+"Share From Beginning" = "Chia sẻ từ lúc bắt đầu";
+
+"Share Live" = "Chia sẻ Trực tuyến";
+
+"Share Twitter Tooltip (explaining that the feature is disabled while guests are enabled)" = "Tắt đối với nguồn phát có khách mời";
+
+"Share precise location (accessibility label)" = "Chia sẻ vị trí chính xác";
+
+"Share request sent. (chat message)" = "Chia sẻ yêu cầu đã gửi.";
+
+"Share screenshot and broadcast" = "Chia sẻ ảnh chụp màn hình và nguồn phát";
+
+"Share this broadcast so your followers don't miss it." = "Chia sẻ nguồn phát này để những người theo dõi của bạn không bỏ lỡ nó.";
+
+"Share via..." = "Chia sẻ qua...";
+
+"Show Stats (cell)" = "Hiển thị Thống kê";
+
+"Skip" = "Bỏ qua";
+
+"Sorry, that action could not be completed because you have been blocked." = "Rất tiếc, thao tác không thể được hoàn thiện do bạn vừa bị chặn.";
+
+"Sorry, that action could not be completed because you have reached the block limit." = "Rất tiếc, thao tác này không thể được hoàn thành do bạn đã đạt đến giới hạn chặn.";
+
+"Sorry, that action could not be completed because you have reached the follow limit." = "Rất tiếc, thao tác này không thể được hoàn thành do bạn đã đạt đến giới hạn theo dõi.";
+
+"Sorry, the broadcast is too full..." = "Rất tiếc, nguồn phát quá đầy...";
+
+"Sorry, this broadcast is unavailable" = "Rất tiết, nguồn phát này không khả dụng";
+
+"Sorry, we couldn't load the broadcast share URL. Please try again." = "Rất tiếc, chúng tôi không thể tải URL chia sẻ nguồn phát. Hãy thử lại.";
+
+"Sorry, we couldn't save your changes. Please try again." = "Rất tiếc, chúng tôi không thể lưu những thay đổi của bạn. Vui lòng thử lại.";
+
+"Sorry, we encountered an error blocking some users. Please try again." = "Rất tiếc, chúng tôi đã gặp lỗi khi chặn một số người dùng. Hãy thử lại.";
+
+"Sorry, we encountered an error blocking that user. Please try again." = "Rất tiếc, chúng tôi đã gặp lỗi khi chặn người dùng này. Hãy thử lại.";
+
+"Sorry, we encountered an error loading user data. Please try again." = "Rất tiếc, đã gặp lỗi khi tải dữ liệu người dùng. Vui lòng thử lại.";
+
+"Sorry, we encountered an error loading your broadcasts. Please try again." = "Rất tiếc, chúng tôi đã gặp lỗi khi tải nguồn phát của bạn. Vui lòng thử lại.";
+
+"Sorry, we encountered an error reporting this broadcast. Please try again." = "Rất tiếc, chúng tôi đã gặp lỗi khi báo cáo nguồn phát này. Hãy thử lại.";
+
+"Sorry, we encountered an error reporting this guest. Please try again." = "Rất tiếc, chúng tôi đã gặp lỗi khi báo cáo khách mời này. Hãy thử lại.";
+
+"Sorry, we've encountered a loading error. Please try again." = "Rất tiếc, chúng tôi đã gặp lỗi khi tải. Hãy thử lại.";
+
+"Sorry, you've done that too many times. Try again in a few minutes." = "Rất tiếc, bạn đã làm quá nhiều lần. Vui lòng thử lại sau vài phút.";
+
+"Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv" = "Rất tiếc, bạn đã gặp lỗi khi tải (421 - người chọn). Vui lòng gửi email đến help@periscope.tv";
+
+"Sorry, you've encountered a loading error (421). Please email help@pscp.tv" = "Rất tiếc, bạn đã gặp lỗi khi tải (421). Vui lòng gửi email đến help@periscope.tv";
+
+"Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later." = "Rất tiếc, kết nối internet của bạn không đủ mạnh để tải lên một hình thu nhỏ nguồn phát mới. Vui lòng thử lại sau.";
+
+"Spam" = "Tin rác";
+
+"Spam in Chat" = "Tin rác trong Cuộc trò chuyện";
+
+"Star & Cash Outs History (Stars Profile)" = "Lịch sử sao & rút tiền";
+
+"Star History (Stars Profile)" = "Lịch sử sao";
+
+"Star balance adjustment. Contact superhearts@pscp.tv if you have any questions. (History)" = "Điều chỉnh số dư sao. Liên hệ superhearts@pscp.tv nếu bạn có thắc mắc.";
+
+"Stars (profile view title)" = "Sao";
+
+"Stars (profile)" = "Sao";
+
+"Start Point" = "Điểm bắt đầu";
+
+"Start Sketching (action sheet)" = "Bắt đầu Vẽ phác";
+
+"Stop Broadcast" = "Dừng Nguồn phát";
+
+"Submit" = "Gửi";
+
+"Success! You've unmuted @%@" = "Thành công! Bạn vừa bật tiếng @%@";
+
+"Successfully set Amplify Program (title)" = "Cài đặt thành công Chương trình khuếch đại";
+
+"Suggested user is watching singlular" = "%@•|• hiện đang xem•|•";
+
+"Suggested users are watching plural" = "%ld bạn bè•|• hiện đang xem•|•";
+
+"Super Broadcaster (Stars Profile)" = "Người phát siêu cấp";
+
+"Super Broadcaster Program" = "Chương trình người phát siêu cấp";
+
+"Super Heart Terms" = "Điều khoản của Siêu trái tim";
+
+"Super Hearts" = "Siêu trái tim";
+
+"Super Hearts OFF" = "Siêu trái tim TẮT";
+
+"Super Hearts ON" = "Siêu trái tim MỞ";
+
+"Swipe down to <bold>Stop</bold>" = "Vuốt xuống để •|•Dừng•|•";
+
+"Tap anyhwhere to <bold>Exit Theater Mode</bold>" = "Nhấn vào bất kỳ đâu để •|•Thoát chế độ rạp chiếu phim•|•";
+
+"Tap this icon to join Broadcaster's broadcast as a guest. (Viewer Prompt to Call-In)" = "Nhấn biểu tượng này để tham gia nguồn phát của •|•%@•|• như một khách mời.";
+
+"Thank You (Report Broadcast Confirmation Modal)" = "Cảm ơn Bạn";
+
+"Thank you for your report" = "Cảm ơn báo cáo của bạn";
+
+"Thank you for your report (Chat Prompt)" = "Cảm ơn báo cáo của bạn";
+
+"Thank you for your report." = "Cảm ơn báo cáo của bạn.";
+
+"Thank you. You won't see any more messages from •|•@%@•|• in this broadcast." = "Cảm ơn bạn. Bạn sẽ không thấy bất kỳ tin nhắn nào từ •|•@%@•|• trong nguồn phát này.";
+
+"Thanks %@!" = "Cảm ơn %@!";
+
+"Thanks for your feedback!" = "Cảm ơn bạn đã phản hồi!";
+
+"The broadcaster blocked you in response to this message." = "Người phát đã chặn bạn phản hồi tin nhắn này.";
+
+"The broadcaster has limited chat." = "Người phát đã giới hạn trò chuyện.";
+
+"The broadcaster has the ability to remove people from their broadcasts." = "Người phát có khả năng loại bỏ mọi người ra khỏi các nguồn phát của họ.";
+
+"The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•." = "Cửa hàng xu đã đóng. Nếu bạn còn bất kỳ xu nào, hãy sử dụng chúng để gửi Siêu trái tim đến các nguồn phát yêu thích của bạn trước •|•%@•|•.";
+
+"Theater Mode (action sheet)" = "Chế độ rạp chiếu phim";
+
+"Their name, bio, or profile image violates the Community Guidelines" = "Tên, tiểu sử, hoặc ảnh hồ sơ của họ vi phạm các Nguyên tắc Cộng đồng";
+
+"There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat." = "Có rất nhiều người hiện đang xem mục này! Để giới hạn tin nhắn cho người phát, chỉ những người tham gia từ đầu mới có thể chat.";
+
+"There was an error adding @username as a guest. Please try again." = "Đã xảy ra lỗi khi thêm @%@ như một khách mời. Vui lòng thử lại.";
+
+"There was an error adding you as a guest. We've notified Broadcaster, and will alert you if we're able to try again." = "Đã xảy ra lỗi khi thêm bạn như một khách mời. Chúng tôi đã thông báo cho %@ và sẽ báo cho bạn nếu chúng tôi có thể thử lại.";
+
+"There was an error allowing guests. Please try again." = "Đã xảy ra lỗi khi cho phép khách mời. Vui lòng thử lại.";
+
+"There was an error cancelling your request. Please try again." = "Đã xảy ra lỗi khi hủy yêu cầu của bạn. Vui lòng thử lại.";
+
+"There was an error cancelling. Please try again." = "Đã có lỗi khi hủy. Vui lòng thử lại.";
+
+"There was an error disallowing guests. Please try again." = "Đã xảy ra lỗi khi không cho phép khách mời. Vui lòng thử lại.";
+
+"There was an error inviting guests. Please try again." = "Đã xảy ra lỗi khi mời khách mời. Vui lòng thử lại.";
+
+"There was an error muting or un-muting @username. Please try again." = "Đã có lỗi khi tắt tiếng hoặc bật tiếng @%@. Vui lòng thử lại.";
+
+"There was an error muting or un-muting you. Please try again." = "Đã có lỗi khi tắt tiếng hoặc bật tiếng bạn. Vui lòng thử lại.";
+
+"There was an error removing your guest @username. Please try again." = "Đã xảy ra lỗi khi xóa khách mời của bạn @%@. Vui lòng thử lại.";
+
+"There was an error sending your request to join as a guest. Please try again." = "Đã xảy ra lỗi khi gửi yêu cầu tham gia như khách mời của bạn. Vui lòng thử lại.";
+
+"There was an error updating the settings (conversation controls and mentioned users). Please try again." = "Đã xảy ra lỗi khi cập nhật cài đặt (các điều khiển cho cuộc trò chuyện và người dùng được đề cập). Vui lòng thử lại.";
+
+"There was an error updating the settings (locked/unlocked). Please try again." = "Có lỗi cập nhật cài đặt (đã khóa/đã bỏ khóa). Vui lòng thử lại.";
+
+"This broadcast is no longer available." = "Nguồn phát này không còn khả dụng.";
+
+"This broadcast isn’t available (Copyright Violation)" = "Nguồn phát này không khả dụng";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}." = "Nguồn phát này khớp với “%1$@,” một tác phẩm được đăng ký bản quyền bởi %2$@. •|•Tìm hiểu thêm•|•";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}. Do you have all rights necessary to broadcast this video on Twitter?" = "Nguồn phát này khớp với “%1$@,” một tác phẩm được đăng ký bản quyền bởi %2$@. Bạn có tất cả các quyền cần thiết để phát video này trên Twitter không?";
+
+"This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video." = "Nguồn phát này được quay bằng camera 360. Periscope không còn hỗ trợ phát video 360 nữa.";
+
+"This broadcast’s title can’t be edited. Learn more (Copyright Violation)" = "Tiêu đề nguồn phát này không thể được chỉnh sửa. •|•Tìm hiểu thêm•|•";
+
+"This is optional" = "Đây là tùy chọn";
+
+"This user doesn't have any followers yet" = "Người dùng chưa có bất kỳ người theo dõi nào";
+
+"This user has not broadcasted yet" = "Người dùng này chưa có nguồn phát nào";
+
+"This user isn't following anyone yet" = "Người dùng này chưa theo dõi người nào";
+
+"Thousand Decimal Abbreviation" = "%.1fN";
+
+"Thousand Integer Abbreviation" = "%dN";
+
+"Thumbnail" = "Hình thu nhỏ";
+
+"Time Watched (CELL)" = "Thời gian Đã xem";
+
+"Title (accessibility label)" = "Tiêu đề";
+
+"To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off." = "Để trò chuyện, vui lòng bật \"Kết nối với Periscope\" trong cài đặt của bạn. Nếu tài khoản của bạn bật \"Bảo vệ Tweet của tôi\", bạn sẽ cần tải xuống ứng dụng Periscope và tạo một tài khoản Periscope hay chuyển sang tài khoản Twitter tắt \"Bảo vệ Tweet của tôi\".";
+
+"To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos." = "Để lưu video của bạn, Periscope cần có quyền truy cập Ảnh. Để bật tính năng này cho nguồn phát trong tương lai, nhấn Cài đặt, sau đó bật nút dành cho Ảnh.";
+
+"To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account." = "Để gửi phản hồi qua email, đầu tiên bạn cần phải cài đặt email trên thiết bị. Trước hết, mở ứng dụng Cài đặt. Sau đó đi đến Mail, Địa chỉ liên hệ, Lịch và chọn Thêm Tài khoản.";
+
+"To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option." = "Để chia sẻ vị trí của bạn, Periscope cần có quyền truy cập chức năng này trên thiết bị của bạn. Nhấp vào nút Cài đặt, sau đó đi đến Vị trí và chọn tùy chọn Khi Đang Dùng Ứng dụng.";
+
+"Top Contributor" = "Cộng tác viên hàng đầu";
+
+"Total watch time per minute tooltip" = "Với mỗi phút của nguồn phát này, người xem dành tổng cộng %@ xem nó.";
+
+"Total watch time per minute tooltip (broadcaster)" = "Với mỗi phút của nguồn phát này, người xem dành tổng cộng %@ xem nó. Thống kê này tiêu chuẩn hóa thời gian xem các nguồn phát có thời lượng khác nhau.";
+
+"Trying to reconnect" = "Đang thử kết nối lại";
+
+"Twitter Post OFF" = "Đăng Twitter TẮT";
+
+"Twitter Post ON" = "Đăng Twitter BẬT";
+
+"Unable to load broadcast." = "Không thể tải nguồn phát.";
+
+"Unblock User" = "Bỏ chặn Người dùng";
+
+"Unfollow User" = "Ngừng theo dõi Người dùng";
+
+"Unhide Broadcast (menu button)" = "Bỏ ẩn nguồn phát";
+
+"Unmute" = "Bật tiếng";
+
+"Unmute User" = "Bật tiếng người dùng";
+
+"Unmute User Notifications" = "Bỏ tắt tiếng Thông báo Người dùng";
+
+"Untitled" = "Không có quyền";
+
+"User has not provided a profile description." = "Người dùng không cung cấp mô tả hồ sơ.";
+
+"Very bad" = "Rất tệ";
+
+"Very good" = "Rất tốt";
+
+"Video Issues" = "Vấn đề về video";
+
+"Video Quality" = "Chất lượng video";
+
+"Video will resume if signal improves" = "Video sẽ tiếp tục lại nếu tín hiệu tốt hơn";
+
+"View Broadcast Actions (accessibility label)" = "Xem hành động nguồn phát";
+
+"View Participants (accessibility label)" = "Xem người tham gia";
+
+"View Profile" = "Xem Hồ sơ";
+
+"View Stats" = "Xem thống kê";
+
+"Viewers can give you Super Hearts.\n<link>Learn more.</link>" = "Người xem có thể tặng bạn Siêu trái tim.\n•|•Tìm hiểu thêm.•|•";
+
+"Viewers cannot give you Super Hearts.\n<link>Learn more.</link>" = "Người xem không thể tặng bạn Siêu trái tim.\n•|•Tìm hiểu thêm.•|•";
+
+"Violence (Report Option)" = "Bạo lực";
+
+"Waiting for other responses..." = "Đang đợi phản hồi từ những người khác...";
+
+"Waiting for you to <bold>login</bold>." = "Đang đợi bạn •|•đăng nhập•|•.";
+
+"Watch %1$@'s broadcast: %2$@" = "Xem nguồn phát của %1$@: %2$@";
+
+"Watch %@'s broadcast." = "Xem nguồn phát của %@";
+
+"Watch LIVE" = "Xem •|•TRỰC TUYẾN•|•";
+
+"Watch Live" = "Xem trực tuyến";
+
+"Watch Replay" = "Xem phát lại";
+
+"Watch Stream (User Activity)" = "Xem Luồng";
+
+"Watch on #Periscope" = "Xem trên #Periscope";
+
+"Watch on #Periscope: %@" = "Xem trên #Periscope: %@";
+
+"Watch what happened at %1$@ in %2$@'s broadcast." = "Xem điều gì đã xảy ra vào lúc %1$@ trong nguồn phát của %2$@.";
+
+"Watch what happened at %1$@ in %2$@'s broadcast: %3$@" = "Xem điều gì đã xảy ra vào lúc %1$@ trong nguồn phát của %2$@: %3$@";
+
+"We encountered an error deleting your broadcast. Please try again." = "Chúng tôi đã gặp lỗi khi xóa nguồn phát của bạn. Hãy thử lại.";
+
+"We encountered an error updating your gift settings. Please try again." = "Chúng tôi đã gặp lỗi khi cập nhật cài đặt quà tặng của bạn. Vui lòng thử lại.";
+
+"We have received your report. Thank you for helping keep the community safe! (Report Broadcast Confirmation Modal)" = "Chúng tôi đã nhận được báo cáo của bạn. Cảm ơn vì đã giúp cộng đồng an toàn!";
+
+"We're sorry, there was an error starting your broadcast. Please try starting it again." = "Rất tiếc, đã xảy ra lỗi khi bắt đầu nguồn phát của bạn. Hãy thử bắt đầu lại.";
+
+"Welcome <bold>%@</bold>" = "Chào mừng •|•%@•|•";
+
+"We’ve let your followers know that you joined as a guest (Chat Prompt)" = "Chúng tôi vừa cho những người theo dõi bạn biết rằng bạn đã tham gia như một khách mời";
+
+"What are you seeing now?" = "Bạn hiện đang thấy gì?";
+
+"What do you want to talk about?" = "Bạn muốn nói về điều gì?";
+
+"What went well?" = "Điều gì đã diễn ra suôn sẻ?";
+
+"When someone follows them, they'll be listed here." = "Khi ai đó theo dõi họ, họ sẽ được liệt kê ở đây.";
+
+"When someone follows you, they'll be listed here." = "Khi ai đó theo dõi bạn, họ sẽ xuất hiện ở đây.";
+
+"When they do, it'll show up here." = "Khi họ thực hiện, việc đó sẽ hiện ra ở đây.";
+
+"When they do, they'll be listed here." = "Khi họ thực hiện, chúng sẽ được liệt kê ở đây.";
+
+"When you do, it'll show up here" = "Khi bạn thực hiện, điều đó sẽ hiện ra ở đây";
+
+"When you do, they'll be listed here." = "Khi bạn thực hiện, chúng sẽ được liệt kê ở đây.";
+
+"Yes (Copyright Violation)" = "Có";
+
+"You already have a linked Twitter account. Please use this in the future to broadcast from Twitter" = "Bạn đã có một tài khoản Twitter được liên kết. Vui lòng sử dụng tài khoản này trong tương lai để phát từ Twitter";
+
+"You are now" = "Bạn hiện có mặt";
+
+"You aren't following anyone yet" = "Bạn chưa theo dõi người nào";
+
+"You aren't following anyone." = "Bạn đang không theo dõi bất kỳ ai.";
+
+"You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests. (Offensive Report Modal)" = "Bạn có thể chặn người dùng có nguồn phát mà bạn không muốn xem. Bạn sẽ vẫn tiếp tục thấy những người dùng bạn đã chặn khi họ là khách mời.";
+
+"You can block a user whose broadcasts you no longer want to see. (Offensive Report Modal)" = "Bạn có thể chặn một người dùng mà bạn không muốn xem các nguồn phát của người này nữa.";
+
+"You can give •|•%@•|• of these" = "Bạn có thể tặng •|•%@•|• trong số này";
+
+"You can't broadcast right now (Copyright Violation)" = "Bạn không thể phát ngay bây giờ";
+
+"You can't watch a broadcast while you're still broadcasting." = "Bạn không thể xem nguồn phát khi vẫn đang phát.";
+
+"You can’t watch this because it included a copyrighted work by {Full Name}. Learn more (Copyright Violation)" = "Bạn không thể xem điều này vì nó chứa một tác phẩm được đăng ký bản quyền bởi %@. •|•Tìm hiểu thêm•|•";
+
+"You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster." = "Bạn sưu tập sao khi những người hâm mộ tặng bạn •|•Siêu Trái tim •|•. Đổi sao của bạn thành tiền mặt bằng cách trở thành Người phát siêu cấp.";
+
+"You didn't vote... <link>Learn about Moderation</link>" = "Bạn chưa bình chọn... •|•Tìm hiểu thêm về Phân loại•|•";
+
+"You don't have any followers yet" = "Bạn chưa có người theo dõi nào";
+
+"You earn stars from Super Hearts" = "Bạn đã kiếm được sao từ Siêu Trái tim";
+
+"You haven't broadcasted yet" = "Bạn chưa có nguồn phát nào";
+
+"You were <bold>blocked</bold> by the broadcaster" = "Bạn đã •|•bị chặn•|• bởi người phát";
+
+"You will lose any unsaved changes. Are you sure you want to leave this view?" = "Bạn sẽ mất mọi thay đổi chưa lưu. Bạn có chắc bạn muốn rời khỏi chế độ xem này?";
+
+"You will lose the stars you received" = "Bạn sẽ mất số sao mà bạn đã nhận được";
+
+"You're Waiting to Join (Guest Calling Menu)" = "Bạn đang chờ để tham gia";
+
+"Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv" = "Tài khoản của bạn đã bị vô hiệu hóa do yêu cầu gỡ bỏ liên quan đến vi phạm bản quyền. Vui lòng liên hệ help@periscope.tv";
+
+"Your account has been disabled. Please contact help@pscp.tv" = "Tài khoản của bạn đã bị vô hiệu hóa. Hãy liên hệ help@periscope.tv";
+
+"Your broadcast has been disabled (Copyright Violation)" = "Nguồn phát của tôi vừa bị vô hiệu hóa.";
+
+"Your broadcast matches a copyrighted work (Copyright Violation)" = "Nguồn phát của bạn khớp với một tác phẩm có bản quyền";
+
+"Your broadcast's thumbnail has been updated to the current screen." = "Hình thu nhỏ nguồn phát của bạn đã được cập nhật vào màn hình hiện tại.";
+
+"Your dispute claim was submitted (Copyright Violation)" = "Khiếu nại tranh chấp của bạn đã được gửi";
+
+"Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•." = "Phản hồi của bạn rất quan trọng để chúng tôi xây dựng trải nghiệm phát trực tuyến tốt hơn. Bạn có thể từ chối các cuộc khảo sát trong tương lai bất cứ lúc nào bằng cách truy cập •|•Cài đặt •|•.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Tin nhắn của bạn •|•\"%@\"•|•  bị ẩn đi do XÚC PHẠM. Tất cả nguồn phát bị tắt tính năng bình luận.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast." = "Tin nhắn của bạn •|•\"%@\"•|• bị ẩn đi do XÚC PHẠM. Nguồn phát này bị tắt tính năng bình luận.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Tin nhắn của bạn •|•\"%@\"•|• bị ẩn đi do XÚC PHẠM. Tất cả nguồn phát tạm thời bị hạn chế tính năng bình luận.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast." = "Tin nhắn của bạn •|•\"%@\"•|• bị ẩn đi do XÚC PHẠM.  Nguồn phát này tạm thời bị hạn chế tính năng bình luận.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts." = "Tin nhắn của bạn •|•\"%@\"•|• bị ẩn do TIN RÁC. Tất cả nguồn phát bị tắt tính năng bình luận.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast." = "Tin nhắn của bạn •|•\"%@\"•|• bị ẩn do TIN RÁC. Nguồn phát này bị tắt tính năng bình luận.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Tin nhắn của bạn •|•\"%@\"•|• bị ẩn đi do TIN RÁC. Tất cả nguồn phát tạm thời bị hạn chế tính năng bình luận.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast." = "Tin nhắn của bạn •|•\"%@\"•|• bị ẩn đi do TIN RÁC.  Nguồn phát này tạm thời bị hạn chế tính năng bình luận.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts." = "Tin nhắn của bạn •|•\"%@\"•|• bị ẩn. Tất cả nguồn phát bị tắt tính năng bình luận.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast." = "Tin nhắn của bạn •|•\"%@\"•|• bị ẩn. Nguồn phát này bị tắt tính năng bình luận.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts." = "Tin nhắn của bạn •|•\"%@\"•|• bị ẩn. Tất cả nguồn phát tạm thời bị hạn chế tính năng bình luận.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast." = "Tin nhắn của bạn •|•\"%@\"•|• bị ẩn. Nguồn phát này tạm thời bị hạn chế tính năng bình luận.";
+
+"Your settings are about to automatically delete this broadcast." = "Các cài đặt của bạn sắp tự động xóa nguồn phát này.";
+
+"Your settings will automatically delete this broadcast in %@" = "Các cài đặt của bạn sẽ tự động xóa nguồn phát này trong %@";
+
+"Your video will be available for replay after the event has ended. (Copyright Violation)" = "Video của bạn sẽ khả dụng để phát lại sau khi sự kiện này kết thúc.";
+
+"Your viewers have been invited to join (Local Chat Prompt)" = "Người xem của bạn vừa được mời tham gia";
+
+"You’re enrolled in automatic monthly cash outs. (Stars Profile)" = "Bạn đã được ghi danh vào chương trình rút tiền tự động hàng tháng.";
+
+"You’ve blocked @username. Tap to report and share more details. (Should Report Guest User Chat Prompt)" = "Bạn  vừa chặn •|•@%@•|•. Nhấn để báo cáo và chia sẻ chi tiết hơn.";
+
+"[placeholder]" = "[placeholder]";
+
+"beta-feedback@pscp.tv" = "beta-feedback@pscp.tv";
+
+"coin bonus" = "thêm %i%% nữa";
+
+"coin received (accessibility label)" = "xu đã nhận";
+
+"coins received (accessibility label)" = "số xu đã nhận";
+
+"contact@pscp.tv" = "contact@pscp.tv";
+
+"current audience" = "khán giả hiện tại";
+
+"failed" = "thất bại";
+
+"following (accessibility hint)" = "Nhấn đúp để ngừng theo dõi";
+
+"following (accessibility label)" = "Đang theo dõi";
+
+"for fine control" = "để kiểm soát tốt";
+
+"heart received (accessibility label)" = "trái tim đã nhận được";
+
+"hearts received (accessibility label)" = "trái tim đã nhận được";
+
+"https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119" = "https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119";
+
+"https://pscp.tv/i/super/terms" = "https://pscp.tv/i/super/terms";
+
+"iPad doesn’t support broadcasting from Split View." = "iPad không hỗ trợ phát từ Split View.";
+
+"invited" = "được mời";
+
+"invited followers" = "những người theo dõi được mời";
+
+"it's their first day on Periscope" = "đây là ngày đầu tiên của họ trên Periscope";
+
+"not following (accessibility hint)" = "Nhấn đúp để theo dõi";
+
+"not following (accessibility label)" = "Không theo dõi";
+
+"people" = "mọi người";
+
+"per Broadcast Minute (CELL)" = "trên mỗi Phút của Nguồn phát";
+
+"per Viewer (CELL)" = "trên mỗi Người xem";
+
+"person" = "người";
+
+"poor" = "kém";
+
+"posting publicly on Periscope" = "đăng công khai trên Periscope";
+
+"posting publicly on Twitter" = "đăng công khai trên Twitter";
+
+"selected Amplify Program" = "Chương trình khuếch đại đã chọn";
+
+"star received (accessibility label)" = "sao đã nhận";
+
+"stars received (accessibility label)" = "số sao đã nhận";
+
+"tap to change Amplify Program" = "nhấn để thay đổi Chương trình khuếch đại";
+
+"tap to change Amplify program" = "nhấn để thay đổi Chương trình khuếch đại";
+
+"tap to change audience" = "nhấn để thay đổi khán giả";
+
+"to seek" = "để tìm kiếm";
+
+"you hung up (Guest Caller Hung Up Chat Message Event)" = "bạn đã gác máy";
+
+"you were added (New Guest Caller Chat Message Event)" = "bạn đã được thêm vào";
+
+"you were removed (Guest Caller Was Removed Chat Message Event)" = "bạn đã bị xóa";
+
+"•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•." = "•|•%1$@•|• đã cập nhật nguồn phát của họ để bắt đầu vào lúc •|•%2$@•|•.";
+
+"•|•%@•|• are guests (Broadcast Guests Social Proof)" = "•|•%@•|• khách mời";
+
+"•|•%@•|• invited you (Broadcast Guest Invitation Social Proof)" = "•|•%@•|• đã mời bạn";
+
+"•|•%@•|• is a guest (Broadcast Guest Social Proof)" = "•|•%@•|• là khách mời";
+
+"•|•%@•|• shared (Broadcast Share Social Proof)" = "•|•%@•|• đã chia sẻ";
+
+"•|•%@•|• was a guest (Broadcast Guest Social Proof)" = "•|•%@•|• đã là khách mời";
+
+"•|•%@•|• were guests (Broadcast Guests Social Proof)" = "•|•%@•|• đã là khách mời";
+
+"•|•%@•|•\nBroadcasts" = "•|•%@•|•\nNguồn phát";
+
+"•|•%@•|•\nFollowers" = "•|•%@•|•\nNgười theo dõi";
+
+"•|•%@•|•\nFollowing" = "•|•%@•|•\nTheo dõi";
+
+"•|•@%1$@•|• was muted by •|•%2$@•|•" = "•|•@%1$@•|• bị tắt tiếng bởi •|•%2$@•|•";
+
+"•|•@%1$@•|• was unmuted by •|•%2$@•|•" = "•|•@%1$@•|• bị tắt tiếng bởi •|•%2$@•|•";
+
+"•|•@%@•|• Retweeted on" = "•|•@%@•|• Tweet lại về";
+
+"•|•@%@•|• shared on" = "•|•@%@•|• đã chia sẻ trên";
+
+"•|•Muted•|• by %@" = "•|•Bị tắt tiếng•|• bởi %@";
+
+"•|•Not enough coins.•|• Get more coins to keep giving Super Hearts." = "•|•Không đủ xu.•|• Kiếm thêm xu để tiếp tục tặng Siêu trái tim.";
+
+"•|•Press & Hold•|• the video to skip ahead" = "•|•Nhấn & Giữ•|• video để bỏ qua";
+
+"•|•Press & Hold•|• to skip back or ahead." = "•|•Nhấn & Giữ•|• để bỏ qua hoặc tua nhanh.";
+
+"•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one." = "•|•SIêu trái tim đang MỞ.•|• Chạm vào nguồn phát để tặng siêu trái tim đầu tiên của bạn.";
+
+"•|•Support %@•|• by giving Super Hearts!" = "•|•Ủng hộ %@•|• bằng cách tặng Siêu trái tim!";
+
+"•|•Unmuted•|• by %@" = "•|•Đã bật tiếng•|• bởi %@";
+
+"•|•You need more coins•|• to give Super Hearts" = "•|•Bạn cần thêm xu•|• để tặng Siêu trái tim";
+
+"•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast." = "•|•Bạn vừa bị tắt tiếng•|• bởi một trong những người kiểm duyệt của %1$@ vì bình luận của bạn•|•\"%2$@\"•|•. Bạn không thể trò chuyện trong nguồn phát này được nữa.";
+
+"•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast." = "•|•Bạn vừa được bật tiếng bởi•|• một trong những người kiểm duyệt của %@. Bây giờ bạn có thể trò chuyện trong nguồn phát này.";
+

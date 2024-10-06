@@ -1,0 +1,1432 @@
+"%@ New Messages" = "Нових повідомлень: %@";
+
+"%@ Viewer (Broadcast Info)" = "Глядачів: %@";
+
+"%@ Viewers (Broadcast Info)" = "Глядачів: %@";
+
+"%@ ago" = "%@ тому";
+
+"%@ doesn't have any followers yet" = "%@ ще не має читачів";
+
+"%@ has not broadcasted yet" = "%@ ще нічого не транслював(ла)";
+
+"%@ is LIVE (broadcast title)" = "%@ У ПРЯМОМУ ЕФІРІ";
+
+"%@ isn't following anyone yet" = "%@ ще нікого не читає";
+
+"%@ joined" = "приєднався(-лась)";
+
+"%@ wants you to moderate comments. Tap on comments to mute them." = "%@ хоче, щоб ви модерували коментарі. Торкайтеся коментарів, щоб відхилити їх.";
+
+"%@ wants you to moderate comments. Tap or swipe left on comments to mute them." = "%@ хоче модерувати коментарі. Торкайтеся коментарів або суньте їх вліво, щоб відхилити.";
+
+"%@ was live  (broadcast title)" = "%@ був(ла) у прямому ефірі";
+
+"%d More Live Viewers" = "Дод. глядачів в ефірі";
+
+"%d More Replay Viewers" = "Додаткових глядачів запису";
+
+"%d More Viewers" = "Додаткових глядачів";
+
+"%ldd (days)" = "%ld дн.";
+
+"%ldh (hours)" = "%ld год";
+
+"%ldm (minutes)" = "%ld хв";
+
+"%lds (seconds)" = "%ld с";
+
+"%ldy (years)" = "%ld р.";
+
+"(EDITED)" = "(ЗМІНЕНО)";
+
+"(Skip to) LIVE" = "У ПРЯМОМУ ЕФІРІ";
+
+"1 More Live Viewer" = "Додатковий глядач у прямому ефірі";
+
+"1 More Replay Viewier" = "Додатковий глядач запису";
+
+"1 More Viewer" = "Додатковий глядач";
+
+"1 New Message" = "Нових повідомлень: 1";
+
+"@username \"Tap to cancel\" (Add Guest Caller Chat Message Event)" = "Торкніться, щоб скасувати";
+
+"@username \"canceled\" (Add Guest Caller Chat Message Event)" = "скасував(ла)";
+
+"@username \"has asked to join\" (Add Guest Caller Chat Message Event)" = "просить приєднатися";
+
+"@username \"hung up\" (Guest Caller Hung Up Chat Message Event)" = "•|•@%@•|• відключився(лася)";
+
+"@username \"was added\" (Add Guest Caller Chat Message Event)" = "додано";
+
+"@username \"was added\" (New Guest Caller Chat Message Event)" = "Додано •|•@%@•|•";
+
+"@username \"was removed\" (Add Guest Caller Chat Message Event)" = "видалено";
+
+"@username \"was removed\" (Guest Caller Was Removed Chat Message Event)" = "Видалено •|•@%@•|•";
+
+"A Periscope account is required to edit a broadcast." = "Щоб редагувати трансляцію, потрібен профіль Periscope.";
+
+"A Periscope account is required to share a broadcast." = "Щоб поділитися трансляцією, потрібен профіль Periscope.";
+
+"A broadcast with a star balance was deleted. (History)" = "Видалено трансляцію з балансом зірочок.";
+
+"ACTIVE CONTRIBUTORS" = "АКТИВНІ ДАРУВАЛЬНИКИ";
+
+"Abuse" = "Образа";
+
+"Abusive Behavior (Report Option)" = "Образлива поведінка";
+
+"Accept Caller as Guest" = "Прийняти абонента як гостя";
+
+"Accept Super Hearts (accessibility hint)" = "Двічі торкніться, щоб приймати суперсерця за цю трансляцію.";
+
+"Accept Super Hearts (accessibility label)" = "Приймати суперсерця";
+
+"Accept as Guest" = "Прийняти як гостя";
+
+"Actions (accessibility label)" = "Дії";
+
+"Add Guest (Manage Guest Call-Ins Action Sheet)" = "Додати гостя";
+
+"Add guest \n viewer will become a guest broadcaster" = "Додати гостя•|•\nГлядач стане гостьовим транслятором•|•";
+
+"All-Time Stars (Stars Profile)" = "Усі зірочки";
+
+"Allow Guests (Tooltip Selected)" = "Дозволити гостей";
+
+"Allow guests / Don't allow guests (accessibility label)" = "Дозволити гостей/Заборонити гостей";
+
+"Anything else you'd like to share?" = "Що ще ви хотіли б нам повідомити?";
+
+"Are you sure you want to send this message?" = "Ви впевнені, що хочете надіслати це повідомлення?";
+
+"Are you sure you want to unblock?" = "Ви впевнені, що хочете розблокувати користувача?";
+
+"Are you sure? (title)" = "Ви впевнені?";
+
+"Ask for Follow (action sheet)" = "Надіслати запит на читання";
+
+"Ask for Share (action sheet)" = "Попросити про поширення";
+
+"Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Попросіть приєднатися до цієї трансляції в ролі гостя. Вас будуть чути всі її глядачі, і ви зможете покинути її в будь-яку мить.";
+
+"Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Попросіть приєднатися до цієї трансляції в ролі гостя. Вас будуть бачити й чути всі її глядачі, і ви зможете покинути її в будь-яку мить.";
+
+"Asking to join... Broadcaster must accept you (Local Chat Prompt)" = "Надсилається запит на приєднання…\n•|•%@•|• має прийняти вас";
+
+"Audio Only (accessibility label)" = "Тільки аудіотрансляція";
+
+"Audio from: Headphones" = "Аудіо: навушники";
+
+"Audio from: Phone" = "Аудіо: телефон";
+
+"Back" = "Назад";
+
+"Back (action sheet)" = "Назад";
+
+"Back Camera (accessibility hint)" = "Двічі торкніться, щоб переключитися на передню камеру";
+
+"Back Camera (accessiblity value)" = "Задня камера";
+
+"Back to %@" = "Повернутися до %@";
+
+"Back to Hearts" = "Назад до серць";
+
+"Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. Learn more (Copyright violation)" = "Через те що багато ваших недавніх трансляцій містили твори, захищені авторським правом, ви тимчасово не зможете вести трансляції. •|•Детальніше•|•";
+
+"Betascope App Feedback" = "Відгуки про додаток Betascope";
+
+"Billion Decimal Abbreviation" = "%.1f млд";
+
+"Billion Integer Abbreviation" = "%d млд";
+
+"Block @%@" = "Заблокувати @%@";
+
+"Block @%@ (Offensive Report Modal)" = "Заблокувати @%@";
+
+"Block And Hang Up (Manage Guest Call-Ins Action Sheet)" = "Заблокувати та відключити";
+
+"Block User" = "Заблокувати користувача";
+
+"Block Users (%@)" = "Заблокувати користувачів (%@)";
+
+"Block {Username}" = "Заблокувати @%@";
+
+"Blocked (user modal)" = "Заблоковано";
+
+"Blocked by you" = "Ви заблокували";
+
+"Blocking will dismiss the broadcast and not report to Periscope. (Offensive Report Modal)" = "Якщо заблокувати трансляцію, її буде прибрано, але скаргу в Periscope надіслано не буде.";
+
+"Broadcast Actions (accessibility hint)" = "Відкриває меню дій із трансляцією.";
+
+"Broadcast Details (action sheet)" = "Відомості про трансляцію";
+
+"Broadcast Super Heart Auto-Deletion Warning" = "•|•Цю трансляцію не буде автоматично видалено через 24 години,•|• щоб запобігти втраті зірочок, на які конвертуються отримані вами суперсерця.\n\nЗа бажання ви можете приховати трансляцію після її завершення, щоб обмежити її відображення для інших користувачів.";
+
+"Broadcast Title" = "Назва трансляції";
+
+"Broadcast about to expire (Cell)" = "Термін наявності трансляції скоро завершиться";
+
+"Broadcast creation" = "Створення трансляції";
+
+"Broadcaster Has Disabled Call-Ins (Generic Error Message)" = "Транслятор наразі вимкнув список запитів на включення.";
+
+"Broadcaster blocked •|•@%@•|•" = "•|•@%@•|• заблоковано транслятором";
+
+"Broadcaster doesn’t accept Super Hearts" = "Транслятор не приймає суперсерця";
+
+"Broadcaster has assigned chat moderators." = "Транслятор призначив модераторів чату.";
+
+"Broadcaster has to accept your request before you can join as a guest. (Guest Call-In Instructions Subtitle)" = "%@ має прийняти ваш запит, перш ніж ви зможете приєднатися в ролі гостя.";
+
+"Broadcaster is allowing guests to join (Local Chat Prompt)" = "•|•%@•|• дозволяє приєднання гостей";
+
+"Broadcaster is not allowing guests to join (Local Chat Prompt)" = "•|•%@•|• не дозволяє приєднання гостей";
+
+"Broadcasters earn stars from Super Hearts" = "Транслятори заробляють зірочки на суперсерцях";
+
+"Bummer (ReplayKit)" = "Халтура";
+
+"CONCATENTATION_ACCESSIBILITY_STRING" = ".";
+
+"CONTRIBUTORS WHO HAVE LEFT" = "ДАРУВАЛЬНИКИ, ЯКІ ВИЙШЛИ";
+
+"COULDN'T LOAD REPLAY VIEWERS" = "НЕ ВДАЛОСЯ ЗАВАНТАЖИТИ ГЛЯДАЧІВ ПОВТОРУ";
+
+"COULDN'T LOAD VIEWERS" = "НЕ ВДАЛОСЯ ЗАВАНТАЖИТИ ГЛЯДАЧІВ";
+
+"Camera Selection (accessibility label)" = "Вибір камери";
+
+"Cancel" = "Скасувати";
+
+"Cancel (action sheet)" = "Скасувати";
+
+"Cancel Call In Button: \"Cancel Request to Join as a Guest\"" = "Скасувати запит на приєднання в ролі гостя";
+
+"Cancel Guest Call-In Instructions Title: \"Waiting to join as a guest...\"" = "Очікуємо приєднання в ролі гостя...";
+
+"Cannot be undone" = "Цю дію не можна скасувати";
+
+"Capture Thumbnail (action sheet)" = "Зробити ескіз";
+
+"Cash Outs (Stars Profile)" = "Виведення готівки";
+
+"Cash out your stars, and continue using live video on Twitter" = "Переведіть свої зірочки в готівку та перейдіть до використання прямих відеотрансляцій у Твіттері";
+
+"Change Amplify Program" = "Змінити Програму підсилення";
+
+"Change Expiration (Cell)" = "Змінити термін дії";
+
+"Change Expiration Subtitle (Cell)" = "Автоматичне видалення через %@";
+
+"Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program." = "Якщо змінити Програму підсилення на •|•%@•|•, буде видалено старий твіт і опубліковано новий із новою Програмою.";
+
+"Chatroom too full..." = "Чат переповнений...";
+
+"Child Safety (Report Option)" = "Безпека дітей";
+
+"Choose guests to add. You can remove them at any time. (Manage Guest Callers Page Subtitle)" = "Виберіть, яких гостей додати. Їх можна видалити в будь-який час.";
+
+"Close (accessibility label)" = "Закрити";
+
+"Comment Tip Option 1" = "Напишіть коментар, щоб повідомити •|•%@•|• про свою присутність!";
+
+"Comment Tip Option 2" = "Повідомте •|•%@•|•, звідки ви дивитеся!";
+
+"Comment Tip Option 3" = "Привітайтеся з •|•%@•|• та іншими глядачами.";
+
+"Commenting is OFF" = "Коментування вимкнуто";
+
+"Comments Received (CELL)" = "Коментарів отримано";
+
+"Comments Received Unavailable (CELL)" = "н/д";
+
+"Compose Direct Message (Accessibility Label)" = "Написати приватне повідомлення";
+
+"Compose New Tweet (Accessibility Label)" = "Написати новий твіт";
+
+"Confirm Call In Button: \"OK, Ask to Join\"" = "Гаразд, попросити приєднатися";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile and audio will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and hear you. This may include people you’ve blocked on either app.\"" = "•\tВаш профіль і аудіо стануть частиною цієї трансляції, їх зможе видалити лише %1$@ разом із повтором.\n\n•\tУсі глядачі в Periscope і Твіттері, у тому числі особи, заблоковані вами в будь-якому з цих додатків, побачать, що ви приєдналися до трансляції %1$@, і чутимуть вас.";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile, audio and video will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and see you. This may include people you’ve blocked on either app.\"" = "•\tВаш профіль, аудіо та відео стануть частиною цієї трансляції, їх зможе видалити лише %1$@ разом із повтором.\n\n•\tУсі глядачі в Periscope і Твіттері, у тому числі особи, заблоковані вами в будь-якому з цих додатків, побачать, що ви приєдналися до трансляції %1$@, і бачитимуть вас.";
+
+"Confirm Guest Call-In Instructions Title: \"Good to know...\"" = "Корисна інформація…";
+
+"Connecting to chatroom" = "З’єднання з кімнатою чату";
+
+"Connection Error" = "Помилка з’єднання";
+
+"Connection too" = "З’єднання занадто";
+
+"Contact Us (action sheet)" = "Зв’язатися з нами";
+
+"Contributors" = "Дарувальники";
+
+"Copy Profile URL" = "Копіювати URL-адресу профілю";
+
+"Current Star Balance (Stars Profile)" = "Поточний баланс зірочок";
+
+"Current Time (Accessibility Label)" = "Поточний час";
+
+"Dear Periscope Team," = "Шановна командо Periscope!";
+
+"Delete Broadcast" = "Видалити трансляцію";
+
+"Delete Broadcast (action sheet)" = "Видалити трансляцію";
+
+"Delete Broadcast Now" = "Видалити трансляцію зараз";
+
+"Describe the issue (Report Option)" = "Опишіть проблему";
+
+"Describe the issue with %@ (Report Option)" = "Опишіть проблему з @%@";
+
+"Describe the issue with @%1$@ at %2$@ (Report Option)" = "Опишіть проблему з @%1$@ на %2$@";
+
+"Describe the issue you are seeing at %@ (Report Option)" = "Опишіть проблему, яку ви бачите на %@";
+
+"Direct Message (Compose)" = "Приватне повідомлення";
+
+"Disable Audio Only Broadcast" = "Вимкнути налаштування «Тільки аудіотрансляція»";
+
+"Disabled for this broadcast" = "Вимкнуто для цієї трансляції";
+
+"Discard Changes" = "Відхилити зміни";
+
+"Display Photo (action sheet)" = "Показати фото";
+
+"Dispute Claim (Copyright Violation)" = "Заява на оскарження";
+
+"Do not notify my followers (Guest Call-In Notify Followers Option)" = "Не сповіщати моїх читачів";
+
+"Don't Allow Guests (Manage Guest Broadcasters Call-Ins List)" = "Заборонити гостей";
+
+"Don't Allow Guests (Tooltip)" = "Заборонити гостей";
+
+"Don't Auto-Delete" = "Не видаляти автоматично";
+
+"Don't Send (Blocked Modal)" = "Не надсилати";
+
+"Done" = "Готово";
+
+"Done (action sheet)" = "Готово";
+
+"Double Tap anywhere to Exit Theater Mode (accessibility label)" = "Двічі торкніться будь-де, щоб вийти з режиму театру";
+
+"Double Tap to <bold>Flip Camera</bold>" = "Двічі торкніться, щоб •|•перевернути камеру•|•";
+
+"Double tap to allow or disallow guests (accessibility hint)" = "Торкніться двічі, щоб дозволити або заборонити гостей";
+
+"Duration (CELL)" = "Тривалість";
+
+"END (graph)" = "КІНЕЦЬ";
+
+"ENDED" = "ЗАВЕРШЕНО";
+
+"Edit Broadcast" = "Редагувати трансляцію";
+
+"Edit Broadcast (action sheet)" = "Редагувати трансляцію";
+
+"Edit Broadcast Unavailable" = "Редагування трансляції недоступне";
+
+"Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured." = "Якщо відредагувати трансляцію, її вигляд для глядачів зміниться. Ці зміни ніяк не вплинуть на минулі твіти та сповіщення.";
+
+"Enable Audio Only Broadcast" = "Увімкнути налаштування «Тільки аудіотрансляція»";
+
+"Enable Email" = "Увімкнути електронну пошту";
+
+"Enable camera (Permissions Screen)" = "Увімкнути камеру";
+
+"Enable microphone (Permissions Screen)" = "Увімкнути мікрофон";
+
+"Enable/Disable Audio Only Broadcast (accessibility hint)" = "Двічі торкніться, щоб увімкнути або вимкнути налаштування «Тільки аудіотрансляція».";
+
+"Enable/Disable Audio Only Broadcast (accessibility label)" = "Увімкнути/вимкнути налаштування «Тільки аудіотрансляція»";
+
+"Ended" = "Завершено";
+
+"Engaging Chat" = "Цікавий чат";
+
+"Error (ReplayKit)" = "Помилка";
+
+"Error accessing audio from microphone." = "Помилка доступу до аудіо з мікрофона.";
+
+"Error accessing history." = "Помилка доступу до історії.";
+
+"Error saving video to Camera Roll" = "Не вдалося зберегти відео до фотоплівки";
+
+"Error setting Amplify Program (title)" = "Помилка встановлення Програми підсилення";
+
+"Every heart you send will be a Super Heart" = "Кожне надіслане вами серце буде суперсерцем";
+
+"Everybody can chat" = "Дописувати в чаті можуть усі";
+
+"FEATURED" = "РЕКОМЕНДОВАНО";
+
+"FOLLOWERS (user profile modal)" = "ЧИТАЧІ";
+
+"FOLLOWING (user profile modal)" = "ЧИТАЮ";
+
+"Final List separator" = ", а також";
+
+"Fine Control" = "Точне керування";
+
+"First Super Heart" = "Перше суперсерце";
+
+"Flip Camera (action sheet)" = "Перевернути камеру";
+
+"Follow (user modal)" = "Читати";
+
+"Follow request sent. (chat message)" = "Запит на читання надіслано.";
+
+"Follow the broadcaster to catch their next broadcast." = "Читати транслятора, щоб потрапити на наступну трансляцію.";
+
+"Follow •|•%@•|• to catch their next broadcast" = "Читайте •|•%@•|•, щоб потрапити на його чи її наступну трансляцію";
+
+"Followed by %1$@ and %2$@" = "%1$@ і %2$@ читають";
+
+"Followed by %1$@, %2$@, %3$@ and %4$i others" = "%1$@, %2$@, %3$@ і ще %4$i читають";
+
+"Followed by %1$@, %2$@, and %3$@" = "%1$@, %2$@ і %3$@ читають";
+
+"Followed by %@" = "%@ читає";
+
+"Followers button (accessibility hint)" = "Двічі торкніться, щоб переглянути читачів.";
+
+"Following (user modal)" = "Читаєте";
+
+"Following button (accessibility hint)" = "Двічі торкніться, щоб переглянути користувачів, яких він(вона) читає.";
+
+"Front Camera (accessibility hint)" = "Двічі торкніться, щоб переключитися на задню камеру";
+
+"Front Camera (accessiblity value)" = "Передня камера";
+
+"Get Coins" = "Отримати монети";
+
+"Give Super Hearts (menu button)" = "Подарувати суперсерця";
+
+"Go LIVE" = "Почати трансляцію";
+
+"Go LIVE to %@" = "Почати трансляцію для %@";
+
+"Go LIVE together (Guest Broadcasting Modal Title)" = "Транслюйте спільно зі своїми глядачами";
+
+"Go to Twitter Profile" = "Перейти до профілю Твіттера";
+
+"Good Viewer Count" = "Велика кількість глядачів";
+
+"Got It (Button Title)" = "Зрозуміло";
+
+"Got it (Copyright Violation)" = "Зрозуміло";
+
+"Got it (ReplayKit)" = "Зрозуміло";
+
+"Got it!" = "Зрозуміло!";
+
+"Guest Action Sheet Report Item" = "Поскаржитися";
+
+"Guest Call In Choice Label: \"Camera and microphone\"" = "Камера та мікрофон";
+
+"Guest Call In Choice Label: \"Microphone only\"" = "Тільки мікрофон";
+
+"Guest Call-In Audio Only Permissions Subtitle beneath Title: \"Enable microphone to become a guest\"" = "Увімкніть мікрофон, щоб стати гостем";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request. Learn more\"" = "Ви приєднаєтеся, коли транслятор прийме ваш запит. •|•Детальніше•|•";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request.\"" = "Ви приєднаєтеся, коли транслятор прийме ваш запит.";
+
+"Guest Call-In Instructions Title: \"Ask to Join\"" = "Попросити приєднатися";
+
+"Guest Call-In Instructions Title: \"Join as a guest\"" = "Приєднатися в ролі гостя";
+
+"Guest Call-In Permissions Subtitle beneath Title: \"Enable camera and microphone to become a guest\"" = "Увімкніть камеру та мікрофон, щоб стати гостем";
+
+"Guest Call-In Permissions Title: \"Guest setup\"" = "Налаштування гостей";
+
+"Guest List (Manage Guest Callers Page Title)" = "Список гостей";
+
+"Guest Was Banned Chat Message (Periscope)" = "Після перевірки скарги, яка надійшла на •|•@%@•|•, команда Periscope визнала користувача винним у порушенні Принципів спільноти.";
+
+"Guest Was Banned Chat Message (Twitter)" = "Після перевірки скарги, яка надійшла на •|•@%@•|•, команда Твіттера визнала користувача винним у порушенні Правил Твіттера.";
+
+"Guests Not Allowed (Manage Guest Broadcasters Call-Ins List)" = "Гості заборонені";
+
+"Guests can now ask to join. Use this icon to add or remove guests at any time. (Guest Broadcasting Enabled Prompt)" = "Тепер гості можуть просити дозволу приєднатися. За допомогою цієї піктограми ви можете додавати й видаляти гостей у будь-який час.";
+
+"HEART" = "СЕРЦЕ";
+
+"HEARTS" = "СЕРЦЯ";
+
+"Half-Speed" = "Удвічі повільніше";
+
+"Hang Up (Guest Calling Menu)" = "Відключитися";
+
+"Hang Up (Manage Guest Call-Ins Action Sheet)" = "Відключити";
+
+"Hang Up Button Label: \"Hang Up\"" = "Відключитися";
+
+"Hang Up Subtitle (Audio Only): \"Stop sharing microphone\"" = "Вимкнути свій мікрофон";
+
+"Hang Up Subtitle (Camera + Microphone): \"Stop sharing camera and microphone\"" = "Вимкнути свої камеру та мікрофон";
+
+"Hang Up on Guest or Cancel Guest From Joining" = "Відключити гостя або заборонити гостьовий доступ";
+
+"Hang up" = "Відключити";
+
+"Harassment" = "Переслідування";
+
+"Hateful Conduct (Report Option)" = "Прояви ненависті";
+
+"Heart Sent (accessiblity announcement)" = "Серце надіслано";
+
+"Hearts & Chats off" = "Серця й чат вимкнуто";
+
+"Hearts & Chats on" = "Серця й чат увімкнуто";
+
+"Help us moderate this comment..." = "Допоможіть нам перевірити цей коментар…";
+
+"Help us understand the problem.\nWhat issue with @%@ are you reporting?" = "Допоможіть нам зрозуміти, у чому проблема з @%@.\nНа що ви скаржитеся?";
+
+"Hide Broadcast" = "Приховати трансляцію";
+
+"Hide everything except video (action sheet)" = "Приховати все, крім відео";
+
+"History (profile view title)" = "Історія";
+
+"History button (accessibility hint)" = "Двічі торкніться, щоб переглянути останні трансляції.";
+
+"How can we improve?" = "Що ми можемо покращити?";
+
+"How was your broadcasting experience?" = "Які ваші враження від трансляції?";
+
+"I'm Not Interested in @%@" = "Мене не цікавить @%@";
+
+"If this broadcast depicts pornography or sexual acts, please tap below. (Report Sexual Content Modal)" = "Якщо ця трансляція зображає порнографію або сексуальні дії, торкніться нижче.";
+
+"If you believe that this broadcast places a child at risk, please tap below. (Report Child Safety Modal)" = "Якщо, на вашу думку, ця трансляція становить ризик для дітей, торкніться нижче.";
+
+"If you believe this broadcast contains violence or someone is being physically threatened, please tap below. (Report Violence Modal)" = "Якщо, на вашу думку, ця трансляція містить сцени насильства або погрози заподіяння кому-небудь фізичних ушкоджень, торкніться нижче.";
+
+"If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Якщо, на вашу думку, ця трансляція містить прояви ненависті до захищеної категорії осіб (наприклад, осіб певної раси, релігії, гендеру, орієнтації чи осіб з інвалідністю), торкніться нижче.";
+
+"If you believe this broadcast exposes private information, please tap below. (Report Private Information Modal)" = "Якщо, на вашу думку, ця трансляція оприлюднює особисту інформацію, торкніться нижче.";
+
+"If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below. (Report Harassment Modal)" = "Якщо, на вашу думку, у цій трансляції когось переслідують, залякують або змушують мовчати, торкніться нижче.";
+
+"If you believe this guest is contemplating or encouraging suicide or self harm, please tap below. (Report Self Harm Modal)" = "Якщо, на вашу думку, цей гість має намір учинити самогубство чи заподіяти собі шкоду або заохочує когось до цього, торкніться нижче.";
+
+"If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Якщо, на вашу думку, цей гість розпалює ненависть до захищеної категорії осіб (наприклад, осіб певної раси, релігії, гендеру, орієнтації чи осіб з інвалідністю), торкніться нижче.";
+
+"If you believe this guest is exposing private information, please tap below. (Report Private Information Modal)" = "Якщо, на вашу думку, цей гість оприлюднює особисту інформацію, торкніться нижче.";
+
+"If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below. (Report Harassment Modal)" = "Якщо, на вашу думку, цей гість когось переслідує, залякує або змушує мовчати, торкніться нижче.";
+
+"If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below. (Report Violence Modal)" = "Якщо, на вашу думку, цей гість прямо погрожує насильством, зокрема фізичною розправою або психологічним тиском, торкніться нижче.";
+
+"If you believe this guest is sharing content that places a child at risk, please tap below. (Report Child Safety Modal)" = "Якщо, на вашу думку, цей гість поширює матеріали, що становлять ризик для дітей, торкніться нижче.";
+
+"If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below. (Report Sexual Content Modal)" = "Якщо, на вашу думку, цей гість поширює непристойні сексуальні матеріали, як-от порнографію, торкніться нижче.";
+
+"If you believe this individual is contemplating suicide or self harm, please tap below. (Report Self Harm Modal)" = "Якщо, на вашу думку, ця особа має намір учинити самогубство або нанести собі шкоду, торкніться нижче.";
+
+"If you delete this broadcast, you will lose the stars that you received. This cannot be undone." = "Якщо видалити цю трансляцію, ви втратите отримані зірочки. Цю дію не можна скасувати.";
+
+"Initializing video stream..." = "Ініціалізація відеопотоку...";
+
+"Invite Guests (Manage Guest Broadcasters Call-Ins List)" = "Запросити гостей";
+
+"Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Запросіть глядачів стати гостями у ваших трансляціях. Їх будуть чути всі, а ви зможете додавати та видаляти їх у будь-який час.";
+
+"Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Запросіть глядачів стати гостями у ваших трансляціях. Їх будуть бачити та чути всі глядачі, а ви зможете додавати та видаляти їх у будь-який час.";
+
+"Join as a Guest (Guest Calling Menu)" = "Приєднатися в ролі гостя";
+
+"Joined %@" = "Дата приєднання: %@";
+
+"Joining as a guest... (Guest Call-In Countdown Screen Title)" = "Приєднання в ролі гостя...";
+
+"Keep broadcasting to collect more stars!" = "Продовжуйте транслювати, щоб зібрати ще більше зірочок!";
+
+"Keep stars received" = "Зберегти отримані зірочки";
+
+"LIVE" = "У ПРЯМОМУ ЕФІРІ";
+
+"LIVE VIEWER" = "ГЛЯДАЧ У ПРЯМОМУ ЕФІРІ";
+
+"LIVE VIEWERS" = "ГЛЯДАЧІВ У ПРЯМОМУ ЕФІРІ";
+
+"LIVE Video (Broadcast Audience)" = "Відео НАЖИВО";
+
+"LIVE on #Periscope" = "НАЖИВО в #Periscope";
+
+"LIVE on #Periscope: %@" = "НАЖИВО в #Periscope: %@";
+
+"LOADING" = "ЗАВАНТАЖЕННЯ";
+
+"LOST CONNECTION" = "З’ЄДНАННЯ ВТРАЧЕНО";
+
+"Later (alert view)" = "Пізніше";
+
+"Learn More (Stars Profile)" = "Детальніше";
+
+"Leave Broadcast" = "Покинути трансляцію";
+
+"Limited by Broadcaster" = "Обмежено транслятором";
+
+"Limited for %@" = "Обмежено на такий період: %@";
+
+"List separator" = ",";
+
+"Live Time Watched (CELL)" = "Час перегляду прямої трансляції";
+
+"Live watch time per minute tooltip" = "За кожну хвилину цієї прямої трансляції глядачі в загальному витратили %@ на її перегляд.";
+
+"Loading History." = "Завантаження історії.";
+
+"Loading followers" = "Завантаження читачів";
+
+"Loading following" = "Завантаження користувачів, яких читають";
+
+"Loading history" = "Завантаження історії";
+
+"Loading your followers" = "Завантаження ваших читачів";
+
+"Loading your following" = "Завантаження користувачів, яких ви читаєте";
+
+"Location Permissions Required" = "Потрібен дозвіл на доступ до відомостей про місцезнаходження";
+
+"Location Unknown" = "Місцезнаходження невідоме";
+
+"Logged Out" = "Вхід не виконано";
+
+"Login Error (ReplayKit)" = "Потрібно ввійти";
+
+"Login Error Instructions (ReplayKit)" = "Відкрийте додаток Periscope, щоб увійти. Потім поверніться сюди, щоб почати трансляцію.";
+
+"Looks OK" = "Прийнятний";
+
+"Looks like the connection was lost. Reconnecting... (Toast)" = "Схоже, з’єднання розірвано. Відновлюємо зв’язок…";
+
+"Lose stars received" = "Втратити отримані зірочки";
+
+"Low Viewer Count" = "Низька кількість глядачів";
+
+"Low disk space. A portion of this broadcast will not be available for replay later." = "Бракує місця на диску. Частина цієї трансляції буде недоступна для повторного відтворення пізніше.";
+
+"Majority voted <destructive emphasis> Looks OK  </destructive emphasis>" = "Більшість голосів віддано за •|• Прийнятний •|•";
+
+"Majority voted <destructive emphasis> Not Sure </destructive emphasis>" = "Більшість голосів віддано за •|• Точно не знаю •|•";
+
+"Makes broadcast visible to everyone" = "Трансляція видима для всіх";
+
+"Makes broadcast visible to invited viewers" = "Трансляція видима для запрошених глядачів";
+
+"Manage details about your Broadcast (menu subtitle)" = "Керуйте відомостями про свою трансляцію";
+
+"Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen." = "Повідомлення, подібні до цього, часто блокуються. Якщо вас буде заблоковано забагато разів, ваші коментарі більше не відображатимуться.";
+
+"Million Decimal Abbreviation" = "%.1f млн";
+
+"Million Integer Abbreviation" = "%d млн";
+
+"Moderation Modal Example Label" = "ПРИКЛАД";
+
+"Moderation Modal Subtitle" = "Час від часу ви будете отримувати запит на модерацію коментаря, швидко визначаючи його, як •|•ОБРАЗУ•|• або •|•СПАМ•|•. Модерація анонімна.";
+
+"Moderator Actions" = "Дії модератора";
+
+"Moderator Actions (%@)" = "Дії користувача (%@)";
+
+"Moderator •|•%@•|• joined" = "Приєднується модератор •|•%@•|•";
+
+"ModeratorName muted this message (Message Carousel)" = "•|•%@•|• відхилив(ла) це повідомлення";
+
+"Monetize Broadcast" = "Монетизувати трансляцію";
+
+"Monetize Broadcast (expanded cell title)" = "Монетизувати трансляцію";
+
+"Monetize Broadcast (minimized cell title)" = "Монетизувати трансляцію ▾";
+
+"More (following/followers)" = "Ще";
+
+"Mute" = "Вимкнути звук";
+
+"Mute (accessibility label)" = "Вимкнути звук";
+
+"Mute User" = "Заборонити коментування користувачу";
+
+"Mute User Notifications" = "Ігнорувати сповіщення про користувача";
+
+"Muted by Moderator" = "Не може коментувати на вимогу Модератора";
+
+"NEW" = "НОВИНКА";
+
+"NO LIVE VIEWERS" = "НЕМАЄ ГЛЯДАЧІВ У ПРЯМОМУ ЕФІРІ";
+
+"NO REPLAY VIEWERS" = "НІХТО НЕ ПЕРЕГЛЯДАВ ЗАПИС";
+
+"New Broadcaster Education: 3 Guest Limit" = "Ви можете мати не більше 3 гостей одночасно.";
+
+"New Tweet (Compose)" = "Новий твіт";
+
+"No history." = "Історія пуста.";
+
+"No one has asked to join yet. Tap to invite your viewers to join. (Empty Manage Guest Broadcasters Call-Ins List)" = "Поки що ніхто не просив приєднання.\n\nТоркніться, щоб запросити своїх глядачів приєднатися.";
+
+"No one is following you." = "Вас ніхто не читає.";
+
+"No, stop broadcasting (Copyright Violation)" = "Ні, зупинити трансляцію";
+
+"Not Sure" = "Точно не знаю";
+
+"Not followed by anyone you're following" = "Не читає ніхто з-поміж тих, кого ви читаєте";
+
+"Notifications (accessiblity label)" = "Сповіщення";
+
+"Notifications OFF" = "Сповіщення ВИМК";
+
+"Notifications ON" = "Сповіщення УВІМК";
+
+"Notifications Off (accessibility hint)" = "Двічі торкніться, щоб увімкнути сповіщення від цього користувача.";
+
+"Notifications Off (accessibility value)" = "Вимк.";
+
+"Notifications On (accessibility hint)" = "Двічі торкніться, щоб вимкнути сповіщення від цього користувача.";
+
+"Notifications On (accessibility value)" = "Увімк.";
+
+"Notify my followers (Guest Call-In Notify Followers Option)" = "Сповістити моїх читачів";
+
+"OK, Got It" = "Зрозуміло";
+
+"Offensive Guest (Report Option)" = "Неприємний гість";
+
+"Okay (Report Broadcast Modal)" = "OK";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts." = "One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast." = "One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited." = "One or more of your comments was hidden for ABUSE. Commenting is temporarily limited.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts." = "One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast." = "One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited." = "One or more of your comments was hidden for SPAM. Commenting is temporarily limited.";
+
+"One or more of your comments was hidden. Commenting is disabled for all broadcasts." = "Один або кілька ваших коментарів приховано. Вимкнуто коментування всіх трансляцій.";
+
+"One or more of your comments was hidden. Commenting is disabled for this broadcast." = "Один або кілька ваших коментарів приховано. Коментування цієї трансляції вимкнуто.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts." = "Один або кілька ваших коментарів приховано. Тимчасово обмежено коментування всіх трансляцій.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited." = "One or more of your comments was hidden. Commenting is temporarily limited.";
+
+"One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast." = "Щонайменше один ваш коментар був відхилений модератором. Коментування цієї трансляції для вас вимкнуто.";
+
+"Only available in Periscope" = "Доступно лише в Periscope";
+
+"Only public broadcasts counted" = "Враховуються лише загальнодоступні трансляції";
+
+"Only users you follow can chat" = "Дописувати в чаті можуть лише ті, кого ви читаєте";
+
+"Only you can see your hidden broadcasts (menu subtitle)" = "Лише ви бачите свої приховані трансляції";
+
+"Other Reason (Report Option)" = "Інша причина";
+
+"Other Reason \n e.g. Foreign Language" = "Інша причина•|•\nнаприклад, іноземна мова•|•";
+
+"Our apologies for the inconvenience." = "Вибачте за незручності.";
+
+"POOR CONNECTION" = "ПОГАНЕ З’ЄДНАННЯ";
+
+"POSSIBLY NSFW (Interstitial)" = "МОЖЛИВО NSFW";
+
+"Pause (accessibility label)" = "Призупинити";
+
+"Peak (graph label)" = "Пік";
+
+"Periscope App Feedback" = "Відгуки про додаток Periscope";
+
+"Periscope account is required." = "Потрібен профіль Periscope.";
+
+"Periscope is discontinuing on •|•%@•|•" = "Periscope припиняє роботу •|•%@•|•";
+
+"Play (accessibility label)" = "Відтворити";
+
+"Please allow some time for all transactions to be posted." = "Публікація всіх транзакцій може тривати деякий час.";
+
+"Positive Community" = "Приємне товариство";
+
+"Post to Twitter (accessibility hint)" = "Двічі торкніться, щоб переключити.";
+
+"Post to Twitter (accessibility label)" = "Опублікувати у Твіттері";
+
+"Posting to Twitter OFF" = "Публікування у Твіттері вимкнено";
+
+"Posting to Twitter as @%@" = "Публікування у Твіттері з профілю @%@";
+
+"Precise Location Sharing OFF" = "Вказування точного місця ВИМК";
+
+"Precise Location Sharing ON" = "Вказування точного місця УВІМК";
+
+"Private (Broadcast Audience)" = "Приватна";
+
+"Private Information (Report Option)" = "Особиста інформація";
+
+"Profile (accessibility label)" = "Профіль";
+
+"Profile URL copied" = "URL-адресу профілю скопійовано";
+
+"Public (Broadcast Audience)" = "Загальнодоступна";
+
+"Public Hidden (Broadcast Audience)" = "Загальнодоступна (прихована)";
+
+"Quarter-Speed" = "Учетверо повільніше";
+
+"RECENT (user profile modal)" = "НЕЩОДАВНІ";
+
+"REPLAY VIEWER" = "ГЛЯДАЧ ЗАПИСУ";
+
+"REPLAY VIEWERS" = "ГЛЯДАЧІВ ЗАПИСУ";
+
+"Ready to give Super Hearts!" = "Усе готово – даруйте суперсерця!";
+
+"Received in: (History)" = "Отримано в: «%@»";
+
+"Received stars (History)" = "Отримано зірочки.";
+
+"Release to <bold>Leave</bold> (broadcasting)" = "Відпустіть, щоб •|•покинути•|•";
+
+"Release to <bold>Leave</bold> (watching)" = "Відпустіть, щоб •|•покинути•|•";
+
+"Release to Refresh" = "Відпустіть, щоб оновити";
+
+"Remove" = "Видалити";
+
+"Remove Amplify Program" = "Видалити Програму підсилення";
+
+"Remove Amplify Program (cell title)" = "Видалити Програму підсилення";
+
+"Remove Location" = "Видалити місцезнаходження";
+
+"Remove at least 1 character from your title to make room for #(example hashtag)" = "Видаліть 1 символ із назви, щоб звільнити місце для %@";
+
+"Remove at least X characters from your title to make room for #(example hashtag)" = "Видаліть кілька символів (не менше %lu) із назви, щоб звільнити місце для %@";
+
+"Replay Time Watched (CELL)" = "Час перегляду повтору";
+
+"Replay Unavailable" = "Повторне відтворення недоступне";
+
+"Replay watch time per minute tooltip" = "За кожну хвилину повтору цієї трансляції глядачі в загальному витратили %@ на її перегляд.";
+
+"Reply" = "Відповісти";
+
+"Report @<guest's username> (Report Guest Modal)" = "Поскаржитися на @%@";
+
+"Report Abusive Behavior (Report Abusive Behavior Modal)" = "Образлива поведінка";
+
+"Report Abusive Profile" = "Поскаржитися на образливий профіль";
+
+"Report As Spam" = "Поскаржитися на спам";
+
+"Report Broadcast (Report Broadcast Modal)" = "Поскаржитися на трансляцію";
+
+"Report Child Safety (Report Child Safety Modal)" = "Безпека дітей";
+
+"Report Comment" = "Поскаржитися на коментар";
+
+"Report Hateful Conduct (Report Hateful conduct Modal)" = "Прояви ненависті";
+
+"Report Private Information (Report Private Information Modal)" = "Особиста інформація";
+
+"Report Self-Harm (Report Self Harm Modal)" = "Нанесення собі шкоди";
+
+"Report Sexual Content (Report Sexual Content Modal)" = "Сексуальний вміст";
+
+"Report User" = "Поскаржитися на користувача";
+
+"Report Violence (Report Violence Modal)" = "Насильство";
+
+"Reporting is anonymous and will hide the user's comments (just for you)." = "Скарги анонімні. Якщо ви поскаржитесь, коментарі користувача буде приховано (тільки для вас).";
+
+"Restrict Chat (accessibility hint)" = "Двічі торкніться, щоб обмежити або дозволити доступ до чату для користувачів, яких ви читаєте.";
+
+"Restrict Chat (accessibility label)" = "Обмежити доступ до чату";
+
+"Return to Summary (accessibility hint)" = "Двічі торкніться, щоб повернутися до зведення про користувача.";
+
+"Retweet" = "Ретвітнути";
+
+"Save Changes" = "Зберегти зміни";
+
+"Save To Camera Roll" = "Зберегти до фотоплівки";
+
+"Save To Camera Roll Unavailable" = "Неможливо зберегти до фотоплівки";
+
+"Saved To Camera Roll" = "Збережено до фотоплівки";
+
+"Saved!" = "Збережено!";
+
+"Saving..." = "Збереження…";
+
+"Say something..." = "Скажіть щось...";
+
+"Scroll for Old Comments" = "Прокрутіть до старих коментарів";
+
+"Scroll to Bottom" = "Прокрутити донизу";
+
+"Self-Harm (Report Option)" = "Нанесення собі шкоди";
+
+"Send (accessibility label)" = "Надіслати";
+
+"Send Message (Blocked Modal)" = "Надіслати повідомлення";
+
+"Send people a notification to join this broadcast. Mutuals are people you follow that follow you back." = "Надішліть людям сповіщення, щоб вони приєдналися до цієї трансляції. Обопільні читачі – це люди, яких ви читаєте і які читають вас.";
+
+"Sent for payment processing (History)" = "Надіслано для обробки платежу.";
+
+"Separator between two names" = "і";
+
+"Set Amplify Program" = "Установити Програму підсилення";
+
+"Setting the broadcast Amplify Program to •|•%@•|• will publish a new Tweet." = "Якщо встановити Програму підсилення трансляції для %@, буде опубліковано новий твіт.";
+
+"Settings (app)" = "Налаштування";
+
+"Sexual Content (Report Option)" = "Сексуальний вміст";
+
+"Sexually Inappropriate \n Obscene or unwanted sexual remarks" = "Сексуально неприйнятне•|•\nНепристойні або небажані сексуальні репліки•|•";
+
+"Share Broadcast" = "Поділитися трансляцією";
+
+"Share From" = "Поширити з";
+
+"Share From %@" = "Поширити з %@";
+
+"Share From Beginning" = "Поширити з початку";
+
+"Share Live" = "Поширити пряму трансляцію";
+
+"Share Twitter Tooltip (explaining that the feature is disabled while guests are enabled)" = "Вимкнуто для трансляцій із гостями";
+
+"Share precise location (accessibility label)" = "Вказати місце";
+
+"Share request sent. (chat message)" = "Запит на поширення надіслано.";
+
+"Share screenshot and broadcast" = "Поділитися знімком екрана та трансляцією";
+
+"Share this broadcast so your followers don't miss it." = "Поділіться цією трансляцією, щоб ваші читачі її не пропустили.";
+
+"Share via..." = "Поділитися через…";
+
+"Show Stats (cell)" = "Показати статистику";
+
+"Skip" = "Пропустити";
+
+"Sorry, that action could not be completed because you have been blocked." = "На жаль, не вдалося виконати цю дію, оскільки вас заблоковано.";
+
+"Sorry, that action could not be completed because you have reached the block limit." = "На жаль, ця дія не може бути виконана, оскільки ви досягли обмеження на блокування.";
+
+"Sorry, that action could not be completed because you have reached the follow limit." = "На жаль, ця дія не може бути виконана, оскільки ви досягли обмеження на читання.";
+
+"Sorry, the broadcast is too full..." = "На жаль, трансляцію переповнено...";
+
+"Sorry, this broadcast is unavailable" = "На жаль, ця трансляція недоступна";
+
+"Sorry, we couldn't load the broadcast share URL. Please try again." = "Не вдалося завантажити спільну URL-адресу для трансляції. Спробуйте ще раз.";
+
+"Sorry, we couldn't save your changes. Please try again." = "На жаль, не вдалося зберегти ваші зміни. Спробуйте ще раз.";
+
+"Sorry, we encountered an error blocking some users. Please try again." = "На жаль, не вдалося заблокувати деяких користувачів. Спробуйте ще раз.";
+
+"Sorry, we encountered an error blocking that user. Please try again." = "Не вдалося заблокувати цього користувача. Спробуйте ще раз.";
+
+"Sorry, we encountered an error loading user data. Please try again." = "На жаль, під час завантаження даних користувача сталася помилка. Спробуйте ще раз.";
+
+"Sorry, we encountered an error loading your broadcasts. Please try again." = "На жаль, не вдалося завантажити ваші трансляції. Спробуйте ще раз.";
+
+"Sorry, we encountered an error reporting this broadcast. Please try again." = "Не вдалося поскаржитися на цю трансляцію. Спробуйте ще раз.";
+
+"Sorry, we encountered an error reporting this guest. Please try again." = "Під час спроби поскаржитися на цього гостя сталася помилка. Спробуйте ще раз.";
+
+"Sorry, we've encountered a loading error. Please try again." = "Сталася помилка завантаження. Спробуйте ще раз.";
+
+"Sorry, you've done that too many times. Try again in a few minutes." = "На жаль, ви зробили це забагато разів. Спробуйте ще раз за кілька хвилин.";
+
+"Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv" = "Під час завантаження сталася помилка (421 - selector). Напишіть на електронну пошту help@pscp.tv";
+
+"Sorry, you've encountered a loading error (421). Please email help@pscp.tv" = "Під час завантаження сталася помилка (421). Напишіть на електронну пошту help@pscp.tv";
+
+"Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later." = "На жаль, ваше підключення до Інтернету занадто повільне, щоб передати ескіз нової трансляції. Спробуйте ще раз пізніше.";
+
+"Spam" = "Спам";
+
+"Spam in Chat" = "Спам у чаті";
+
+"Star & Cash Outs History (Stars Profile)" = "Історія зірочок і виведень готівки";
+
+"Star History (Stars Profile)" = "Історія зірочок";
+
+"Star balance adjustment. Contact superhearts@pscp.tv if you have any questions. (History)" = "Змінення балансу зірочок. Із запитаннями звертайтеся за адресою superhearts@pscp.tv.";
+
+"Stars (profile view title)" = "Зірочки";
+
+"Stars (profile)" = "Зірочки";
+
+"Start Point" = "Точка початку";
+
+"Start Sketching (action sheet)" = "Розпочати рисування";
+
+"Stop Broadcast" = "Зупинити трансляцію";
+
+"Submit" = "Надіслати";
+
+"Success! You've unmuted @%@" = "Вийшло! Ви дозволили коментування для @%@";
+
+"Successfully set Amplify Program (title)" = "Програму підсилення успішно встановлено";
+
+"Suggested user is watching singlular" = "%@ •|•зараз дивиться•|•";
+
+"Suggested users are watching plural" = "Друзів •|•зараз дивляться•|•: %ld";
+
+"Super Broadcaster (Stars Profile)" = "Супертранслятор";
+
+"Super Broadcaster Program" = "Програма супертрансляторів";
+
+"Super Heart Terms" = "Умови суперсерць";
+
+"Super Hearts" = "Суперсерця";
+
+"Super Hearts OFF" = "Вимкнути суперсерця";
+
+"Super Hearts ON" = "Ввімкнути суперсерця";
+
+"Swipe down to <bold>Stop</bold>" = "Проведіть униз, щоб •|•зупинити•|•";
+
+"Tap anyhwhere to <bold>Exit Theater Mode</bold>" = "Торкніться будь-де, щоб •|•вийти з режиму театру•|•";
+
+"Tap this icon to join Broadcaster's broadcast as a guest. (Viewer Prompt to Call-In)" = "Торкніться цієї піктограми, щоб приєднатися до трансляції •|•%@•|• у ролі гостя.";
+
+"Thank You (Report Broadcast Confirmation Modal)" = "Дякуємо";
+
+"Thank you for your report" = "Дякуємо за ваше повідомлення";
+
+"Thank you for your report (Chat Prompt)" = "Дякуємо за ваше повідомлення";
+
+"Thank you for your report." = "Дякуємо за ваше повідомлення.";
+
+"Thank you. You won't see any more messages from •|•@%@•|• in this broadcast." = "Дякуємо. Ви більше не бачитимете повідомлень від •|•@%@•|• у цій трансляції.";
+
+"Thanks %@!" = "Спасибі, %@!";
+
+"Thanks for your feedback!" = "Дякуємо за відгук!";
+
+"The broadcaster blocked you in response to this message." = "Транслятор заблокував вас через це повідомлення.";
+
+"The broadcaster has limited chat." = "Транслятор обмежив користування чатом.";
+
+"The broadcaster has the ability to remove people from their broadcasts." = "Транслятор може виключати людей зі своїх трансляцій.";
+
+"The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•." = "Магазин монет зачинився. Якщо у вас залишилися монети, використайте їх, щоб надіслати суперсерця своїм улюбленим трансляторам до •|•%@•|•.";
+
+"Theater Mode (action sheet)" = "Режим театру";
+
+"Their name, bio, or profile image violates the Community Guidelines" = "Ім’я, біографічні відомості чи зображення цього профілю порушують Принципи спільноти";
+
+"There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat." = "Цю трансляцію зараз дивиться багато людей! Щоб обмежити повідомлення для транслятора, дописувати в чаті можуть лише ті, хто приєдналися до трансляції першими.";
+
+"There was an error adding @username as a guest. Please try again." = "Під час додавання @%@ у ролі гостя сталася помилка. Спробуйте ще раз.";
+
+"There was an error adding you as a guest. We've notified Broadcaster, and will alert you if we're able to try again." = "Під час спроби додавання вас у ролі гостя сталася помилка. Ми сповістили %@ про це й дамо вам знати, коли зможемо спробувати ще раз.";
+
+"There was an error allowing guests. Please try again." = "Не вдалося дозволити гостей. Спробуйте ще раз.";
+
+"There was an error cancelling your request. Please try again." = "Не вдалося скасувати ваш запит на приєднання. Спробуйте ще раз.";
+
+"There was an error cancelling. Please try again." = "Не вдалося скасувати. Спробуйте ще раз.";
+
+"There was an error disallowing guests. Please try again." = "Не вдалося заборонити гостей. Спробуйте ще раз.";
+
+"There was an error inviting guests. Please try again." = "Не вдалося запросити гостей. Спробуйте ще раз.";
+
+"There was an error muting or un-muting @username. Please try again." = "Сталася помилка під час вимкнення чи ввімкнення звуку гостя @%@. Спробуйте ще раз.";
+
+"There was an error muting or un-muting you. Please try again." = "Сталася помилка під час вимкнення чи ввімкнення вашого звуку. Спробуйте ще раз.";
+
+"There was an error removing your guest @username. Please try again." = "Не вдалося видалити вашого гостя @%@. Спробуйте ще раз.";
+
+"There was an error sending your request to join as a guest. Please try again." = "Під час надсилання вашого запита на приєднання в ролі гостя сталася помилка. Спробуйте ще раз.";
+
+"There was an error updating the settings (conversation controls and mentioned users). Please try again." = "Сталася помилка під час оновлення налаштувань (елементів керування розмовою та згаданих користувачів). Спробуйте ще раз.";
+
+"There was an error updating the settings (locked/unlocked). Please try again." = "Не вдалось оновити налаштування (блокування/розблокування). Спробуйте ще раз.";
+
+"This broadcast is no longer available." = "Ця трансляція більше не доступна.";
+
+"This broadcast isn’t available (Copyright Violation)" = "Ця трансляція недоступна";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}." = "Ця трансляція копіює «%1$@», захищений авторським правом твір %2$@. •|•Детальніше•|•";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}. Do you have all rights necessary to broadcast this video on Twitter?" = "Ця трансляція копіює «%1$@», захищений авторським правом твір %2$@. Ви володієте всіма необхідними правами на трансляцію цього відео у Твіттері?";
+
+"This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video." = "Цю трансляцію знято на 360-градусну камеру. Periscope більше не підтримує відтворення відео на 360°.";
+
+"This broadcast’s title can’t be edited. Learn more (Copyright Violation)" = "Назву цієї трансляції змінити не можна. •|•Детальніше•|•";
+
+"This is optional" = "Це поле заповнювати необов’язково";
+
+"This user doesn't have any followers yet" = "У цього користувача ще немає читачів";
+
+"This user has not broadcasted yet" = "Цей користувач ще нічого не транслював";
+
+"This user isn't following anyone yet" = "Цей користувач ще нікого не читає";
+
+"Thousand Decimal Abbreviation" = "%.1f тис";
+
+"Thousand Integer Abbreviation" = "%d тис";
+
+"Thumbnail" = "Ескіз";
+
+"Time Watched (CELL)" = "Час перегляду";
+
+"Title (accessibility label)" = "Назва";
+
+"To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off." = "Щоб спілкуватися, увімкніть функцію «Підключитися до Periscope» у налаштуваннях. Якщо у вашому профілі ввімкнуто функцію «Захистити мої твіти», знадобиться завантажити додаток Periscope і створити профіль Periscope або переключитися на профіль Твіттера, у якому функцію «Захистити мої твіти» вимкнуто.";
+
+"To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos." = "Щоб зберігати ваші відео, додатку Periscope потрібен дозвіл на доступ до ваших фотографій. Щоб увімкнути цю функцію для майбутніх трансляцій, відкрийте налаштування та встановіть перемикач для доступу до фотографій у ввімкнуте положення.";
+
+"To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account." = "Щоб надсилати відгуки електронною поштою, спочатку потрібно налаштувати електронну пошту на своєму пристрої. Спершу відкрийте додаток «Параметри». Потім перейдіть до пункту «Пошта, контакти, календарі» і виберіть параметр «Додати профіль».";
+
+"To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option." = "Щоб поділитися відомостями про ваше місцезнаходження, додатку Periscope потрібен дозвіл на доступ до них на вашому пристрої. Натисніть кнопку «Параметри», перейдіть до пункту «Служба локації» та виберіть параметр «Під час використання програми».";
+
+"Top Contributor" = "Найактивніший дарувальник";
+
+"Total watch time per minute tooltip" = "За кожну хвилину цієї трансляції глядачі в загальному витратили %@ на її перегляд.";
+
+"Total watch time per minute tooltip (broadcaster)" = "За кожну хвилину цієї трансляції глядачі в загальному витратили %@ на її перегляд. Ця статистика нормалізує час перегляду за всіма трансляціями різної тривалості.";
+
+"Trying to reconnect" = "Спроба відновити з’єднання";
+
+"Twitter Post OFF" = "Публік. у Твіттері ВИМК";
+
+"Twitter Post ON" = "Публік. у Твіттері УВІМК";
+
+"Unable to load broadcast." = "Не вдається завантажити трансляцію.";
+
+"Unblock User" = "Розблокувати";
+
+"Unfollow User" = "Не читати користувача";
+
+"Unhide Broadcast (menu button)" = "Відобразити трансляцію";
+
+"Unmute" = "Увімкнути звук";
+
+"Unmute User" = "Скасувати заборону на коментування для користувача";
+
+"Unmute User Notifications" = "Не ігнорувати сповіщення про користувача";
+
+"Untitled" = "Без назви";
+
+"User has not provided a profile description." = "Користувач(ка) не надав(ла) опис профілю.";
+
+"Very bad" = "Дуже погано";
+
+"Very good" = "Дуже добре";
+
+"Video Issues" = "Проблеми з відео";
+
+"Video Quality" = "Якість відео";
+
+"Video will resume if signal improves" = "Відео відновиться за кращого сигналу";
+
+"View Broadcast Actions (accessibility label)" = "Переглянути дії з трансляцією";
+
+"View Participants (accessibility label)" = "Переглянути учасників";
+
+"View Profile" = "Переглянути профіль";
+
+"View Stats" = "Дивитися статистику";
+
+"Viewers can give you Super Hearts.\n<link>Learn more.</link>" = "Глядачі можуть дарувати вам суперсерця.\n•|•Детальніше•|•";
+
+"Viewers cannot give you Super Hearts.\n<link>Learn more.</link>" = "Глядачі не можуть дарувати вам суперсерця.\n•|•Детальніше•|•";
+
+"Violence (Report Option)" = "Насильство";
+
+"Waiting for other responses..." = "Очікування інших відповідей…";
+
+"Waiting for you to <bold>login</bold>." = "Спочатку потрібно •|•ввійти•|•.";
+
+"Watch %1$@'s broadcast: %2$@" = "Дивіться трансляцію від %1$@: %2$@";
+
+"Watch %@'s broadcast." = "Дивіться трансляцію від %@.";
+
+"Watch LIVE" = "Дивитись •|•у прямому ефірі•|•";
+
+"Watch Live" = "Дивитись у прямому ефірі";
+
+"Watch Replay" = "Переглянути повтор";
+
+"Watch Stream (User Activity)" = "Перегляд трансляції";
+
+"Watch on #Periscope" = "Дивіться в #Periscope";
+
+"Watch on #Periscope: %@" = "Дивіться в #Periscope: %@";
+
+"Watch what happened at %1$@ in %2$@'s broadcast." = "Дивіться, що сталось у трансляції від %2$@ на моменті %1$@.";
+
+"Watch what happened at %1$@ in %2$@'s broadcast: %3$@" = "Дивіться, що сталось у трансляції «%3$@» від %2$@ на моменті %1$@";
+
+"We encountered an error deleting your broadcast. Please try again." = "Не вдалося видалити трансляцію. Спробуйте ще раз.";
+
+"We encountered an error updating your gift settings. Please try again." = "Під час оновлення ваших налаштувань подарунків сталася помилка. Спробуйте ще раз.";
+
+"We have received your report. Thank you for helping keep the community safe! (Report Broadcast Confirmation Modal)" = "Ми отримали вашу скаргу. Дякуємо, що допомагаєте дбати про безпеку спільноти!";
+
+"We're sorry, there was an error starting your broadcast. Please try starting it again." = "На жаль, під час запуску трансляції сталася помилка. Спробуйте ще раз.";
+
+"Welcome <bold>%@</bold>" = "Ласкаво просимо, •|•%@•|•";
+
+"We’ve let your followers know that you joined as a guest (Chat Prompt)" = "Ми сповістили ваших читачів, що ви приєдналися до трансляції в ролі гостя";
+
+"What are you seeing now?" = "Що ви зараз бачите?";
+
+"What do you want to talk about?" = "Про що ви хочете поговорити?";
+
+"What went well?" = "Що вам сподобалося?";
+
+"When someone follows them, they'll be listed here." = "Коли хтось почне його(її) читати, то відобразиться тут.";
+
+"When someone follows you, they'll be listed here." = "Коли хтось почне вас читати, то відобразиться тут.";
+
+"When they do, it'll show up here." = "Коли вони будуть, то відображатимуться тут.";
+
+"When they do, they'll be listed here." = "Коли він(вона) почне когось читати, то ці люди відображатимуться тут.";
+
+"When you do, it'll show up here" = "Коли ви почнете когось читати, то ці люди відображатимуться тут.";
+
+"When you do, they'll be listed here." = "Коли ви почнете когось читати, то ці люди відображатимуться тут.";
+
+"Yes (Copyright Violation)" = "Так";
+
+"You already have a linked Twitter account. Please use this in the future to broadcast from Twitter" = "У вас уже є пов’язаний профіль Твіттера. Використовуйте його в майбутньому для трансляції з Твіттера";
+
+"You are now" = "Ви зараз";
+
+"You aren't following anyone yet" = "Ви ще нікого не читаєте";
+
+"You aren't following anyone." = "Ви нікого не читаєте.";
+
+"You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests. (Offensive Report Modal)" = "Ви можете заблокувати користувача, трансляції якого більше не хочете бачити. Ви й надалі бачитимете заблокованих користувачів, коли вони будуть гостями трансляцій.";
+
+"You can block a user whose broadcasts you no longer want to see. (Offensive Report Modal)" = "Ви можете заблокувати користувача, трансляції якого більше не хочете бачити.";
+
+"You can give •|•%@•|• of these" = "Ви можете подарувати •|•%@•|• такого типу";
+
+"You can't broadcast right now (Copyright Violation)" = "Ви не можете зараз транслювати";
+
+"You can't watch a broadcast while you're still broadcasting." = "Ви не можете переглянути трансляцію, поки ви ще транслюєте.";
+
+"You can’t watch this because it included a copyrighted work by {Full Name}. Learn more (Copyright Violation)" = "Ви не можете переглянути це відео, тому що воно містило захищений авторським правом твір %@. •|•Детальніше•|•";
+
+"You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster." = "Ви отримуєте зірочки, коли шанувальники дарують вам •|•суперсерця•|•. Перетворіть зірочки на готівку, ставши супертранслятором.";
+
+"You didn't vote... <link>Learn about Moderation</link>" = "Ви не голосували... •|•Докладніше про модерацію•|•";
+
+"You don't have any followers yet" = "У вас ще немає читачів";
+
+"You earn stars from Super Hearts" = "Ви заробляєте зірочки на суперсерцях";
+
+"You haven't broadcasted yet" = "Ви ще нічого не транслювали";
+
+"You were <bold>blocked</bold> by the broadcaster" = "Транслятор •|•заблокував•|• вас";
+
+"You will lose any unsaved changes. Are you sure you want to leave this view?" = "Усі незбережені зміни буде втрачено. Ви справді хочете вийти з цього подання?";
+
+"You will lose the stars you received" = "Ви втратите отримані зірочки";
+
+"You're Waiting to Join (Guest Calling Menu)" = "Очікування приєднання";
+
+"Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv" = "Ваш профіль заблоковано через скаргу щодо порушення авторських прав. Зверніться по допомогу за адресою help@pscp.tv";
+
+"Your account has been disabled. Please contact help@pscp.tv" = "Ваш профіль заблоковано. Зверніться по допомогу за адресою help@pscp.tv";
+
+"Your broadcast has been disabled (Copyright Violation)" = "Вашу трансляцію вимкнуто.";
+
+"Your broadcast matches a copyrighted work (Copyright Violation)" = "Ваша трансляція копіює твір, захищений авторським правом";
+
+"Your broadcast's thumbnail has been updated to the current screen." = "Ескіз вашої трансляції оновлено до поточного зображення на екрані.";
+
+"Your dispute claim was submitted (Copyright Violation)" = "Вашу заяву на оскарження надіслано";
+
+"Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•." = "Ми намагаємося покращити функцію транслювання, тому ваш відгук дуже важливий. Ви можете відмовитися від участі в майбутніх опитуваннях у будь-який час, перейшовши до •|•Налаштувань•|•.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Ваше повідомлення •|•«%@»•|• приховано через ОБРАЗУ. Коментування всіх трансляцій вимкнуто.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast." = "Ваше повідомлення •|•«%@»•|• приховано через ОБРАЗУ. Коментування цієї трансляції вимкнуто.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Ваше повідомлення •|•«%@»•|• приховано через ОБРАЗУ. Коментування всіх трансляцій тимчасово вимкнуто.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast." = "Ваше повідомлення •|•«%@»•|• приховано через ОБРАЗУ. Коментування цієї трансляції тимчасово вимкнуто.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts." = "Ваше повідомлення •|•«%@»•|• приховано через СПАМ. Коментування всіх трансляцій вимкнуто.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast." = "Ваше повідомлення •|•«%@»•|• приховано через СПАМ. Коментування цієї трансляції вимкнуто.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Ваше повідомлення •|•«%@»•|• приховано через СПАМ. Коментування всіх трансляцій тимчасово вимкнуто.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast." = "Ваше повідомлення •|•«%@»•|• приховано через СПАМ. Коментування цієї трансляції тимчасово вимкнуто.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts." = "Ваше повідомлення •|•«%@»•|• приховано. Коментування всіх трансляцій вимкнуто.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast." = "Ваше повідомлення •|•«%@»•|• приховано. Коментування цієї трансляції вимкнуто.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts." = "Ваше повідомлення •|•«%@»•|• приховано. Коментування всіх трансляцій тимчасово вимкнуто.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast." = "Ваше повідомлення •|•«%@»•|• приховано. Коментування цієї трансляції тимчасово вимкнуто.";
+
+"Your settings are about to automatically delete this broadcast." = "Відповідно до ваших налаштувань цю трансляцію скоро буде автоматично видалено.";
+
+"Your settings will automatically delete this broadcast in %@" = "Відповідно до ваших налаштувань цю трансляцію буде автоматично видалено через %@";
+
+"Your video will be available for replay after the event has ended. (Copyright Violation)" = "Ваше відео буде доступне для повторного перегляду після завершення події.";
+
+"Your viewers have been invited to join (Local Chat Prompt)" = "Ваших глядачів запрошено приєднатися";
+
+"You’re enrolled in automatic monthly cash outs. (Stars Profile)" = "Ви зареєстровані на автоматичне щомісячне виведення готівки.";
+
+"You’ve blocked @username. Tap to report and share more details. (Should Report Guest User Chat Prompt)" = "Ви заблокували •|•@%@•|•. Торкніться, щоб поскаржитися на цього користувача та надати додаткові відомості.";
+
+"[placeholder]" = "[placeholder]";
+
+"beta-feedback@pscp.tv" = "beta-feedback@pscp.tv";
+
+"coin bonus" = "Плюс %i%%";
+
+"coin received (accessibility label)" = "отримана монета";
+
+"coins received (accessibility label)" = "отриманих монет";
+
+"contact@pscp.tv" = "contact@pscp.tv";
+
+"current audience" = "поточна аудиторія";
+
+"failed" = "помилка";
+
+"following (accessibility hint)" = "Двічі торкніться, щоб не читати";
+
+"following (accessibility label)" = "Читаєте";
+
+"for fine control" = "для точного керування";
+
+"heart received (accessibility label)" = "серце отримано";
+
+"hearts received (accessibility label)" = "сердець отримано";
+
+"https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119" = "https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119";
+
+"https://pscp.tv/i/super/terms" = "https://pscp.tv/i/super/terms";
+
+"iPad doesn’t support broadcasting from Split View." = "iPad не підтримує трансляцію з розділеного екрана.";
+
+"invited" = "запрошено";
+
+"invited followers" = "запрошені читачі";
+
+"it's their first day on Periscope" = "це його(її) перший день у Periscope";
+
+"not following (accessibility hint)" = "Двічі торкніться, щоб читати";
+
+"not following (accessibility label)" = "Не читаю";
+
+"people" = "люди";
+
+"per Broadcast Minute (CELL)" = "за хвилину трансляції";
+
+"per Viewer (CELL)" = "на глядача";
+
+"person" = "особа";
+
+"poor" = "поганої якості";
+
+"posting publicly on Periscope" = "загальнодоступна публікація в Periscope";
+
+"posting publicly on Twitter" = "загальнодоступна публікація у Твіттері";
+
+"selected Amplify Program" = "вибрано Програму підсилення";
+
+"star received (accessibility label)" = "отримана зірочка";
+
+"stars received (accessibility label)" = "отриманих зірочок";
+
+"tap to change Amplify Program" = "торкніться, щоб змінити Програму підсилення";
+
+"tap to change Amplify program" = "торкніться, щоб змінити Програму підсилення";
+
+"tap to change audience" = "торкніться, щоб змінити аудиторію";
+
+"to seek" = "шукати";
+
+"you hung up (Guest Caller Hung Up Chat Message Event)" = "ви відключилися";
+
+"you were added (New Guest Caller Chat Message Event)" = "вас додано";
+
+"you were removed (Guest Caller Was Removed Chat Message Event)" = "вас видалено";
+
+"•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•." = "•|•%1$@•|• змінив(ла) час початку своєї трансляції на •|•%2$@•|•.";
+
+"•|•%@•|• are guests (Broadcast Guests Social Proof)" = "•|•%@•|• є гостями";
+
+"•|•%@•|• invited you (Broadcast Guest Invitation Social Proof)" = "•|•%@•|• запросив(ла) вас";
+
+"•|•%@•|• is a guest (Broadcast Guest Social Proof)" = "•|•%@•|• є гостем";
+
+"•|•%@•|• shared (Broadcast Share Social Proof)" = "•|•%@•|• поширив(ла)";
+
+"•|•%@•|• was a guest (Broadcast Guest Social Proof)" = "•|•%@•|• був(ла) гостем";
+
+"•|•%@•|• were guests (Broadcast Guests Social Proof)" = "•|•%@•|• були гостями";
+
+"•|•%@•|•\nBroadcasts" = "•|•%@•|•\nТрансляції";
+
+"•|•%@•|•\nFollowers" = "•|•%@•|•\nПідписники";
+
+"•|•%@•|•\nFollowing" = "•|•%@•|•\nПідписки";
+
+"•|•@%1$@•|• was muted by •|•%2$@•|•" = "•|•%2$@•|• заборонив(ла) •|•@%1$@•|• коментувати";
+
+"•|•@%1$@•|• was unmuted by •|•%2$@•|•" = "•|•%2$@•|• знову дозволив(ла) •|•@%1$@•|• коментувати";
+
+"•|•@%@•|• Retweeted on" = "•|•@%@•|• ретвітнув(ла) у";
+
+"•|•@%@•|• shared on" = "•|•@%@•|• поділився(лась) у";
+
+"•|•Muted•|• by %@" = "%@ •|•заборонив(ла) коментувати•|•";
+
+"•|•Not enough coins.•|• Get more coins to keep giving Super Hearts." = "•|•Бракує монет.•|• Отримайте більше монет, щоб і далі дарувати суперсерця.";
+
+"•|•Press & Hold•|• the video to skip ahead" = "•|•Натисніть і утримуйте•|• відео, щоб перейти вперед";
+
+"•|•Press & Hold•|• to skip back or ahead." = "•|•Натисніть і утримуйте•|•, щоб перейти назад або вперед.";
+
+"•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one." = "•|•Суперсерця ВВІМКНУТО.•|• Торкніться трансляції, щоб подарувати своє перше суперсерце.";
+
+"•|•Support %@•|• by giving Super Hearts!" = "•|•Підтримайте %@•|•, подарувавши суперсерця!";
+
+"•|•Unmuted•|• by %@" = "%@ •|•знову дозволив(ла) коментувати•|•";
+
+"•|•You need more coins•|• to give Super Hearts" = "•|•Вам потрібно більше монет•|•, щоб дарувати суперсерця";
+
+"•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast." = "Один із модераторів %1$@ •|•заборонив(ла) вам коментувати•|• цю трансляцію через ваш коментар •|•«%2$@»•|•. Ви більше не можете спілкуватися в чаті цієї трансляції.";
+
+"•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast." = "Один із модераторів %@ •|•скасував(ла) заборону на коментування для вас•|•. Тепер ви можете спілкуватися в чаті цієї трансляції.";
+

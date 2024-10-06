@@ -1,0 +1,1448 @@
+"%@ New Messages" = "%@ Novas Mensagens";
+
+"%@ Viewer (Broadcast Info)" = "%@ Espectador";
+
+"%@ Viewers (Broadcast Info)" = "%@ Espectadores";
+
+"%@ ago" = "há %@";
+
+"%@ doesn't have any followers yet" = "%@ ainda não tem nenhum seguidor";
+
+"%@ has not broadcasted yet" = "%@ ainda não fez nenhuma transmissão";
+
+"%@ is LIVE (broadcast title)" = "%@ está AO VIVO";
+
+"%@ isn't following anyone yet" = "%@ não está seguindo ninguém ainda";
+
+"%@ joined" = "entrou";
+
+"%@ wants you to moderate comments. Tap on comments to mute them." = "%@ quer que você modere os comentários. Toque nos comentários para silenciá-los.";
+
+"%@ wants you to moderate comments. Tap or swipe left on comments to mute them." = "%@ quer que você modere os comentários. Toque ou deslize para a esquerda nos comentários para silenciá-los.";
+
+"%@ was live  (broadcast title)" = "%@ estava ao vivo";
+
+"%d More Live Viewers" = "Mais Espectadores ao Vivo";
+
+"%d More Replay Viewers" = "Mais Espectadores da Repetição";
+
+"%d More Viewers" = "Mais Espectadores";
+
+"%ldd (days)" = "%ldd";
+
+"%ldh (hours)" = "%ldh";
+
+"%ldm (minutes)" = "%ldm";
+
+"%lds (seconds)" = "%lds";
+
+"%ldy (years)" = "%lda";
+
+"(EDITED)" = "(EDITADO)";
+
+"(Skip to) LIVE" = "AO VIVO";
+
+"1 More Live Viewer" = "Mais Espectador ao Vivo";
+
+"1 More Replay Viewier" = "Mais Espectadores da Repetição";
+
+"1 More Viewer" = "Mais Espectador";
+
+"1 New Message" = "Nova Mensagem";
+
+"@username \"Tap to cancel\" (Add Guest Caller Chat Message Event)" = "Toque para cancelar";
+
+"@username \"canceled\" (Add Guest Caller Chat Message Event)" = "cancelou";
+
+"@username \"has asked to join\" (Add Guest Caller Chat Message Event)" = "pediu para participar";
+
+"@username \"hung up\" (Guest Caller Hung Up Chat Message Event)" = "•|•@%@•|• desconectou-se";
+
+"@username \"was added\" (Add Guest Caller Chat Message Event)" = "foi adicionado";
+
+"@username \"was added\" (New Guest Caller Chat Message Event)" = "•|•@%@•|• foi adicionado";
+
+"@username \"was removed\" (Add Guest Caller Chat Message Event)" = "foi removido";
+
+"@username \"was removed\" (Guest Caller Was Removed Chat Message Event)" = "•|•@%@•|• foi removido";
+
+"A Periscope account is required to edit a broadcast." = "É necessário ter uma conta do Periscope para editar uma transmissão.";
+
+"A Periscope account is required to share a broadcast." = "É necessário ter uma conta do Periscope para compartilhar uma transmissão.";
+
+"A broadcast with a star balance was deleted. (History)" = "Uma transmissão com saldo de estrelas foi excluída.";
+
+"ACTIVE CONTRIBUTORS" = "COLABORADORES ATIVOS";
+
+"Abuse" = "Assédio";
+
+"Abusive Behavior (Report Option)" = "Comportamento abusivo";
+
+"Accept Caller as Guest" = "Aceitar usuário como convidado";
+
+"Accept Super Hearts (accessibility hint)" = "Toque duas vezes para aceitar os super hearts para esta transmissão.";
+
+"Accept Super Hearts (accessibility label)" = "Aceitar Super Hearts";
+
+"Accept as Guest" = "Aceitar como convidado";
+
+"Actions (accessibility label)" = "Ações";
+
+"Add Guest (Manage Guest Call-Ins Action Sheet)" = "Adicionar Convidado";
+
+"Add guest \n viewer will become a guest broadcaster" = "Adicionar convidado•|•\no espectador se tornará um transmissor convidado•|•";
+
+"All-Time Stars (Stars Profile)" = "Estrelas de Todos os Tempos";
+
+"Allow Guests (Tooltip Selected)" = "Permitir Convidados";
+
+"Allow guests / Don't allow guests (accessibility label)" = "Permitir convidados/Não permitir convidados";
+
+"Anything else you'd like to share?" = "Gostaria de compartilhar algo mais?";
+
+"Are you sure you want to send this message?" = "Tem certeza de que deseja enviar esta mensagem?";
+
+"Are you sure you want to unblock?" = "Tem certeza de que deseja desbloquear?";
+
+"Are you sure? (title)" = "Tem certeza?";
+
+"Ask for Follow (action sheet)" = "Solicitação para Seguir";
+
+"Ask for Share (action sheet)" = "Solicitação para Compartilhar";
+
+"Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Peça para participar desta transmissão como convidado. Você será ouvido por todos e poderá parar a qualquer momento.";
+
+"Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Peça para participar desta transmissão como convidado. Você será ouvido por todos e poderá parar a qualquer momento.";
+
+"Asking to join... Broadcaster must accept you (Local Chat Prompt)" = "Pedindo para participar...\n•|•%@•|• deve aceitá-lo";
+
+"Audio Only (accessibility label)" = "Transmissão Somente de Áudio";
+
+"Audio from: Headphones" = "Áudio de: fones de ouvido";
+
+"Audio from: Phone" = "Áudio de: celular";
+
+"Back" = "Voltar";
+
+"Back (action sheet)" = "Voltar";
+
+"Back Camera (accessibility hint)" = "Toque duas vezes para alternar para a Câmera Frontal";
+
+"Back Camera (accessiblity value)" = "Câmera Traseira";
+
+"Back to %@" = "Voltar para %@";
+
+"Back to Hearts" = "Voltar para os Corações";
+
+"Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. Learn more (Copyright violation)" = "Como você teve várias transmissões recentes que incluíam obras protegidas por direitos autorais, ficará temporariamente impedido de transmitir. •|•Saiba mais•|•";
+
+"Betascope App Feedback" = "Comentar sobre o Aplicativo Periscope";
+
+"Billion Decimal Abbreviation" = "%.1f bi";
+
+"Billion Integer Abbreviation" = "%d bi";
+
+"Block @%@" = "Bloquear @%@";
+
+"Block @%@ (Offensive Report Modal)" = "Bloquear @%@";
+
+"Block And Hang Up (Manage Guest Call-Ins Action Sheet)" = "Bloquear e Desconectar";
+
+"Block User" = "Bloquear Usuário";
+
+"Block Users (%@)" = "Bloquear Usuários (%@)";
+
+"Block {Username}" = "Bloquear @%@";
+
+"Blocked (user modal)" = "Bloqueado";
+
+"Blocked by you" = "Bloqueado por você";
+
+"Blocking will dismiss the broadcast and not report to Periscope. (Offensive Report Modal)" = "Bloquear descartará a transmissão e não a denunciará no Periscope.";
+
+"Broadcast Actions (accessibility hint)" = "Abre um menu de ações da transmissão";
+
+"Broadcast Details (action sheet)" = "Detalhes da Transmissão";
+
+"Broadcast Super Heart Auto-Deletion Warning" = "•|•Esta transmissão não será excluída automaticamente depois de 24 horas•|• para evitar a perda de estrelas dos Super Hearts que você possa receber.\n\nSe quiser, é possível ocultar a transmissão depois que ela terminar para restringir a visibilidade para outras pessoas.";
+
+"Broadcast Title" = "Título da Transmissão";
+
+"Broadcast about to expire (Cell)" = "Transmissão prestes a expirar";
+
+"Broadcast creation" = "Criação de transmissão";
+
+"Broadcaster Has Disabled Call-Ins (Generic Error Message)" = "O transmissor desativou a lista de participantes no momento.";
+
+"Broadcaster blocked •|•@%@•|•" = "Transmissor bloqueado •|•@%@•|•";
+
+"Broadcaster doesn’t accept Super Hearts" = "O transmissor não aceita Super Hearts";
+
+"Broadcaster has assigned chat moderators." = "O transmissor designou moderadores de chat.";
+
+"Broadcaster has to accept your request before you can join as a guest. (Guest Call-In Instructions Subtitle)" = "%@ precisa aceitar sua solicitação para que você possa participar como convidado.";
+
+"Broadcaster is allowing guests to join (Local Chat Prompt)" = "•|•%@•|• está permitindo a participação de convidados";
+
+"Broadcaster is not allowing guests to join (Local Chat Prompt)" = "•|•%@•|• não está permitindo a participação de convidados";
+
+"Broadcasters earn stars from Super Hearts" = "Os transmissores ganham estrelas dos Super Hearts";
+
+"Bummer (ReplayKit)" = "Que chato...";
+
+"CONCATENTATION_ACCESSIBILITY_STRING" = ".";
+
+"CONTRIBUTORS WHO HAVE LEFT" = "COLABORADORES QUE SAÍRAM";
+
+"COULDN'T LOAD REPLAY VIEWERS" = "NÃO FOI POSSÍVEL CARREGAR OS ESPECTADORES DO REPLAY";
+
+"COULDN'T LOAD VIEWERS" = "NÃO FOI POSSÍVEL CARREGAR OS ESPECTADORES";
+
+"Camera Selection (accessibility label)" = "Selecionar Câmera";
+
+"Cancel" = "Cancelar";
+
+"Cancel (action sheet)" = "Cancelar";
+
+"Cancel Call In Button: \"Cancel Request to Join as a Guest\"" = "Cancelar Solicitação para Participar como Convidado";
+
+"Cancel Guest Call-In Instructions Title: \"Waiting to join as a guest...\"" = "Aguardando para participar como convidado...";
+
+"Cannot be undone" = "Não pode ser desfeito";
+
+"Capture Thumbnail (action sheet)" = "Capturar Miniatura";
+
+"Cash Outs (Stars Profile)" = "Resgates em dinheiro";
+
+"Cash out your stars, and continue using live video on Twitter" = "Recolha suas estrelas e continue a usar o vídeo ao vivo no Twitter";
+
+"Change Amplify Program" = "Alterar Programa Amplify";
+
+"Change Expiration (Cell)" = "Alterar data de expiração";
+
+"Change Expiration Subtitle (Cell)" = "Excluir automaticamente em %@";
+
+"Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program." = "Alterar o Programa Amplify para •|•%@•|• excluirá seu Tweet antigo e publicará um novo com o novo Programa.";
+
+"Chatroom too full..." = "Sala de chat cheia demais...";
+
+"Child Safety (Report Option)" = "Segurança Infantil";
+
+"Choose guests to add. You can remove them at any time. (Manage Guest Callers Page Subtitle)" = "Escolha os convidados a serem adicionados. Você pode removê-los a qualquer momento.";
+
+"Close (accessibility label)" = "Fechar";
+
+"Comment Tip Option 1" = "Escreva um comentário para •|•%@•|• saber que você está aqui!";
+
+"Comment Tip Option 2" = "Diga para •|•%@•|• onde você está assistindo!";
+
+"Comment Tip Option 3" = "Diga olá para bater papo com •|•%@•|• e outros espectadores.";
+
+"Commenting is OFF" = "A opção Comentários está DESATIVADA";
+
+"Comments Received (CELL)" = "Comentários Recebidos";
+
+"Comments Received Unavailable (CELL)" = "n/d";
+
+"Compose Direct Message (Accessibility Label)" = "Escrever uma Mensagem Direta";
+
+"Compose New Tweet (Accessibility Label)" = "Publicar um novo Tweet";
+
+"Confirm Call In Button: \"OK, Ask to Join\"" = "OK, Pedir para Participar";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile and audio will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and hear you. This may include people you’ve blocked on either app.\"" = "•\tSeu perfil e áudio se tornarão parte desta transmissão e não poderão ser removidos, a menos que %1$@ exclua a reprise.\n\n•\tTodas as pessoas assistindo no Periscope ou no Twitter poderão ver que você participou da transmissão de %1$@ e poderão ouvi-lo. Isso pode incluir as pessoas que você bloqueou em ambos os aplicativos.";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile, audio and video will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and see you. This may include people you’ve blocked on either app.\"" = "•\tSeu perfil, áudio e vídeo se tornarão parte desta transmissão e não poderão ser removidos, a menos que %1$@ exclua a reprise.\n\n•\tTodas as pessoas assistindo no Periscope ou no Twitter poderão ver que você ingressou na transmissão de %1$@ e poderão vê-lo. Isso pode incluir as pessoas que você bloqueou em ambos os aplicativos.";
+
+"Confirm Guest Call-In Instructions Title: \"Good to know...\"" = "Bom saber...";
+
+"Connecting to chatroom" = "Conectando-se à sala de bate-papo";
+
+"Connection Error" = "Erro de Conexão";
+
+"Connection too" = "Conexão muito";
+
+"Contact Us (action sheet)" = "Entre em contato conosco";
+
+"Contributors" = "Colaboradores";
+
+"Copy Profile URL" = "Copiar URL do Perfil";
+
+"Current Star Balance (Stars Profile)" = "Saldo Atual de Estrelas";
+
+"Current Time (Accessibility Label)" = "Horário atual";
+
+"Dear Periscope Team," = "Cara Equipe do Periscope,";
+
+"Delete Broadcast" = "Excluir transmissão";
+
+"Delete Broadcast (action sheet)" = "Excluir Transmissão";
+
+"Delete Broadcast Now" = "Excluir transmissão agora";
+
+"Describe the issue (Report Option)" = "Descreva o problema";
+
+"Describe the issue with %@ (Report Option)" = "Descreva o problema com @%@";
+
+"Describe the issue with @%1$@ at %2$@ (Report Option)" = "Descreva o problema com @%1$@ às %2$@";
+
+"Describe the issue you are seeing at %@ (Report Option)" = "Descreva o problema que você está vendo em %@";
+
+"Direct Message (Compose)" = "Mensagem Direta";
+
+"Disable Audio Only Broadcast" = "Desativar Transmissão Somente de Áudio";
+
+"Disabled for all broadcasts" = "Função desativada para todas as transmissões";
+
+"Disabled for this broadcast" = "Desativados nesta transmissão";
+
+"Discard Changes" = "Descartar Alterações";
+
+"Display Photo (action sheet)" = "Exibir Foto";
+
+"Dispute Claim (Copyright Violation)" = "Disputar Alegação";
+
+"Do not notify my followers (Guest Call-In Notify Followers Option)" = "Não notificar meus seguidores";
+
+"Don't Allow Guests (Manage Guest Broadcasters Call-Ins List)" = "Não Permitir Convidados";
+
+"Don't Allow Guests (Tooltip)" = "Não Permitir Convidados";
+
+"Don't Auto-Delete" = "Não excluir automaticamente";
+
+"Don't Send (Blocked Modal)" = "Não enviar";
+
+"Done" = "Concluído";
+
+"Done (action sheet)" = "Concluído";
+
+"Double Tap anywhere to Exit Theater Mode (accessibility label)" = "Toque duas vezes em qualquer lugar para sair do Modo Teatro";
+
+"Double Tap to <bold>Flip Camera</bold>" = "Toque duas vezes para •|•Inverter Câmera•|•";
+
+"Double tap to allow or disallow guests (accessibility hint)" = "Tocar duas vezes para permitir ou não permitir convidados";
+
+"Duration (CELL)" = "Duração";
+
+"END (graph)" = "FIM";
+
+"ENDED" = "ENCERRADO";
+
+"Edit Broadcast" = "Editar Transmissão";
+
+"Edit Broadcast (action sheet)" = "Editar Transmissão";
+
+"Edit Broadcast Unavailable" = "Edição da Transmissão Indisponível";
+
+"Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured." = "Editar a transmissão mudará a aparência dela para as pessoas que estão assistindo. Essas alterações não afetarão os Tweets ou as Notificações que já ocorreram.";
+
+"Enable Audio Only Broadcast" = "Ativar Transmissão Somente de Áudio";
+
+"Enable Email" = "Ativar E-mail";
+
+"Enable camera (Permissions Screen)" = "Ativar câmera";
+
+"Enable microphone (Permissions Screen)" = "Ativar microfone";
+
+"Enable/Disable Audio Only Broadcast (accessibility hint)" = "Toque duas vezes para ativar ou desativar a Transmissão Somente de Áudio.";
+
+"Enable/Disable Audio Only Broadcast (accessibility label)" = "Ativar/Desativar Transmissão Somente de Áudio";
+
+"Ended" = "Encerrada";
+
+"Engaging Chat" = "Bate-papo interessante";
+
+"Error (ReplayKit)" = "Erro";
+
+"Error accessing audio from microphone." = "Erro ao acessar o áudio do microfone.";
+
+"Error accessing history." = "Erro ao acessar o histórico.";
+
+"Error saving video to Camera Roll" = "Erro ao salvar vídeo na Galeria da Câmera";
+
+"Error setting Amplify Program (title)" = "Ocorreu um erro ao configurar o Programa Amplify";
+
+"Every heart you send will be a Super Heart" = "Todo coração que você enviar será um Super Heart";
+
+"Everybody can chat" = "Todos podem conversar";
+
+"FEATURED" = "EM DESTAQUE";
+
+"FOLLOWERS (user profile modal)" = "SEGUIDORES";
+
+"FOLLOWING (user profile modal)" = "SEGUINDO";
+
+"Final List separator" = "e";
+
+"Fine Control" = "Controle Refinado";
+
+"First Super Heart" = "Primeiro Super Heart";
+
+"Flip Camera (action sheet)" = "Inverter Câmera";
+
+"Follow (user modal)" = "Seguir";
+
+"Follow request sent. (chat message)" = "Siga o envio da solicitação.";
+
+"Follow the broadcaster to catch their next broadcast." = "Siga o transmissor para conferir sua próxima transmissão.";
+
+"Follow •|•%@•|• to catch their next broadcast" = "Siga •|•%@•|• para conferir sua próxima transmissão";
+
+"Followed by %1$@ and %2$@" = "Seguido por %1$@ e %2$@";
+
+"Followed by %1$@, %2$@, %3$@ and %4$i others" = "Seguido por %1$@, %2$@, %3$@ e mais %4$i";
+
+"Followed by %1$@, %2$@, and %3$@" = "Seguido por %1$@, %2$@ e %3$@";
+
+"Followed by %@" = "Seguido por %@";
+
+"Followers button (accessibility hint)" = "Toque duas vezes para ver seguidores.";
+
+"Following (user modal)" = "Seguindo";
+
+"Following button (accessibility hint)" = "Toque duas vezes para ver quem segue você.";
+
+"Front Camera (accessibility hint)" = "Toque duas vezes para alternar para a Câmera Traseira.";
+
+"Front Camera (accessiblity value)" = "Câmera Frontal";
+
+"Get Coins" = "Obter Moedas";
+
+"Give Super Hearts (menu button)" = "Dar Super Hearts";
+
+"Go LIVE" = "Entrar AO VIVO";
+
+"Go LIVE to %@" = "Entrar AO VIVO para %@";
+
+"Go LIVE together (Guest Broadcasting Modal Title)" = "Entrar AO VIVO juntos";
+
+"Go to Twitter Profile" = "Ir para Perfil do Twitter";
+
+"Good Viewer Count" = "Boa contagem de espectadores";
+
+"Got It (Button Title)" = "Entendi";
+
+"Got it (Copyright Violation)" = "Entendi";
+
+"Got it (ReplayKit)" = "Entendi";
+
+"Got it!" = "Entendi!";
+
+"Guest Action Sheet Report Item" = "Denunciar";
+
+"Guest Call In Choice Label: \"Camera and microphone\"" = "Câmera e microfone";
+
+"Guest Call In Choice Label: \"Microphone only\"" = "Somente o microfone";
+
+"Guest Call-In Audio Only Permissions Subtitle beneath Title: \"Enable microphone to become a guest\"" = "Ative a câmera e o microfone para se tornar um convidado";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request. Learn more\"" = "Você participará quando o transmissor aceitar sua solicitação. •|•Saiba mais•|•";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request.\"" = "Você participará quando o transmissor aceitar sua solicitação.";
+
+"Guest Call-In Instructions Title: \"Ask to Join\"" = "Pedir para Participar";
+
+"Guest Call-In Instructions Title: \"Join as a guest\"" = "Participar como convidado";
+
+"Guest Call-In Permissions Subtitle beneath Title: \"Enable camera and microphone to become a guest\"" = "Ative a câmera e o microfone para se tornar um convidado";
+
+"Guest Call-In Permissions Title: \"Guest setup\"" = "Configuração de convidado";
+
+"Guest List (Manage Guest Callers Page Title)" = "Lista de Convidados";
+
+"Guest Was Banned Chat Message (Periscope)" = "O nome de usuário •|•@%@•|• foi denunciado. O Periscope analisou a denúncia e descobriu que as Diretrizes da Comunidade foram violadas.";
+
+"Guest Was Banned Chat Message (Twitter)" = "O nome de usuário •|•@%@•|• foi denunciado. O Twitter analisou a denúncia e descobriu que as Regras do Twitter foram violadas.";
+
+"Guests Not Allowed (Manage Guest Broadcasters Call-Ins List)" = "Não São Permitidos Convidados";
+
+"Guests can now ask to join. Use this icon to add or remove guests at any time. (Guest Broadcasting Enabled Prompt)" = "Agora os convidados podem pedir para participar. Use este ícone para adicioná-los ou removê-los a qualquer momento.";
+
+"HEART" = "FAVORITO";
+
+"HEARTS" = "FAVORITOS";
+
+"Half-Speed" = "Meia-velocidade";
+
+"Hang Up (Guest Calling Menu)" = "Desconectar";
+
+"Hang Up (Manage Guest Call-Ins Action Sheet)" = "Desconectar";
+
+"Hang Up Button Label: \"Hang Up\"" = "Desconectar";
+
+"Hang Up Subtitle (Audio Only): \"Stop sharing microphone\"" = "Parar de compartilhar o microfone";
+
+"Hang Up Subtitle (Camera + Microphone): \"Stop sharing camera and microphone\"" = "Parar de compartilhar a câmera e o microfone";
+
+"Hang Up on Guest or Cancel Guest From Joining" = "Desconectar convidado ou cancelar a participação do convidado";
+
+"Hang up" = "Desconectar";
+
+"Harassment" = "Assédio";
+
+"Hateful Conduct (Report Option)" = "Conduta de propagação de ódio";
+
+"Heart Sent (accessiblity announcement)" = "Enviar Favorito";
+
+"Hearts & Chats off" = "Corações e bate-papo desativados";
+
+"Hearts & Chats on" = "Corações e bate-papo ativados";
+
+"Help us moderate this comment..." = "Ajude a moderar este comentário...";
+
+"Help us understand the problem.\nWhat issue with @%@ are you reporting?" = "Ajude-nos a entender o problema.\nPor que você está denunciando @%@?";
+
+"Hide Broadcast" = "Ocultar Transmissão";
+
+"Hide everything except video (action sheet)" = "Ocultar tudo, exceto o vídeo";
+
+"History (profile view title)" = "Histórico";
+
+"History button (accessibility hint)" = "Toque duas vezes para ver transmissões recentes.";
+
+"How can we improve?" = "Como podemos melhorar?";
+
+"How was your broadcasting experience?" = "Como foi sua experiência de transmissão?";
+
+"I'm Not Interested in @%@" = "Não tenho interesse em @%@";
+
+"If this broadcast depicts pornography or sexual acts, please tap below. (Report Sexual Content Modal)" = "Se esta transmissão destaca pornografia ou atos sexuais, toque abaixo.";
+
+"If you believe that this broadcast places a child at risk, please tap below. (Report Child Safety Modal)" = "Se você acredita que esta transmissão coloca uma criança em risco, toque abaixo.";
+
+"If you believe this broadcast contains violence or someone is being physically threatened, please tap below. (Report Violence Modal)" = "Se você acredita que esta transmissão contém violência ou que alguém esteja sendo ameaçado fisicamente, toque abaixo.";
+
+"If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Se você acredita que esta transmissão direciona uma conduta de ódio contra uma categoria protegida (por exemplo, raça, religião, gênero, orientação, deficiência), toque abaixo.";
+
+"If you believe this broadcast exposes private information, please tap below. (Report Private Information Modal)" = "Se você acredita que esta transmissão expõe informações privadas, toque abaixo.";
+
+"If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below. (Report Harassment Modal)" = "Se você acredita que esta transmissão assedia, intimida ou usa o medo para silenciar a voz de outra pessoa, toque abaixo.";
+
+"If you believe this guest is contemplating or encouraging suicide or self harm, please tap below. (Report Self Harm Modal)" = "Se você acredita que este convidado está pensando em suicídio ou automutilação ou incentivando essas práticas, toque abaixo.";
+
+"If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Se você acredita que este convidado está direcionando uma conduta de ódio contra uma categoria protegida (por exemplo, raça, religião, gênero, orientação, deficiência), toque abaixo.";
+
+"If you believe this guest is exposing private information, please tap below. (Report Private Information Modal)" = "Se você acredita que este convidado está expondo informações privadas, toque abaixo.";
+
+"If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below. (Report Harassment Modal)" = "Se você acredita que este convidado está assediando, intimidando ou usando o medo para silenciar a voz de outra pessoa, toque abaixo.";
+
+"If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below. (Report Violence Modal)" = "Se você acredita que este convidado está fazendo ameaças violentas específicas que envolvem segurança física ou bem-estar, toque abaixo.";
+
+"If you believe this guest is sharing content that places a child at risk, please tap below. (Report Child Safety Modal)" = "Se você acredita que este convidado está compartilhando conteúdo que coloca uma criança em risco, toque abaixo.";
+
+"If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below. (Report Sexual Content Modal)" = "Se você acredita que este convidado está compartilhando conteúdo sexual inapropriado, como pornografia, toque abaixo.";
+
+"If you believe this individual is contemplating suicide or self harm, please tap below. (Report Self Harm Modal)" = "Se você acredita que esta pessoa está contemplando suicídio ou automutilação, toque abaixo.";
+
+"If you delete this broadcast, you will lose the stars that you received. This cannot be undone." = "Se excluir esta transmissão, você perderá as estrelas que recebeu. Isso não pode ser desfeito.";
+
+"Initializing video stream..." = "Inicializando transmissão de vídeo...";
+
+"Invite Guests (Manage Guest Broadcasters Call-Ins List)" = "Convidar";
+
+"Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Convide espectadores para participar de sua transmissão como convidados. Eles serão ouvidos por todos e você poderá adicioná-los ou removê-los a qualquer momento.";
+
+"Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Convide espectadores para participar de sua transmissão como convidados. Eles serão ouvidos por todos e você pode adicioná-los ou removê-los a qualquer momento.";
+
+"Join as a Guest (Guest Calling Menu)" = "Participar como Convidado";
+
+"Joined %@" = "Participa desde %@";
+
+"Joining as a guest... (Guest Call-In Countdown Screen Title)" = "Ingressando como convidado...";
+
+"Keep broadcasting to collect more stars!" = "Continue transmitindo para juntar mais estrelas!";
+
+"Keep stars received" = "Mantém as estrelas recebidas";
+
+"LIVE" = "AO VIVO";
+
+"LIVE VIEWER" = "ESPECTADOR AO VIVO";
+
+"LIVE VIEWERS" = "ESPECTADORES AO VIVO";
+
+"LIVE Video (Broadcast Audience)" = "Vídeo AO VIVO";
+
+"LIVE on #Periscope" = "AO VIVO no #Periscope";
+
+"LIVE on #Periscope: %@" = "AO VIVO no #Periscope: %@";
+
+"LOADING" = "CARREGANDO";
+
+"LOST CONNECTION" = "PERDA DE CONEXÃO";
+
+"Later (alert view)" = "Depois";
+
+"Learn More" = "Saiba mais";
+
+"Learn More (Stars Profile)" = "Saiba mais";
+
+"Leave Broadcast" = "Sair de Transmissão";
+
+"Limited by Broadcaster" = "Limitado pelo Transmissor";
+
+"Limited for %@" = "Limite de %@";
+
+"List separator" = ",";
+
+"Live Time Watched (CELL)" = "Tempo assistido ao vivo";
+
+"Live watch time per minute tooltip" = "Para cada minuto que esta transmissão estava sendo exibida ao vivo, os espectadores gastaram um total combinado de %@ assistindo-a.";
+
+"Loading History." = "Carregando Histórico.";
+
+"Loading followers" = "Carregando seguidores";
+
+"Loading following" = "Carregando quem você está seguindo";
+
+"Loading history" = "Carregando histórico";
+
+"Loading your followers" = "Carregando seus seguidores";
+
+"Loading your following" = "Carregando quem você está seguindo";
+
+"Location Permissions Required" = "Permissões de Localização Necessárias";
+
+"Location Unknown" = "Localização Desconhecida";
+
+"Logged Out" = "Desconectado";
+
+"Login Error (ReplayKit)" = "Acesso Necessário";
+
+"Login Error Instructions (ReplayKit)" = "Abra o aplicativo Periscope para acessar. Depois, volte para esta página para iniciar sua transmissão.";
+
+"Looks OK" = "Parece OK";
+
+"Looks like the connection was lost. Reconnecting... (Toast)" = "Parece que a conexão foi perdida. Reconectando...";
+
+"Lose stars received" = "Perde as estrelas recebidas";
+
+"Low Viewer Count" = "Baixa contagem de espectadores";
+
+"Low disk space. A portion of this broadcast will not be available for replay later." = "Pouco espaço em disco. Uma parte dessa transmissão não estará disponível para replay mais tarde.";
+
+"Majority voted <destructive emphasis> Abuse </destructive emphasis>\nThe commenter's chat has been limited." = "A maioria dos votos indica •|• Assédio •|•\nO chat do autor do comentário foi limitado.";
+
+"Majority voted <destructive emphasis> Looks OK  </destructive emphasis>" = "Votação majoritária •|• Parece OK •|•";
+
+"Majority voted <destructive emphasis> Not Sure </destructive emphasis>" = "Votação majoritária •|• Não tenho certeza •|•";
+
+"Majority voted <destructive emphasis> Spam </destructive emphasis>\nThe commenter's chat has been limited." = "A maioria dos votos indica •|• Spam •|•\nO autor do comentário foi limitado.";
+
+"Makes broadcast visible to everyone" = "Torna a transmissão visível para todos";
+
+"Makes broadcast visible to invited viewers" = "Torna a transmissão visível para os espectadores convidados";
+
+"Manage details about your Broadcast (menu subtitle)" = "Gerenciar detalhes de sua Transmissão";
+
+"Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen." = "Mensagens como esta costumam ser bloqueadas. Se você for bloqueado muitas vezes, seus comentários não serão mais vistos.";
+
+"Million Decimal Abbreviation" = "%.1f mi";
+
+"Million Integer Abbreviation" = "%d mi";
+
+"Moderation Modal Button Label" = "OK, entendo";
+
+"Moderation Modal Example Label" = "EXEMPLO";
+
+"Moderation Modal Example Message" = "Mensagem questionável...";
+
+"Moderation Modal Settings Label" = "Você pode desativar isso nas configurações.";
+
+"Moderation Modal Subtitle" = "Ocasionalmente, pediremos para você moderar um comentário determinando rapidamente como •|•ASSÉDIO•|• ou •|•SPAM•|•. A moderação é anônima.";
+
+"Moderation Modal Title" = "Moderação";
+
+"Moderator Actions" = "Ações do Moderador";
+
+"Moderator Actions (%@)" = "Ações do Moderador (%@)";
+
+"Moderator •|•%@•|• joined" = "O moderador •|•%@•|• ingressou";
+
+"ModeratorName muted this message (Message Carousel)" = "•|•%@•|• silenciou esta mensagem";
+
+"Monetize Broadcast" = "Monetizar Transmissão";
+
+"Monetize Broadcast (expanded cell title)" = "Monetizar Transmissão";
+
+"Monetize Broadcast (minimized cell title)" = "Monetizar Transmissão ▾";
+
+"More (following/followers)" = "Mais";
+
+"Mute" = "Silenciar";
+
+"Mute (accessibility label)" = "Silenciar";
+
+"Mute User" = "Silenciar Usuário";
+
+"Mute User Notifications" = "Silenciar Notificações do Usuário";
+
+"Muted by Moderator" = "Silenciado pelo Moderador";
+
+"NEW" = "NOVO";
+
+"NO LIVE VIEWERS" = "NENHUM ESPECTADOR AO VIVO";
+
+"NO REPLAY VIEWERS" = "NENHUM ESPECTADOR DA REPETIÇÃO";
+
+"New Broadcaster Education: 3 Guest Limit" = "Você pode ter até 3 convidados ao mesmo tempo.";
+
+"New Tweet (Compose)" = "Novo Tweet";
+
+"No history." = "Nenhum histórico.";
+
+"No one has asked to join yet. Tap to invite your viewers to join. (Empty Manage Guest Broadcasters Call-Ins List)" = "Ninguém pediu para participar ainda.\n\nToque e convide seus espectadores para participar.";
+
+"No one is following you." = "Ninguém está seguindo você.";
+
+"No, stop broadcasting (Copyright Violation)" = "Não, parar transmissão";
+
+"Not Sure" = "Não tenho certeza";
+
+"Not followed by anyone you're following" = "Não é seguido por ninguém que você segue";
+
+"Notifications (accessiblity label)" = "Notificações";
+
+"Notifications OFF" = "Notificações Desativadas";
+
+"Notifications ON" = "Notificações Ativadas";
+
+"Notifications Off (accessibility hint)" = "Toque duas vezes para ativar notificações deste usuário.";
+
+"Notifications Off (accessibility value)" = "Desativado";
+
+"Notifications On (accessibility hint)" = "Toque duas vezes para desativar notificações deste usuário.";
+
+"Notifications On (accessibility value)" = "Ativado";
+
+"Notify my followers (Guest Call-In Notify Followers Option)" = "Notificar meus seguidores";
+
+"OK, Got It" = "OK, entendi";
+
+"Offensive Guest (Report Option)" = "Convidado ofensivo";
+
+"Okay (Report Broadcast Modal)" = "OK";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Um ou mais de seus comentários foram ocultados por ASSÉDIO. Os comentários estão desativados para todas as transmissões.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast." = "Um ou mais de seus comentários foram ocultados por ASSÉDIO. Os comentários estão desativados para esta transmissão.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Um ou mais de seus comentários foram ocultados por ASSÉDIO. Os comentários estão limitados temporariamente para todas as transmissões.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited." = "Um ou mais de seus comentários foram ocultados por ASSÉDIO. Os comentários estão limitados temporariamente.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts." = "Um ou mais de seus comentários foram ocultados por SPAM. Os comentários estão desativados para todas as transmissões.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast." = "Um ou mais de seus comentários foram ocultados por SPAM. Os comentários estão desativados para esta transmissão.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Um ou mais de seus comentários foram ocultados por SPAM. Os comentários estão limitados temporariamente para todas as transmissões.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited." = "Um ou mais de seus comentários foram ocultados por SPAM. Os comentários estão limitados temporariamente.";
+
+"One or more of your comments was hidden. Commenting is disabled for all broadcasts." = "Um ou mais de seus comentários foram ocultados. Os comentários estão desativados para todas as transmissões.";
+
+"One or more of your comments was hidden. Commenting is disabled for this broadcast." = "Um ou mais de seus comentários foram ocultados. Os comentários estão desativados para esta transmissão.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts." = "Um ou mais de seus comentários foram ocultados. Os comentários estão limitados temporariamente para todas as transmissões.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited." = "Um ou mais de seus comentários foram ocultados. Os comentários estão limitados temporariamente.";
+
+"One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast." = "Um ou mais de seus comentários foram silenciados por um moderador. Os comentários estão desativados para esta transmissão.";
+
+"Only available in Periscope" = "Disponível somente no Periscope";
+
+"Only public broadcasts counted" = "Somente transmissões públicas são contabilizadas";
+
+"Only users you follow can chat" = "Apenas quem você segue pode conversar";
+
+"Only you can see your hidden broadcasts (menu subtitle)" = "Só você pode ver suas transmissões ocultas";
+
+"Other Reason (Report Option)" = "Outro motivo";
+
+"Other Reason \n e.g. Foreign Language" = "Outro motivo•|•\npor exemplo, Idioma estrangeiro•|•";
+
+"Our apologies for the inconvenience." = "Desculpe-nos pelo transtorno.";
+
+"POOR CONNECTION" = "CONEXÃO RUIM";
+
+"POSSIBLY NSFW (Interstitial)" = "POSSIVELMENTE IMPRÓPRIO";
+
+"Pause (accessibility label)" = "Pausar";
+
+"Peak (graph label)" = "Pico";
+
+"Periscope App Feedback" = "Comentar sobre o Aplicativo Periscope";
+
+"Periscope account is required." = "A conta do Periscope é obrigatória.";
+
+"Periscope is discontinuing on •|•%@•|•" = "O Periscope será desativado em •|•%@•|•";
+
+"Play (accessibility label)" = "Reproduzir";
+
+"Please allow some time for all transactions to be posted." = "Aguarde um tempo até que todas as transações sejam processadas.";
+
+"Positive Community" = "Comunidade positiva";
+
+"Post to Twitter (accessibility hint)" = "Toque duas vezes para alternar";
+
+"Post to Twitter (accessibility label)" = "Publicar no Twitter";
+
+"Posting to Twitter OFF" = "Publicações no Twitter DESATIVADAS";
+
+"Posting to Twitter as @%@" = "Publicar no Twitter como @%@";
+
+"Precise Location Sharing OFF" = "Localização Exata Desativada";
+
+"Precise Location Sharing ON" = "Localização Exata Ativada";
+
+"Private (Broadcast Audience)" = "Privado";
+
+"Private Information (Report Option)" = "Informações privadas";
+
+"Profile (accessibility label)" = "Perfil";
+
+"Profile URL copied" = "URL do Perfil copiado";
+
+"Public (Broadcast Audience)" = "Público";
+
+"Public Hidden (Broadcast Audience)" = "Público (Oculto)";
+
+"Quarter-Speed" = "Um quarto da velocidade";
+
+"RECENT (user profile modal)" = "RECENTE";
+
+"REPLAY VIEWER" = "ESPECTADOR DA REPETIÇÃO";
+
+"REPLAY VIEWERS" = "ESPECTADORES DA REPETIÇÃO";
+
+"Ready to give Super Hearts!" = "Pronto para dar Super Hearts!";
+
+"Received in: (History)" = "Recebido em: \"%@\"";
+
+"Received stars (History)" = "Estrelas recebidas.";
+
+"Release to <bold>Leave</bold> (broadcasting)" = "Solte para •|•Sair•|•";
+
+"Release to <bold>Leave</bold> (watching)" = "Solte para •|•Sair•|•";
+
+"Release to Refresh" = "Solte para Atualizar";
+
+"Remove" = "Remover";
+
+"Remove Amplify Program" = "Remover Programa Amplify";
+
+"Remove Amplify Program (cell title)" = "Remover Programa Amplify";
+
+"Remove Location" = "Remover Localização";
+
+"Remove at least 1 character from your title to make room for #(example hashtag)" = "Remova pelo menos 1 caractere do seu título para criar espaço para %@";
+
+"Remove at least X characters from your title to make room for #(example hashtag)" = "Remova pelo menos %lu caracteres do seu título para criar espaço para %@";
+
+"Replay Time Watched (CELL)" = "Tempo assistido de reprodução";
+
+"Replay Unavailable" = "Repetição Indisponível";
+
+"Replay watch time per minute tooltip" = "Para cada minuto de reprodução desta transmissão, os espectadores gastaram um total combinado de %@ assistindo-a.";
+
+"Reply" = "Responder";
+
+"Report @<guest's username> (Report Guest Modal)" = "Denunciar @%@";
+
+"Report Abusive Behavior (Report Abusive Behavior Modal)" = "Comportamento abusivo";
+
+"Report Abusive Profile" = "Denunciar perfil abusivo";
+
+"Report As Spam" = "Denunciar como spam";
+
+"Report Broadcast (Report Broadcast Modal)" = "Denunciar Transmissão";
+
+"Report Child Safety (Report Child Safety Modal)" = "Segurança infantil";
+
+"Report Comment" = "Denuciar comentário";
+
+"Report Hateful Conduct (Report Hateful conduct Modal)" = "Conduta de propagação de ódio";
+
+"Report Private Information (Report Private Information Modal)" = "Informações privadas";
+
+"Report Self-Harm (Report Self Harm Modal)" = "Automutilação";
+
+"Report Sexual Content (Report Sexual Content Modal)" = "Conteúdo Sexual";
+
+"Report User" = "Denunciar usuário";
+
+"Report Violence (Report Violence Modal)" = "Violência";
+
+"Reporting is anonymous and will hide the user's comments (just for you)." = "A denúncia é anônima e ocultará os comentários do usuário (apenas para você).";
+
+"Restrict Chat (accessibility hint)" = "Toque duas vezes para alternar entre bate-papo restrito com usuários que você segue.";
+
+"Restrict Chat (accessibility label)" = "Bate-papo Restrito";
+
+"Return to Summary (accessibility hint)" = "Toque duas vezes para voltar ao resumo do usuário.";
+
+"Retweet" = "Retweetar";
+
+"Save Changes" = "Salvar Alterações";
+
+"Save To Camera Roll" = "Salvar na Galeria da Câmera";
+
+"Save To Camera Roll Unavailable" = "Opção Salvar na Galeria da Câmera não disponível";
+
+"Saved To Camera Roll" = "Salvar na Galeria da Câmera";
+
+"Saved!" = "Salvo!";
+
+"Saving..." = "Salvando...";
+
+"Say something..." = "Diga algo...";
+
+"Scroll for Old Comments" = "Role para ver os Comentários Antigos";
+
+"Scroll to Bottom" = "Rolar até o final";
+
+"Self-Harm (Report Option)" = "Automutilação";
+
+"Send (accessibility label)" = "Enviar";
+
+"Send Message (Blocked Modal)" = "Enviar mensagem";
+
+"Send people a notification to join this broadcast. Mutuals are people you follow that follow you back." = "Envie uma notificação ao pessoal para participar desta transmissão. Seguidores mútuos são pessoas que você segue e que também seguem você.";
+
+"Sent for payment processing (History)" = "Enviado para o processamento do pagamento.";
+
+"Separator between two names" = "e";
+
+"Set Amplify Program" = "Definir Programa Amplify";
+
+"Setting the broadcast Amplify Program to •|•%@•|• will publish a new Tweet." = "Configurar a transmissão do Programa Amplify para %@ publicará um novo Tweet.";
+
+"Settings (app)" = "Configurações";
+
+"Sexual Content (Report Option)" = "Conteúdo Sexual";
+
+"Sexually Inappropriate \n Obscene or unwanted sexual remarks" = "Sexualmente inadequado•|•\nObservações sexuais obscenas ou indesejadas•|•";
+
+"Share Broadcast" = "Compartilhar Transmissão";
+
+"Share From" = "Compartilhar a partir de";
+
+"Share From %@" = "Compartilhar a partir de %@";
+
+"Share From Beginning" = "Compartilhar do início";
+
+"Share Live" = "Compartilhar ao vivo";
+
+"Share Twitter Tooltip (explaining that the feature is disabled while guests are enabled)" = "Função desativada para transmissões com convidados";
+
+"Share precise location (accessibility label)" = "Compartilhar Localização Exata";
+
+"Share request sent. (chat message)" = "Compartilhe o envio da solicitação.";
+
+"Share screenshot and broadcast" = "Compartilhar captura de tela e transmissão";
+
+"Share this broadcast so your followers don't miss it." = "Compartilhe esta transmissão para que seus seguidores não percam.";
+
+"Share via..." = "Compartilhar por...";
+
+"Show Stats (cell)" = "Mostrar estatísticas";
+
+"Skip" = "Pular";
+
+"Sorry, that action could not be completed because you have been blocked." = "Lamentamos, mas esta ação não pôde ser concluída porque você está bloqueado.";
+
+"Sorry, that action could not be completed because you have reached the block limit." = "Desculpe, esta ação não pôde ser concluída porque você atingiu o limite de bloqueio.";
+
+"Sorry, that action could not be completed because you have reached the follow limit." = "Desculpe, esta ação não pôde ser concluída porque você atingiu o limite para seguir.";
+
+"Sorry, the broadcast is too full..." = "Desculpe. A transmissão está muito cheia...";
+
+"Sorry, this broadcast is unavailable" = "Desculpe, esta transmissão está indisponível";
+
+"Sorry, we couldn't load the broadcast share URL. Please try again." = "Desculpe, não foi possível carregar a transmissão desta URL. Por favor, tente novamente.";
+
+"Sorry, we couldn't save your changes. Please try again." = "Desculpe, não foi possível salvar suas alterações. Tente novamente.";
+
+"Sorry, we encountered an error blocking some users. Please try again." = "Ocorreu um erro ao bloquear alguns usuários. Tente novamente.";
+
+"Sorry, we encountered an error blocking that user. Please try again." = "Desculpe, ocorreu um erro ao bloquear este usuário. Por favor, tente novamente.";
+
+"Sorry, we encountered an error loading user data. Please try again." = "Desculpe, ocorreu um erro ao carregar os dados do usuário. Tente novamente.";
+
+"Sorry, we encountered an error loading your broadcasts. Please try again." = "Lamentamos, mas encontramos um erro ao carregar suas transmissões. Tente novamente.";
+
+"Sorry, we encountered an error reporting this broadcast. Please try again." = "Desculpe, ocorreu um erro ao denunciar esta transmissão. Por favor, tente novamente.";
+
+"Sorry, we encountered an error reporting this guest. Please try again." = "Ocorreu um erro ao denunciar este convidado. Tente novamente.";
+
+"Sorry, we've encountered a loading error. Please try again." = "Desculpe, ocorreu um erro ao carregar. Por favor, tente novamente.";
+
+"Sorry, you've done that too many times. Try again in a few minutes." = "Você fez isso muitas vezes. Tente novamente em alguns minutos.";
+
+"Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv" = "Ocorreu um erro de carregamento (421 - seletor). Envie um e-mail para help@pscp.tv";
+
+"Sorry, you've encountered a loading error (421). Please email help@pscp.tv" = "Ocorreu um erro de carregamento (421). Envie um e-mail para help@pscp.tv";
+
+"Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later." = "Desculpe, mas o sinal de sua conexão de Internet não é forte o suficiente para carregar uma nova miniatura da transmissão. Tente mais tarde.";
+
+"Spam" = "Spam";
+
+"Spam in Chat" = "Spam no bate-papo";
+
+"Star & Cash Outs History (Stars Profile)" = "Histórico de Estrelas e Resgates por Dinheiro";
+
+"Star History (Stars Profile)" = "Histórico de Estrelas";
+
+"Star balance adjustment. Contact superhearts@pscp.tv if you have any questions. (History)" = "Ajuste no saldo de estrelas. Entre em contato com superhearts@pscp.tv se você tiver alguma dúvida.";
+
+"Stars (profile view title)" = "Estrelas";
+
+"Stars (profile)" = "Estrelas";
+
+"Start Point" = "Ponto de Início";
+
+"Start Sketching (action sheet)" = "Iniciar Esboço";
+
+"Stop Broadcast" = "Parar Transmissão";
+
+"Submit" = "Enviar";
+
+"Success! You've unmuted @%@" = "Êxito! Você desativou o silêncio de @%@";
+
+"Successfully set Amplify Program (title)" = "Definição do Programa Amplify efetuada com sucesso";
+
+"Suggested user is watching singlular" = "%@•|• está assistindo agora•|•";
+
+"Suggested users are watching plural" = "%ld amigos•|• estão assistindo agora•|•";
+
+"Super Broadcaster (Stars Profile)" = "Super Broadcaster";
+
+"Super Broadcaster Program" = "Programa Super Broadcaster";
+
+"Super Heart Terms" = "Termos do Super Heart";
+
+"Super Hearts" = "Super Hearts";
+
+"Super Hearts OFF" = "Super Hearts DESATIVADOS";
+
+"Super Hearts ON" = "Super Hearts ATIVADO";
+
+"Swipe down to <bold>Stop</bold>" = "Deslize para baixo para •|•Parar•|•";
+
+"Tap anyhwhere to <bold>Exit Theater Mode</bold>" = "Toque em qualquer lugar para •|•Sair do Modo Teatro•|•";
+
+"Tap this icon to join Broadcaster's broadcast as a guest. (Viewer Prompt to Call-In)" = "Toque neste ícone para participar da transmissão de •|•%@•|• como convidado.";
+
+"Thank You (Report Broadcast Confirmation Modal)" = "Obrigado";
+
+"Thank you for your report" = "Obrigado pela denúncia";
+
+"Thank you for your report (Chat Prompt)" = "Obrigado pela denúncia";
+
+"Thank you for your report." = "Agradecemos a denúncia.";
+
+"Thank you. You won't see any more messages from •|•@%@•|• in this broadcast." = "Obrigado.\n  Você não verá mais mensagens de •|•@%@•|• nesta transmissão.";
+
+"Thanks %@!" = "Obrigado %@!";
+
+"Thanks for your feedback!" = "Agradecemos seu feedback.";
+
+"The broadcaster blocked you in response to this message." = "O transmissor bloqueou você em resposta a esta mensagem.";
+
+"The broadcaster has limited chat." = "O transmissor limitou o bate-papo.";
+
+"The broadcaster has the ability to remove people from their broadcasts." = "O transmissor tem a capacidade de remover pessoas das transmissões dele.";
+
+"The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•." = "A loja de moedas fechou. Se você tiver moedas restantes, use-as para enviar Super Hearts aos seus transmissores favoritos até •|•%@•|•.";
+
+"Theater Mode (action sheet)" = "Modo Teatro";
+
+"Their name, bio, or profile image violates the Community Guidelines" = "O nome, a bio ou a imagem do perfil deles viola as Diretrizes da Comunidade";
+
+"There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat." = "Há muitas pessoas assistindo a isto agora! Para limitar as mensagens para o transmissor, somente quem entrou por último pode usar o bate-papo.";
+
+"There was an error adding @username as a guest. Please try again." = "Ocorreu um erro ao adicionar @%@ como convidado. Tente novamente.";
+
+"There was an error adding you as a guest. We've notified Broadcaster, and will alert you if we're able to try again." = "Ocorreu um erro ao adicionar você como convidado. Notificamos %@ e avisaremos você se pudermos tentar novamente.";
+
+"There was an error allowing guests. Please try again." = "Ocorreu um erro ao permitir convidados. Tente novamente.";
+
+"There was an error cancelling your request. Please try again." = "Ocorreu um erro ao cancelar sua solicitação. Tente novamente.";
+
+"There was an error cancelling. Please try again." = "Ocorreu um erro ao cancelar. Tente novamente.";
+
+"There was an error disallowing guests. Please try again." = "Ocorreu um erro ao não permitir convidados. Tente novamente.";
+
+"There was an error inviting guests. Please try again." = "Ocorreu um erro ao convidar. Tente novamente.";
+
+"There was an error muting or un-muting @username. Please try again." = "Ocorreu um erro ao silenciar ou desativar o silêncio de @%@. Tente novamente.";
+
+"There was an error muting or un-muting you. Please try again." = "Ocorreu um erro ao silenciar ou desativar seu silêncio. Tente novamente.";
+
+"There was an error removing your guest @username. Please try again." = "Ocorreu um erro ao remover seu convidado @%@. Tente novamente.";
+
+"There was an error sending your request to join as a guest. Please try again." = "Ocorreu um erro ao enviar sua solicitação para participar como convidado. Tente novamente.";
+
+"There was an error updating the settings (conversation controls and mentioned users). Please try again." = "Ocorreu um erro ao atualizar as configurações (controles de conversa e usuários mencionados). Tente novamente.";
+
+"There was an error updating the settings (locked/unlocked). Please try again." = "Houve um erro ao atualizar as configurações (bloqueado/desbloqueado). Tente novamente.";
+
+"This broadcast is no longer available." = "Esta transmissão não está mais disponível.";
+
+"This broadcast isn’t available (Copyright Violation)" = "Esta transmissão não está disponível";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}." = "Esta transmissão corresponde a \"%1$@\", uma obra protegida por direitos autorais de %2$@. •|•Saiba mais•|•";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}. Do you have all rights necessary to broadcast this video on Twitter?" = "Esta transmissão corresponde a \"%1$@\", uma obra protegida por direitos autorais de %2$@. Você tem todos os direitos necessários para transmitir este vídeo no Twitter?";
+
+"This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video." = "Esta transmissão foi filmada com uma câmera em 360 graus. O Periscope não oferece mais suporte à reprodução de vídeos em 360 graus.";
+
+"This broadcast’s title can’t be edited. Learn more (Copyright Violation)" = "Não é possível editar o título desta transmissão. •|•Saiba mais•|•";
+
+"This is optional" = "Este campo é opcional";
+
+"This user doesn't have any followers yet" = "Esse usuário ainda não tem nenhum seguidor";
+
+"This user has not broadcasted yet" = "Esse usuário ainda não fez nenhuma transmissão";
+
+"This user isn't following anyone yet" = "Esse usuário não está seguindo ninguém ainda";
+
+"Thousand Decimal Abbreviation" = "%.1f mil";
+
+"Thousand Integer Abbreviation" = "%d mil";
+
+"Thumbnail" = "Miniatura";
+
+"Time Watched (CELL)" = "Tempo assistido";
+
+"Title (accessibility label)" = "Título";
+
+"To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off." = "Para conversar, ative a opção \"Conectar ao Periscope\" em suas configurações. Se a sua conta tiver a opção \"Proteger meus Tweets\" ativada, será preciso baixar o Periscope e criar uma conta nele ou alternar para uma conta do Twitter com a opção \"Proteger meus Tweets\" desativada.";
+
+"To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos." = "Para salvar seu vídeo, o Periscope precisa de permissão para acessar suas Fotos. Para ativar essa função para uma próxima transmissão, toque em Configuraçõe e ative a opção para Fotos.";
+
+"To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account." = "Para enviar feedback por e-mail, você precisa configurar o e-mail em seu aparelho primeiro. Primeiramente, abra o aplicativo Configurações. Em seguida, vá para E-mail, Contatos, Calendários e selecione Adicionar Conta.";
+
+"To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option." = "Para compartilhar sua localização, o Periscope precisa de permissão para acessá-la em seu aparelho. Clique no botão Configurações e, em seguida, vá para Localização e selecione Enquanto Estiver Usando o Aplicativo.";
+
+"Top Contributor" = "Colaborador Principal";
+
+"Total watch time per minute tooltip" = "Para cada minuto desta transmissão, os espectadores gastaram um total combinado de %@ assistindo-a.";
+
+"Total watch time per minute tooltip (broadcaster)" = "Para cada minuto desta transmissão, os espectadores gastaram um total combinado de %@ assistindo-a. Esta estatística normaliza o tempo assistido em transmissões de diferentes durações.";
+
+"Trying to reconnect" = "Tente reconectar";
+
+"Twitter Post OFF" = "Publicar no Twitter Desativado";
+
+"Twitter Post ON" = "Publicar no Twitter Ativado";
+
+"Unable to load broadcast." = "Não foi possível carregar a transmissão.";
+
+"Unblock User" = "Desbloquear Usuário";
+
+"Unfollow User" = "Deixar de Seguir o Utilizador";
+
+"Unhide Broadcast (menu button)" = "Exibir Novamente a Transmissão";
+
+"Unmute" = "Desativar Silêncio";
+
+"Unmute User" = "Desativar Silêncio do Usuário";
+
+"Unmute User Notifications" = "Desativar Silêncio das Notificações do Utilizador";
+
+"Untitled" = "Sem título";
+
+"User has not provided a profile description." = "O usuário não forneceu uma descrição de perfil.";
+
+"Very bad" = "Muito ruim";
+
+"Very good" = "Muito bom";
+
+"Video Issues" = "Problemas de vídeo";
+
+"Video Quality" = "Qualidade do vídeo";
+
+"Video will resume if signal improves" = "O vídeo será retomado se o sinal melhorar";
+
+"View Broadcast Actions (accessibility label)" = "Visualizar Ações da Transmissão";
+
+"View Participants (accessibility label)" = "Ver Participantes";
+
+"View Profile" = "Ver Perfil";
+
+"View Stats" = "Ver Estatísticas";
+
+"Viewers can give you Super Hearts.\n<link>Learn more.</link>" = "Os espectadores podem dar Super Hearts a você.\n•|•Saiba mais.•|•";
+
+"Viewers cannot give you Super Hearts.\n<link>Learn more.</link>" = "Os espectadores não podem dar Super Hearts a você.\n•|•Saiba mais.•|•";
+
+"Violence (Report Option)" = "Violência";
+
+"Waiting for other responses..." = "Aguardando outras respostas...";
+
+"Waiting for you to <bold>login</bold>." = "A aguardar que •|•inicie sessão•|•.";
+
+"Watch %1$@'s broadcast: %2$@" = "Assista à transmissão de %1$@: %2$@";
+
+"Watch %@'s broadcast." = "Assista à transmissão de %@.";
+
+"Watch LIVE" = "Assistir •|•AO VIVO•|•";
+
+"Watch Live" = "Assistir AO VIVO";
+
+"Watch Replay" = "Assistir Retransmissão";
+
+"Watch Stream (User Activity)" = "Assistir Transmissão";
+
+"Watch on #Periscope" = "Assistir no #Periscope";
+
+"Watch on #Periscope: %@" = "Assista no #Periscope: %@";
+
+"Watch what happened at %1$@ in %2$@'s broadcast." = "Veja o que aconteceu em %1$@ durante a transmissão de %2$@.";
+
+"Watch what happened at %1$@ in %2$@'s broadcast: %3$@" = "Veja o que aconteceu em %1$@ durante a transmissão de %2$@: %3$@";
+
+"We encountered an error deleting your broadcast. Please try again." = "Ocorreu um erro ao excluir sua transmissão. Por favor, tente novamente.";
+
+"We encountered an error updating your gift settings. Please try again." = "Ocorreu um erro ao atualizar suas configurações de presentes. Tente novamente.";
+
+"We have received your report. Thank you for helping keep the community safe! (Report Broadcast Confirmation Modal)" = "Recebemos sua denúncia. Obrigado por ajudar a manter a comunidade segura!";
+
+"We're sorry, there was an error starting your broadcast. Please try starting it again." = "Desculpe, ocorreu um erro ao iniciar sua transmissão. Por favor, tente iniciá-la novamente.";
+
+"Welcome <bold>%@</bold>" = "Bem-vindo •|•%@•|•";
+
+"We’ve let your followers know that you joined as a guest (Chat Prompt)" = "Informamos aos seus seguidores que você ingressou como convidado";
+
+"What are you seeing now?" = "O que você está vendo agora?";
+
+"What do you want to talk about?" = "Sobre o que você quer falar?";
+
+"What went well?" = "O que correu bem?";
+
+"When someone follows them, they'll be listed here." = "Quando ele for seguido por alguém, os perfis aparecerão aqui.";
+
+"When someone follows you, they'll be listed here." = "Quando alguém seguir você, os perfis aparecerão aqui.";
+
+"When they do, it'll show up here." = "Quando tiver, eles aparecerão aqui.";
+
+"When they do, they'll be listed here." = "Quando seguir, as pessoas aparecerão aqui.";
+
+"When you do, it'll show up here" = "Quando seguir, eles aparecerão aqui.";
+
+"When you do, they'll be listed here." = "Quando seguir, as pessoas aparecerão aqui.";
+
+"Yes (Copyright Violation)" = "Sim";
+
+"You already have a linked Twitter account. Please use this in the future to broadcast from Twitter" = "Você já tem uma conta do Twitter vinculada. Use-a no futuro para transmitir pelo Twitter";
+
+"You are now" = "Agora você está";
+
+"You aren't following anyone yet" = "Você não está seguindo ninguém ainda";
+
+"You aren't following anyone." = "Você não está seguindo ninguém.";
+
+"You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests. (Offensive Report Modal)" = "Bloqueie um usuário cujas transmissões você não deseja visualizar. Você continuará vendo os usuários que bloqueou quando eles forem convidados.";
+
+"You can block a user whose broadcasts you no longer want to see. (Offensive Report Modal)" = "Você pode bloquear um usuário cujas transmissões não lhe interessem mais..";
+
+"You can give •|•%@•|• of these" = "Você pode dar  •|•%@•|• desses";
+
+"You can't broadcast right now (Copyright Violation)" = "Você não pode transmitir no momento";
+
+"You can't watch a broadcast while you're still broadcasting." = "Você não pode assistir a uma transmissão enquanto você ainda está transmitindo.";
+
+"You can’t watch this because it included a copyrighted work by {Full Name}. Learn more (Copyright Violation)" = "Você não pode assistir a isto porque inclui uma obra protegida por direitos autorais de %@. •|•Saiba mais•|•";
+
+"You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster." = "Você junta estrelas quando seus fãs dão •|•Super Hearts•|•. Transforme suas estrelas em dinheiro tornando-se um Super Broadcaster.";
+
+"You didn't vote... <link>Learn about Moderation</link>" = "Você não votou... •|•Saiba mais sobre Moderação•|•";
+
+"You don't have any followers yet" = "Você ainda não tem nenhum seguidor";
+
+"You earn stars from Super Hearts" = "Você ganha estrelas dos Super Hearts";
+
+"You haven't broadcasted yet" = "Você ainda não fez nenhuma transmissão";
+
+"You were <bold>blocked</bold> by the broadcaster" = "Você foi •|•bloqueado•|• pelo transmissor";
+
+"You will lose any unsaved changes. Are you sure you want to leave this view?" = "Você perderá as alterações não salvas. Tem certeza de que deseja sair desta exibição?";
+
+"You will lose the stars you received" = "Você perderá as estrelas que recebeu";
+
+"You're Waiting to Join (Guest Calling Menu)" = "Você Está Aguardando para Participar";
+
+"Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv" = "Sua conta foi desativada devido a uma solicitação de remoção de direitos autorais. Entre em contato com help@pscp.tv";
+
+"Your account has been disabled. Please contact help@pscp.tv" = "Sua conta foi desativada. Entre em contato com help@pscp.tv";
+
+"Your broadcast has been disabled (Copyright Violation)" = "Sua transmissão foi desativada.";
+
+"Your broadcast matches a copyrighted work (Copyright Violation)" = "Sua transmissão corresponde a uma obra protegida por direitos autorais";
+
+"Your broadcast's thumbnail has been updated to the current screen." = "A miniatura de sua transmissão foi atualizada para a tela atual.";
+
+"Your dispute claim was submitted (Copyright Violation)" = "A disputa da alegação foi enviada";
+
+"Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•." = "Sua avaliação é importante para aprimorarmos a experiência de transmissão. Você pode desabilitar futuras pesquisas quando quiser alterando suas •|•Configurações•|•.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Sua\n  mensagem •|•\"%@\"•|• foi oculta por ABUSO. Os comentários estão\n  desativados para todas as transmissões.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast." = "Sua\n  mensagem •|•\"%@\"•|• foi oculta por ABUSO. Os comentários estão\n  desativados para esta transmissão.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Sua\n  mensagem •|•\"%@\"•|• foi oculta por ABUSO. Os comentários estão\n  temporariamente limitados para todas as transmissões.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast." = "Sua\n  mensagem •|•\"%@\"•|• foi oculta por ABUSO. Os comentários estão\n  temporariamente limitados para esta transmissão.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts." = "Sua mensagem •|•\"%@\"•|• foi oculta por SPAM. Os comentários estão desativados para todas as transmissões.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast." = "Sua mensagem •|•\"%@\"•|• foi oculta por SPAM. Os comentários estão desativados para esta transmissão.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Sua mensagem •|•\"%@\"•|• foi oculta por SPAM. Os comentários estão temporariamente limitados para todas as transmissões.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast." = "Sua\n  mensagem •|•\"%@\"•|• foi oculta por SPAM. Os comentários estão\n  temporariamente limitados para todas as transmissões.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts." = "Sua\n  mensagem •|•\"%@\"•|• foi oculta. Os comentários estão\n  desativados para todas as transmissões.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast." = "Sua\n  mensagem •|•\"%@\"•|• foi oculta. Os comentários estão\n  desativados para esta transmissão.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts." = "Sua\n  mensagem •|•\"%@\"•|• foi oculta. Os comentários estão\n  temporariamente limitados para todas as transmissões.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast." = "Sua\n  mensagem •|•\"%@\"•|• foi oculta. Os comentários estão\n  temporariamente limitados para esta transmissão.";
+
+"Your settings are about to automatically delete this broadcast." = "Suas configurações estão prestes a excluir esta transmissão automaticamente.";
+
+"Your settings will automatically delete this broadcast in %@" = "Suas configurações excluirão esta transmissão automaticamente em %@";
+
+"Your video will be available for replay after the event has ended. (Copyright Violation)" = "Seu vídeo ficará disponível para reprise depois que o evento for encerrado.";
+
+"Your viewers have been invited to join (Local Chat Prompt)" = "Seus espectadores foram convidados para participar";
+
+"You’re enrolled in automatic monthly cash outs. (Stars Profile)" = "Você está inscrito para resgates mensais automáticos.";
+
+"You’ve blocked @username. Tap to report and share more details. (Should Report Guest User Chat Prompt)" = "Você bloqueou •|•@%@•|•. Toque para denunciar e compartilhar mais detalhes.";
+
+"[placeholder]" = "[placeholder]";
+
+"beta-feedback@pscp.tv" = "beta-feedback@pscp.tv";
+
+"coin bonus" = "%i%% mais";
+
+"coin received (accessibility label)" = "moeda recebida";
+
+"coins received (accessibility label)" = "moedas recebidas";
+
+"contact@pscp.tv" = "contact@pscp.tv";
+
+"current audience" = "público atual";
+
+"failed" = "falha";
+
+"following (accessibility hint)" = "Toque duas vezes para deixar de seguir";
+
+"following (accessibility label)" = "Seguindo";
+
+"for fine control" = "para controle refinado";
+
+"heart received (accessibility label)" = "favorito recebido";
+
+"hearts received (accessibility label)" = "corações recebidos";
+
+"https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119" = "https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119";
+
+"https://pscp.tv/i/super/terms" = "https://pscp.tv/i/super/terms";
+
+"iPad doesn’t support broadcasting from Split View." = "O iPad não oferece suporte à transmissão com o recurso Split View.";
+
+"invited" = "convidados";
+
+"invited followers" = "Seguidores convidados";
+
+"it's their first day on Periscope" = "é o seu primeiro dia no Periscope";
+
+"not following (accessibility hint)" = "Toque duas vezes para seguir";
+
+"not following (accessibility label)" = "Não seguindo";
+
+"people" = "pessoas";
+
+"per Broadcast Minute (CELL)" = "por Minuto de Tramisssão";
+
+"per Viewer (CELL)" = "por espectador";
+
+"person" = "pessoa";
+
+"poor" = "ruim";
+
+"posting publicly on Periscope" = "publicação pública no Periscope";
+
+"posting publicly on Twitter" = "publicação pública no Twitter";
+
+"selected Amplify Program" = "Programa Amplify selecionado";
+
+"star received (accessibility label)" = "estrela recebida";
+
+"stars received (accessibility label)" = "estrelas recebidas";
+
+"tap to change Amplify Program" = "toque para alterar o Programa Amplify";
+
+"tap to change Amplify program" = "toque para alterar o programa Amplify";
+
+"tap to change audience" = "toque para alterar o público";
+
+"to seek" = "para buscar";
+
+"you hung up (Guest Caller Hung Up Chat Message Event)" = "você se desconectou";
+
+"you were added (New Guest Caller Chat Message Event)" = "você foi adicionado";
+
+"you were removed (Guest Caller Was Removed Chat Message Event)" = "você foi removido";
+
+"•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•." = "•|•%1$@•|• atualizou o início da transmissão para •|•%2$@•|•.";
+
+"•|•%@•|• are guests (Broadcast Guests Social Proof)" = "•|•%@•|• estão participando como convidados";
+
+"•|•%@•|• invited you (Broadcast Guest Invitation Social Proof)" = "•|•%@•|• convidou você";
+
+"•|•%@•|• is a guest (Broadcast Guest Social Proof)" = "•|•%@•|• está participando como convidado";
+
+"•|•%@•|• shared (Broadcast Share Social Proof)" = "•|•%@•|• compartilhou";
+
+"•|•%@•|• was a guest (Broadcast Guest Social Proof)" = "•|•%@•|• participou como convidado";
+
+"•|•%@•|• were guests (Broadcast Guests Social Proof)" = "•|•%@•|• participaram como convidados";
+
+"•|•%@•|•\nBroadcasts" = "•|•%@•|•\nTransmissões";
+
+"•|•%@•|•\nFollowers" = "•|•%@•|•\nSeguidores";
+
+"•|•%@•|•\nFollowing" = "•|•%@•|•\nSeguindo";
+
+"•|•@%1$@•|• was muted by •|•%2$@•|•" = "•|•@%1$@•|• foi silenciado por •|•%2$@•|•";
+
+"•|•@%1$@•|• was unmuted by •|•%2$@•|•" = "•|•@%1$@•|• teve o silêncio desativado por •|•%2$@•|•";
+
+"•|•@%@•|• Retweeted on" = "•|•@%@•|• retweetou sobre";
+
+"•|•@%@•|• shared on" = "•|•@%@•|• compartilhou no";
+
+"•|•Muted•|• by %@" = "•|•Silenciado•|• por %@";
+
+"•|•Not enough coins.•|• Get more coins to keep giving Super Hearts." = "•|•Não há moedas suficientes.•|• Obtenha mais moedas para continuar a dar Super Hearts.";
+
+"•|•Press & Hold•|• the video to skip ahead" = "•|•Pressionar e Segurar•|• o vídeo para avançar";
+
+"•|•Press & Hold•|• to skip back or ahead." = "•|•Pressione e segure•|• para avançar ou retroceder.";
+
+"•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one." = "•|•Os Super Hearts estão ATIVOS.•|• Toque na transmissão para dar seu primeiro.";
+
+"•|•Support %@•|• by giving Super Hearts!" = "•|•Apoie %@•|• dando Super Hearts!";
+
+"•|•Unmuted•|• by %@" = "•|•Silêncio desativado•|• por %@";
+
+"•|•You need more coins•|• to give Super Hearts" = "•|•Você precisa de mais moedas•|• para dar Super Hearts";
+
+"•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast." = "•|•Você foi silenciado•|• por um dos moderadores de %1$@ por causa de seu comentário •|•\"%2$@\"•|•. Você não poderá mais conversar nesta transmissão.";
+
+"•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast." = "•|•Um dos moderadores•|• de %@ desativou seu silêncio. Você agora pode conversar nesta transmissão.";
+

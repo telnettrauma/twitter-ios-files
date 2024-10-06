@@ -1,0 +1,1448 @@
+"%@ New Messages" = "%@ missatges nous";
+
+"%@ Viewer (Broadcast Info)" = "%@ espectador";
+
+"%@ Viewers (Broadcast Info)" = "%@ espectadors";
+
+"%@ ago" = "Fa %@";
+
+"%@ doesn't have any followers yet" = "%@ encara no té cap seguidor";
+
+"%@ has not broadcasted yet" = "%@ encara no ha fet cap emissió";
+
+"%@ is LIVE (broadcast title)" = "%@ està emetent en directe";
+
+"%@ isn't following anyone yet" = "%@ encara no segueix ningú";
+
+"%@ joined" = "s'hi ha unit";
+
+"%@ wants you to moderate comments. Tap on comments to mute them." = "%@ vol que moderis els comentaris. Toca els comentaris per silenciar-los.";
+
+"%@ wants you to moderate comments. Tap or swipe left on comments to mute them." = "%@ vol que moderis els comentaris. Toca els comentaris o fes-los lliscar cap a l'esquerra per silenciar-los.";
+
+"%@ was live  (broadcast title)" = "%@ ha emès en directe";
+
+"%d More Live Viewers" = "espectadors en directe més";
+
+"%d More Replay Viewers" = "espectadors de reemissions més";
+
+"%d More Viewers" = "espectadors més";
+
+"%ldd (days)" = "%ldd";
+
+"%ldh (hours)" = "%ldh";
+
+"%ldm (minutes)" = "%ldm";
+
+"%lds (seconds)" = "%lds";
+
+"%ldy (years)" = "%lda";
+
+"(EDITED)" = "(EDITAT)";
+
+"(Skip to) LIVE" = "En directe";
+
+"1 More Live Viewer" = "espectador en directe més";
+
+"1 More Replay Viewier" = "espectador de reemissions més";
+
+"1 More Viewer" = "espectador més";
+
+"1 New Message" = "1 missatge nou";
+
+"@username \"Tap to cancel\" (Add Guest Caller Chat Message Event)" = "Toca per cancel·lar";
+
+"@username \"canceled\" (Add Guest Caller Chat Message Event)" = "ha cancel·lat";
+
+"@username \"has asked to join\" (Add Guest Caller Chat Message Event)" = "ha sol·licitat unir-s'hi";
+
+"@username \"hung up\" (Guest Caller Hung Up Chat Message Event)" = "•|•@%@•|• ha penjat";
+
+"@username \"was added\" (Add Guest Caller Chat Message Event)" = "s'ha afegit";
+
+"@username \"was added\" (New Guest Caller Chat Message Event)" = "S'ha afegit •|•@%@•|•";
+
+"@username \"was removed\" (Add Guest Caller Chat Message Event)" = "s'ha eliminat";
+
+"@username \"was removed\" (Guest Caller Was Removed Chat Message Event)" = "S'ha eliminat •|•@%@•|•";
+
+"A Periscope account is required to edit a broadcast." = "Per editar una emissió, cal un compte del Periscope.";
+
+"A Periscope account is required to share a broadcast." = "Cal un compte de Periscope per a compartir una emissió.";
+
+"A broadcast with a star balance was deleted. (History)" = "S'ha suprimit una emissió amb saldo d'estrelles.";
+
+"ACTIVE CONTRIBUTORS" = "COL·LABORADORS ACTIUS";
+
+"Abuse" = "Abusiu";
+
+"Abusive Behavior (Report Option)" = "Comportament abusiu";
+
+"Accept Caller as Guest" = "Accepta l'usuari que sol·licita accés a l'emissió com a convidat";
+
+"Accept Super Hearts (accessibility hint)" = "Fes un doble toc per acceptar supercors per a l'emissió.";
+
+"Accept Super Hearts (accessibility label)" = "Accepta supercors";
+
+"Accept as Guest" = "Accepta'l com a convidat";
+
+"Actions (accessibility label)" = "Accions";
+
+"Add Guest (Manage Guest Call-Ins Action Sheet)" = "Afegeix un convidat";
+
+"Add guest \n viewer will become a guest broadcaster" = "Afegeix un convidat•|•\nL'espectador es convertirà en un emissor convidat•|•";
+
+"All-Time Stars (Stars Profile)" = "Estrelles globals";
+
+"Allow Guests (Tooltip Selected)" = "Permet convidats";
+
+"Allow guests / Don't allow guests (accessibility label)" = "Permet convidats / No permetis convidats";
+
+"Anything else you'd like to share?" = "Hi ha res més que vulguis compartir?";
+
+"Are you sure you want to send this message?" = "Estàs segur que vols enviar el missatge?";
+
+"Are you sure you want to unblock?" = "Estàs segur que el vols desblocar?";
+
+"Are you sure? (title)" = "N'estàs segur?";
+
+"Ask for Follow (action sheet)" = "Demana que et segueixin";
+
+"Ask for Share (action sheet)" = "Demana de compartir-la";
+
+"Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Sol·licita unir-te a l'emissió com a convidat. Tots els participants et podran sentir, i tu podràs parar en qualsevol moment.";
+
+"Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Sol·licita unir-te a l'emissió com a convidat. Tots els participants et podran veure i sentir, i tu podràs parar en qualsevol moment.";
+
+"Asking to join... Broadcaster must accept you (Local Chat Prompt)" = "S'està sol·licitant unir-s'hi...\n•|•%@•|• t'ha d'acceptar";
+
+"Audio Only (accessibility label)" = "Emissió només d'àudio";
+
+"Audio from: Headphones" = "Àudio de: auriculars";
+
+"Audio from: Phone" = "Àudio de: telèfon";
+
+"Back" = "Enrere";
+
+"Back (action sheet)" = "Enrere";
+
+"Back Camera (accessibility hint)" = "Fes un doble toc per canviar a la càmera frontal";
+
+"Back Camera (accessiblity value)" = "Càmera posterior";
+
+"Back to %@" = "Torna a %@";
+
+"Back to Hearts" = "Torna als cors";
+
+"Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. Learn more (Copyright violation)" = "Com que diverses emissions recents teves incloïen obres protegides amb drets d'autor, no podràs emetre vídeo temporalment. •|•Més informació•|•";
+
+"Betascope App Feedback" = "Comentaris sobre l'aplicació Betascope";
+
+"Billion Decimal Abbreviation" = "%.1fB";
+
+"Billion Integer Abbreviation" = "%dB";
+
+"Block @%@" = "Bloca @%@";
+
+"Block @%@ (Offensive Report Modal)" = "Bloca @%@";
+
+"Block And Hang Up (Manage Guest Call-Ins Action Sheet)" = "Bloca i penja";
+
+"Block User" = "Bloca l'usuari";
+
+"Block Users (%@)" = "Bloca usuaris (%@)";
+
+"Block {Username}" = "Bloca @%@";
+
+"Blocked (user modal)" = "Blocat";
+
+"Blocked by you" = "Blocat per tu";
+
+"Blocking will dismiss the broadcast and not report to Periscope. (Offensive Report Modal)" = "Si bloques l'emissió, es descartarà i no se n'informarà al Periscope.";
+
+"Broadcast Actions (accessibility hint)" = "Obre un menú amb les accions per a l'emissió.";
+
+"Broadcast Details (action sheet)" = "Detalls de l'emissió";
+
+"Broadcast Super Heart Auto-Deletion Warning" = "•|•L'emissió no se suprimirà automàticament al cap de 24 hores•|• per evitar que perdis les estrelles dels supercors que puguis rebre.\n\nSi vols, pots amagar l'emissió un cop s'acabi per restringir-ne la visualització per a altres usuaris.";
+
+"Broadcast Title" = "Títol de l'emissió";
+
+"Broadcast about to expire (Cell)" = "L'emissió està a punt de caducar";
+
+"Broadcast creation" = "Creació d'emissions";
+
+"Broadcaster Has Disabled Call-Ins (Generic Error Message)" = "En aquests moments, l'emissor té desactivada la llista de sol·licituds d'accés.";
+
+"Broadcaster blocked •|•@%@•|•" = "L'emissor ha blocat •|•@%@•|•";
+
+"Broadcaster doesn’t accept Super Hearts" = "L'emissor no accepta supercors";
+
+"Broadcaster has assigned chat moderators." = "L'emissor ha assignat moderadors del xat.";
+
+"Broadcaster has to accept your request before you can join as a guest. (Guest Call-In Instructions Subtitle)" = "Per poder-t'hi unir com a convidat, %@ ha d'acceptar la teva sol·licitud.";
+
+"Broadcaster is allowing guests to join (Local Chat Prompt)" = "•|•%@•|• ha permès que s'hi uneixin convidats";
+
+"Broadcaster is not allowing guests to join (Local Chat Prompt)" = "•|•%@•|• no ha permès que s'hi uneixin convidats";
+
+"Broadcasters earn stars from Super Hearts" = "Els emissors poden guanyar estrelles amb els supercors";
+
+"Bummer (ReplayKit)" = "Error";
+
+"CONCATENTATION_ACCESSIBILITY_STRING" = ".";
+
+"CONTRIBUTORS WHO HAVE LEFT" = "COL·LABORADORS QUE HAN MARXAT";
+
+"COULDN'T LOAD REPLAY VIEWERS" = "NO S'HAN POGUT CARREGAR ELS ESPECTADORS DE REEMISSIONS";
+
+"COULDN'T LOAD VIEWERS" = "NO S'HAN POGUT CARREGAR ELS ESPECTADORS";
+
+"Camera Selection (accessibility label)" = "Selecció de càmera";
+
+"Cancel" = "Cancel·la";
+
+"Cancel (action sheet)" = "Cancel·la";
+
+"Cancel Call In Button: \"Cancel Request to Join as a Guest\"" = "Cancel·la la sol·licitud per unir-t'hi com a convidat";
+
+"Cancel Guest Call-In Instructions Title: \"Waiting to join as a guest...\"" = "S'està esperant a concedir-t'hi accés com a convidat...";
+
+"Cannot be undone" = "No es pot desfer";
+
+"Capture Thumbnail (action sheet)" = "Captura la miniatura";
+
+"Cash Outs (Stars Profile)" = "Cobraments";
+
+"Cash out your stars, and continue using live video on Twitter" = "Bescanvia les estrelles i segueix utilitzant el vídeo en directe al Twitter";
+
+"Change Amplify Program" = "Canvia el programa d'amplificació";
+
+"Change Expiration (Cell)" = "Canvia la caducitat";
+
+"Change Expiration Subtitle (Cell)" = "Suprimeix-la automàticament d'aquí a %@";
+
+"Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program." = "Si canvies el programa d'amplificació a •|•%@•|•, s'eliminarà el teu tuit i se'n publicarà un altre amb el programa nou.";
+
+"Chatroom too full..." = "La sala de xat és massa plena...";
+
+"Child Safety (Report Option)" = "Seguretat infantil";
+
+"Choose guests to add. You can remove them at any time. (Manage Guest Callers Page Subtitle)" = "Tria quins convidats vols afegir. Els pots eliminar en qualsevol moment.";
+
+"Close (accessibility label)" = "Tanca";
+
+"Comment Tip Option 1" = "Escriu un comentari perquè •|•%@•|• sàpiga que ets aquí!";
+
+"Comment Tip Option 2" = "Fes que •|•%@•|• sàpiga des d'on el veus!";
+
+"Comment Tip Option 3" = "Saluda el xat amb •|•%@•|• i altres espectadors.";
+
+"Commenting is OFF" = "Els comentaris estan desactivats";
+
+"Comments Received (CELL)" = "Comentaris rebuts";
+
+"Comments Received Unavailable (CELL)" = "n/d";
+
+"Compose Direct Message (Accessibility Label)" = "Escriu un missatge directe";
+
+"Compose New Tweet (Accessibility Label)" = "Escriu un tuit";
+
+"Confirm Call In Button: \"OK, Ask to Join\"" = "D'acord, sol·licita que m'hi pugui unir";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile and audio will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and hear you. This may include people you’ve blocked on either app.\"" = "•\tEl teu perfil i àudio passaran a formar part de l'emissió i no es podran eliminar tret que %1$@ en suprimeixi la reemissió.\n\n•\tTothom que estigui mirant l'emissió al Periscope o al Twitter podrà saber que t'has unit a l'emissió de l'usuari %1$@ i sentir-te. Això pot incloure persones a qui hagis blocat en qualsevol de les dues aplicacions.";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile, audio and video will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and see you. This may include people you’ve blocked on either app.\"" = "•\tEl teu perfil, àudio i vídeo passaran a formar part de l'emissió i no es podran eliminar tret que %1$@ en suprimeixi la reemissió.\n\n•\tTothom que estigui mirant l'emissió al Periscope o al Twitter podrà saber que t'has unit a l'emissió de l'usuari %1$@ i veure't. Això pot incloure persones a qui hagis blocat en qualsevol de les dues aplicacions.";
+
+"Confirm Guest Call-In Instructions Title: \"Good to know...\"" = "És bo saber-ho...";
+
+"Connecting to chatroom" = "S'està connectant a la sala de xat";
+
+"Connection Error" = "Error de connexió";
+
+"Connection too" = "Connexió massa";
+
+"Contact Us (action sheet)" = "Contacta amb nosaltres";
+
+"Contributors" = "Col·laboradors";
+
+"Copy Profile URL" = "Copia l'URL del perfil";
+
+"Current Star Balance (Stars Profile)" = "Saldo actual d'estrelles";
+
+"Current Time (Accessibility Label)" = "Hora actual";
+
+"Dear Periscope Team," = "Estimat equip del Periscope,";
+
+"Delete Broadcast" = "Suprimeix l'emissió";
+
+"Delete Broadcast (action sheet)" = "Suprimeix l'emissió";
+
+"Delete Broadcast Now" = "Suprimeix l'emissió ara";
+
+"Describe the issue (Report Option)" = "Descriu el problema";
+
+"Describe the issue with %@ (Report Option)" = "Descriu el problema amb @%@";
+
+"Describe the issue with @%1$@ at %2$@ (Report Option)" = "Descriu el problema amb @%1$@ a les: %2$@";
+
+"Describe the issue you are seeing at %@ (Report Option)" = "Descriu el problema que veus a %@";
+
+"Direct Message (Compose)" = "Missatge directe";
+
+"Disable Audio Only Broadcast" = "Desactiva l'emissió només d'àudio";
+
+"Disabled for all broadcasts" = "Desactivat per a totes les emissions";
+
+"Disabled for this broadcast" = "Desactivat per a l'emissió";
+
+"Discard Changes" = "Descarta els canvis";
+
+"Display Photo (action sheet)" = "Mostra la foto";
+
+"Dispute Claim (Copyright Violation)" = "Reclamació";
+
+"Do not notify my followers (Guest Call-In Notify Followers Option)" = "No ho notifiquis als meus seguidors";
+
+"Don't Allow Guests (Manage Guest Broadcasters Call-Ins List)" = "No permetis convidats";
+
+"Don't Allow Guests (Tooltip)" = "No permetis convidats";
+
+"Don't Auto-Delete" = "No la suprimeixis automàticament";
+
+"Don't Send (Blocked Modal)" = "No l'enviïs";
+
+"Done" = "Fet";
+
+"Done (action sheet)" = "Fet";
+
+"Double Tap anywhere to Exit Theater Mode (accessibility label)" = "Fes un toc doble en qualsevol lloc per sortir del mode teatre";
+
+"Double Tap to <bold>Flip Camera</bold>" = "Fes un doble toc per •|•invertir la càmera•|•";
+
+"Double tap to allow or disallow guests (accessibility hint)" = "Fes un doble toc per permetre o no els convidats";
+
+"Duration (CELL)" = "Durada";
+
+"END (graph)" = "FINAL";
+
+"ENDED" = "S'HA ACABAT";
+
+"Edit Broadcast" = "Edita l'emissió";
+
+"Edit Broadcast (action sheet)" = "Edita l'emissió";
+
+"Edit Broadcast Unavailable" = "No es pot editar l'emissió";
+
+"Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured." = "L'edició de l'emissió permet modificar-ne la manera de visualitzar-la. Aquests canvis no afectaran els tuits ni les notificacions que ja s'hagin enviat.";
+
+"Enable Audio Only Broadcast" = "Activa l'emissió només d'àudio";
+
+"Enable Email" = "Activa el correu electrònic";
+
+"Enable camera (Permissions Screen)" = "Activa la càmera";
+
+"Enable microphone (Permissions Screen)" = "Activa el micròfon";
+
+"Enable/Disable Audio Only Broadcast (accessibility hint)" = "Fes un doble toc per activar o desactivar l'emissió només d'àudio.";
+
+"Enable/Disable Audio Only Broadcast (accessibility label)" = "Activa/desactiva l'emissió només d'àudio";
+
+"Ended" = "S'ha acabat";
+
+"Engaging Chat" = "Xat interessant";
+
+"Error (ReplayKit)" = "Error";
+
+"Error accessing audio from microphone." = "Hi ha hagut un error en accedir a l'àudio des del micròfon.";
+
+"Error accessing history." = "Hi ha hagut un error en accedir a l'historial.";
+
+"Error saving video to Camera Roll" = "Hi ha hagut un error en desar el vídeo al rodet";
+
+"Error setting Amplify Program (title)" = "Hi ha hagut un error en configurar el programa d'amplificació";
+
+"Every heart you send will be a Super Heart" = "Cada cor que enviïs serà un supercor";
+
+"Everybody can chat" = "Tothom pot xatejar";
+
+"FEATURED" = "DESTACATS";
+
+"FOLLOWERS (user profile modal)" = "SEGUIDORS";
+
+"FOLLOWING (user profile modal)" = "SEGUINT";
+
+"Final List separator" = "i";
+
+"Fine Control" = "Control ajustat";
+
+"First Super Heart" = "Primer supercor";
+
+"Flip Camera (action sheet)" = "Inverteix la càmera";
+
+"Follow (user modal)" = "Segueix";
+
+"Follow request sent. (chat message)" = "S'ha enviat la sol·licitud de seguiment.";
+
+"Follow the broadcaster to catch their next broadcast." = "Segueix l'emissor per assabentar-te de la seva propera emissió.";
+
+"Follow •|•%@•|• to catch their next broadcast" = "Segueix •|•%@•|• per assabentar-te de la seva propera emissió";
+
+"Followed by %1$@ and %2$@" = "Seguit pels usuaris %1$@ i %2$@";
+
+"Followed by %1$@, %2$@, %3$@ and %4$i others" = "Seguit pels usuaris %1$@, %2$@ i %3$@ i per %4$i usuaris més";
+
+"Followed by %1$@, %2$@, and %3$@" = "Seguit pels usuaris %1$@, %2$@ i %3$@";
+
+"Followed by %@" = "Seguit per l'usuari %@";
+
+"Followers button (accessibility hint)" = "Fes un doble toc per veure els seguidors.";
+
+"Following (user modal)" = "Seguint";
+
+"Following button (accessibility hint)" = "Fes un doble toc per veure els usuaris que segueixes.";
+
+"Front Camera (accessibility hint)" = "Fes un doble toc per canviar a la càmera posterior";
+
+"Front Camera (accessiblity value)" = "Càmera frontal";
+
+"Get Coins" = "Aconsegueix monedes";
+
+"Give Super Hearts (menu button)" = "Dóna supercors";
+
+"Go LIVE" = "Entra en directe";
+
+"Go LIVE to %@" = "Entra en directe a: %@";
+
+"Go LIVE together (Guest Broadcasting Modal Title)" = "Entreu en directe junts";
+
+"Go to Twitter Profile" = "Vés al perfil del Twitter";
+
+"Good Viewer Count" = "Nombre adequat d'espectadors";
+
+"Got It (Button Title)" = "Entesos";
+
+"Got it (Copyright Violation)" = "Entesos";
+
+"Got it (ReplayKit)" = "Entesos";
+
+"Got it!" = "Ho tinc!";
+
+"Guest Action Sheet Report Item" = "Denuncia";
+
+"Guest Call In Choice Label: \"Camera and microphone\"" = "Càmera i micròfon";
+
+"Guest Call In Choice Label: \"Microphone only\"" = "Només micròfon";
+
+"Guest Call-In Audio Only Permissions Subtitle beneath Title: \"Enable microphone to become a guest\"" = "Activa el micròfon per convertir-te en convidat";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request. Learn more\"" = "T'hi uniràs quan l'emissor accepti la sol·licitud. •|•Més informació•|•";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request.\"" = "T'hi uniràs quan l'emissor accepti la sol·licitud.";
+
+"Guest Call-In Instructions Title: \"Ask to Join\"" = "Sol·licita unir-t'hi";
+
+"Guest Call-In Instructions Title: \"Join as a guest\"" = "Uneix-t'hi com a convidat";
+
+"Guest Call-In Permissions Subtitle beneath Title: \"Enable camera and microphone to become a guest\"" = "Activa la càmera i el micròfon per convertir-te en convidat";
+
+"Guest Call-In Permissions Title: \"Guest setup\"" = "Configuració dels convidats";
+
+"Guest List (Manage Guest Callers Page Title)" = "Llista de convidats";
+
+"Guest Was Banned Chat Message (Periscope)" = "•|•@%@•|• ha rebut una denúncia i, després que el Periscope l'hagi revisat, s'ha considerat que infringeix les normes de la comunitat.";
+
+"Guest Was Banned Chat Message (Twitter)" = "•|•@%@•|• ha rebut una denúncia i, després que el Twitter l'hagi revisat, s'ha considerat que infringeix les normes d'ús.";
+
+"Guests Not Allowed (Manage Guest Broadcasters Call-Ins List)" = "No es permeten convidats";
+
+"Guests can now ask to join. Use this icon to add or remove guests at any time. (Guest Broadcasting Enabled Prompt)" = "Ara, els convidats poden sol·licitar unir-s'hi. Utilitza la icona per afegir o eliminar convidats en qualsevol moment.";
+
+"HEART" = "COR";
+
+"HEARTS" = "CORS";
+
+"Half-Speed" = "A la meitat de la velocitat";
+
+"Hang Up (Guest Calling Menu)" = "Penja";
+
+"Hang Up (Manage Guest Call-Ins Action Sheet)" = "Penja";
+
+"Hang Up Button Label: \"Hang Up\"" = "Penja";
+
+"Hang Up Subtitle (Audio Only): \"Stop sharing microphone\"" = "Deixa de compartir el micròfon";
+
+"Hang Up Subtitle (Camera + Microphone): \"Stop sharing camera and microphone\"" = "Deixa de compartir la càmera i el micròfon";
+
+"Hang Up on Guest or Cancel Guest From Joining" = "Penja el convidat o cancel·la'n la sol·licitud per unir-se a l'emissió";
+
+"Hang up" = "Penja";
+
+"Harassment" = "Assetjament";
+
+"Hateful Conduct (Report Option)" = "Conducta que incita a l'odi";
+
+"Heart Sent (accessiblity announcement)" = "S'ha enviat un cor";
+
+"Hearts & Chats off" = "Cors i xats desactivats";
+
+"Hearts & Chats on" = "Cors i xats activats";
+
+"Help us moderate this comment..." = "Ajuda'ns a moderar aquest comentari...";
+
+"Help us understand the problem.\nWhat issue with @%@ are you reporting?" = "Ajuda'ns a entendre el problema. Quina incidència amb @%@ vols denunciar?";
+
+"Hide Broadcast" = "Amaga l'emissió";
+
+"Hide everything except video (action sheet)" = "Amaga tot excepte el vídeo";
+
+"History (profile view title)" = "Historial";
+
+"History button (accessibility hint)" = "Fes un doble toc per veure les emissions recents.";
+
+"How can we improve?" = "En què podem millorar?";
+
+"How was your broadcasting experience?" = "Com ha estat la teva experiència amb les emissions?";
+
+"I'm Not Interested in @%@" = "No m'interessa @%@";
+
+"If this broadcast depicts pornography or sexual acts, please tap below. (Report Sexual Content Modal)" = "Si l'emissió inclou pornografia o actes sexuals, toca a continuació.";
+
+"If you believe that this broadcast places a child at risk, please tap below. (Report Child Safety Modal)" = "Si creus que l'emissió suposa un risc per als nens, toca a continuació.";
+
+"If you believe this broadcast contains violence or someone is being physically threatened, please tap below. (Report Violence Modal)" = "Si creus que l'emissió conté violència o mostra algú que rep amenaces físiques, toca a continuació.";
+
+"If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Si creus que l'emissió manifesta odi envers una categoria protegida (com ara una raça, una religió, un gènere, una orientació sexual o una discapacitat), toca a continuació.";
+
+"If you believe this broadcast exposes private information, please tap below. (Report Private Information Modal)" = "Si creus que l'emissió exposa informació privada, toca a continuació.";
+
+"If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below. (Report Harassment Modal)" = "Si creus que l'emissió assetja o intimida una altra persona, o bé fa servir la por per silenciar-la, toca a continuació.";
+
+"If you believe this guest is contemplating or encouraging suicide or self harm, please tap below. (Report Self Harm Modal)" = "Si creus que el convidat està pensant a suïcidar-se o a autolesionar-se o està encoratjant a fer-ho, toca a continuació.";
+
+"If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Si creus que el convidat manifesta odi envers una categoria protegida (com ara una raça, una religió, un gènere, una orientació sexual o una discapacitat), toca a continuació.";
+
+"If you believe this guest is exposing private information, please tap below. (Report Private Information Modal)" = "Si creus que el convidat exposa informació privada, toca a continuació.";
+
+"If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below. (Report Harassment Modal)" = "Si creus que el convidat assetja o intimida una altra persona, o bé fa servir la por per silenciar-la, toca a continuació.";
+
+"If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below. (Report Violence Modal)" = "Si creus que el convidat està fent amenaces violentes concretes que afecten la seguretat física o el benestar d'algú, toca a continuació.";
+
+"If you believe this guest is sharing content that places a child at risk, please tap below. (Report Child Safety Modal)" = "Si creus que el convidat comparteix continguts que suposen un perill per als nens, toca a continuació.";
+
+"If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below. (Report Sexual Content Modal)" = "Si creus que el convidat està compartint contingut sexual inadequat, com ara pornografia, toca a continuació.";
+
+"If you believe this individual is contemplating suicide or self harm, please tap below. (Report Self Harm Modal)" = "Si creus que aquesta persona està pensant a suïcidar-se o autolesionar-se, toca a continuació.";
+
+"If you delete this broadcast, you will lose the stars that you received. This cannot be undone." = "Si suprimeixes l'emissió, perdràs les estrelles que hagis rebut. Aquesta acció no es pot desfer.";
+
+"Initializing video stream..." = "S'està iniciant l'emissió de vídeo...";
+
+"Invite Guests (Manage Guest Broadcasters Call-Ins List)" = "Convida usuaris";
+
+"Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Convida els espectadors a les teves emissions. Tots els participants els podran sentir, i tu els podràs afegir o eliminar en qualsevol moment.";
+
+"Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Convida els espectadors a les teves emissions. Tots els participants els podran veure i sentir, i tu els podràs afegir o eliminar en qualsevol moment.";
+
+"Join as a Guest (Guest Calling Menu)" = "Uneix-t'hi com a convidat";
+
+"Joined %@" = "Data en què s'hi va unir: %@";
+
+"Joining as a guest... (Guest Call-In Countdown Screen Title)" = "T'hi estàs unint com a convidat...";
+
+"Keep broadcasting to collect more stars!" = "Segueix emetent per col·leccionar més estrelles!";
+
+"Keep stars received" = "Mantindràs les estrelles rebudes";
+
+"LIVE" = "En directe";
+
+"LIVE VIEWER" = "ESPECTADOR EN DIRECTE";
+
+"LIVE VIEWERS" = "ESPECTADORS EN DIRECTE";
+
+"LIVE Video (Broadcast Audience)" = "Vídeo en directe";
+
+"LIVE on #Periscope" = "EN DIRECTE al #Periscope";
+
+"LIVE on #Periscope: %@" = "EN DIRECTE al #Periscope: %@";
+
+"LOADING" = "S'ESTÀ CARREGANT";
+
+"LOST CONNECTION" = "S'HA PERDUT LA CONNEXIÓ";
+
+"Later (alert view)" = "Més tard";
+
+"Learn More" = "Més informació";
+
+"Learn More (Stars Profile)" = "Més informació";
+
+"Leave Broadcast" = "Surt de l'emissió";
+
+"Limited by Broadcaster" = "Limitat per l'emissor";
+
+"Limited for %@" = "Limitat durant %@";
+
+"List separator" = ",";
+
+"Live Time Watched (CELL)" = "Temps de visualització en directe";
+
+"Live watch time per minute tooltip" = "Per cada minut d'aquesta emissió en directe, els espectadors s'han estat veient-la un total combinat de: %@.";
+
+"Loading History." = "S'està carregant l'historial.";
+
+"Loading followers" = "S'estan carregant els seguidors";
+
+"Loading following" = "S'estan carregant les persones que segueixes";
+
+"Loading history" = "S'està carregant l'historial";
+
+"Loading your followers" = "S'estan carregant els seguidors";
+
+"Loading your following" = "S'estan carregant les persones que segueixes";
+
+"Location Permissions Required" = "Es necessiten permisos per a la ubicació";
+
+"Location Unknown" = "Ubicació desconeguda";
+
+"Logged Out" = "Has tancat la sessió";
+
+"Login Error (ReplayKit)" = "Has d'iniciar sessió";
+
+"Login Error Instructions (ReplayKit)" = "Obre l'aplicació del Periscope per iniciar sessió. A continuació, torna aquí per començar l'emissió.";
+
+"Looks OK" = "Sembla correcte";
+
+"Looks like the connection was lost. Reconnecting... (Toast)" = "Sembla que s'ha perdut la connexió. S'està tornant a connectar...";
+
+"Lose stars received" = "Perdràs les estrelles rebudes";
+
+"Low Viewer Count" = "Nombre baix d'espectadors";
+
+"Low disk space. A portion of this broadcast will not be available for replay later." = "Hi ha poc espai al disc. Una part de l'emissió no es podrà reemetre més tard.";
+
+"Majority voted <destructive emphasis> Abuse </destructive emphasis>\nThe commenter's chat has been limited." = "La majoria ha votat •|• abusiu •|•\nEl xat de l'autor del comentari s'ha limitat.";
+
+"Majority voted <destructive emphasis> Looks OK  </destructive emphasis>" = "La majoria ha votat •|• Sembla correcte •|•";
+
+"Majority voted <destructive emphasis> Not Sure </destructive emphasis>" = "La majoria ha votat •|• No n'estic segur •|•";
+
+"Majority voted <destructive emphasis> Spam </destructive emphasis>\nThe commenter's chat has been limited." = "La majoria ha votat •|• brossa •|•\nEl xat de l'autor del comentari s'ha limitat.";
+
+"Makes broadcast visible to everyone" = "Fa que l'emissió sigui visible per a tothom";
+
+"Makes broadcast visible to invited viewers" = "Fa que l'emissió sigui visible per als espectadors convidats";
+
+"Manage details about your Broadcast (menu subtitle)" = "Gestiona la informació sobre l'emissió";
+
+"Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen." = "Aquesta mena de missatges s'acostumen a blocar. Si se't bloca massa vegades, els teus comentaris es deixaran de veure.";
+
+"Million Decimal Abbreviation" = "%.1fM";
+
+"Million Integer Abbreviation" = "%dM";
+
+"Moderation Modal Button Label" = "D'acord, ho entenc";
+
+"Moderation Modal Example Label" = "EXEMPLE";
+
+"Moderation Modal Example Message" = "Missatge qüestionable...";
+
+"Moderation Modal Settings Label" = "Ho pots desactivar a la configuració.";
+
+"Moderation Modal Subtitle" = "De manera ocasional, et demanarem que moderis un comentari decidint ràpidament si és •|•ABUSIU•|• o •|•BROSSA•|•. La moderació és anònima.";
+
+"Moderation Modal Title" = "Moderació";
+
+"Moderator Actions" = "Accions del moderador";
+
+"Moderator Actions (%@)" = "Accions del moderador (%@)";
+
+"Moderator •|•%@•|• joined" = "El moderador •|•%@•|• s'ha unit a l'emissió";
+
+"ModeratorName muted this message (Message Carousel)" = "•|•%@•|• ha silenciat el missatge";
+
+"Monetize Broadcast" = "Monetitza l'emissió";
+
+"Monetize Broadcast (expanded cell title)" = "Monetitza l'emissió";
+
+"Monetize Broadcast (minimized cell title)" = "Monetitza l'emissió ▾";
+
+"More (following/followers)" = "Més";
+
+"Mute" = "Silencia";
+
+"Mute (accessibility label)" = "Silencia";
+
+"Mute User" = "Silencia l'usuari";
+
+"Mute User Notifications" = "Silencia les notificacions d'usuari";
+
+"Muted by Moderator" = "Silenciat pel moderador";
+
+"NEW" = "NOU";
+
+"NO LIVE VIEWERS" = "NO HI HA CAP ESPECTADOR EN DIRECTE";
+
+"NO REPLAY VIEWERS" = "NO HI HA CAP ESPECTADOR DE REEMISSIONS";
+
+"New Broadcaster Education: 3 Guest Limit" = "Pots tenir fins a 3 convidats a la vegada.";
+
+"New Tweet (Compose)" = "Tuit nou";
+
+"No history." = "No hi ha cap historial.";
+
+"No one has asked to join yet. Tap to invite your viewers to join. (Empty Manage Guest Broadcasters Call-Ins List)" = "Encara no hi ha ningú que hagi sol·licitat unir-s'hi.\n\nToca per convidar els espectadors a unir-s'hi.";
+
+"No one is following you." = "Ningú no et segueix.";
+
+"No, stop broadcasting (Copyright Violation)" = "No, atura l'emissió";
+
+"Not Sure" = "No n'estic segur";
+
+"Not followed by anyone you're following" = "No el segueix ningú que segueixis";
+
+"Notifications (accessiblity label)" = "Notificacions";
+
+"Notifications OFF" = "Notificacions desactivades";
+
+"Notifications ON" = "Notificacions activades";
+
+"Notifications Off (accessibility hint)" = "Fes un doble toc per activar les notificacions d'aquest usuari.";
+
+"Notifications Off (accessibility value)" = "Desactivades";
+
+"Notifications On (accessibility hint)" = "Fes un doble toc per desactivar les notificacions d'aquest usuari.";
+
+"Notifications On (accessibility value)" = "Activades";
+
+"Notify my followers (Guest Call-In Notify Followers Option)" = "Notifica-ho als meus seguidors";
+
+"OK, Got It" = "D'acord";
+
+"Offensive Guest (Report Option)" = "Convidat ofensiu";
+
+"Okay (Report Broadcast Modal)" = "D'acord";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts." = "S'han amagat un o més comentaris perquè són abusius. Els comentaris s'han desactivat per a totes les emissions.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast." = "S'han amagat un o més comentaris perquè són abusius. Els comentaris s'han desactivat per a l'emissió.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "S'han amagat un o més comentaris perquè són abusius. Els comentaris s'han limitat de manera temporal per a totes les emissions.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited." = "S'han amagat un o més comentaris perquè són abusius. Els comentaris s'han limitat de manera temporal.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts." = "S'han amagat un o més comentaris perquè són brossa. Els comentaris s'han desactivat per a totes les emissions.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast." = "S'han amagat un o més comentaris perquè són brossa. Els comentaris s'han desactivat per a l'emissió.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "S'han amagat un o més comentaris perquè són brossa. Els comentaris s'han limitat de manera temporal per a totes les emissions.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited." = "S'han amagat un o més comentaris perquè són brossa. Els comentaris s'han limitat de manera temporal.";
+
+"One or more of your comments was hidden. Commenting is disabled for all broadcasts." = "S'han amagat un o més comentaris. Els comentaris s'han desactivat per a totes les emissions.";
+
+"One or more of your comments was hidden. Commenting is disabled for this broadcast." = "S'han amagat un o més comentaris. Els comentaris s'han desactivat per a l'emissió.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts." = "S'han amagat un o més comentaris. Els comentaris s'han limitat de manera temporal per a totes les emissions.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited." = "S'han amagat un o més comentaris. Els comentaris s'han limitat de manera temporal.";
+
+"One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast." = "Un moderador ha silenciat un o més dels teus comentaris. Ja no podràs enviar comentaris per a l'emissió.";
+
+"Only available in Periscope" = "Només disponible al Periscope";
+
+"Only public broadcasts counted" = "Només es compten les emissions públiques";
+
+"Only users you follow can chat" = "Només poden xatejar els usuaris que segueixes";
+
+"Only you can see your hidden broadcasts (menu subtitle)" = "Només tu pots veure les teves emissions amagades";
+
+"Other Reason (Report Option)" = "Un altre motiu";
+
+"Other Reason \n e.g. Foreign Language" = "Un altre motiu•|•\np. ex. llengua estrangera•|•";
+
+"Our apologies for the inconvenience." = "Disculpa les molèsties.";
+
+"POOR CONNECTION" = "CONNEXIÓ FEBLE";
+
+"POSSIBLY NSFW (Interstitial)" = "POT SER INADEQUAT";
+
+"Pause (accessibility label)" = "Fes una pausa";
+
+"Peak (graph label)" = "Màxim";
+
+"Periscope App Feedback" = "Comentaris sobre l'aplicació Periscope";
+
+"Periscope account is required." = "Cal un compte de Periscope.";
+
+"Periscope is discontinuing on •|•%@•|•" = "El Periscope deixarà d'oferir servei el dia •|•%@•|•";
+
+"Play (accessibility label)" = "Reprodueix";
+
+"Please allow some time for all transactions to be posted." = "Espera't una mica per veure publicades totes les transaccions.";
+
+"Positive Community" = "Comunitat positiva";
+
+"Post to Twitter (accessibility hint)" = "Fes un doble toc per canviar-ho.";
+
+"Post to Twitter (accessibility label)" = "Publica-ho al Twitter";
+
+"Posting to Twitter OFF" = "La publicació al Twitter està desactivada";
+
+"Posting to Twitter as @%@" = "Es publicarà al Twitter com a @%@";
+
+"Precise Location Sharing OFF" = "Compartició de la ubicació exacta desactivada";
+
+"Precise Location Sharing ON" = "Compartició de la ubicació exacta activada";
+
+"Private (Broadcast Audience)" = "Privada";
+
+"Private Information (Report Option)" = "Informació privada";
+
+"Profile (accessibility label)" = "Perfil";
+
+"Profile URL copied" = "S'ha copiat l'URL del perfil";
+
+"Public (Broadcast Audience)" = "Pública";
+
+"Public Hidden (Broadcast Audience)" = "Públic (amagat)";
+
+"Quarter-Speed" = "A un quart de la velocitat";
+
+"RECENT (user profile modal)" = "RECENT";
+
+"REPLAY VIEWER" = "ESPECTADOR DE REEMISSIONS";
+
+"REPLAY VIEWERS" = "ESPECTADORS DE REEMISSIONS";
+
+"Ready to give Super Hearts!" = "Estàs a punt per donar supercors!";
+
+"Received in: (History)" = "Rebut en: \"%@\"";
+
+"Received stars (History)" = "Estrelles rebudes.";
+
+"Release to <bold>Leave</bold> (broadcasting)" = "Deixa anar per •|•sortir•|•";
+
+"Release to <bold>Leave</bold> (watching)" = "Deixa anar per •|•sortir•|•";
+
+"Release to Refresh" = "Deixa anar per actualitzar";
+
+"Remove" = "Elimina";
+
+"Remove Amplify Program" = "Elimina el programa d'amplificació";
+
+"Remove Amplify Program (cell title)" = "Elimina el programa d'amplificació";
+
+"Remove Location" = "Elimina la ubicació";
+
+"Remove at least 1 character from your title to make room for #(example hashtag)" = "Elimina com a mínim 1 caràcter del títol per deixar espai per a %@";
+
+"Remove at least X characters from your title to make room for #(example hashtag)" = "Elimina com a mínim %lu caràcters del títol per deixar espai per a %@";
+
+"Replay Time Watched (CELL)" = "Temps de visualització de la reemissió";
+
+"Replay Unavailable" = "La reemissió no està disponible";
+
+"Replay watch time per minute tooltip" = "Per cada minut d'aquesta reemissió, els espectadors s'han estat veient-la un total combinat de: %@.";
+
+"Reply" = "Respon";
+
+"Report @<guest's username> (Report Guest Modal)" = "Denuncia @%@";
+
+"Report Abusive Behavior (Report Abusive Behavior Modal)" = "Comportament abusiu";
+
+"Report Abusive Profile" = "Denuncia el perfil abusiu";
+
+"Report As Spam" = "Denuncia-ho com a brossa";
+
+"Report Broadcast (Report Broadcast Modal)" = "Denuncia l'emissió";
+
+"Report Child Safety (Report Child Safety Modal)" = "Seguretat infantil";
+
+"Report Comment" = "Denuncia el comentari";
+
+"Report Hateful Conduct (Report Hateful conduct Modal)" = "Conducta que incita a l'odi";
+
+"Report Private Information (Report Private Information Modal)" = "Informació privada";
+
+"Report Self-Harm (Report Self Harm Modal)" = "Autolesions";
+
+"Report Sexual Content (Report Sexual Content Modal)" = "Contingut sexual";
+
+"Report User" = "Denuncia l'usuari";
+
+"Report Violence (Report Violence Modal)" = "Violència";
+
+"Reporting is anonymous and will hide the user's comments (just for you)." = "Les denúncies són anònimes i amagaran els comentaris de l'usuari (només per a tu).";
+
+"Restrict Chat (accessibility hint)" = "Fes un doble clic per canviar la restricció als usuaris que segueixes.";
+
+"Restrict Chat (accessibility label)" = "Restringeix el xat";
+
+"Return to Summary (accessibility hint)" = "Fes un doble toc per tornar al resum de l'usuari.";
+
+"Retweet" = "Retuita";
+
+"Save Changes" = "Desa els canvis";
+
+"Save To Camera Roll" = "Desa-ho al rodet";
+
+"Save To Camera Roll Unavailable" = "No es pot desar al rodet";
+
+"Saved To Camera Roll" = "S'ha desat al rodet";
+
+"Saved!" = "S'ha desat!";
+
+"Saving..." = "S'està desant…";
+
+"Say something..." = "Digues alguna cosa...";
+
+"Scroll for Old Comments" = "Desplaça't per veure els comentaris anteriors";
+
+"Scroll to Bottom" = "Desplaça't fins a la part inferior";
+
+"Self-Harm (Report Option)" = "Autolesions";
+
+"Send (accessibility label)" = "Envia";
+
+"Send Message (Blocked Modal)" = "Envia el missatge";
+
+"Send people a notification to join this broadcast. Mutuals are people you follow that follow you back." = "Envia una notificació a altres persones perquè s'uneixin a l'emissió. Les connexions mútues són persones que segueixes i que et segueixen també.";
+
+"Sent for payment processing (History)" = "Enviat per processar-ne el pagament.";
+
+"Separator between two names" = "i";
+
+"Set Amplify Program" = "Configura el programa d'amplificació";
+
+"Setting the broadcast Amplify Program to •|•%@•|• will publish a new Tweet." = "Si configures el programa d'amplificació d'emissions a %@, es publicarà un tuit nou.";
+
+"Settings (app)" = "Configuració";
+
+"Sexual Content (Report Option)" = "Contingut sexual";
+
+"Sexually Inappropriate \n Obscene or unwanted sexual remarks" = "Sexualment inadequat•|•\nComentaris sexuals obscens o no desitjats•|•";
+
+"Share Broadcast" = "Comparteix l'emissió";
+
+"Share From" = "Comparteix-la a partir de:";
+
+"Share From %@" = "Comparteix-la a partir de: %@";
+
+"Share From Beginning" = "Comparteix-la des del principi";
+
+"Share Live" = "Comparteix-la en directe";
+
+"Share Twitter Tooltip (explaining that the feature is disabled while guests are enabled)" = "Desactivat per a les emissions amb convidats";
+
+"Share precise location (accessibility label)" = "Comparteix la ubicació exacta";
+
+"Share request sent. (chat message)" = "S'ha enviat la sol·licitud de compartició.";
+
+"Share screenshot and broadcast" = "Comparteix la captura de pantalla i l'emissió";
+
+"Share this broadcast so your followers don't miss it." = "Comparteix l'emissió perquè els teus seguidors no se la perdin.";
+
+"Share via..." = "Comparteix mitjançant...";
+
+"Show Stats (cell)" = "Mostra les estadístiques";
+
+"Skip" = "Omet";
+
+"Sorry, that action could not be completed because you have been blocked." = "L'acció no s'ha pogut completar perquè estàs blocat.";
+
+"Sorry, that action could not be completed because you have reached the block limit." = "L'acció no s'ha pogut completar perquè has arribat al límit de bloquejos.";
+
+"Sorry, that action could not be completed because you have reached the follow limit." = "L'acció no s'ha pogut completar perquè has arribat al límit de seguiments.";
+
+"Sorry, the broadcast is too full..." = "L'emissió és massa plena...";
+
+"Sorry, this broadcast is unavailable" = "L'emissió no està disponible";
+
+"Sorry, we couldn't load the broadcast share URL. Please try again." = "No s'ha pogut carregar l'URL per compartir l'emissió. Torna-ho a provar.";
+
+"Sorry, we couldn't save your changes. Please try again." = "No hem pogut desar els canvis. Torna-ho a provar.";
+
+"Sorry, we encountered an error blocking some users. Please try again." = "Hi ha hagut un error en blocar alguns usuaris. Torna-ho a provar.";
+
+"Sorry, we encountered an error blocking that user. Please try again." = "Hi ha hagut un error en blocar l'usuari. Torna-ho a provar.";
+
+"Sorry, we encountered an error loading user data. Please try again." = "Hi ha hagut un error en carregar les dades d'usuari. Torna-ho a provar.";
+
+"Sorry, we encountered an error loading your broadcasts. Please try again." = "Hi ha hagut un error en carregar les emissions. Torna-ho a provar.";
+
+"Sorry, we encountered an error reporting this broadcast. Please try again." = "Hi ha hagut un error en denunciar l'emissió. Torna-ho a provar.";
+
+"Sorry, we encountered an error reporting this guest. Please try again." = "Hi ha hagut un error en denunciar el convidat. Torna-ho a provar.";
+
+"Sorry, we've encountered a loading error. Please try again." = "Hi ha hagut un error de càrrega. Torna-ho a provar.";
+
+"Sorry, you've done that too many times. Try again in a few minutes." = "Has fet això massa vegades. Torna-ho a provar d'aquí a uns quants minuts.";
+
+"Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv" = "Has trobat un error de càrrega (421 - selector). Envia un correu electrònic a help@pscp.tv.";
+
+"Sorry, you've encountered a loading error (421). Please email help@pscp.tv" = "Has trobat un error de càrrega (421). Envia un correu electrònic a help@pscp.tv.";
+
+"Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later." = "La connexió a Internet no és prou potent per pujar una altra miniatura d'emissió. Torna-ho a provar més tard.";
+
+"Spam" = "Brossa";
+
+"Spam in Chat" = "Brossa al xat";
+
+"Star & Cash Outs History (Stars Profile)" = "Historial d'estrelles i cobraments";
+
+"Star History (Stars Profile)" = "Historial d'estrelles";
+
+"Star balance adjustment. Contact superhearts@pscp.tv if you have any questions. (History)" = "Ajustament del saldo d'estrelles. Posa't en contacte amb superhearts@pscp.tv si tens cap dubte.";
+
+"Stars (profile view title)" = "Estrelles";
+
+"Stars (profile)" = "Estrelles";
+
+"Start Point" = "Punt d'inici";
+
+"Start Sketching (action sheet)" = "Comença a esbossar";
+
+"Stop Broadcast" = "Atura l'emissió";
+
+"Submit" = "Envia";
+
+"Success! You've unmuted @%@" = "L'operació s'ha fet correctament. Has deixat de silenciar @%@";
+
+"Successfully set Amplify Program (title)" = "El programa d'amplificació s'ha configurat correctament";
+
+"Suggested user is watching singlular" = "%@•|• està veient ara•|•";
+
+"Suggested users are watching plural" = "%ld amics•|• estan veient ara•|•";
+
+"Super Broadcaster (Stars Profile)" = "Superemissor";
+
+"Super Broadcaster Program" = "Programa per a superemissors";
+
+"Super Heart Terms" = "Condicions dels supercors";
+
+"Super Hearts" = "Supercors";
+
+"Super Hearts OFF" = "Supercors desactivats";
+
+"Super Hearts ON" = "Supercors activats";
+
+"Swipe down to <bold>Stop</bold>" = "Fes lliscar el dit per •|•aturar-la•|•";
+
+"Tap anyhwhere to <bold>Exit Theater Mode</bold>" = "Toca en qualsevol lloc per •|•sortir del mode teatre•|•";
+
+"Tap this icon to join Broadcaster's broadcast as a guest. (Viewer Prompt to Call-In)" = "Toca la icona per unir-te a l'emissió de l'usuari •|•%@•|• com a convidat.";
+
+"Thank You (Report Broadcast Confirmation Modal)" = "Gràcies";
+
+"Thank you for your report" = "Gràcies per la denúncia";
+
+"Thank you for your report (Chat Prompt)" = "Gràcies per la denúncia";
+
+"Thank you for your report." = "Gràcies per haver-nos enviat la denúncia.";
+
+"Thank you. You won't see any more messages from •|•@%@•|• in this broadcast." = "Gràcies. Ja no veuràs cap més missatge de: •|•@%@•|• en aquesta emissió.";
+
+"Thanks %@!" = "Gràcies, %@!";
+
+"Thanks for your feedback!" = "Gràcies pel teu comentari!";
+
+"The broadcaster blocked you in response to this message." = "L'emissor t'ha blocat en resposta a aquest missatge.";
+
+"The broadcaster has limited chat." = "L'emissor ha limitat el xat.";
+
+"The broadcaster has the ability to remove people from their broadcasts." = "L'emissor pot eliminar persones de les seves emissions.";
+
+"The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•." = "La botiga de monedes ha tancat. Si et queden monedes, utilitza-les per enviar supercors als teus emissors preferits abans del dia •|•%@•|•.";
+
+"Theater Mode (action sheet)" = "Mode teatre";
+
+"Their name, bio, or profile image violates the Community Guidelines" = "El seu nom, biografia o imatge del perfil infringeixen les normes de la comunitat";
+
+"There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat." = "Hi ha moltes persones veient això ara mateix! Per limitar els missatges per a l'emissor, només podran xatejar les persones que s'hi hagin unit primer.";
+
+"There was an error adding @username as a guest. Please try again." = "Hi ha hagut un error en afegir @%@ com a convidat. Torna-ho a provar.";
+
+"There was an error adding you as a guest. We've notified Broadcaster, and will alert you if we're able to try again." = "Hi ha hagut un error en afegir-t'hi com a convidat. Ho hem notificat a %@, i t'avisarem si ho podem tornar a provar.";
+
+"There was an error allowing guests. Please try again." = "Hi ha hagut un error en permetre els convidats. Torna-ho a provar.";
+
+"There was an error cancelling your request. Please try again." = "Hi ha hagut un error en cancel·lar la sol·licitud. Torna-ho a provar.";
+
+"There was an error cancelling. Please try again." = "Hi ha hagut un error en cancel·lar. Torna-ho a provar.";
+
+"There was an error disallowing guests. Please try again." = "Hi ha hagut un error en deixar de permetre que s'hi uneixin convidats. Torna-ho a provar.";
+
+"There was an error inviting guests. Please try again." = "Hi ha hagut un error en convidar els usuaris. Torna-ho a provar.";
+
+"There was an error muting or un-muting @username. Please try again." = "Hi ha hagut un error en silenciar o en deixar de silenciar @%@. Torna-ho a provar.";
+
+"There was an error muting or un-muting you. Please try again." = "Hi ha hagut un error en silenciar-te o en deixar-te de silenciar. Torna-ho a provar.";
+
+"There was an error removing your guest @username. Please try again." = "Hi ha hagut un error en eliminar el convidat @%@. Torna-ho a provar.";
+
+"There was an error sending your request to join as a guest. Please try again." = "Hi ha hagut un error en enviar la sol·licitud per unir-t'hi com a convidat. Torna-ho a provar.";
+
+"There was an error updating the settings (conversation controls and mentioned users). Please try again." = "S'ha produït un error en actualitzar la configuració (per als controls de conversa i els usuaris mencionats). Torna-ho a provar.";
+
+"There was an error updating the settings (locked/unlocked). Please try again." = "S'ha produït un error en actualitzar la configuració (blocada/desblocada). Torna-ho a provar.";
+
+"This broadcast is no longer available." = "L'emissió ja no està disponible.";
+
+"This broadcast isn’t available (Copyright Violation)" = "L'emissió no està disponible";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}." = "L'emissió coincideix amb “%1$@”, una obra protegida amb drets d'autor de: %2$@. •|•Més informació•|•";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}. Do you have all rights necessary to broadcast this video on Twitter?" = "Aquesta emissió coincideix amb “%1$@”, una obra protegida amb drets d'autor de: %2$@. Disposes de tots els drets necessaris per emetre aquest vídeo al Twitter?";
+
+"This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video." = "L'emissió s'ha filmat amb una càmera de 360 graus. El Periscope ja no admet la reproducció de vídeos en 360 graus.";
+
+"This broadcast’s title can’t be edited. Learn more (Copyright Violation)" = "No es pot editar el títol de l'emissió. •|•Més informació•|•";
+
+"This is optional" = "Això és opcional";
+
+"This user doesn't have any followers yet" = "L'usuari encara no té cap seguidor.";
+
+"This user has not broadcasted yet" = "L'usuari encara no ha fet cap emissió";
+
+"This user isn't following anyone yet" = "L'usuari encara no segueix ningú";
+
+"Thousand Decimal Abbreviation" = "%.1fK";
+
+"Thousand Integer Abbreviation" = "%dK";
+
+"Thumbnail" = "Miniatura";
+
+"Time Watched (CELL)" = "Temps de visualització";
+
+"Title (accessibility label)" = "Títol";
+
+"To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off." = "Per xatejar, activa el paràmetre \"Connecta amb el Periscope\". Si el compte té activat el paràmetre \"Protegeix els meus tuits\", t'hauràs de baixar l'aplicació del Periscope i crear-ne un compte o bé canviar a un compte del Twitter que tingui desactivat aquest paràmetre.";
+
+"To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos." = "Per desar el vídeo, el Periscope necessita permís per accedir a les teves fotos. Per activar aquesta característica per a futures emissions, toca Configuració i activa el botó Fotos.";
+
+"To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account." = "Per enviar comentaris per correu electrònic, primer has de configurar el correu electrònic al teu dispositiu. Obre la configuració de l'aplicació, vés a Correu > Contactes > Calendaris i selecciona Afegeix un compte.";
+
+"To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option." = "Per compartir la teva ubicació, el Periscope necessita permís per accedir-hi des del teu dispositiu. Fes clic al botó Configuració, vés a Ubicació i selecciona l'opció Mentre utilitzo l'aplicació.";
+
+"Top Contributor" = "Col·laborador més destacat";
+
+"Total watch time per minute tooltip" = "Per cada minut d'aquesta emissió, els espectadors s'han estat veient-la un total combinat de: %@.";
+
+"Total watch time per minute tooltip (broadcaster)" = "Per cada minut d'aquesta emissió, els espectadors s'han estat veient-la un total combinat de: %@. Aquesta estadística normalitza el temps de visualització d'emissions amb diverses durades.";
+
+"Trying to reconnect" = "S'està intentant tornar a connectar";
+
+"Twitter Post OFF" = "Publicació al Twitter desactivada";
+
+"Twitter Post ON" = "Publicació al Twitter activada";
+
+"Unable to load broadcast." = "No es pot carregar l'emissió.";
+
+"Unblock User" = "Desbloca l'usuari";
+
+"Unfollow User" = "Deixa de seguir l'usuari";
+
+"Unhide Broadcast (menu button)" = "Deixa d'amagar l'emissió";
+
+"Unmute" = "Deixa de silenciar";
+
+"Unmute User" = "Deixa de silenciar l'usuari";
+
+"Unmute User Notifications" = "Deixa de silenciar les notificacions d'usuari";
+
+"Untitled" = "Sense títol";
+
+"User has not provided a profile description." = "L'usuari no ha introduït cap descripció per al perfil.";
+
+"Very bad" = "Molt dolenta";
+
+"Very good" = "Molt bona";
+
+"Video Issues" = "Problemes amb el vídeo";
+
+"Video Quality" = "Qualitat del vídeo";
+
+"Video will resume if signal improves" = "El vídeo es reprendrà si el senyal millora";
+
+"View Broadcast Actions (accessibility label)" = "Mostra les accions per a l'emissió";
+
+"View Participants (accessibility label)" = "Mostra els participants";
+
+"View Profile" = "Mostra el perfil";
+
+"View Stats" = "Mostra les estadístiques";
+
+"Viewers can give you Super Hearts.\n<link>Learn more.</link>" = "Els espectadors et poden donar supercors.\n•|•Més informació.•|•";
+
+"Viewers cannot give you Super Hearts.\n<link>Learn more.</link>" = "Els espectadors no et poden donar supercors.\n•|•Més informació.•|•";
+
+"Violence (Report Option)" = "Violència";
+
+"Waiting for other responses..." = "S'estan esperant altres respostes...";
+
+"Waiting for you to <bold>login</bold>." = "Estem esperant que •|•iniciïs sessió•|•.";
+
+"Watch %1$@'s broadcast: %2$@" = "Mira l'emissió de l'usuari %1$@: %2$@";
+
+"Watch %@'s broadcast." = "Mira l'emissió de l'usuari %@.";
+
+"Watch LIVE" = "Mira-la •|•EN DIRECTE•|•";
+
+"Watch Live" = "Mira-la en directe";
+
+"Watch Replay" = "Mostra la reemissió";
+
+"Watch Stream (User Activity)" = "Mira l'emissió";
+
+"Watch on #Periscope" = "Mira-ho al #Periscope";
+
+"Watch on #Periscope: %@" = "Mira-ho al #Periscope: %@";
+
+"Watch what happened at %1$@ in %2$@'s broadcast." = "Mira què ha passat a l'emissió de l'usuari %2$@ a les: %1$@.";
+
+"Watch what happened at %1$@ in %2$@'s broadcast: %3$@" = "Mira què ha passat a l'emissió de l'usuari %2$@ a les: %1$@. %3$@";
+
+"We encountered an error deleting your broadcast. Please try again." = "Hi ha hagut un error en suprimir l'emissió. Torna-ho a provar.";
+
+"We encountered an error updating your gift settings. Please try again." = "Hi ha hagut un error en actualitzar la configuració dels regals. Torna-ho a provar.";
+
+"We have received your report. Thank you for helping keep the community safe! (Report Broadcast Confirmation Modal)" = "Hem rebut la denúncia. Gràcies per ajudar-nos a mantenir la comunitat segura!";
+
+"We're sorry, there was an error starting your broadcast. Please try starting it again." = "Hi ha hagut un error en iniciar l'emissió. Torna-ho a provar.";
+
+"Welcome <bold>%@</bold>" = "Et donem la benvinguda, •|•%@•|•";
+
+"We’ve let your followers know that you joined as a guest (Chat Prompt)" = "Hem notificat als teus seguidors que t'hi has unit com a convidat";
+
+"What are you seeing now?" = "Què veus ara?";
+
+"What do you want to talk about?" = "De què vols parlar?";
+
+"What went well?" = "Què ha anat bé?";
+
+"When someone follows them, they'll be listed here." = "Quan algú el comenci a seguir, es mostrarà aquí.";
+
+"When someone follows you, they'll be listed here." = "Quan algú el comenci a seguir, es mostrarà aquí.";
+
+"When they do, it'll show up here." = "Quan ho faci, es mostraran aquí.";
+
+"When they do, they'll be listed here." = "Quan ho faci, es mostraran aquí.";
+
+"When you do, it'll show up here" = "Quan ho facis, es mostraran aquí.";
+
+"When you do, they'll be listed here." = "Quan ho facis, es mostraran aquí.";
+
+"Yes (Copyright Violation)" = "Sí";
+
+"You already have a linked Twitter account. Please use this in the future to broadcast from Twitter" = "Ja has enllaçat un compte del Twitter. Utilitza'l en el futur per emetre des del Twitter.";
+
+"You are now" = "Ara estàs";
+
+"You aren't following anyone yet" = "Encara no segueixes ningú";
+
+"You aren't following anyone." = "No segueixes ningú.";
+
+"You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests. (Offensive Report Modal)" = "Pots blocar els usuaris de qui no vulguis veure les emissions. Seguiràs veient els usuaris que hagis blocat quan siguin convidats.";
+
+"You can block a user whose broadcasts you no longer want to see. (Offensive Report Modal)" = "Pots blocar els usuaris de qui ja no vulguis veure les emissions.";
+
+"You can give •|•%@•|• of these" = "En pots donar •|•%@•|• d'aquests";
+
+"You can't broadcast right now (Copyright Violation)" = "En aquests moments no pots emetre vídeo";
+
+"You can't watch a broadcast while you're still broadcasting." = "No pots veure una emissió mentre segueixes emetent.";
+
+"You can’t watch this because it included a copyrighted work by {Full Name}. Learn more (Copyright Violation)" = "No pots veure això perquè inclou una obra protegida amb drets d'autor de: %@. •|•Més informació•|•";
+
+"You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster." = "Col·lecciones estrelles quan els fans et donen •|•supercors•|•. Converteix-te en superemissor per bescanviar les estrelles per diners.";
+
+"You didn't vote... <link>Learn about Moderation</link>" = "No has votat... •|•Més informació sobre la moderació•|•";
+
+"You don't have any followers yet" = "Encara no tens cap seguidor";
+
+"You earn stars from Super Hearts" = "Els supercors et permeten guanyar estrelles";
+
+"You haven't broadcasted yet" = "Encara no has fet cap emissió";
+
+"You were <bold>blocked</bold> by the broadcaster" = "L'emissor t'ha •|•blocat•|•";
+
+"You will lose any unsaved changes. Are you sure you want to leave this view?" = "Perdràs tots els canvis que no hagis desat. Segur que vols sortir de la visualització?";
+
+"You will lose the stars you received" = "Perdràs les estrelles que hagis rebut";
+
+"You're Waiting to Join (Guest Calling Menu)" = "Estàs esperant a unir-t'hi";
+
+"Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv" = "El compte s'ha desactivat perquè hi ha hagut una sol·licitud de retirada de contingut amb drets d'autor. Posa't en contacte amb help@pscp.tv.";
+
+"Your account has been disabled. Please contact help@pscp.tv" = "El compte s'ha desactivat. Posa't en contacte amb help@pscp.tv";
+
+"Your broadcast has been disabled (Copyright Violation)" = "L'emissió s'ha desactivat.";
+
+"Your broadcast matches a copyrighted work (Copyright Violation)" = "L'emissió coincideix amb una obra protegida amb drets d'autor";
+
+"Your broadcast's thumbnail has been updated to the current screen." = "La miniatura de l'emissió s'ha actualitzat a la pantalla actual.";
+
+"Your dispute claim was submitted (Copyright Violation)" = "S'ha presentat la reclamació";
+
+"Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•." = "Els teus comentaris són importants per ajudar-nos a millorar l'experiència amb les emissions. Des de la •|•Configuració•|•, pots indicar en qualsevol moment que no vols participar en enquestes futures.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts." = "El missatge  •|•\"%@\"•|• s'ha amagat perquè és abusiu. S'han desactivat els comentaris per a totes les emissions.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast." = "El missatge  •|•\"%@\"•|• s'ha amagat perquè és abusiu. S'han desactivat els comentaris per a l'emissió.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "El missatge  •|•\"%@\"•|• s'ha amagat perquè és abusiu. Els comentaris s'han limitat de manera temporal per a totes les emissions.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast." = "El missatge  •|•\"%@\"•|• s'ha amagat perquè és abusiu. Els comentaris s'han limitat de manera temporal per a l'emissió.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts." = "El missatge  •|•\"%@\"•|• s'ha amagat perquè és brossa. Els comentaris s'han desactivat per a totes les emissions.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast." = "El missatge  •|•\"%@\"•|• s'ha amagat perquè és brossa. S'han desactivat els comentaris per a l'emissió.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "El missatge  •|•\"%@\"•|• s'ha amagat perquè és brossa. Els comentaris s'han limitat de manera temporal per a totes les emissions.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast." = "El missatge  •|•\"%@\"•|• s'ha amagat perquè és brossa. Els comentaris s'han limitat de manera temporal per a l'emissió.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts." = "El missatge  •|•\"%@\"•|• s'ha amagat. S'han desactivat els comentaris per a totes les emissions.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast." = "El missatge  •|•\"%@\"•|• s'ha amagat. S'han desactivat els comentaris per a l'emissió.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts." = "El missatge  •|•\"%@\"•|• s'ha amagat. Els comentaris s'han limitat de manera temporal per a totes les emissions.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast." = "El missatge •|•\"%@\"•|• s'ha amagat. Els comentaris s'han limitat de manera temporal per a l'emissió.";
+
+"Your settings are about to automatically delete this broadcast." = "La configuració està a punt de suprimir l'emissió de manera automàtica.";
+
+"Your settings will automatically delete this broadcast in %@" = "La configuració suprimirà l'emissió de manera automàtica d'aquí a %@";
+
+"Your video will be available for replay after the event has ended. (Copyright Violation)" = "Una vegada finalitzat l'esdeveniment, el vídeo es podrà tornar a reproduir.";
+
+"Your viewers have been invited to join (Local Chat Prompt)" = "Has convidat els espectadors a unir-s'hi";
+
+"You’re enrolled in automatic monthly cash outs. (Stars Profile)" = "T'has registrat per a cobraments mensuals automàtics.";
+
+"You’ve blocked @username. Tap to report and share more details. (Should Report Guest User Chat Prompt)" = "Has blocat •|•@%@•|•. Toca per denunciar-lo i compartir-ne més detalls.";
+
+"[placeholder]" = "[placeholder]";
+
+"beta-feedback@pscp.tv" = "beta-feedback@pscp.tv";
+
+"coin bonus" = "%i%% més";
+
+"coin received (accessibility label)" = "moneda rebuda";
+
+"coins received (accessibility label)" = "monedes rebudes";
+
+"contact@pscp.tv" = "contact@pscp.tv";
+
+"current audience" = "audiència actual";
+
+"failed" = "error";
+
+"following (accessibility hint)" = "Fes un doble toc per deixar-lo de seguir";
+
+"following (accessibility label)" = "Seguint";
+
+"for fine control" = "permet fer un control ajustat";
+
+"heart received (accessibility label)" = "cor rebut";
+
+"hearts received (accessibility label)" = "cors rebuts";
+
+"https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119" = "https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119";
+
+"https://pscp.tv/i/super/terms" = "https://pscp.tv/i/super/terms";
+
+"iPad doesn’t support broadcasting from Split View." = "L'iPad no admet les emissions des de l'Split View.";
+
+"invited" = "ha convidat";
+
+"invited followers" = "ha convidat seguidors";
+
+"it's their first day on Periscope" = "és el seu primer dia al Periscope";
+
+"not following (accessibility hint)" = "Fes un doble toc per seguir-lo";
+
+"not following (accessibility label)" = "No el segueixes";
+
+"people" = "persones";
+
+"per Broadcast Minute (CELL)" = "per minut d'emissió";
+
+"per Viewer (CELL)" = "per espectador";
+
+"person" = "persona";
+
+"poor" = "feble";
+
+"posting publicly on Periscope" = "es mostrarà públicament al Periscope";
+
+"posting publicly on Twitter" = "es mostrarà públicament al Twitter";
+
+"selected Amplify Program" = "Programa d'amplificació seleccionat";
+
+"star received (accessibility label)" = "estrella rebuda";
+
+"stars received (accessibility label)" = "estrelles rebudes";
+
+"tap to change Amplify Program" = "Toca per canviar el programa d'amplificació";
+
+"tap to change Amplify program" = "Toca per canviar el programa d'amplificació";
+
+"tap to change audience" = "toca per canviar l'audiència";
+
+"to seek" = "permet cercar";
+
+"you hung up (Guest Caller Hung Up Chat Message Event)" = "has penjat";
+
+"you were added (New Guest Caller Chat Message Event)" = "t'hi han afegit";
+
+"you were removed (Guest Caller Was Removed Chat Message Event)" = "se t'ha eliminat";
+
+"•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•." = "•|•%1$@•|• ha actualitzat l'emissió perquè comenci a les •|•%2$@•|•.";
+
+"•|•%@•|• are guests (Broadcast Guests Social Proof)" = "•|•%@•|• són convidats";
+
+"•|•%@•|• invited you (Broadcast Guest Invitation Social Proof)" = "•|•%@•|• t'ha convidat";
+
+"•|•%@•|• is a guest (Broadcast Guest Social Proof)" = "•|•%@•|• és un convidat";
+
+"•|•%@•|• shared (Broadcast Share Social Proof)" = "•|•%@•|• ha compartit";
+
+"•|•%@•|• was a guest (Broadcast Guest Social Proof)" = "•|•%@•|• era un convidat";
+
+"•|•%@•|• were guests (Broadcast Guests Social Proof)" = "•|•%@•|• eren convidats";
+
+"•|•%@•|•\nBroadcasts" = "•|•%@•|•\nEmissions";
+
+"•|•%@•|•\nFollowers" = "•|•%@•|•\nSeguidors";
+
+"•|•%@•|•\nFollowing" = "•|•%@•|•\nSeguint";
+
+"•|•@%1$@•|• was muted by •|•%2$@•|•" = "•|•%2$@•|• ha silenciat •|•@%1$@•|•";
+
+"•|•@%1$@•|• was unmuted by •|•%2$@•|•" = "•|•%2$@•|• ha deixat de silenciar •|•@%1$@•|•";
+
+"•|•@%@•|• Retweeted on" = "•|•@%@•|• ha retuitat al";
+
+"•|•@%@•|• shared on" = "•|•@%@•|• ho ha compartit al";
+
+"•|•Muted•|• by %@" = "•|•Silenci activat•|• per %@";
+
+"•|•Not enough coins.•|• Get more coins to keep giving Super Hearts." = "•|•No tens prou monedes.•|• Aconsegueix més monedes per seguir donant supercors.";
+
+"•|•Press & Hold•|• the video to skip ahead" = "•|•Mantén premut•|• el vídeo per saltar endavant";
+
+"•|•Press & Hold•|• to skip back or ahead." = "•|•Mantén premut•|• per saltar endarrere o endavant.";
+
+"•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one." = "•|•Els supercors estan activats.•|• Toca l'emissió per donar el teu primer supercor.";
+
+"•|•Support %@•|• by giving Super Hearts!" = "•|•Dóna suport a: %@•|• donant-li supercors!";
+
+"•|•Unmuted•|• by %@" = "•|•Silenci desactivat•|• per %@";
+
+"•|•You need more coins•|• to give Super Hearts" = "•|•Necessites més monedes•|• per donar supercors";
+
+"•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast." = "Un dels moderadors de l'emissió %1$@ •|•t'ha silenciat•|• per un dels teus comentaris: •|•\"%2$@\"•|•. Ja no pots xatejar a l'emissió.";
+
+"•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast." = "Un dels moderadors de l'emissió %@ •|•t'ha deixat de silenciar•|•. Ara ja pots xatejar a l'emissió.";
+

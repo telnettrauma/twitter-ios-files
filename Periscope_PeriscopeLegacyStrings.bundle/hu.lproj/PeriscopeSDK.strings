@@ -1,0 +1,1448 @@
+"%@ New Messages" = "%@ új üzenet";
+
+"%@ Viewer (Broadcast Info)" = "%@ néző";
+
+"%@ Viewers (Broadcast Info)" = "%@ néző";
+
+"%@ ago" = "%@ ezelőtt";
+
+"%@ doesn't have any followers yet" = "Még senki sem követi %@ felhasználót";
+
+"%@ has not broadcasted yet" = "%@ még nem közvetített";
+
+"%@ is LIVE (broadcast title)" = "%@ ÉLŐ közvetítése";
+
+"%@ isn't following anyone yet" = "%@ még senkit sem követ";
+
+"%@ joined" = "csatlakozott";
+
+"%@ wants you to moderate comments. Tap on comments to mute them." = "%@ azt szeretné, ha moderálnád a hozzászólásokat. A hozzászólásokra koppintva elnémíthatod őket.";
+
+"%@ wants you to moderate comments. Tap or swipe left on comments to mute them." = "%@ azt szeretné, ha moderálnád a hozzászólásokat. A hozzászólások elnémításához koppints rájuk vagy húzd el az ujjad balra.";
+
+"%@ was live  (broadcast title)" = "%@ élőben volt";
+
+"%d More Live Viewers" = "további élőben néző";
+
+"%d More Replay Viewers" = "további visszajátszást néző";
+
+"%d More Viewers" = "További néző";
+
+"%ldd (days)" = "%ld nap";
+
+"%ldh (hours)" = "%ld óra";
+
+"%ldm (minutes)" = "%ld perc";
+
+"%lds (seconds)" = "%ld másodperc";
+
+"%ldy (years)" = "%ld év";
+
+"(EDITED)" = "(SZERKESZTVE)";
+
+"(Skip to) LIVE" = "ÉLŐ";
+
+"1 More Live Viewer" = "további élőben néző";
+
+"1 More Replay Viewier" = "további visszajátszást néző";
+
+"1 More Viewer" = "További néző";
+
+"1 New Message" = "1 új üzenet";
+
+"@username \"Tap to cancel\" (Add Guest Caller Chat Message Event)" = "Koppints a visszavonáshoz";
+
+"@username \"canceled\" (Add Guest Caller Chat Message Event)" = "visszalépett";
+
+"@username \"has asked to join\" (Add Guest Caller Chat Message Event)" = "csatlakozási kérést küldött";
+
+"@username \"hung up\" (Guest Caller Hung Up Chat Message Event)" = "•|•@%@•|• megszakította a hívást";
+
+"@username \"was added\" (Add Guest Caller Chat Message Event)" = "hozzáadva";
+
+"@username \"was added\" (New Guest Caller Chat Message Event)" = "•|•@%@•|• hozzáadva";
+
+"@username \"was removed\" (Add Guest Caller Chat Message Event)" = "eltávolítva";
+
+"@username \"was removed\" (Guest Caller Was Removed Chat Message Event)" = "•|•@%@•|• eltávolítva";
+
+"A Periscope account is required to edit a broadcast." = "A közvetítés szerkesztéséhez Periscope-fiók szükséges.";
+
+"A Periscope account is required to share a broadcast." = "A közvetítés megosztásához Periscope-fiók szükséges.";
+
+"A broadcast with a star balance was deleted. (History)" = "Egy csillagegyenleggel rendelkező közvetítés törölve lett.";
+
+"ACTIVE CONTRIBUTORS" = "AKTÍV KÖZREMŰKÖDŐK";
+
+"Abuse" = "Zaklatás";
+
+"Abusive Behavior (Report Option)" = "Sértő viselkedés";
+
+"Accept Caller as Guest" = "Hívó elfogadása vendégként";
+
+"Accept Super Hearts (accessibility hint)" = "Koppints rá kétszer, ha elfogadod a szuperszíveket a közvetítésnél.";
+
+"Accept Super Hearts (accessibility label)" = "Szuperszívek elfogadása";
+
+"Accept as Guest" = "Elfogadás vendégként";
+
+"Actions (accessibility label)" = "Műveletek";
+
+"Add Guest (Manage Guest Call-Ins Action Sheet)" = "Vendég hozzáadása";
+
+"Add guest \n viewer will become a guest broadcaster" = "Vendég hozzáadása•|•\na nézőből vendég közvetítő lesz•|•";
+
+"All-Time Stars (Stars Profile)" = "Minden idők legjobbjai";
+
+"Allow Guests (Tooltip Selected)" = "Vendégek engedélyezése";
+
+"Allow guests / Don't allow guests (accessibility label)" = "Vendégek engedélyezése/Vendégek letiltása";
+
+"Anything else you'd like to share?" = "Van bármi más, amit meg szeretnél osztani?";
+
+"Are you sure you want to send this message?" = "Biztos, hogy el szeretnéd küldeni ezt az üzenetet?";
+
+"Are you sure you want to unblock?" = "Biztos, hogy fel szeretnéd oldani a tiltást?";
+
+"Are you sure? (title)" = "Biztos, hogy ezt szeretnéd?";
+
+"Ask for Follow (action sheet)" = "Kérd meg, hogy kövessen";
+
+"Ask for Share (action sheet)" = "Kérd meg, hogy ossza meg";
+
+"Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Csatlakozás kérése a közvetítéshez vendégként. Mindenki hallani fog, és bármikor kiszállhatsz.";
+
+"Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Csatlakozás kérése a közvetítéshez vendégként. Mindenki látni és hallani fog, és bármikor kiszállhatsz.";
+
+"Asking to join... Broadcaster must accept you (Local Chat Prompt)" = "Csatlakozási kérés...\n•|•@%@•|• felhasználónak jóvá kell hagynia";
+
+"Audio Only (accessibility label)" = "Csak hangalapú közvetítés";
+
+"Audio from: Headphones" = "Audió innen: fejhallgató";
+
+"Audio from: Phone" = "Audió innen: Telefon";
+
+"Back" = "Vissza";
+
+"Back (action sheet)" = "Vissza";
+
+"Back Camera (accessibility hint)" = "Koppints kétszer az előoldali kamerára váltáshoz";
+
+"Back Camera (accessiblity value)" = "Hátsó kamera";
+
+"Back to %@" = "Vissza ide: %@";
+
+"Back to Hearts" = "Vissza a szívekhez";
+
+"Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. Learn more (Copyright violation)" = "Az utóbbi időben több olyan közvetítésed is volt, amelyekben szerzői joggal védett anyagok voltak láthatóak, ezért egy ideig nem közvetíthetsz. •|•Tudj meg többet!•|•";
+
+"Betascope App Feedback" = "Betascope alkalmazás értékelése";
+
+"Billion Decimal Abbreviation" = "%.1fmrd";
+
+"Billion Integer Abbreviation" = "%dmrd";
+
+"Block @%@" = "@%@ letiltása";
+
+"Block @%@ (Offensive Report Modal)" = "@%@ letiltása";
+
+"Block And Hang Up (Manage Guest Call-Ins Action Sheet)" = "Letiltás és megszakítás";
+
+"Block User" = "Felhasználó letiltása";
+
+"Block Users (%@)" = "Felhasználók letiltása (%@)";
+
+"Block {Username}" = "@%@ letiltása";
+
+"Blocked (user modal)" = "Letiltva";
+
+"Blocked by you" = "Általad letiltva";
+
+"Blocking will dismiss the broadcast and not report to Periscope. (Offensive Report Modal)" = "A tiltással eltünteted a közvetítést, de nem jelented a Periscope-nak.";
+
+"Broadcast Actions (accessibility hint)" = "Megnyitja a közvetítéssel kapcsolatos műveletek menüjét.";
+
+"Broadcast Details (action sheet)" = "Közvetítés adatai";
+
+"Broadcast Super Heart Auto-Deletion Warning" = "A kapott Szuperszívek után járó csillagok elvesztésének elkerülése érdekében •|•a rendszer nem törli automatikusan ezt a közvetítést 24 óra után•|•.\n\nHa szeretnéd, elrejtheted a közvetítést a vége után, így mások nem láthatják majd azt.";
+
+"Broadcast Title" = "A közvetítés címe";
+
+"Broadcast about to expire (Cell)" = "A közvetítés mindjárt lejár";
+
+"Broadcast creation" = "Közvetítés létrehozása";
+
+"Broadcaster Has Disabled Call-Ins (Generic Error Message)" = "A közvetítő jelenleg letiltotta a betelefonálási listát.";
+
+"Broadcaster blocked •|•@%@•|•" = "Közvetítő letiltva •|•@%@•|•";
+
+"Broadcaster doesn’t accept Super Hearts" = "A közvetítő nem fogadja el a szuperszíveket";
+
+"Broadcaster has assigned chat moderators." = "A közvetítő csevegési moderátorokat jelölt ki.";
+
+"Broadcaster has to accept your request before you can join as a guest. (Guest Call-In Instructions Subtitle)" = "%@ felhasználónak először el kell fogadnia a kérésedet, hogy csatlakozhass vendégként.";
+
+"Broadcaster is allowing guests to join (Local Chat Prompt)" = "•|•%@•|• engedélyezi a vendégek csatlakozását";
+
+"Broadcaster is not allowing guests to join (Local Chat Prompt)" = "•|•@%@•|• nem engedélyezi vendégek csatlakozását";
+
+"Broadcasters earn stars from Super Hearts" = "A közvetítők csillagokat kapnak a szuperszívek után";
+
+"Bummer (ReplayKit)" = "Hoppá";
+
+"CONCATENTATION_ACCESSIBILITY_STRING" = ".";
+
+"CONTRIBUTORS WHO HAVE LEFT" = "KÖZREMŰKÖDŐK, AKIK KILÉPTEK";
+
+"COULDN'T LOAD REPLAY VIEWERS" = "NEM LEHET BETÖLTENI A VISSZAJÁTSZÁST NÉZŐKET";
+
+"COULDN'T LOAD VIEWERS" = "NEM LEHET BETÖLTENI A NÉZŐKET";
+
+"Camera Selection (accessibility label)" = "Kamera kiválasztása";
+
+"Cancel" = "Mégse";
+
+"Cancel (action sheet)" = "Mégse";
+
+"Cancel Call In Button: \"Cancel Request to Join as a Guest\"" = "Vendégként történő csatlakozás kérésének visszavonása";
+
+"Cancel Guest Call-In Instructions Title: \"Waiting to join as a guest...\"" = "Várakozás a csatlakozásra vendégként...";
+
+"Cannot be undone" = "Nem vonható vissza";
+
+"Capture Thumbnail (action sheet)" = "Közvetítésikon beállítása";
+
+"Cash Outs (Stars Profile)" = "Kifizetések";
+
+"Cash out your stars, and continue using live video on Twitter" = "Váltsd be a csillagaidat, és használj élő videókat a Twitteren!";
+
+"Change Amplify Program" = "Az Amplify program cseréje";
+
+"Change Expiration (Cell)" = "Lejárat megváltoztatása";
+
+"Change Expiration Subtitle (Cell)" = "Automatikus törlés %@ óra múlva";
+
+"Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program." = "Az Amplify program •|•%@•|• programra történő cseréje törli Tweetedet és az új programmal új Tweetet fog közzétenni.";
+
+"Chatroom too full..." = "Túl sokan vagyunk a cseten...";
+
+"Child Safety (Report Option)" = "Gyermekbiztonság";
+
+"Choose guests to add. You can remove them at any time. (Manage Guest Callers Page Subtitle)" = "Válaszd ki a hozzáadni kívánt vendégeket. Bármikor eltávolíthatod őket.";
+
+"Close (accessibility label)" = "Bezár";
+
+"Comment Tip Option 1" = "Szólj hozzá és tudasd •|•%@•|• felhasználóval, hogy itt vagy!";
+
+"Comment Tip Option 2" = "Tudasd •|•%@•|• felhasználóval, honnan nézed!";
+
+"Comment Tip Option 3" = "Köszönj, ha csevegni szeretnél •|•%@•|• felhasználóval vagy a többi nézővel.";
+
+"Commenting is OFF" = "A kommentelés ki van kapcsolva";
+
+"Comments Received (CELL)" = "Hozzászólás érkezett";
+
+"Comments Received Unavailable (CELL)" = "n/a";
+
+"Compose Direct Message (Accessibility Label)" = "Privát üzenet írása";
+
+"Compose New Tweet (Accessibility Label)" = "Új Tweet írása";
+
+"Confirm Call In Button: \"OK, Ask to Join\"" = "OK, csatlakozás kérése";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile and audio will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and hear you. This may include people you’ve blocked on either app.\"" = "•\tA profilod és a hangod a közvetítés része lesz, és mindaddig nem lesz eltávolítható, amíg %1$@ nem törli a visszajátszást.\n\n•\tMinden néző a Periscope-on vagy a Twitteren látni fogja, hogy csatlakoztál %1$@ közvetítéséhez, és hallani fog téged. Köztük lehetnek olyan felhasználók is, akiket valamelyik alkalmazásban letiltottál.";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile, audio and video will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and see you. This may include people you’ve blocked on either app.\"" = "•\tA profilod, a hangod a videód képe a közvetítés része lesz, és mindaddig nem lesz eltávolítható, amíg %1$@ nem törli a visszajátszást.\n\n•\tMinden néző a Periscope-on vagy a Twitteren látni fogja, hogy csatlakoztál %1$@ közvetítéséhez, és hallani fog téged. Köztük lehetnek olyan felhasználók is, akiket valamelyik alkalmazásban letiltottál.";
+
+"Confirm Guest Call-In Instructions Title: \"Good to know...\"" = "Jó tudni...";
+
+"Connecting to chatroom" = "Kapcsolódás a chatszobához";
+
+"Connection Error" = "Kapcsolódási hiba";
+
+"Connection too" = "Kapcsolódás itt is";
+
+"Contact Us (action sheet)" = "Kapcsolatfelvétel";
+
+"Contributors" = "Közreműködők";
+
+"Copy Profile URL" = "Profil URL másolása";
+
+"Current Star Balance (Stars Profile)" = "Csillagok aktuális egyenlege";
+
+"Current Time (Accessibility Label)" = "Aktuális időpont";
+
+"Dear Periscope Team," = "Kedves Periscope Csapat,";
+
+"Delete Broadcast" = "Közvetítés törlése";
+
+"Delete Broadcast (action sheet)" = "Közvetítés törlése";
+
+"Delete Broadcast Now" = "Közvetítés törlése most";
+
+"Describe the issue (Report Option)" = "A probléma leírása";
+
+"Describe the issue with %@ (Report Option)" = "Írd le a problémádat @%@ felhasználóval";
+
+"Describe the issue with @%1$@ at %2$@ (Report Option)" = "Írd le a(z) @%1$@  felhasználóval %2$@ időpontban tapasztalt problémát";
+
+"Describe the issue you are seeing at %@ (Report Option)" = "Írd le az itt látott problémát: %@";
+
+"Direct Message (Compose)" = "Privát üzenet";
+
+"Disable Audio Only Broadcast" = "Csak hangalapú közvetítés letiltása";
+
+"Disabled for all broadcasts" = "Egy közvetítéshez sem lehet hozzászólni";
+
+"Disabled for this broadcast" = "A közvetítéshez nem lehet hozzászólni";
+
+"Discard Changes" = "Módosítások elvetése";
+
+"Display Photo (action sheet)" = "Fénykép megjelenítése";
+
+"Dispute Claim (Copyright Violation)" = "Vitaigény";
+
+"Do not notify my followers (Guest Call-In Notify Followers Option)" = "A követőim ne kapjanak értesítést";
+
+"Don't Allow Guests (Manage Guest Broadcasters Call-Ins List)" = "Vendégek letiltása";
+
+"Don't Allow Guests (Tooltip)" = "Vendégek letiltása";
+
+"Don't Auto-Delete" = "Ne töröld automatikusan";
+
+"Don't Send (Blocked Modal)" = "Ne küldd el";
+
+"Done" = "Kész";
+
+"Done (action sheet)" = "Kész";
+
+"Double Tap anywhere to Exit Theater Mode (accessibility label)" = "Koppints kétszer a színház mód bezárásához";
+
+"Double Tap to <bold>Flip Camera</bold>" = "Koppints kétszer a •|• Kamera megfordítása•|• menüre";
+
+"Double tap to allow or disallow guests (accessibility hint)" = "Koppints kétszer a vendégek engedélyezéséhez vagy letiltásához";
+
+"Duration (CELL)" = "Időtartam";
+
+"END (graph)" = "VÉGE";
+
+"ENDED" = "BEFEJEZVE";
+
+"Edit Broadcast" = "Közvetítés szerkesztése";
+
+"Edit Broadcast (action sheet)" = "Közvetítés szerkesztése";
+
+"Edit Broadcast Unavailable" = "A közvetítés szerkesztése nem engedélyezett";
+
+"Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured." = "A közvetítés szerkesztése módosítja a nézőknek megjelenített képet. A módosítások nem érintik a már kapott Tweeteket és értesítéseket.";
+
+"Enable Audio Only Broadcast" = "Csak hangalapú közvetítés engedélyezése";
+
+"Enable Email" = "E-mail engedélyezése";
+
+"Enable camera (Permissions Screen)" = "Kamera engedélyezése";
+
+"Enable microphone (Permissions Screen)" = "Mikrofon engedélyezése";
+
+"Enable/Disable Audio Only Broadcast (accessibility hint)" = "A csak hangalapú közvetítések engedélyezéséhez vagy letiltásához koppints kétszer";
+
+"Enable/Disable Audio Only Broadcast (accessibility label)" = "Csak hangalapú közvetítés engedélyezése/elnémítása";
+
+"Ended" = "Befejeződött";
+
+"Engaging Chat" = "Kellemes beszélgetés";
+
+"Error (ReplayKit)" = "Hiba";
+
+"Error accessing audio from microphone." = "Hiba a mikrofonon keresztül történő hangelérés során.";
+
+"Error accessing history." = "Hiba: az előzmények nem érhetők el.";
+
+"Error saving video to Camera Roll" = "Hiba történt a videó Filmtekercsek mappába mentése során";
+
+"Error setting Amplify Program (title)" = "Hiba történt az Amplify program beállítása közben";
+
+"Every heart you send will be a Super Heart" = "Minden küldött szív szuperszív lesz";
+
+"Everybody can chat" = "Bárki chatelhet";
+
+"FEATURED" = "NÉPSZERŰ";
+
+"FOLLOWERS (user profile modal)" = "KÖVETŐK";
+
+"FOLLOWING (user profile modal)" = "KÖVETÉS";
+
+"Final List separator" = "és";
+
+"Fine Control" = "Finomhangolás";
+
+"First Super Heart" = "Első szuperszív";
+
+"Flip Camera (action sheet)" = "Kamera megfordítása";
+
+"Follow (user modal)" = "Követés";
+
+"Follow request sent. (chat message)" = "Követési kérelem elküldve.";
+
+"Follow the broadcaster to catch their next broadcast." = "Kövesd a közvetítőt, hogy elcsípd a következő közvetítésüket.";
+
+"Follow •|•%@•|• to catch their next broadcast" = "Kövesd •|•%@•|• , hogy elcsípd a következő közvetítésüket.";
+
+"Followed by %1$@ and %2$@" = "%1$@ és %2$@ felhasználó követi";
+
+"Followed by %1$@, %2$@, %3$@ and %4$i others" = "%1$@, %2$@, %3$@ és %4$i másik felhasználó követi";
+
+"Followed by %1$@, %2$@, and %3$@" = "%1$@, %2$@ és %3$@ követi";
+
+"Followed by %@" = "%@ felhasználó követi";
+
+"Followers button (accessibility hint)" = "Koppints kétszer a követők megtekintéséhez.";
+
+"Following (user modal)" = "Követés";
+
+"Following button (accessibility hint)" = "Koppints kétszer az általad követettek megtekintéséhez.";
+
+"Front Camera (accessibility hint)" = "Koppints kétszer a hátoldali kamerára váltáshoz";
+
+"Front Camera (accessiblity value)" = "Előoldali kamera";
+
+"Get Coins" = "Érmék vásárlása";
+
+"Give Super Hearts (menu button)" = "Adj szuperszíveket";
+
+"Go LIVE" = "Válts ÉLŐRE";
+
+"Go LIVE to %@" = "Közvetíts ÉLŐBEN neki: %@";
+
+"Go LIVE together (Guest Broadcasting Modal Title)" = "ÉLŐ közvetítés együtt";
+
+"Go to Twitter Profile" = "Menj a Twitter-profilra";
+
+"Good Viewer Count" = "Jó nézőszám";
+
+"Got It (Button Title)" = "Értem";
+
+"Got it (Copyright Violation)" = "Rendben!";
+
+"Got it (ReplayKit)" = "Rendben";
+
+"Got it!" = "Rendben!";
+
+"Guest Action Sheet Report Item" = "Jelentés";
+
+"Guest Call In Choice Label: \"Camera and microphone\"" = "Kamera és mikrofon";
+
+"Guest Call In Choice Label: \"Microphone only\"" = "Csak mikrofon";
+
+"Guest Call-In Audio Only Permissions Subtitle beneath Title: \"Enable microphone to become a guest\"" = "Mikrofon engedélyezése, hogy vendég lehess";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request. Learn more\"" = "Csatlakozhatsz, amint a közvetítő elfogadja a kérésed. •|•Tudj meg többet!•|•";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request.\"" = "Csatlakozhatsz, amint a közvetítő elfogadja a kérésed.";
+
+"Guest Call-In Instructions Title: \"Ask to Join\"" = "Csatlakozási kérés";
+
+"Guest Call-In Instructions Title: \"Join as a guest\"" = "Csatlakozás vendégként";
+
+"Guest Call-In Permissions Subtitle beneath Title: \"Enable camera and microphone to become a guest\"" = "Kamera és mikrofon engedélyezése, hogy vendég lehess";
+
+"Guest Call-In Permissions Title: \"Guest setup\"" = "Vendégbeállítások";
+
+"Guest List (Manage Guest Callers Page Title)" = "Vendégek listája";
+
+"Guest Was Banned Chat Message (Periscope)" = "Bejelentés érkezett •|•@%@•|• felhasználó ellen. A Periscope kivizsgálta a bejelentést, és kiderült, hogy az illető megsértette a Közösségi irányelveket.";
+
+"Guest Was Banned Chat Message (Twitter)" = "Bejelentés érkezett •|•@%@•|• felhasználó ellen. A Twitter kivizsgálta a bejelentést, és kiderült, hogy az illető megsértette a Twitter szabályait.";
+
+"Guests Not Allowed (Manage Guest Broadcasters Call-Ins List)" = "Vendégek nem engedélyezettek";
+
+"Guests can now ask to join. Use this icon to add or remove guests at any time. (Guest Broadcasting Enabled Prompt)" = "Mostantól a vendégek kérhetik, hogy csatlakozhassanak. Az ikon segítségével bármikor hozzáadhatsz vagy eltávolíthatsz vendégeket.";
+
+"HEART" = "SZÍV";
+
+"HEARTS" = "SZÍV";
+
+"Half-Speed" = "félsebesség";
+
+"Hang Up (Guest Calling Menu)" = "Megszakítás";
+
+"Hang Up (Manage Guest Call-Ins Action Sheet)" = "Megszakítás";
+
+"Hang Up Button Label: \"Hang Up\"" = "Megszakítás";
+
+"Hang Up Subtitle (Audio Only): \"Stop sharing microphone\"" = "Mikrofon megosztásának leállítása";
+
+"Hang Up Subtitle (Camera + Microphone): \"Stop sharing camera and microphone\"" = "Kamera és mikrofon megosztásának leállítása";
+
+"Hang Up on Guest or Cancel Guest From Joining" = "Vendég hívásának megszakítása vagy elutasítása";
+
+"Hang up" = "Megszakítás";
+
+"Harassment" = "Zaklatás";
+
+"Hateful Conduct (Report Option)" = "Gyűlöletes viselkedés";
+
+"Heart Sent (accessiblity announcement)" = "szívet küldtél";
+
+"Hearts & Chats off" = "Szívek és csevegés kikapcsolva";
+
+"Hearts & Chats on" = "Szívek és csevegés bekapcsolva";
+
+"Help us moderate this comment..." = "Segíts nekünk a hozzászólás moderálásában...";
+
+"Help us understand the problem.\nWhat issue with @%@ are you reporting?" = "Segíts, hogy megérthessük a problémát! Milyen esetet jelentesz @%@ felhasználóval kapcsolatban?";
+
+"Hide Broadcast" = "Közvetítés elrejtése";
+
+"Hide everything except video (action sheet)" = "A videó kivételével minden elrejtése";
+
+"History (profile view title)" = "Előzmények";
+
+"History button (accessibility hint)" = "Koppints kétszer a jelenlegi közvetítések megtekintéséhez.";
+
+"How can we improve?" = "Hogyan fejlődhetünk?";
+
+"How was your broadcasting experience?" = "Milyen volt a közvetítés?";
+
+"I'm Not Interested in @%@" = "Nem érdekel a(z) @%@ felhasználó";
+
+"If this broadcast depicts pornography or sexual acts, please tap below. (Report Sexual Content Modal)" = "Ha a közvetítés pornográf elemeket vagy szexualitást tartalmaz, akkor koppints lentre.";
+
+"If you believe that this broadcast places a child at risk, please tap below. (Report Child Safety Modal)" = "Ha úgy gondolod, ez a közvetítés veszélyt jelent egy gyermekre nézve, akkor koppints alulra.";
+
+"If you believe this broadcast contains violence or someone is being physically threatened, please tap below. (Report Violence Modal)" = "Ha úgy gondolod, hogy ez a közvetítés erőszakot vagy valaki fizikai fenyegetését tartalmazza, kérjük, érintsd meg a lenti gombot.";
+
+"If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Ha úgy véled, ez a közvetítés gyűlöletet kelt valamely védett kategória ellen (rassz, vallás, nemi hovatartozás, szexuális irányultság, fogyatékosság), akkor koppints lentre.";
+
+"If you believe this broadcast exposes private information, please tap below. (Report Private Information Modal)" = "Ha úgy véled, ez a közvetítés magánjellegű információkat tesz közzé, akkor koppints lentre.";
+
+"If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below. (Report Harassment Modal)" = "Ha úgy véled, hogy ez a közvetítés zaklató, terrorizáló vagy félelmet kelt mások véleményének elnyomása érdekében, akkor koppints lentre.";
+
+"If you believe this guest is contemplating or encouraging suicide or self harm, please tap below. (Report Self Harm Modal)" = "Ha úgy véled, hogy ez a vendég öngyilkosságra vagy önkárosításra készül, akkor koppints lentre.";
+
+"If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Ha úgy véled, ez a vendég gyűlöletet kelt valamely védett kategória ellen (rassz, vallás, nemi hovatartozás, szexuális irányultság, fogyatékosság), akkor koppints lentre.";
+
+"If you believe this guest is exposing private information, please tap below. (Report Private Information Modal)" = "Ha úgy véled, ez a vendég magánjellegű információkat tesz közzé, akkor koppints lentre.";
+
+"If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below. (Report Harassment Modal)" = "Ha úgy véled, hogy ez a vendég zaklató, terrorizáló vagy félelmet kelt mások véleményének elnyomása érdekében, akkor koppints lentre.";
+
+"If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below. (Report Violence Modal)" = "Ha úgy véled, hogy ez a vendég a fizikai biztonságot vagy jóllétet veszélyeztető erőszakos fenyegetést jelent, akkor koppints lentre.";
+
+"If you believe this guest is sharing content that places a child at risk, please tap below. (Report Child Safety Modal)" = "Ha úgy véled, ez a vendég olyan tartalmat oszt meg, amely veszélyt jelent egy gyermekre nézve, akkor koppints lentre.";
+
+"If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below. (Report Sexual Content Modal)" = "Ha úgy véled, ez a vendég illetlen szexuális tartalmakat oszt meg, pl. pornográfiát, akkor koppints lentre.";
+
+"If you believe this individual is contemplating suicide or self harm, please tap below. (Report Self Harm Modal)" = "Ha úgy gondolod, hogy valaki öngyilkosságot vagy önkárosítást készül elkövetni, kérjük, érintsd meg a lenti gombot.";
+
+"If you delete this broadcast, you will lose the stars that you received. This cannot be undone." = "Ha törlöd a közvetítést, akkor elveszíted a kapott csillagokat. A művelet nem vonható vissza.";
+
+"Initializing video stream..." = "Videófolyam inicializálása folyamatban...";
+
+"Invite Guests (Manage Guest Broadcasters Call-Ins List)" = "Vendégek meghívása";
+
+"Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Hívd meg a nézőket vendégnek a közvetítésedbe. Mindenki hallani fogja őket, te pedig bármikor hozzáadhatod vagy eltávolíthatod őket.";
+
+"Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Hívd meg a nézőket vendégnek a közvetítésedbe. Mindenki hallani és látni fogja őket, te pedig bármikor hozzáadhatod vagy eltávolíthatod őket.";
+
+"Join as a Guest (Guest Calling Menu)" = "Csatlakozás vendégként";
+
+"Joined %@" = "Csatlakozás dátuma: %@";
+
+"Joining as a guest... (Guest Call-In Countdown Screen Title)" = "Csatlakozás vendégként";
+
+"Keep broadcasting to collect more stars!" = "Közvetíts folyamatosan, hogy  csillagokat kaphass!";
+
+"Keep stars received" = "Megtartod a kapott csillagokat";
+
+"LIVE" = "ÉLŐ";
+
+"LIVE VIEWER" = "ÉLŐBEN NÉZŐ";
+
+"LIVE VIEWERS" = "ÉLŐBEN NÉZŐK";
+
+"LIVE Video (Broadcast Audience)" = "Élő videó";
+
+"LIVE on #Periscope" = "ÉLŐBEN itt: #Periscope";
+
+"LIVE on #Periscope: %@" = "ÉLŐ a #Periscope-on: %@";
+
+"LOADING" = "BETÖLTÉS";
+
+"LOST CONNECTION" = "A KAPCSOLAT MEGSZAKADT";
+
+"Later (alert view)" = "Később";
+
+"Learn More" = "Tudj meg többet";
+
+"Learn More (Stars Profile)" = "Tudj meg többet!";
+
+"Leave Broadcast" = "Közvetítés elhagyása";
+
+"Limited by Broadcaster" = "Közvetítő által korlátozva";
+
+"Limited for %@" = "Korlátozva ennyi időre: %@";
+
+"List separator" = ",";
+
+"Live Time Watched (CELL)" = "Élő megtekintés ideje";
+
+"Live watch time per minute tooltip" = "Az élő közvetítés minden percére vonatkoztatva, a nézők összesen %@ percet töltöttek el a megtekintéssel.";
+
+"Loading History." = "Előzmények betöltése.";
+
+"Loading followers" = "Követők betöltése folyamatban";
+
+"Loading following" = "Követés betöltése folyamatban";
+
+"Loading history" = "Előzmények betöltése";
+
+"Loading your followers" = "Követőid betöltése folyamatban";
+
+"Loading your following" = "Az általad követett felhasználók betöltése folyamatban";
+
+"Location Permissions Required" = "Helymeghatározás engedélyezése szükséges";
+
+"Location Unknown" = "Ismeretlen helyszín";
+
+"Logged Out" = "Kijelentkezve";
+
+"Login Error (ReplayKit)" = "Bejelentkezés szükséges";
+
+"Login Error Instructions (ReplayKit)" = "A bejelentkezéshez nyisd meg a Periscope alkalmazást. Azután a közvetítés megkezdéséhez térj vissza ide.";
+
+"Looks OK" = "Úgy tűnik, rendben van";
+
+"Looks like the connection was lost. Reconnecting... (Toast)" = "Úgy tűnik, megszakadt a kapcsolat. Újracsatlakozás...";
+
+"Lose stars received" = "Elveszíted a kapott csillagokat";
+
+"Low Viewer Count" = "Alacsony nézőszám";
+
+"Low disk space. A portion of this broadcast will not be available for replay later." = "Kevés a tárhely. A közvetítés egy része elérhető a későbbiekben történő újbóli lejátszásra.";
+
+"Majority voted <destructive emphasis> Abuse </destructive emphasis>\nThe commenter's chat has been limited." = "Szavazattöbbséggel •|• Zaklató •|• A hozzászóló chatje korlátozva.";
+
+"Majority voted <destructive emphasis> Looks OK  </destructive emphasis>" = "Szavazattöbbséggel •|• Megfelelő •|• minősítést kapott";
+
+"Majority voted <destructive emphasis> Not Sure </destructive emphasis>" = "Szavazattöbbséggel •|• Bizonytalan •|• minősítést kapott";
+
+"Majority voted <destructive emphasis> Spam </destructive emphasis>\nThe commenter's chat has been limited." = "Szavazattöbbséggel •|• Levélszemét (spam) •|• A hozzászóló chatje korlátozva.";
+
+"Makes broadcast visible to everyone" = "Mindenkinek láthatóvá teszi a közvetítést";
+
+"Makes broadcast visible to invited viewers" = "Láthatóvá teszi a közvetítést a meghívott nézőknek";
+
+"Manage details about your Broadcast (menu subtitle)" = "A közvetítés részleteinek módosítása";
+
+"Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen." = "Az ilyen típusú üzenetek gyakran tiltásra kerülnek. Ha túl gyakran letiltanak, hozzászólásaid többé nem lesznek láthatóak.";
+
+"Million Decimal Abbreviation" = "%.1fm";
+
+"Million Integer Abbreviation" = "%dm";
+
+"Moderation Modal Button Label" = "Oké, értem";
+
+"Moderation Modal Example Label" = "PÉLDA";
+
+"Moderation Modal Example Message" = "Kérdéses üzenet...";
+
+"Moderation Modal Settings Label" = "Kikapcsolhatod a Beállítások menüpontban.";
+
+"Moderation Modal Subtitle" = "Esetenként felkérünk arra, hogy moderálj, gyorsan eldöntve, hogy egy hozzászólás •|•ZAKLATÓ•|• vagy •|•SPAM•|• minősítést kapjon-e. A moderálás névtelen (anonim).";
+
+"Moderation Modal Title" = "Moderálás";
+
+"Moderator Actions" = "Moderátori műveletek";
+
+"Moderator Actions (%@)" = "Moderátori műveletek (%@)";
+
+"Moderator •|•%@•|• joined" = "•|•%@•|• moderátor csatlakozott";
+
+"ModeratorName muted this message (Message Carousel)" = "•|•%@•|• elnémította az üzenetet";
+
+"Monetize Broadcast" = "Közvetítés bevétellel";
+
+"Monetize Broadcast (expanded cell title)" = "Közvetítés reklámbevétellel";
+
+"Monetize Broadcast (minimized cell title)" = "Közvetítés reklámbevétellel ▾";
+
+"More (following/followers)" = "Még több";
+
+"Mute" = "Némítás";
+
+"Mute (accessibility label)" = "Némítás";
+
+"Mute User" = "Felhasználó némítása";
+
+"Mute User Notifications" = "Felhasználóval kapcsolatos értesítések némítása";
+
+"Muted by Moderator" = "Elnémította egy moderátor";
+
+"NEW" = "ÚJ";
+
+"NO LIVE VIEWERS" = "NINCS ÉLŐBEN NÉZŐ";
+
+"NO REPLAY VIEWERS" = "NINCS VISSZAJÁTSZÁST NÉZŐ";
+
+"New Broadcaster Education: 3 Guest Limit" = "Egyszerre legfeljebb 3 vendéged lehet.";
+
+"New Tweet (Compose)" = "Új Tweet";
+
+"No history." = "Nincsenek előzmények.";
+
+"No one has asked to join yet. Tap to invite your viewers to join. (Empty Manage Guest Broadcasters Call-Ins List)" = "Még senki sem akart csatlakozni.\n\nKoppints ide és hívd meg a nézőidet a beszélgetésbe!";
+
+"No one is following you." = "Senki nem követ.";
+
+"No, stop broadcasting (Copyright Violation)" = "Nem, leállítom a közvetítést";
+
+"Not Sure" = "Bizonytalan";
+
+"Not followed by anyone you're following" = "Nem követi senki, akit te követsz";
+
+"Notifications (accessiblity label)" = "Értesítések";
+
+"Notifications OFF" = "Értesítések KIKAPCSOLVA";
+
+"Notifications ON" = "Értesítések BEKAPCSOLVA";
+
+"Notifications Off (accessibility hint)" = "Koppints kétszer, hogy értesítéseket kapj ettől a felhasználótól.";
+
+"Notifications Off (accessibility value)" = "Ki";
+
+"Notifications On (accessibility hint)" = "Koppints kétszer a felhasználótól érkező értesítések megszüntetéséhez.";
+
+"Notifications On (accessibility value)" = "Be";
+
+"Notify my followers (Guest Call-In Notify Followers Option)" = "A követőim kapjanak értesítést";
+
+"OK, Got It" = "OK, rendben";
+
+"Offensive Guest (Report Option)" = "Sértő vendég";
+
+"Okay (Report Broadcast Modal)" = "Rendben";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Egy vagy több hozzászólásodat ZAKLATÓ minősítés miatt töröltük. Hozzászólási jogosultságod valamennyi közvetítéshez felfüggesztésre került.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast." = "Egy vagy több hozzászólásodat ZAKLATÓ minősítés miatt töröltük. Hozzászólási jogosultságod ehhez a közvetítéshez felfüggesztésre került.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Egy vagy több hozzászólásodat ZAKLATÓ minősítés miatt töröltük. Hozzászólási jogosultságod valamennyi közvetítés vonatkozásában ideiglenesen korlátozásra került.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited." = "Egy vagy több hozzászólásodat ZAKLATÓ minősítés miatt töröltük. Hozzászólási jogosultságod ideiglenesen korlátozásra került.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts." = "Egy vagy több hozzászólásodat SPAM minősítés miatt töröltük. Hozzászólási jogosultságod valamennyi közvetítéshez felfüggesztésre került.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast." = "Egy vagy több hozzászólásodat SPAM minősítés miatt töröltük. Hozzászólási jogosultságod ehhez a közvetítéshez felfüggesztésre került.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Egy vagy több hozzászólásodat SPAM minősítés miatt töröltük. Hozzászólási jogosultságod valamennyi közvetítés vonatkozásában ideiglenesen korlátozásra került.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited." = "Egy vagy több hozzászólásodat SPAM minősítés miatt töröltük. Hozzászólási jogosultságod ideiglenesen korlátozásra került.";
+
+"One or more of your comments was hidden. Commenting is disabled for all broadcasts." = "Egy vagy több hozzászólásodat töröltük. Hozzászólási jogosultságod valamennyi közvetítéshez felfüggesztésre került.";
+
+"One or more of your comments was hidden. Commenting is disabled for this broadcast." = "Egy vagy több hozzászólásodat töröltük. Hozzászólási jogosultságod ehhez a közvetítéshez felfüggesztésre került.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts." = "Egy vagy több hozzászólásodat töröltük. Hozzászólási jogosultságod valamennyi közvetítés vonatkozásában ideiglenesen korlátozásra került.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited." = "Egy vagy több hozzászólásodat töröltük. Hozzászólási jogosultságod ideiglenesen korlátozásra került.";
+
+"One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast." = "Egy vagy több hozzászólásodat elnémították a moderátorok. A közvetítés során nem lehet hozzászólni.";
+
+"Only available in Periscope" = "Csak a Periscope-on érhető el";
+
+"Only public broadcasts counted" = "Csak a nyilvános közvetítéseket tartalmazza";
+
+"Only users you follow can chat" = "Csak a követett felhasználókkal tudsz chatelni";
+
+"Only you can see your hidden broadcasts (menu subtitle)" = "A rejtett közvetítéseidet csak te láthatod";
+
+"Other Reason (Report Option)" = "Egyéb ok";
+
+"Other Reason \n e.g. Foreign Language" = "Egyéb ok•|•\nmint pl. Idegen nyelv•|•";
+
+"Our apologies for the inconvenience." = "Elnézést kérünk a kellemetlenségért.";
+
+"POOR CONNECTION" = "A KAPCSOLAT NEM JÓ";
+
+"POSSIBLY NSFW (Interstitial)" = "LEHETSÉGES, HOGY NEM MEGBÍZHATÓ";
+
+"Pause (accessibility label)" = "Szünet";
+
+"Peak (graph label)" = "Csúcsérték";
+
+"Periscope App Feedback" = "Periscope alkalmazás értékelése";
+
+"Periscope account is required." = "Periscope-fiók szükséges.";
+
+"Periscope is discontinuing on •|•%@•|•" = "A Periscope •|•%@•|• napján megszűnik";
+
+"Play (accessibility label)" = "Lejátszás";
+
+"Please allow some time for all transactions to be posted." = "Adj elég időt a tranzakciók közzétételére.";
+
+"Positive Community" = "Pozitív közösség";
+
+"Post to Twitter (accessibility hint)" = "Koppints kétszer a Twitterhez kapcsoláshoz.";
+
+"Post to Twitter (accessibility label)" = "Twitterre küldés";
+
+"Posting to Twitter OFF" = "Twitterre küldés KI";
+
+"Posting to Twitter as @%@" = "Twitterre küldés mint @%@";
+
+"Precise Location Sharing OFF" = "Pontos helymeghatározás megosztása KI";
+
+"Precise Location Sharing ON" = "Pontos helymeghatározás megosztása BE";
+
+"Private (Broadcast Audience)" = "Privát";
+
+"Private Information (Report Option)" = "Magánjellegű információ";
+
+"Profile (accessibility label)" = "Profil";
+
+"Profile URL copied" = "Profil URL másolva";
+
+"Public (Broadcast Audience)" = "Nyilvános";
+
+"Public Hidden (Broadcast Audience)" = "Nyilvános (rejtett)";
+
+"Quarter-Speed" = "Negyed sebesség";
+
+"RECENT (user profile modal)" = "JELENLEG";
+
+"REPLAY VIEWER" = "VISSZAJÁTSZÁST NÉZŐ";
+
+"REPLAY VIEWERS" = "VISSZAJÁTSZÁST NÉZŐ";
+
+"Ready to give Super Hearts!" = "Készen állsz a szuperszívek kiosztására!";
+
+"Received in: (History)" = "Érkezett: „%@”";
+
+"Received stars (History)" = "Kapott csillagok.";
+
+"Release to <bold>Leave</bold> (broadcasting)" = "Engedd el az •|•Elhagyáshoz•|•";
+
+"Release to <bold>Leave</bold> (watching)" = "Engedd el az •|•Elhagyáshoz•|•";
+
+"Release to Refresh" = "Engedd el a frissítéshez";
+
+"Remove" = "Eltávolítás";
+
+"Remove Amplify Program" = "Az Amplify program eltávolítása";
+
+"Remove Amplify Program (cell title)" = "Az Amplify program eltávolítása";
+
+"Remove Location" = "Helyszín eltávolítása";
+
+"Remove at least 1 character from your title to make room for #(example hashtag)" = "Legalább 1 karaktert el kell távolítanod a címből, hogy kiférjen a következő: %@";
+
+"Remove at least X characters from your title to make room for #(example hashtag)" = "Legalább %lu karaktert el kell távolítanod a címből, hogy kiférjen a következő: %@";
+
+"Replay Time Watched (CELL)" = "Visszajátszás megtekintési ideje";
+
+"Replay Unavailable" = "A visszajátszás nem elérhető";
+
+"Replay watch time per minute tooltip" = "A közvetítés visszajátszásának minden percére vonatkoztatva, a nézők összesen %@ percet töltöttek el a megtekintéssel.";
+
+"Reply" = "Válasz";
+
+"Report @<guest's username> (Report Guest Modal)" = "@%@ jelentése";
+
+"Report Abusive Behavior (Report Abusive Behavior Modal)" = "Sértő viselkedés";
+
+"Report Abusive Profile" = "Zaklató profil bejelentése";
+
+"Report As Spam" = "Spam jelentése";
+
+"Report Broadcast (Report Broadcast Modal)" = "Közvetítés jelentése";
+
+"Report Child Safety (Report Child Safety Modal)" = "Gyermekbiztonság";
+
+"Report Comment" = "Hozzászólás jelentése";
+
+"Report Hateful Conduct (Report Hateful conduct Modal)" = "Gyűlöletes viselkedés";
+
+"Report Private Information (Report Private Information Modal)" = "Magánjellegű információ";
+
+"Report Self-Harm (Report Self Harm Modal)" = "Önkárosítás";
+
+"Report Sexual Content (Report Sexual Content Modal)" = "Szexuális jellegű tartalom";
+
+"Report User" = "Felhasználó jelentése";
+
+"Report Violence (Report Violence Modal)" = "Erőszak";
+
+"Reporting is anonymous and will hide the user's comments (just for you)." = "A jelentés névtelen (anonim) és a jelentéssel elrejted a felhasználó hozzászólásait (csak neked nem jelennek meg).";
+
+"Restrict Chat (accessibility hint)" = "Koppints kétszer a chat korlátozásához az általad követettekre";
+
+"Restrict Chat (accessibility label)" = "A chat korlátozása";
+
+"Return to Summary (accessibility hint)" = "Koppints kétszer a felhasználó összefoglalójához való visszatéréshez.";
+
+"Retweet" = "Retweetelés";
+
+"Save Changes" = "Módosítások mentése";
+
+"Save To Camera Roll" = "Mentve a Filmtekercsek mappába";
+
+"Save To Camera Roll Unavailable" = "A Filmtekercsek mappába mentés nem elérhető";
+
+"Saved To Camera Roll" = "Mentve a Filmtekercsek mappába";
+
+"Saved!" = "Mentve!";
+
+"Saving..." = "Mentés...";
+
+"Say something..." = "Mondj valamit...";
+
+"Scroll for Old Comments" = "Görgess a régi hozzászólások megtekintéséhez";
+
+"Scroll to Bottom" = "Görgetés az aljára";
+
+"Self-Harm (Report Option)" = "Önkárosítás";
+
+"Send (accessibility label)" = "Küldés";
+
+"Send Message (Blocked Modal)" = "Üzenet küldése";
+
+"Send people a notification to join this broadcast. Mutuals are people you follow that follow you back." = "Küld másoknak értesítést, hogy csatlakozzanak ehhez a közvetítéshez. A viszontkövetők az általad követett és téged visszakövető felhasználók.";
+
+"Sent for payment processing (History)" = "Elküldve a kifizetés feldolgozására.";
+
+"Separator between two names" = "és";
+
+"Set Amplify Program" = "Az Amplify program beállítása";
+
+"Setting the broadcast Amplify Program to •|•%@•|• will publish a new Tweet." = "A közvetítő Amplify program beállításával a(z) %@ eszközre egy új Tweetet fog közzétenni.";
+
+"Settings (app)" = "Beállítások";
+
+"Sexual Content (Report Option)" = "Szexuális tartalom";
+
+"Sexually Inappropriate \n Obscene or unwanted sexual remarks" = "Szexuálisan helytelen•|•\Obszcén vagy kéretlen szexuális megjegyzések•|•";
+
+"Share Broadcast" = "Közvetítés megosztása";
+
+"Share From" = "Megosztás innentől:";
+
+"Share From %@" = "Megosztás innentől: %@";
+
+"Share From Beginning" = "Megosztás az elejétől";
+
+"Share Live" = "Megosztás élőben";
+
+"Share Twitter Tooltip (explaining that the feature is disabled while guests are enabled)" = "Vendégekkel nem engedélyezett a közvetítés";
+
+"Share precise location (accessibility label)" = "Pontos helymeghatározás megosztása";
+
+"Share request sent. (chat message)" = "Megosztási kérelem elküldve.";
+
+"Share screenshot and broadcast" = "Képernyőkép és közvetítés megosztása";
+
+"Share this broadcast so your followers don't miss it." = "Oszd meg ezt a közvetítést, hogy követőid ne maradjanak le róla.";
+
+"Share via..." = "Megosztás itt:";
+
+"Show Stats (cell)" = "Statisztikák megmutatása";
+
+"Skip" = "Kihagyás";
+
+"Sorry, that action could not be completed because you have been blocked." = "Sajnáljuk, nem tudjuk elvégezni a műveletet, mert a felhasználó letiltott.";
+
+"Sorry, that action could not be completed because you have reached the block limit." = "Sajnáljuk, a művelet nem végrehajtható, mert elérted a letiltási limitet.";
+
+"Sorry, that action could not be completed because you have reached the follow limit." = "Sajnáljuk, a művelet nem végrehajtható, mert elérted a követési limitet.";
+
+"Sorry, the broadcast is too full..." = "Sajnáljuk, túl sokan vagyunk...";
+
+"Sorry, this broadcast is unavailable" = "Sajnáljuk, ez a közvetítés nem elérhető.";
+
+"Sorry, we couldn't load the broadcast share URL. Please try again." = "Sajnáljuk, nem tudjuk betölteni a közvetítést megosztó linket. Kérjük, próbáld meg újra.";
+
+"Sorry, we couldn't save your changes. Please try again." = "Sajnáljuk, a módosítások nem menthetők. Próbálkozz újra!";
+
+"Sorry, we encountered an error blocking some users. Please try again." = "Sajnáljuk, hiba történt egyes felhasználók letiltása során. Próbálkozz újra!";
+
+"Sorry, we encountered an error blocking that user. Please try again." = "Sajnáljuk, hiba történt a felhasználó letiltása során. Kérjük, próbáld meg újra.";
+
+"Sorry, we encountered an error loading user data. Please try again." = "Sajnáljuk, hiba történt a felhasználói adatok betöltése során. Próbálkozz újra!";
+
+"Sorry, we encountered an error loading your broadcasts. Please try again." = "Hiba történt közvetítéseid betöltése során. Kérjük, próbáld meg újra.";
+
+"Sorry, we encountered an error reporting this broadcast. Please try again." = "Sajnáljuk, hiba történt a közvetítés jelentése során. Kérjük, próbáld meg újra.";
+
+"Sorry, we encountered an error reporting this guest. Please try again." = "Sajnáljuk, hiba történt a vendég jelentése során. Kérjük, próbáld meg újra.";
+
+"Sorry, we've encountered a loading error. Please try again." = "Sajnáljuk, hiba történt a betöltés során. Kérjük, próbáld meg újra.";
+
+"Sorry, you've done that too many times. Try again in a few minutes." = "Sajnáljuk, túl sokszor próbálkoztál. Próbáld meg újra egy kis idő múlva.";
+
+"Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv" = "Sajnáljuk, hiba történt a betöltés során (421 – választó). Írj e-mailt a következő címre: help@pscp.tv";
+
+"Sorry, you've encountered a loading error (421). Please email help@pscp.tv" = "Sajánljuk, hiba történt a betöltés során (421). Írj e-mailt a következő címre: help@pscp.tv";
+
+"Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later." = "Sajnáljuk, internetkapcsolatod nem megfelelő az új közvetítésikon letöltéséhez. Kérjük, próbáld meg újra.";
+
+"Spam" = "Spam";
+
+"Spam in Chat" = "Spam a csevegésben";
+
+"Star & Cash Outs History (Stars Profile)" = "Csillagok és kifizetések előzményei";
+
+"Star History (Stars Profile)" = "Csillagelőzmények";
+
+"Star balance adjustment. Contact superhearts@pscp.tv if you have any questions. (History)" = "Csillagegyenleg beállítása. Ha kérdésed van, írj a superhearts@pscp.tv címre.";
+
+"Stars (profile view title)" = "Csillagok";
+
+"Stars (profile)" = "Csillagok";
+
+"Start Point" = "Kezdőpont";
+
+"Start Sketching (action sheet)" = "Kezdj el firkálni";
+
+"Stop Broadcast" = "Közvetítés leállítása";
+
+"Submit" = "Küldés";
+
+"Success! You've unmuted @%@" = "Sikerült! @%@ némítása feloldva";
+
+"Successfully set Amplify Program (title)" = "Az Amplify program sikeresen beállítva";
+
+"Suggested user is watching singlular" = "%@•|• éppen most nézi•|•";
+
+"Suggested users are watching plural" = "%ld ismerős•|• éppen most nézi•|•";
+
+"Super Broadcaster (Stars Profile)" = "Super Broadcaster";
+
+"Super Broadcaster Program" = "Super Broadcaster Program";
+
+"Super Heart Terms" = "Szuperszívek használati feltételei";
+
+"Super Hearts" = "Szuperszívek";
+
+"Super Hearts OFF" = "Szuperszívek kikapcsolása";
+
+"Super Hearts ON" = "Szuperszívek bekapcsolása";
+
+"Swipe down to <bold>Stop</bold>" = "Pöccints és húzd lefelé a •|•Megállításhoz•|•";
+
+"Tap anyhwhere to <bold>Exit Theater Mode</bold>" = "Koppints bárhová a •|•színház mód bezárásához•|•";
+
+"Tap this icon to join Broadcaster's broadcast as a guest. (Viewer Prompt to Call-In)" = "Erre az ikonra koppintva vendégként csatlakozhatsz •|•%@•|• közvetítéséhez.";
+
+"Thank You (Report Broadcast Confirmation Modal)" = "Köszönjük";
+
+"Thank you for your report" = "Köszönjük a jelentésedet!";
+
+"Thank you for your report (Chat Prompt)" = "Köszönjük a jelentésedet!";
+
+"Thank you for your report." = "Köszönjük a jelentésedet!";
+
+"Thank you. You won't see any more messages from •|•@%@•|• in this broadcast." = "Köszönjük. Többé nem kapsz semmilyen üzenetet •|•@%@•|• felhasználótól ebben a közvetítésben.";
+
+"Thanks %@!" = "Köszönjük %@!";
+
+"Thanks for your feedback!" = "Köszönjük visszajelzésedet!";
+
+"The broadcaster blocked you in response to this message." = "A közvetítő letiltott téged, válaszul erre az üzenetedre.";
+
+"The broadcaster has limited chat." = "A közvetítő korlátozta a csevegést.";
+
+"The broadcaster has the ability to remove people from their broadcasts." = "A közvetítőnek lehetősége van a felhasználók eltávolítására a közvetítésből.";
+
+"The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•." = "Az érmeáruház bezárt. Ha maradtak érméid, akkor •|•%@•|• napjáig felhasználhatod őket Szuperszívek küldésére a kedvenc közvetítőidnek.";
+
+"Theater Mode (action sheet)" = "Színház mód";
+
+"Their name, bio, or profile image violates the Community Guidelines" = "A neve, névjegye vagy profilképe nem felel meg a közösségi irányelveknek";
+
+"There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat." = "Ezt most sokan nézik! Hogy korlátozzuk a közvetítőnek küldhető üzenetek számát, csak azok chatelhetnek, akik idejekorán csatlakoznak.";
+
+"There was an error adding @username as a guest. Please try again." = "Hiba történt @%@ vendégként történő hozzáadása során. Próbálkozz újra!";
+
+"There was an error adding you as a guest. We've notified Broadcaster, and will alert you if we're able to try again." = "Hiba történt a vendégként történő felvételed során. Értesítettük %@ felhasználót, és értesíteni fogunk téged, ha újrapróbálkozhatunk.";
+
+"There was an error allowing guests. Please try again." = "Hiba történt a vendégek engedélyezése során. Próbálkozz újra!";
+
+"There was an error cancelling your request. Please try again." = "Hiba történt a kérésed visszavonása során. Próbálkozz újra!";
+
+"There was an error cancelling. Please try again." = "Hiba történt a leállítás során. Próbálkozz újra!";
+
+"There was an error disallowing guests. Please try again." = "Hiba történt a vendégek letiltása során. Próbálkozz újra!";
+
+"There was an error inviting guests. Please try again." = "Hiba történt a vendégek meghívása során. Próbálkozz újra!";
+
+"There was an error muting or un-muting @username. Please try again." = "Hiba történt @%@ némítása vagy némításának feloldása során. Próbálkozz újra!";
+
+"There was an error muting or un-muting you. Please try again." = "Hiba történt a némításod vagy a némításod feloldása során. Próbálkozz újra!";
+
+"There was an error removing your guest @username. Please try again." = "Hiba történt @%@ nevű vendéged eltávolítása során. Próbálkozz újra!";
+
+"There was an error sending your request to join as a guest. Please try again." = "Hiba történt a vendégként történő csatlakozásod kérése során. Próbálkozz újra!";
+
+"There was an error updating the settings (conversation controls and mentioned users). Please try again." = "Hiba történt a beállítások (beszélgetésvezérlők és említett felhasználók) frissítése során. Próbálkozz újra!";
+
+"There was an error updating the settings (locked/unlocked). Please try again." = "Hiba történt a beállítások módosítása során (zárolt/nem zárolt). Próbálkozz újra!";
+
+"This broadcast is no longer available." = "A közvetítés már nem érhető el.";
+
+"This broadcast isn’t available (Copyright Violation)" = "Ez a közvetítés nem érhető el";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}." = "Ez a közvetítés megegyezik a(z) „%1$@” anyaggal, amelynek szerzői jogai %2$@ tulajdonában állnak. •|•Tudj meg többet!•|•";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}. Do you have all rights necessary to broadcast this video on Twitter?" = "Ez a közvetítés megegyezik a(z) „%1$@” anyaggal, amelynek szerzői jogai %2$@ tulajdonában állnak. Rendelkezel a videó Twitteren történő közvetítéséhez szükséges minden engedéllyel?";
+
+"This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video." = "Ezt a közvetítést 360 fokos kamerával készítették. A Periscope már nem támogatja a 360 fokos videók lejátszását.";
+
+"This broadcast’s title can’t be edited. Learn more (Copyright Violation)" = "A közvetítés címe nem módosítható. •|•Tudj meg többet!•|•";
+
+"This is optional" = "Ez nem kötelező";
+
+"This user doesn't have any followers yet" = "Ennek a felhasználónak még nincs egy követője sem";
+
+"This user has not broadcasted yet" = "Ez a felhasználó még nem közvetített";
+
+"This user isn't following anyone yet" = "Ez a felhasználó még senkit sem követ";
+
+"Thousand Decimal Abbreviation" = "%.1fe";
+
+"Thousand Integer Abbreviation" = "%de";
+
+"Thumbnail" = "Miniatűr";
+
+"Time Watched (CELL)" = "Megtekintés ideje";
+
+"Title (accessibility label)" = "Cím";
+
+"To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off." = "A csevegéshez kapcsold be a „Csatlakozás a Periscope-hoz” beállítást. Ha a fiókodban engedélyezve van a „Tweetjeim védelme” beállítás, akkor le kell töltened a Periscope alkalmazást, és létre kell hoznod egy Periscope-fiókot, vagy át kell váltanod egy olyan Twitter-fiókra, amelynél a „Tweetjeim védelme” beállítás ki van kapcsolva.";
+
+"To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos." = "Hogy mentse videódat, a Periscope engedélyt kér, hogy hozzáférjen a Fényképek mappához. Hogy a jövőbeni közvetítésekhez engedélyezd a szolgáltatást, nyisd meg a Beállítások menüpontot, majd engedélyezd a hozzáférést a Fényképek bekapcsolásával.";
+
+"To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account." = "Hogy a visszajelzéseket e-mailben megkapd, először be kell állítanod az e-maileket az eszközödön. Először nyisd meg az Alkalmazások beállítása menüpontot, majd menj a Levelek, Kapcsolatok, Naptár menübe és válaszd ki a 'Fiók hozzáadása' menüpontot.";
+
+"To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option." = "Hogy megoszthasd tartózkodási helyedet, a Periscope engedélyt kér, hogy hozzáférjen az eszközödön. Nyisd meg eszközödön a Beállítások menüpontot, majd menj a Helymeghatározás menübe és válaszd ki az 'Alkalmazás használata közben' menüpontot.";
+
+"Top Contributor" = "Legaktívabb közreműködő";
+
+"Total watch time per minute tooltip" = "A közvetítés minden percére vonatkoztatva, a nézők összesen %@ percet töltöttek el a megtekintéssel.";
+
+"Total watch time per minute tooltip (broadcaster)" = "A közvetítés visszajátszásának minden percére vonatkoztatva, a nézők összesen %@ percet töltöttek el a megtekintéssel. Ez a statisztika normalizálja a különböző helyszínekről végzett közvetítések megtekintési idejét.";
+
+"Trying to reconnect" = "Újbóli kapcsolódás megkísérlése folyamatban...";
+
+"Twitter Post OFF" = "Twitterre küldés KI";
+
+"Twitter Post ON" = "Twitterre küldés BE";
+
+"Unable to load broadcast." = "A közvetítés nem tölthető be.";
+
+"Unblock User" = "Felhasználó letiltásának feloldása";
+
+"Unfollow User" = "Felhasználó követésének megszüntetése";
+
+"Unhide Broadcast (menu button)" = "Közvetítés elrejtésének feloldása";
+
+"Unmute" = "Némítás feloldása";
+
+"Unmute User" = "Felhasználó némításának feloldása";
+
+"Unmute User Notifications" = "Felhasználókról szóló értesítések némításának megszüntetése";
+
+"Untitled" = "Névtelen";
+
+"User has not provided a profile description." = "A felhasználó nem adott meg bemutatkozó szöveget.";
+
+"Very bad" = "Nagyon rossz";
+
+"Very good" = "Nagyon jó";
+
+"Video Issues" = "Videoproblémák";
+
+"Video Quality" = "Videominőség";
+
+"Video will resume if signal improves" = "A videót feltöltjük, ha a jelerősség megjavul";
+
+"View Broadcast Actions (accessibility label)" = "Közvetítéssel kapcsolatos műveletek megtekintése";
+
+"View Participants (accessibility label)" = "Résztvevők megtekintése";
+
+"View Profile" = "Profil megtekintése";
+
+"View Stats" = "Statisztikák megtekintése";
+
+"Viewers can give you Super Hearts.\n<link>Learn more.</link>" = "A nézők szuperszíveket tudnak adni.\n•|•Tudj meg többet!•|•";
+
+"Viewers cannot give you Super Hearts.\n<link>Learn more.</link>" = "A nézők nem tudnak szuperszíveket adni.\n•|•Tudj meg többet!•|•";
+
+"Violence (Report Option)" = "Erőszak";
+
+"Waiting for other responses..." = "Más moderátorok válaszára vár...";
+
+"Waiting for you to <bold>login</bold>." = "Várunk rád itt: •|•bejelentkezés•|•.";
+
+"Watch %1$@'s broadcast: %2$@" = "Nézd meg %1$@ közvetítését: %2$@!";
+
+"Watch %@'s broadcast." = "Nézd meg %@ közvetítését!";
+
+"Watch LIVE" = "Nézd meg •|•ÉLŐBEN•|•!";
+
+"Watch Live" = "Nézd meg élőben!";
+
+"Watch Replay" = "Visszajátszás megtekintése";
+
+"Watch Stream (User Activity)" = "Megtekintésre váró közvetítések idővonala";
+
+"Watch on #Periscope" = "Nézd meg itt: #Periscope";
+
+"Watch on #Periscope: %@" = "Megtekintés a #Periscope-on: %@";
+
+"Watch what happened at %1$@ in %2$@'s broadcast." = "Nézd meg, mi történt %2$@ közvetítése során ekkor:  %1$@!";
+
+"Watch what happened at %1$@ in %2$@'s broadcast: %3$@" = "Nézd meg, mi történt %2$@ közvetítése (%3$@) során ekkor: %1$@!";
+
+"We encountered an error deleting your broadcast. Please try again." = "Hiba történt a közvetítés törlése során. Kérjük, próbáld meg újra.";
+
+"We encountered an error updating your gift settings. Please try again." = "Hiba történt az ajándékokkal kapcsolatos beállításaid frissítése során. Próbálkozz újra!";
+
+"We have received your report. Thank you for helping keep the community safe! (Report Broadcast Confirmation Modal)" = "Bejelentésedet megkaptuk. Köszönjük, hogy segítesz a közösség biztonságának fenntartásában!";
+
+"We're sorry, there was an error starting your broadcast. Please try starting it again." = "Sajnáljuk, hiba történt a közvetítésed elindítása során. Kérjük, próbáld meg elindítani újra.";
+
+"Welcome <bold>%@</bold>" = "Üdvözlünk, •|•%@•|•!";
+
+"We’ve let your followers know that you joined as a guest (Chat Prompt)" = "Tudattuk a követőiddel, hogy vendégként csatlakoztál";
+
+"What are you seeing now?" = "Mit látsz most?";
+
+"What do you want to talk about?" = "Miről szeretnél beszélgetni?";
+
+"What went well?" = "Mi volt jó?";
+
+"When someone follows them, they'll be listed here." = "Ha valaki követni kezdi, akkor itt fog megjelenni.";
+
+"When someone follows you, they'll be listed here." = "Ha valaki követni kezdi, akkor itt fog megjelenni.";
+
+"When they do, it'll show up here." = "Ha lesz, akkor itt fog megjelenni.";
+
+"When they do, they'll be listed here." = "Ha követni kezd felhasználókat, azok itt jelennek meg.";
+
+"When you do, it'll show up here" = "Ha lesznek, akkor itt fognak megjelenni.";
+
+"When you do, they'll be listed here." = "Ha követni kezdesz felhasználókat, azok itt jelennek meg.";
+
+"Yes (Copyright Violation)" = "Igen";
+
+"You already have a linked Twitter account. Please use this in the future to broadcast from Twitter" = "Már van hozzákapcsolt Twitter-fiókod. A jövőben ezzel a felhasználói fiókkal közvetíthetsz a Twitteren.";
+
+"You are now" = "Te most";
+
+"You aren't following anyone yet" = "Még senkit sem követsz";
+
+"You aren't following anyone." = "Nem követsz senkit";
+
+"You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests. (Offensive Report Modal)" = "Letilthatod azt a felhasználót, akinek a közvetítéseit többé nem szeretnéd látni. A letiltott felhasználókat továbbra is láthatod majd, ha vendégként szerepelnek.";
+
+"You can block a user whose broadcasts you no longer want to see. (Offensive Report Modal)" = "Letilthatod azt a felhasználót, akinek nem szeretnéd többé látni a közvetítéseit.";
+
+"You can give •|•%@•|• of these" = "Ezekből •|•%@•|• adható oda";
+
+"You can't broadcast right now (Copyright Violation)" = "Jelenleg nem tudsz közvetíteni";
+
+"You can't watch a broadcast while you're still broadcasting." = "Amíg közvetítesz, magad nézhetsz egy másikat.";
+
+"You can’t watch this because it included a copyrighted work by {Full Name}. Learn more (Copyright Violation)" = "Nem tekintheted ezt meg, mert %@ szerzői joggal védett anyagát tartalmazta. •|•Tudj meg többet!•|•";
+
+"You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster." = "Amikor a rajongók •|•szuperszíveket•|• adnak, csillagokat kapsz. Légy Super Broadcaster és váltsd készpénzre a csillagokat.";
+
+"You didn't vote... <link>Learn about Moderation</link>" = "Nem szavaztál... •|•Tudj meg többet a moderálásról•|•";
+
+"You don't have any followers yet" = "Még nincsenek követőid";
+
+"You earn stars from Super Hearts" = "A szuperszívekből csillagokat kapsz";
+
+"You haven't broadcasted yet" = "Még nem közvetítettél";
+
+"You were <bold>blocked</bold> by the broadcaster" = "A közvetítő •|•letiltott•|• téged";
+
+"You will lose any unsaved changes. Are you sure you want to leave this view?" = "A nem mentett módosításaid elvesznek. Biztosan kilépsz ebből a nézetből?";
+
+"You will lose the stars you received" = "Elveszíted a kapott csillagokat";
+
+"You're Waiting to Join (Guest Calling Menu)" = "Várakozás a csatlakozásra";
+
+"Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv" = "A fiókodat szerzői joggal kapcsolatos bejelentés miatt letiltottuk. Kérjük, lépj kapcsolatba velünk itt: help\@pscp.tv";
+
+"Your account has been disabled. Please contact help@pscp.tv" = "A fiókodat letiltottuk. Kérjük, lépj kapcsolatba velünk itt: help@pscp.tv";
+
+"Your broadcast has been disabled (Copyright Violation)" = "A közvetítésed letiltották.";
+
+"Your broadcast matches a copyrighted work (Copyright Violation)" = "A közvetítésed megegyezik egy szerzői joggal védett anyaggal";
+
+"Your broadcast's thumbnail has been updated to the current screen." = "Közvetítésed ikonja a jelenlegi képernyőhöz igazítva frissítésre került.";
+
+"Your dispute claim was submitted (Copyright Violation)" = "A vitaigényed sikeresen elküldve";
+
+"Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•." = "A visszajelzésed fontos, hogy még jobb közvetítési élményt hozhassunk létre. A •|•Beállítások•|• részen bármikor kijelentkezhetsz a jövőbeni felmérésekből.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts." = "•|•\"%@\"•|• üzenetedet ZAKLATÓ minősítés miatt töröltük. Hozzászólási jogosultságod valamennyi közvetítéshez felfüggesztésre került.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast." = "•|•\"%@\"•|• üzenetedet ZAKLATÓ minősítés miatt töröltük. Hozzászólási jogosultságod ehhez a közvetítéshez felfüggesztésre került.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "•|•\"%@\"•|• üzenetedet ZAKLATÓ minősítés miatt töröltük. Hozzászólási jogosultságod valamennyi közvetítés vonatkozásában ideiglenesen korlátozásra került.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast." = "•|•\"%@\"•|• üzenetedet ZAKLATÓ minősítés miatt töröltük. Hozzászólási jogosultságod ehhez a közvetítéshez ideiglenesen korlátozásra került.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts." = "•|•\"%@\"•|• üzenetedet SPAM minősítés miatt töröltük. Hozzászólási jogosultságod valamennyi közvetítéshez felfüggesztésre került.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast." = "•|•\"%@\"•|• üzenetedet SPAM minősítés miatt töröltük. Hozzászólási jogosultságod ehhez a közvetítéshez felfüggesztésre került.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "•|•\"%@\"•|• üzenetedet SPAM minősítés miatt töröltük. Hozzászólási jogosultságod valamennyi közvetítés vonatkozásában ideiglenesen korlátozásra került.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast." = "•|•\"%@\"•|• üzenetedet SPAM minősítés miatt töröltük. Hozzászólási jogosultságod ehhez a közvetítéshez ideiglenesen korlátozásra került.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts." = "•|•\"%@\"•|• üzenetedet töröltük. Hozzászólási jogosultságod valamennyi közvetítéshez felfüggesztésre került.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast." = "•|•\"%@\"•|• üzenetedet töröltük. Hozzászólási jogosultságod ehhez a közvetítéshez felfüggesztésre került.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts." = "•|•\"%@\"•|• üzenetedet töröltük. Hozzászólási jogosultságod valamennyi közvetítés vonatkozásában ideiglenesen korlátozásra került.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast." = "•|•\"%@\"•|• üzenetedet töröltük. Hozzászólási jogosultságod ehhez a közvetítéshez ideiglenesen korlátozásra került.";
+
+"Your settings are about to automatically delete this broadcast." = "Beállításaid alapján a közvetítés automatikusan törlődni fog.";
+
+"Your settings will automatically delete this broadcast in %@" = "Beállításaid alapján a közvetítés %@ óra múlva automatikusan törlődni fog.";
+
+"Your video will be available for replay after the event has ended. (Copyright Violation)" = "Az esemény végét követően a videó elérhető lesz visszajátszásra.";
+
+"Your viewers have been invited to join (Local Chat Prompt)" = "A nézőid meghívást kaptak a csatlakozásra";
+
+"You’re enrolled in automatic monthly cash outs. (Stars Profile)" = "Automatikus havi kifizetésben veszel részt.";
+
+"You’ve blocked @username. Tap to report and share more details. (Should Report Guest User Chat Prompt)" = "Letiltottad •|•@%@•|• felhasználót. Koppints a jelentéséhez és további részletek megadásához.";
+
+"[placeholder]" = "[placeholder]";
+
+"beta-feedback@pscp.tv" = "beta-feedback@pscp.tv";
+
+"coin bonus" = "Még %i%%";
+
+"coin received (accessibility label)" = "kapott érme";
+
+"coins received (accessibility label)" = "kapott érme";
+
+"contact@pscp.tv" = "contact@pscp.tv";
+
+"current audience" = "jelenlegi közönség";
+
+"failed" = "nem sikerült";
+
+"following (accessibility hint)" = "Koppints kétszer a követés megszüntetéséhez";
+
+"following (accessibility label)" = "Követés";
+
+"for fine control" = "finomhangolásra";
+
+"heart received (accessibility label)" = "szívet kaptál";
+
+"hearts received (accessibility label)" = "szívet kaptál";
+
+"https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119" = "https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119";
+
+"https://pscp.tv/i/super/terms" = "https://pscp.tv/i/super/terms";
+
+"iPad doesn’t support broadcasting from Split View." = "iPaden nem lehet megosztott nézetben  közvetíteni.";
+
+"invited" = "meghívott";
+
+"invited followers" = "meghívott követők";
+
+"it's their first day on Periscope" = "ez az első napjuk a Periscope-on";
+
+"not following (accessibility hint)" = "Koppints kétszer a követéshez";
+
+"not following (accessibility label)" = "Nem követsz";
+
+"people" = "emberek";
+
+"per Broadcast Minute (CELL)" = "a közvetítés percére vonatkoztatva";
+
+"per Viewer (CELL)" = "nézőnként";
+
+"person" = "személy";
+
+"poor" = "gyenge";
+
+"posting publicly on Periscope" = "nyilvánosan közzétéve a Periscope-on";
+
+"posting publicly on Twitter" = "nyilvánosan közzétéve a Twitteren";
+
+"selected Amplify Program" = "A kiválasztott Amplify program";
+
+"star received (accessibility label)" = "kapott csillag";
+
+"stars received (accessibility label)" = "kapott csillag";
+
+"tap to change Amplify Program" = "érintsd meg az Amplify program cseréjéhez";
+
+"tap to change Amplify program" = "Érintsd meg az Amplify program módosításához";
+
+"tap to change audience" = "érintsd meg a közönség szerkesztéséhez";
+
+"to seek" = "keres";
+
+"you hung up (Guest Caller Hung Up Chat Message Event)" = "megszakítottad a hívást";
+
+"you were added (New Guest Caller Chat Message Event)" = "hozzáadtak";
+
+"you were removed (Guest Caller Was Removed Chat Message Event)" = "eltávolítottak";
+
+"•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•." = "•|•%1$@•|• módosította a közvetítés kezdési idejét: •|•%2$@•|•.";
+
+"•|•%@•|• are guests (Broadcast Guests Social Proof)" = "•|•%@•|• vendégek";
+
+"•|•%@•|• invited you (Broadcast Guest Invitation Social Proof)" = "•|•%@•|• meghívott";
+
+"•|•%@•|• is a guest (Broadcast Guest Social Proof)" = "•|•%@•|• vendég";
+
+"•|•%@•|• shared (Broadcast Share Social Proof)" = "•|•%@•|• megosztotta";
+
+"•|•%@•|• was a guest (Broadcast Guest Social Proof)" = "•|•%@•|• vendég volt";
+
+"•|•%@•|• were guests (Broadcast Guests Social Proof)" = "•|•%@•|• vendégek voltak";
+
+"•|•%@•|•\nBroadcasts" = "•|•%@•|•\nközvetítés";
+
+"•|•%@•|•\nFollowers" = "•|•%@•|•\nkövető";
+
+"•|•%@•|•\nFollowing" = "•|•%@•|•\nkövetés";
+
+"•|•@%1$@•|• was muted by •|•%2$@•|•" = "•|•@%1$@•|• felhasználót •|•%2$@•|• elnémította";
+
+"•|•@%1$@•|• was unmuted by •|•%2$@•|•" = "•|•@%1$@•|• némítását •|•%2$@•|• feloldotta.";
+
+"•|•@%@•|• Retweeted on" = "•|•@%@•|• Retweetelt";
+
+"•|•@%@•|• shared on" = "•|•@%@•|• megosztotta itt:";
+
+"•|•Muted•|• by %@" = "%@ •|•elnémította•|•";
+
+"•|•Not enough coins.•|• Get more coins to keep giving Super Hearts." = "•|•Nincs elég érme.•|• Szerezz több érmét a szuperszívek küldéséhez.";
+
+"•|•Press & Hold•|• the video to skip ahead" = "•|•Nomd le és tartsd lenyomva•|• a videót következőre való ugráshoz";
+
+"•|•Press & Hold•|• to skip back or ahead." = "•|•Nyomd meg és tartsd lenyomva•|• az előre vagy visszafelé ugráshoz.";
+
+"•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one." = "•|•A szuperszívek szolgáltatás aktív.•|• Koppints a közvetítésre az első kiosztásához.";
+
+"•|•Support %@•|• by giving Super Hearts!" = "•|•Támogasd %@•|• felhasználót szuperszívekkel!";
+
+"•|•Unmuted•|• by %@" = "A felhasználó némítását %@ •|•feloldotta•|•";
+
+"•|•You need more coins•|• to give Super Hearts" = "•|•Több érme kell ahhoz•|•, hogy szuperszíveket adhass";
+
+"•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast." = "%1$@ egyik moderátora •|•elnémított•|• a hozzászólásod miatt: •|•„%2$@”•|•. Mostantól nem cseveghetsz a közvetítés során.";
+
+"•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast." = "A(z) %@ egyik moderátora •|•feloldotta a némításodat•|•. Mostantól cseveghetsz a közvetítés során.";
+

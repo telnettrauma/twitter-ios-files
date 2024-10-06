@@ -1,0 +1,2206 @@
+/* indication of time elapsed, e.g. 5 minutes ago, 3 days ago, etc. */
+"%@ ago" = "%@ ago";
+
+/* Placeholder text after the list of people following the current user is loaded and is empty, with the %@ being the user's display name */
+"%@ doesn't have any followers yet" = "%@ doesn't have any followers yet";
+
+/* Placeholder text after the given user's broadcast history was loaded and is empty, with the %@ being the user's display name */
+"%@ has not broadcasted yet" = "%@ has not broadcasted yet";
+
+/* Title used for untitled live broadcast, <user display name> is LIVE */
+"%@ is LIVE (broadcast title)" = "%@ is LIVE";
+
+/* Placeholder text after the list of people the given user follows is loaded and is empty, with the %@ being the given user's display name */
+"%@ isn't following anyone yet" = "%@ isn't following anyone yet";
+
+/* Label | Comment | the message '@<username> joined' is posted in chat whenever a new user enters a broadcast. */
+"%@ joined" = "joined";
+
+/* Button | Text | Title of button that will scroll the user back to the most recent chat messages, when one new, unread message exists. */
+"%@ New Messages" = "%@ New Messages";
+
+/* Label | Broadcast Info | Conveys that 1 (singular) viewer watched this broadcast. */
+"%@ Viewer (Broadcast Info)" = "%@ Viewer";
+
+/* Label | Broadcast Info | Conveys that more than 1 (plural) viewers watched this broadcast. */
+"%@ Viewers (Broadcast Info)" = "%@ Viewers";
+
+/* Chat Message | Viewing a Broadcast | A welcoming message shown to moderators to remind them that they are a moderator and how to mute comments by tapping on them. */
+"%@ wants you to moderate comments. Tap on comments to mute them." = "%@ wants you to moderate comments. Tap on comments to mute them.";
+
+/* Chat Message | Viewing a Broadcast | A welcoming message shown to moderators to remind them that they are a moderator and how to mute comments by tapping or swiping on them. */
+"%@ wants you to moderate comments. Tap or swipe left on comments to mute them." = "%@ wants you to moderate comments. Tap or swipe left on comments to mute them.";
+
+/* Title used for untitled broadcast, <user display name> was live */
+"%@ was live  (broadcast title)" = "%@ was live";
+
+/* Label | Viewers List | Concatinated with any number other than 1 to indicate there were additional live viewers not presented in the list of live viewers. */
+"%d More Live Viewers" = "More Live Viewers";
+
+/* Label | Viewers List | Concatinated with any number other than 1 to indicate there were additional replay viewers not presented in the list of replay viewers. */
+"%d More Replay Viewers" = "More Replay Viewers";
+
+/* Label | Viewers List | Concatinated with any number other than 1 to indicate there were additional live viewers not presented in the list of live viewers. */
+"%d More Viewers" = "More Viewers";
+
+/* Formatted time string for days. For example '45d'. '%ld' is the placeholder for the number value */
+"%ldd (days)" = "%ldd";
+
+/* Formatted time string for hours. For example '45h'. '%ld' is the placeholder for the number value */
+"%ldh (hours)" = "%ldh";
+
+/* Formatted time string for minutes. For example '45m'. '%ld' is the placeholder for the number value */
+"%ldm (minutes)" = "%ldm";
+
+/* Formatted time string for seconds. For example '45s'. '%ld' is the placeholder for the number value */
+"%lds (seconds)" = "%lds";
+
+/* Formatted time string for years. For example '45y'. '%ld' is the placeholder for the number value */
+"%ldy (years)" = "%ldy";
+
+/* Broadcast Title | Text appended to the end of a broadcast title that has been edited. */
+"(EDITED)" = "(EDITED)";
+
+/* Button | Title | Title of button that switches a viewer to the live version of a broadcast when they are watching a highlight. Will be followed by an arrow. This 'LIVE' (action) is kept separate from the 'LIVE' (adjective) used to describe the state of a broadcast in case it's imporant to make that distinction when translating. This value should be kept compact, since there will be limited space. */
+"(Skip to) LIVE" = "LIVE";
+
+/* Label | Viewers List | Concatinated with the number 1 to indicate there was 1 additional live viewer not presented in the list of live viewers. */
+"1 More Live Viewer" = "More Live Viewer";
+
+/* Label | Viewers List | Concatinated with the number 1 to indicate there was 1 additional replay viewer not presented in the list of replay viewers. */
+"1 More Replay Viewier" = "More Replay Viewer";
+
+/* Label | Viewers List | Concatinated with the number 1 to indicate there was 1 additional live viewer not presented in the list of live viewers. */
+"1 More Viewer" = "More Viewer";
+
+/* Button | Text | Title of button that will scroll the user back to the most recent chat messages, when one new, unread message exists. */
+"1 New Message" = "1 New Message";
+
+/* Label | Add Guest Caller Chat Message Event | Shown with reference to the @username label of the user who has canceled their request to called in. Only the detail portion of this label should be translated, \"has canceled\". It will be shown beneath the @username. */
+"@username \"canceled\" (Add Guest Caller Chat Message Event)" = "has canceled";
+
+/* Label | Add Guest Caller Chat Message Event | Shown with reference to the @username label of the user who has requested to Call-In. When tapped, accepts the user's request to Call-In. Only the detail portion of this label should be translated, \"has asked to join\". It will be shown beneath the @username. */
+"@username \"has asked to join\" (Add Guest Caller Chat Message Event)" = "has asked to join";
+
+/* Label | New Guest Caller Chat Message Event | Shown with reference to the @username label of the user who just hung up. Only the detail portion of this label should be translated (\"hung up\"). The \"•|•@%@•|•\" should be placed wherever the username belongs in the translated sentence. Everything within the \"•|•\" will be bold. */
+"@username \"hung up\" (Guest Caller Hung Up Chat Message Event)" = "•|•@%@•|• hung up";
+
+/* Label | Add Guest Caller Chat Message Event | Shown with reference to the @username label immediately after the broadcaster has accepted that user's request to Call-In. When tapped, cancels the broadcaster's action to accept their request to call in. Only the detail portion of this label should be translated, \"tap to cancel\". It will be shown above the @username. */
+"@username \"Tap to cancel\" (Add Guest Caller Chat Message Event)" = "Tap to cancel";
+
+/* Label | Add Guest Caller Chat Message Event | Shown with reference to the @username label of the user who has called in. When tapped, removes the user who has called in. Only the detail portion of this label should be translated, \"was added\". It will be shown beneath the @username. */
+"@username \"was added\" (Add Guest Caller Chat Message Event)" = "was added";
+
+/* Label | New Guest Caller Chat Message Event | Shown with reference to the @username label of the user who was just added as a new Guest Broadcaster. Only the detail portion of this label should be translated (\"was added\"). The \"•|•@%@•|•\" should be placed wherever the username belongs in the translated sentence. Everything within the \"•|•\" will be bold. */
+"@username \"was added\" (New Guest Caller Chat Message Event)" = "•|•@%@•|• was added";
+
+/* Label | Add Guest Caller Chat Message Event | Shown with reference to the @username label of the user who has been removed or hung up after calling in. Only the detail portion of this label should be translated, \"was removed\". It will be shown beneath the @username. */
+"@username \"was removed\" (Add Guest Caller Chat Message Event)" = "was removed";
+
+/* Label | Guest Caller Was Removed Chat Message Event | Shown with reference to the @username label of the user who was just removed by the broadcaster. Only the detail portion of this label should be translated (\"was removed\"). The \"•|•@%@•|•\" should be placed wherever the username belongs in the translated sentence. Everything within the \"•|•\" will be bold. */
+"@username \"was removed\" (Guest Caller Was Removed Chat Message Event)" = "•|•@%@•|• was removed";
+
+/* Message title in history view controller */
+"A broadcast with a star balance was deleted. (History)" = "A broadcast with a star balance was deleted.";
+
+/* Error when the user isn't logged in and tries to share a broadcast. */
+"A Periscope account is required to edit a broadcast." = "A Periscope account is required to edit a broadcast.";
+
+/* Error when the user isn't logged in and tries to share a broadcast. */
+"A Periscope account is required to share a broadcast." = "A Periscope account is required to share a broadcast.";
+
+/* Button | Action Sheet | Reports the selected message for being abusive.
+Button | Moderation | Chosen if the viewer moderates the message as being abuse. */
+"Abuse" = "Abuse";
+
+/* Button | Report Broadcast | Option if the user is reporting the broadcast because they believe the broadcaster may harass, intimidate, or use fear to silence another person's voice. */
+"Abusive Behavior (Report Option)" = "Abusive Behavior";
+
+/* Title of a button shown to a broadcaster when a broadcaster is viewing a user's profile that is attempting to call in to their broadcast. Pressing this button would accept the user as a guest into their broadcast */
+"Accept as Guest" = "Accept as Guest";
+
+/* Accessibility label that provides context for a '+' button shown to a broadcaster when viewing a user's profile (in full height) that is attempting to call in to their broadcast. Pressing this button would accept this user as a guest into their broadcast. */
+"Accept Caller as Guest" = "Accept Caller as Guest";
+
+/* Button | Accessibility hint for the button that toggles allowing gift hearts. */
+"Accept Super Hearts (accessibility hint)" = "Double-tap to accept super hearts for this broadcast.";
+
+/* Button | Accessibility label for the button that toggles accepting gifts for this broadcst. */
+"Accept Super Hearts (accessibility label)" = "Accept Super Hearts";
+
+/* Button | Actions button accessibility label */
+"Actions (accessibility label)" = "Actions";
+
+/* Title of table section listing gift contributors still watching the broadcast. */
+"ACTIVE CONTRIBUTORS" = "ACTIVE CONTRIBUTORS";
+
+/* Button | Manage Guest Call-Ins | Shown in an action sheet when the broadcaster taps on a user who has requested to call in to the broadcast and on the user's modal. When pressed, accepts the user's request and allows them to become a guest broadcaster. */
+"Add Guest (Manage Guest Call-Ins Action Sheet)" = "Add Guest";
+
+/* Button | Action Sheet | Adds the viewer who composed the selected message as a guest broadcaster | Place the \"•|•\" around the portion of the translation meant to be treated as a subtitle. */
+"Add guest \n viewer will become a guest broadcaster" = "Add guest•|•\nviewer will become a guest broadcaster•|•";
+
+/* Label title in stars profile view controller */
+"All-Time Stars (Stars Profile)" = "All-Time Stars";
+
+/* Button | Pre-Broadcast | Indicates that the broadcast will allow guest broadcasters. */
+"Allow Guests (Tooltip Selected)" = "Allow Guests";
+
+/* Button | Accessibility label for allowing or not allowing guest broadcasters. */
+"Allow guests / Don't allow guests (accessibility label)" = "Allow guests / Don't allow guests";
+
+/* Label | Post-broadcast | Placeholder text in a text field asking users to type feedback to Periscope */
+"Anything else you'd like to share?" = "Anything else you'd like to share?";
+
+/* Title | Chat Warning Modal | Asks the user to confirm they wish to post the dislpayed message below. */
+"Are you sure you want to send this message?" = "Are you sure you want to send this message?";
+
+/* Title | Action Sheet | Asks the user to confirm before blocking/unblocking the selected user. */
+"Are you sure you want to unblock?" = "Are you sure you want to unblock?";
+
+/* Label | Title of a modal confirming the user meant to take an action */
+"Are you sure? (title)" = "Are you sure?";
+
+/* Button | Action Sheet | Prompt viewers of broadcast to follow broadcaster */
+"Ask for Follow (action sheet)" = "Ask for Follow";
+
+/* Button | Action Sheet | Prompt viewers of broadcast to share this broadcast */
+"Ask for Share (action sheet)" = "Ask for Share";
+
+/* Subtitle Label | Guest Broadcasting | Subtitle for modal explaining to the viewer that Guest Broadcasting is a new feature. */
+"Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time.";
+
+/* Subtitle Label | Guest Broadcasting | Subtitle for modal explaining to the viewer that Guest Broadcasting is a new feature. */
+"Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time.";
+
+/* Label | Add Guest Caller Chat Message Event | Shown when the current user requests to call in as a guest broadcaster. The \"\\n\" represents an optional new line, and the \"%@\" represents the placeholder for the broadcaster's display name. Translation should place the \"%@\" wherever appropriate, and leave the \"\\n\" if line break is desired. Everything between •|• will be in bold. */
+"Asking to join... Broadcaster must accept you (Local Chat Prompt)" = "Asking to join...\n•|•%@•|• must accept you";
+
+/* Alert | Broadcasting | Informs the viewer their audio is coming from their plugged in headset. */
+"Audio from: Headphones" = "Audio from: Headphones";
+
+/* Alert | Broadcasting | Informs the viewer their audio is coming from their chosen camera. */
+"Audio from: Phone" = "Audio from: Phone";
+
+/* Button | Accessibility label for the button that toggles audio only while broadcasting. */
+"Audio Only (accessibility label)" = "Audio Only Broadcasting";
+
+/* Back navigation button */
+"Back" = "Back";
+
+/* Button | Action Sheet | Goes back in the action sheet. */
+"Back (action sheet)" = "Back";
+
+/* Button | Accessibility hint for the button that switches cameras during broadcast. This hint indicates that activating the button will switch to the front camera. */
+"Back Camera (accessibility hint)" = "Double-tap to switch to Front Camera";
+
+/* Button | Accessibility value for the button that switches cameras during broadcast. This value indicates that the back-facing camera is currently selected. */
+"Back Camera (accessiblity value)" = "Back Camera";
+
+/* Title of button to take the user back to source application (coming from a deep link) */
+"Back to %@" = "Back to %@";
+
+/* Title for button to return to heart selection from coin store */
+"Back to Hearts" = "Back to Hearts";
+
+/* Description | Explanation shown when a broadcaster cannot broadcast due to multiple copyright violations. */
+"Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. Learn more (Copyright violation)" = "Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. •|•Learn more•|•";
+
+/* No comment provided by engineer. */
+"beta-feedback@pscp.tv" = "beta-feedback@pscp.tv";
+
+/* No comment provided by engineer. */
+"Betascope App Feedback" = "Betascope App Feedback";
+
+/* Compact abbreviation for decimal number in billions (For example, 5.3B). As few characters as necessary and no spaces between the number and the abbreviation if possible.  If no direct translation, please use B. */
+"Billion Decimal Abbreviation" = "%.1fB";
+
+/* Compact abbreviation for whole number in billions (For example, 5B). As few characters as necessary and no spaces between the number and the abbreviation if possible.  If no direct translation, please use B. */
+"Billion Integer Abbreviation" = "%dB";
+
+/* Button | Action Sheet | Blocks a user. */
+"Block @%@" = "Block @%@";
+
+/* Button | Offensive Report Modal | If pressed, blocks the user with the listed username and exits the broadcast. */
+"Block @%@ (Offensive Report Modal)" = "Block @%@";
+
+/* Button | Manage Guest Call-Ins | Shown in an action sheet when the broadcaster taps on a user who has requested to call in to the broadcast. When pressed, blocks & hangs up on the selected user. */
+"Block And Hang Up (Manage Guest Call-Ins Action Sheet)" = "Block And Hang Up";
+
+/* Button | Action Sheet | Blocks the selected user. */
+"Block User" = "Block User";
+
+/* Button | Button | Title of a button that enabled blocking all selected users within a view. Note the %@ characters that indicate where the number of users being blocked would be shown. */
+"Block Users (%@)" = "Block Users (%@)";
+
+/* Button | Action Sheet | Blocks the selected user. | '%@' will be replaced with the username of the blocked user */
+"Block {Username}" = "Block @%@";
+
+/* Button | User Modal| Indicates that the user has blocked this person, and  by pressing would unblock them. */
+"Blocked (user modal)" = "Blocked";
+
+/* Text shown for user in leaderboard who has been blocked by current user. */
+"Blocked by you" = "Blocked by you";
+
+/* Label | Report Broadcast | Subtitle shown in the modal when the user presses report broadcast because they find it offensive. */
+"Blocking will dismiss the broadcast and not report to Periscope. (Offensive Report Modal)" = "Blocking will dismiss the broadcast and not report to Periscope.";
+
+/* Cell | Broadcast Info Section | Subtitle in cell saying that the broadcast is about to expire. */
+"Broadcast about to expire (Cell)" = "Broadcast About to Expire";
+
+/* Button | Broadcast Actions | Accessibility hint describing the button that shows broadcast menu with actions and details. */
+"Broadcast Actions (accessibility hint)" = "Opens a menu of broadcast actions.";
+
+/* No comment provided by engineer. */
+"Broadcast creation" = "Broadcast creation";
+
+/* Button | Action Sheet | Present detailed information about a broadcast. */
+"Broadcast Details (action sheet)" = "Broadcast Details";
+
+/* Warning that this broadcast will not be auto-deleted if it accepts super hearts. Text between •|• will be in bold. The \\n\\n inserts a blank line between the two sentences */
+"Broadcast Super Heart Auto-Deletion Warning" = "•|•This broadcast will not be auto-deleted after 24 hours•|• to prevent the loss of stars from any Super Hearts you might receive.\n\nIf you wish, you can hide the broadcast after it has ended to restrict its visibility to others.";
+
+/* Edit Broadcast Screen | Edit Title Label | Label indicating start of the edit title section. */
+"Broadcast Title" = "Broadcast Title";
+
+/* 'Broadcaster blocked @<username>' is posted in chat whenever the broadcaster kicks a user out of the broadcast. Note the delimiters around the username to provide bolding for that part of the string. */
+"Broadcaster blocked •|•@%@•|•" = "Broadcaster blocked •|•@%@•|•";
+
+/* Subtitle for button to purchase gift hearts in menu when gifting is disabled for broadcast */
+"Broadcaster doesn’t accept Super Hearts" = "Broadcaster doesn’t accept Super Hearts";
+
+/* Chat Message | Viewing a Broadcast | An advisory message shown to viewers when they join the broadcast, telling them that the broadcaster has assigned moderators for their broadcasts. */
+"Broadcaster has assigned chat moderators." = "Broadcaster has assigned chat moderators.";
+
+/* Label | Guest Callers Error Toast | Shown when the viewer tries to select an action after the broadcaster has disabled new viewers from requesting to call in. */
+"Broadcaster Has Disabled Call-Ins (Generic Error Message)" = "The broadcaster has currently disabled the Call-Ins list.";
+
+/* Instructions Label | Guest Call In | Subtitle label above buttons representing the action to cancel to share audio as a guest caller. %@ will be replaced by the main broadcaster's display name. */
+"Broadcaster has to accept your request before you can join as a guest. (Guest Call-In Instructions Subtitle)" = "%@ has to accept your request before you can join as a guest.";
+
+/* Label | Guest Callers Chat Message Event | Shown when the broadcaster has enabled new viewers to request to call in. %@ is going to be replaced by the main broadcaster's display name. | Leave the pair of \"•|•\" around the \"%@\", as it is used to apply a bold font to the display name, wherever it appears within the sentence structure. */
+"Broadcaster is allowing guests to join (Local Chat Prompt)" = "•|•%@•|• is allowing guests to join";
+
+/* Label | Guest Callers Chat Message Event | Shown when the broadcaster has disabled new viewers from requesting to call in. %@ is going to be replaced by the main broadcaster's display name. | Leave the pair of \"•|•\" around the \"%@\", as it is used to apply a bold font to the display name, wherever it appears within the sentence structure. */
+"Broadcaster is not allowing guests to join (Local Chat Prompt)" = "•|•%@•|• is not allowing guests to join";
+
+/* Explanation shown in the gifting leaderboard that the broadcaster earns stars from super hearts */
+"Broadcasters earn stars from Super Hearts" = "Broadcasters earn stars from Super Hearts";
+
+/* Button | ReplayKit | Error confirmation button for alert stating that there was an error starting the ReplayKit broadcast. */
+"Bummer (ReplayKit)" = "Bummer";
+
+/* Button | Accessibility label for the button that switches cameras during broadcast. */
+"Camera Selection (accessibility label)" = "Camera Selection";
+
+/* Cancel
+Title of a button shown to a broadcaster when a broadcaster is viewing a user's profile that has been accepted as a guest but is currently attempting to connect. Pressing this button would cancel a previous 'add as guest' action. */
+"Cancel" = "Cancel";
+
+/* Button | Action Sheet | Dismisses the action sheet. */
+"Cancel (action sheet)" = "Cancel";
+
+/* Button | Guest Call In | Cancel button title that explains the option to cancel the user's request to become a guest caller. */
+"Cancel Call In Button: \"Cancel Request to Join as a Guest\"" = "Cancel Request to Join as a Guest";
+
+/* Instructions Label | Guest Call In | Title label above button representing the option to cancel your request to become a guest caller. This copy contains a detailed subtitle below it. */
+"Cancel Guest Call-In Instructions Title: \"Waiting to join as a guest...\"" = "Waiting to join as a guest...";
+
+/* Warning that broadcast deletion cannot be undone */
+"Cannot be undone" = "Cannot be undone";
+
+/* Button | Action Sheet | Sets the broadcast's thumbnail image to current screen. */
+"Capture Thumbnail (action sheet)" = "Capture Thumbnail";
+
+/* Title shown in profile Stars detail screen telling users to cash out and use their stars */
+"Cash out your stars, and continue using live video on Twitter" = "Cash out your stars, and continue using live video on Twitter";
+
+/* Label title in stars profile view controller */
+"Cash Outs (Stars Profile)" = "Cash Outs";
+
+/* Button | Title of a buton a user would tap to change an Amplify program on a broadcast */
+"Change Amplify Program" = "Change Amplify Program";
+
+/* Cell | Broadcast Info Section | Cell to change the expiration date on your broadcast */
+"Change Expiration (Cell)" = "Change Expiration";
+
+/* Cell | Broadcast Info Section | Subtitle on the change expiration cell that says when their broadcast will auto delete. ie: Auto-Delete in 18h */
+"Change Expiration Subtitle (Cell)" = "Auto-Delete in %@";
+
+/* Label | Description of a modal confirming a user meant to change an Amplify Program and that it will cause the old Tweet to be deleted. */
+"Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program." = "Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program.";
+
+/* No comment provided by engineer. */
+"Chatroom too full..." = "Chatroom too full...";
+
+/* Button | Report Broadcast | Option if the user is reporting the broadcast or comment because it involves minors. */
+"Child Safety (Report Option)" = "Child Safety";
+
+/* Instructions Label | Manage Guest Call-Ins | Subtitle label for page showing everyone who has called in or requested to call in to the broadcast */
+"Choose guests to add. You can remove them at any time. (Manage Guest Callers Page Subtitle)" = "Choose guests to add. You can remove them at any time.";
+
+/* Button | Dismiss button accessibility label */
+"Close (accessibility label)" = "Close";
+
+/* Label title in virtual gifting coin store, used to show how many more coins this package gets them for the same amount of money (bonus amount / base amount) */
+"coin bonus" = "%i%% more";
+
+/* Singluar form \"coin received\", which is combined with the number of coins that have been received (in this case, 1) */
+"coin received (accessibility label)" = "coin received";
+
+/* Plural form \"coins received\", which is combined with the number of coins that have been received */
+"coins received (accessibility label)" = "coins received";
+
+/* Chat Message | Viewing a Broadcast | First of three options shown to prompt user to chat. The delimiters around the username provide bolding for that part of the string. */
+"Comment Tip Option 1" = "Write a comment and let •|•%@•|• know you're here!";
+
+/* Chat Message | Viewing a Broadcast | Second of three options shown to prompt user to chat. The delimiters around the username provide bolding for that part of the string. */
+"Comment Tip Option 2" = "Let •|•%@•|• know where you're watching from!";
+
+/* Chat Message | Viewing a Broadcast | Third of three options shown to prompt user to chat. The delimiters around the username provide bolding for that part of the string. */
+"Comment Tip Option 3" = "Say hi to chat with •|•%@•|• and other viewers.";
+
+/* No comment provided by engineer. */
+"Commenting is OFF" = "Commenting is OFF";
+
+/* Title of the cell displayed to a user that indicates the number of comments they received during that broadcast */
+"Comments Received (CELL)" = "Comments Received";
+
+/* Value of the cell displayed to a user that indicates we don't have data to show how many comments they received during that broadcast. */
+"Comments Received Unavailable (CELL)" = "n/a";
+
+/* Button | Accessibility Label | Accessibility label for button used to share a broadcast via a Direct Message. */
+"Compose Direct Message (Accessibility Label)" = "Compose Direct Message";
+
+/* Button | Accessibility Label | Accessibility label for button used to share a broadcast by composing a new tweet. */
+"Compose New Tweet (Accessibility Label)" = "Compose New Tweet";
+
+/* A character or set of characters that can be used to end a phrase and cause a verbal pause in a given language. In English, this can be accomplished by a period. For example the two phrases. \"I like dogs\" and \"I like cats\" can be joined by a period (followed by any whitespace): \"I like dogs. I like cats\" This would cause the reader (or a screen reader) to pause between the two phrases. */
+"CONCATENTATION_ACCESSIBILITY_STRING" = ".";
+
+/* Button | Guest Call In | Confirm button title that explains the option to confirm the user's request to become a guest caller. */
+"Confirm Call In Button: \"OK, Ask to Join\"" = "OK, Ask to Join";
+
+/* Instructions Label | Guest Call In | Subtitle label above buttons representing the action to confirm to become a guest caller. %1$@ will be replaced by the main broadcaster's display name. */
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile and audio will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and hear you. This may include people you’ve blocked on either app.\"" = "•\tYour profile and audio will become a part of this broadcast and cannot be removed unless %1$@ deletes the replay.\n\n•\tEveryone watching on Periscope or Twitter will see that you've joined %1$@'s broadcast and hear you. This may include people you've blocked on either app.";
+
+/* Instructions Label | Guest Call In | Subtitle label above buttons representing the action to confirm to become a guest caller. %1$@ will be replaced by the main broadcaster's display name. */
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile, audio and video will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and see you. This may include people you’ve blocked on either app.\"" = "•\tYour profile, audio and video will become a part of this broadcast and cannot be removed unless %1$@ deletes the replay.\n\n•\tEveryone watching on Periscope or Twitter will see that you've joined %1$@'s broadcast and see you. This may include people you've blocked on either app.";
+
+/* Instructions Label | Guest Call In | Title label above button representing the action to confirm to become a guest caller. This copy contains a detailed subtitle below it. */
+"Confirm Guest Call-In Instructions Title: \"Good to know...\"" = "Good to know...";
+
+/* No comment provided by engineer. */
+"Connecting to chatroom" = "Connecting to chatroom";
+
+/* No comment provided by engineer. */
+"Connection Error" = "Connection Error";
+
+/* No comment provided by engineer. */
+"Connection too" = "Connection too";
+
+/* Button | Action Sheet | takes the user to help center contact. */
+"Contact Us (action sheet)" = "Contact Us";
+
+/* No comment provided by engineer. */
+"contact@pscp.tv" = "contact@pscp.tv";
+
+/* No comment provided by engineer. */
+"Contributors" = "Contributors";
+
+/* Title of table section listing gift contributors who left the broadcast after contributing. */
+"CONTRIBUTORS WHO HAVE LEFT" = "CONTRIBUTORS WHO HAVE LEFT";
+
+/* Button | Action Sheet | Button to copy the profile URL to clipboard */
+"Copy Profile URL" = "Copy Profile URL";
+
+/* Label | Viewers List | Placeholder when the list of viewers could not be loaded */
+"COULDN'T LOAD REPLAY VIEWERS" = "COULDN'T LOAD REPLAY VIEWERS";
+
+/* Label | Viewers List | Placeholder when the list of viewers could not be loaded */
+"COULDN'T LOAD VIEWERS" = "COULDN'T LOAD VIEWERS";
+
+/* Broadcast Screen | Audience Selector | Text shown while selecting an audience for a broadcast. */
+"current audience" = "current audience";
+
+/* Label title in stars profile view controller */
+"Current Star Balance (Stars Profile)" = "Current Star Balance";
+
+/* Accessibility label for current broadcast time (e.g. 00:34) */
+"Current Time (Accessibility Label)" = "Current Time";
+
+/* No comment provided by engineer. */
+"Dear Periscope Team," = "Dear Periscope Team,";
+
+/* Button | Action Sheet | Confirms that the broadcaster actually wants to delete the broadcast. */
+"Delete Broadcast" = "Delete Broadcast";
+
+/* Button | Action Sheet | Delete a broadcast. */
+"Delete Broadcast (action sheet)" = "Delete Broadcast";
+
+/* Button | Action Sheet | Button to delete the broadcast now. */
+"Delete Broadcast Now" = "Delete Broadcast Now";
+
+/* Label | Report Broadcast | Label shown above the broadcast report options. */
+"Describe the issue (Report Option)" = "Describe the issue";
+
+/* Label | Report Broadcast | Label shown above the broadcast report options with a guest broadcaster's username. For example, 'Describe the issue with @khaled'. The '%@' will be replaced with the username, so translators should place the '%@' wherever makes sense for the given language. */
+"Describe the issue with %@ (Report Option)" = "Describe the issue with @%@";
+
+/* Label | Report Broadcast | Label shown above the broadcast report options with a guest broadcaster's username. For example, 'Describe the issue with @khaled at 3:21'. '%1$@' will be replaced with the username, and '%2$@' will be replaced with the timecode, so translators should place the '%1$@' and '%2$@' wherever makes sense for the given language. */
+"Describe the issue with @%1$@ at %2$@ (Report Option)" = "Describe the issue with @%1$@ at %2$@";
+
+/* Label | Report Broadcast | Label shown above the broadcast report options with a timecode. For example, 'Describe the issue you are seeing at 3:21'. The '%@' will be replaced with the timecode, so translators should place the '%@' wherever makes sense for the given language. */
+"Describe the issue you are seeing at %@ (Report Option)" = "Describe the issue you are seeing at %@";
+
+/* Button | Label | Title of button used to share a broadcast via a Direct Message. */
+"Direct Message (Compose)" = "Direct Message";
+
+/* Button | Pre-Broadcast | Indicates that the broadcast is not Audio Only. */
+"Disable Audio Only Broadcast" = "Disable Audio Only Broadcast";
+
+/* Label | Moderation | Explains the the user's commenting abilities have been removed for the remainder of this broadcast. */
+"Disabled for all broadcasts" = "Disabled for all broadcasts";
+
+/* Label | Moderation | Explains the the user's commenting abilities have been removed for the remainder of this broadcast. */
+"Disabled for this broadcast" = "Disabled for this broadcast";
+
+/* Label | Button | Label of button that when pressed exits the broadcast editing screen without saving changes. */
+"Discard Changes" = "Discard Changes";
+
+/* Button | Action Sheet | Open Switchboard Photo Browser */
+"Display Photo (action sheet)" = "Display Photo";
+
+/* Button | Title | Title of button used to dispute a copyright violation. */
+"Dispute Claim (Copyright Violation)" = "Dispute Claim";
+
+/* Button | Guest Call In | Title of the button that allows the user to select if they want or not to notify their followers when joining as a guest. This copy is displayed when the option is OFF, the followers won't be notified. */
+"Do not notify my followers (Guest Call-In Notify Followers Option)" = "Do not notify my followers";
+
+/* Button | Manage Guest Broadcasters Call-Ins List | Visible when the broadcast currently DOES accept requests to become guest broadcasters. If pressed by the broadcaster, DISABLES the ability for current LIVE viewers to request to become guest broadcasters. */
+"Don't Allow Guests (Manage Guest Broadcasters Call-Ins List)" = "Don't Allow Guests";
+
+/* Button | Pre-Broadcast | Indicates that the broadcast will NOT allow guest broadcasters. */
+"Don't Allow Guests (Tooltip)" = "Don't Allow Guests";
+
+/* Button | Action Sheet | Button that stops the broadcast from auto-deleting, making it last forever. */
+"Don't Auto-Delete" = "Don't Auto-Delete";
+
+/* Button | Chat Warning Modal | Confirms the user DOES NOT wish to proceed with sending the message */
+"Don't Send (Blocked Modal)" = "Don't Send";
+
+/* Done */
+"Done" = "Done";
+
+/* Button | Action Sheet | Dismisses the action sheet. */
+"Done (action sheet)" = "Done";
+
+/* Label | Broadcast | Accessibility label indicating that double tapping anywhere on the screen exits user from Theater Mode */
+"Double Tap anywhere to Exit Theater Mode (accessibility label)" = "Double Tap anywhere to Exit Theater Mode";
+
+/* Instructions | Broadcasting | Instructs the broadcaster that they can double tap to flip the camera. | Delimiter = bold */
+"Double Tap to <bold>Flip Camera</bold>" = "Double Tap to •|•Flip Camera•|•";
+
+/* Button | Accessibility hint for the button that allows / doesn't allow guest broadcasters. */
+"Double tap to allow or disallow guests (accessibility hint)" = "Double tap to allow or disallow guests";
+
+/* Title of cell displayed to a user that indicates the duration of a broadcast (how long the broadcast is) */
+"Duration (CELL)" = "Duration";
+
+/* Button | Title | Text for button that lets user edit their broadcast.
+Edit Broadcast Screen | Header Label | Label indicating this is the edit broadcast screen. */
+"Edit Broadcast" = "Edit Broadcast";
+
+/* Button | Action Sheet | Edit a broadcast. */
+"Edit Broadcast (action sheet)" = "Edit Broadcast";
+
+/* Button | Title | Text for failure state of button that lets user edit their broadcast. */
+"Edit Broadcast Unavailable" = "Edit Broadcast Unavailable";
+
+/* Edit Broadcast Screen | Subtitle Label | Label describing how editing broadcast works. */
+"Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured." = "Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured.";
+
+/* Button | Pre-Broadcast | Indicates that the broadcast is Audio Only. */
+"Enable Audio Only Broadcast" = "Enable Audio Only Broadcast";
+
+/* Button | Permissions Screen | Asks the user for camera permissions. */
+"Enable camera (Permissions Screen)" = "Enable camera";
+
+/* No comment provided by engineer. */
+"Enable Email" = "Enable Email";
+
+/* Button | Permissions Screen | Asks the user for microphone permissions. */
+"Enable microphone (Permissions Screen)" = "Enable microphone";
+
+/* Button | Accessibility hint for the button that toggles Audio Only Broadcast. */
+"Enable/Disable Audio Only Broadcast (accessibility hint)" = "Double-tap to toggle enable or disable Audio Only Broadcast.";
+
+/* Button | Accessibility label for Enable/Disable Allow Audio Only Broadcast. */
+"Enable/Disable Audio Only Broadcast (accessibility label)" = "Enable/Disable Audio Only Broadcast";
+
+/* END | Label shown at the end of the graph of broadcast viewers to label it as the end of the broadcast */
+"END (graph)" = "END";
+
+/* No comment provided by engineer. */
+"ENDED" = "ENDED";
+
+/* Status text shown in bottom bar when a broadcast ends. */
+"Ended" = "Ended";
+
+/* A short phrase to indicate that chat conversation was engaging */
+"Engaging Chat" = "Engaging Chat";
+
+/* Error Label | ReplayKit | Alert title indicating there was an error starting the ReplayKit broadcast. */
+"Error (ReplayKit)" = "Error";
+
+/* Error | Toast | Could not access broadcaster's microphone. */
+"Error accessing audio from microphone." = "Error accessing audio from microphone.";
+
+/* Label | User's Recent Broadcast List | Placeholder after an error has occurred loading a user's recent broadcast history. */
+"Error accessing history." = "Error accessing history.";
+
+/* Error | Toast | Tells broadcaster there was an error saving their replay to camera roll. */
+"Error saving video to Camera Roll" = "Error saving video to Camera Roll";
+
+/* Label | Title of a toast alerting the user that there was an error when setting an Amplify Program */
+"Error setting Amplify Program (title)" = "Error setting Amplify Program";
+
+/* Detail text shown above heart menu when a super heart is selected */
+"Every heart you send will be a Super Heart" = "Every heart you send will be a Super Heart";
+
+/* Button | Pre-Broadcast | Indicates that the broadcast will only allow all users to chat. */
+"Everybody can chat" = "Everybody can chat";
+
+/* No comment provided by engineer. */
+"failed" = "failed";
+
+/* No comment provided by engineer. */
+"FEATURED" = "FEATURED";
+
+/* Separator used before the last item in a comma-separated list of names */
+"Final List separator" = ", &";
+
+/* Label shown when the user has fine control over replay scrubbing */
+"Fine Control" = "Fine Control";
+
+/* Title of message shown when another viewer sends their first super heart. */
+"First Super Heart" = "First Super Heart";
+
+/* Button | Action Sheet | Flip between front- and back-facing cameras. */
+"Flip Camera (action sheet)" = "Flip Camera";
+
+/* Button | User Modal| Indicates that the user is not currently following this person, and  by pressing would follow them. */
+"Follow (user modal)" = "Follow";
+
+/* Chat Message | Broadcasting | Message shown in chat to broadcaster when they send request for viewers to follow */
+"Follow request sent. (chat message)" = "Follow request sent.";
+
+/* Button | Chat | 'Follow the broadcaster to catch their next broadcast' message is displayed in chat asking the user if they want to follow the broadcaster (only used if we don't have a name for the broadcaster, which should be never). */
+"Follow the broadcaster to catch their next broadcast." = "Follow the broadcaster to catch their next broadcast.";
+
+/* 'Follow <Display Name> to catch their next broadcast' message is displayed in chat asking the user if they want to follow the broadcaster. Note the delimiters around the display name to provide emphasis on the name. */
+"Follow •|•%@•|• to catch their next broadcast" = "Follow •|•%@•|• to catch their next broadcast";
+
+/* Text displayed to indicate that the current user follows two people who follow the user in question. (i.e. Followed by Jane Doe and John Doe */
+"Followed by %1$@ and %2$@" = "Followed by %1$@ and %2$@";
+
+/* Text displayed to indicate that the current user follows more than three people who follow the user in question. (i.e. Followed by Jane Doe, John Doe, Jim Doe, and 5 others */
+"Followed by %1$@, %2$@, %3$@ and %4$i others" = "Followed by %1$@, %2$@, %3$@ and %4$i others";
+
+/* Text displayed to indicate that the current user follows three people who follow the user in question. (i.e. Followed by Jane Doe, John Doe, and Jim Doe */
+"Followed by %1$@, %2$@, and %3$@" = "Followed by %1$@, %2$@, and %3$@";
+
+/* Text displayed to indicate that the current user follows one person who follows the user in question. (i.e. Followed by Jane Doe */
+"Followed by %@" = "Followed by %@";
+
+/* Button | User Modal | Opens the selected user's list of followers. */
+"FOLLOWERS (user profile modal)" = "FOLLOWERS";
+
+/* Button | Accessibility hint for the button that presents a user's followers. */
+"Followers button (accessibility hint)" = "Double-tap to view followers.";
+
+/* Follow/Unfollow button accessibility hint for following state. */
+"following (accessibility hint)" = "Double-tap to unfollow";
+
+/* Follow/Unfollow button accessibility label for following state. */
+"following (accessibility label)" = "Following";
+
+/* Button | User Modal | Indicates that the user is currently following this person, and by pressing, would unfollow them. */
+"Following (user modal)" = "Following";
+
+/* Button | User Modal | Opens the list of people the selected user follows. */
+"FOLLOWING (user profile modal)" = "FOLLOWING";
+
+/* Button | Accessibility hint for the button that presents a list of the users a user is following. */
+"Following button (accessibility hint)" = "Double-tap to view followed users.";
+
+/* Label after the fine control icon to explain how to have more fine control in scrubbing. */
+"for fine control" = "for fine control";
+
+/* Button | Accessibility hint for the button that switches cameras during broadcast. This hint indicates that activating the button will switch to the back camera. */
+"Front Camera (accessibility hint)" = "Double-tap to switch to Back Camera";
+
+/* Button | Accessibility value for the button that switches cameras during broadcast. This value indicates that the front-facing camera is currently selected. */
+"Front Camera (accessiblity value)" = "Front Camera";
+
+/* No comment provided by engineer. */
+"Get Coins" = "Get Coins";
+
+/* Button | Overflow Menu | Overflow menu item to select super hearts in a broadcast */
+"Give Super Hearts (menu button)" = "Give Super Hearts";
+
+/* Pre Broadcast Screen | Start Broadcast Button | Button used to begin a live broadcast. */
+"Go LIVE" = "Go LIVE";
+
+/* Pre Broadcast Screen | Start Broadcast Button | Button used to begin a live broadcast to a group. (%@ is the user-created group name) */
+"Go LIVE to %@" = "Go LIVE to %@";
+
+/* Title Label | Guest Broadcasting | Title for modal explaining that Guest Broadcasting is a new feature. */
+"Go LIVE together (Guest Broadcasting Modal Title)" = "Go LIVE together";
+
+/* Button | Action Sheet | Button to go to the user's Twitter profile */
+"Go to Twitter Profile" = "Go to Twitter Profile";
+
+/* A short phrase to indicate that the broadcaster was happy with how many viewers they had in their broadcast */
+"Good Viewer Count" = "Good Viewer Count";
+
+/* Button | Title for a button that confirms the user understood a message they were shown. */
+"Got It (Button Title)" = "Got It";
+
+/* Button | Title | Title of button used to confirm/dismiss a copyright violation modal view */
+"Got it (Copyright Violation)" = "Got it";
+
+/* Button | ReplayKit | Error confirmation button for alert stating that there was an error starting the ReplayKit broadcast. */
+"Got it (ReplayKit)" = "Got it";
+
+/* Button | Alert Modal View | Close an alert view and confirm the user saw the message. */
+"Got it!" = "Got it!";
+
+/* Button | Action Sheet | Brings up the options for reporting the selected guest. */
+"Guest Action Sheet Report Item" = "Report";
+
+/* Button Label | Guest Call In | Label beneath button representing the choice to share both video & audio as a guest caller. */
+"Guest Call In Choice Label: \"Camera and microphone\"" = "Camera and microphone";
+
+/* Button Label | Guest Call In | Label beneath button representing the choice to share audio ONLY (i.e. no video) as a guest caller. */
+"Guest Call In Choice Label: \"Microphone only\"" = "Microphone only";
+
+/* Instructions Label | Guest Call In | Subtitle label above buttons allowing the user to give permissions (audio). */
+"Guest Call-In Audio Only Permissions Subtitle beneath Title: \"Enable microphone to become a guest\"" = "Enable microphone to become a guest";
+
+/* Instructions Label | Guest Call In | Subtitle label above button(s) representing the choice to join as a guest caller. This label will be displayed when the call already confirmed this action in the past. The part between the two •|• will be highlighted in blue. */
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request. Learn more\"" = "You'll join when the broadcaster accepts your request. •|•Learn more•|•";
+
+/* Instructions Label | Guest Call In | Subtitle label above button(s) representing the choice to join as a guest caller. This label will be displayed when the call never confirmed this action in the past. */
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request.\"" = "You'll join when the broadcaster accepts your request.";
+
+/* Button | Guest Call In | When pressed by the viewer, sends a request to the broadcaster to join as a guest. */
+"Guest Call-In Instructions Title: \"Ask to Join\"" = "Ask to Join";
+
+/* Instructions Label | Guest Call In | Title label above buttons representing the choice to share both video & audio or audio as a guest caller. Contains a detailed subtitle below this label. */
+"Guest Call-In Instructions Title: \"Join as a guest\"" = "Join as a guest";
+
+/* Instructions Label | Guest Call In | Subtitle label above buttons allowing the user to give permissions (video and audio). */
+"Guest Call-In Permissions Subtitle beneath Title: \"Enable camera and microphone to become a guest\"" = "Enable camera and microphone to become a guest";
+
+/* Instructions Label | Guest Call In | Title label above buttons allowing the user to give permissions (video and audio). */
+"Guest Call-In Permissions Title: \"Guest setup\"" = "Guest setup";
+
+/* Instructions Label | Manage Guest Call-Ins | Title label for page showing everyone who has called in or requested to call in to the broadcast. Contains a detailed subtitle below this label. */
+"Guest List (Manage Guest Callers Page Title)" = "Guest List";
+
+/* Label | Chat Message | Displayed when a guest broadcaster was removed because they violated the Community Guidelines. | Translators should place the \"•|•@%@•|•\" wherever they expect the guest broadcaster's username to appear within the sentence. The \"•|•\" denotes that the username should use a bold font. */
+"Guest Was Banned Chat Message (Periscope)" = "•|•@%@•|• was reported, reviewed by Periscope, and found to be violating the Community Guidelines.";
+
+/* Label | Chat Message | Displayed when a guest broadcaster was removed because they violated the Twitter Rules. | Translators should place the \"•|•@%@•|•\" wherever they expect the guest broadcaster's username to appear within the sentence. The \"•|•\" denotes that the username should use a bold font. */
+"Guest Was Banned Chat Message (Twitter)" = "•|•@%@•|• was reported, reviewed by Twitter, and found to be violating the Twitter Rules.";
+
+/* Button | Guest Broadcasting Chat Messages| When pressed by the broadcaster, opens the screen to manage the guests list. */
+"Guests can now ask to join. Use this icon to add or remove guests at any time. (Guest Broadcasting Enabled Prompt)" = "Guests can now ask to join. Use this icon to add or remove guests at any time.";
+
+/* Button | Manage Guest Broadcasters Call-Ins List | Visible when the broadcast currently DOES NOT accept requests to become guest broadcasters. If pressed by the broadcaster, ENABLES the ability for current LIVE viewers to request to become guest broadcasters. */
+"Guests Not Allowed (Manage Guest Broadcasters Call-Ins List)" = "Guests Not Allowed";
+
+/* Label shown when the user is scrubbing at half the speed */
+"Half-Speed" = "Half-Speed";
+
+/* Title of a button shown to a broadcaster when a broadcaster is viewing a user's profile that has successfully joined their broadcast as a guest. Pressing this button would remove the given user as a guest from the broadcast. */
+"Hang up" = "Hang up";
+
+/* Button | Guest Calling Menu | Button label that takes the viewer to the page where they can hang up / stop being a guest broadcaster. */
+"Hang Up (Guest Calling Menu)" = "Hang Up";
+
+/* Button | Manage Guest Call-Ins | Shown in an action sheet when the broadcaster taps on a user who has requested to call in to the broadcast. When pressed, hangs up on the selected user. */
+"Hang Up (Manage Guest Call-Ins Action Sheet)" = "Hang Up";
+
+/* Button Label | Guest Call In | Button representing the option to hang up and stop being a guest caller. */
+"Hang Up Button Label: \"Hang Up\"" = "Hang Up";
+
+/* Accessibility label that provides context for a 'x' button shown to a broadcaster when viewing a user's profile (in full height) that is being connected as a guest or is already a guestin to their broadcast. Pressing this button would remove this user as a guest in their broadcast. */
+"Hang Up on Guest or Cancel Guest From Joining" = "Hang Up on Guest or Cancel Guest From Joining";
+
+/* Label | Guest Call In | Subtitle label shown beneath hang up button that further explains the option to hang up and stop being a guest caller. */
+"Hang Up Subtitle (Audio Only): \"Stop sharing microphone\"" = "Stop sharing microphone";
+
+/* Label | Guest Call In | Subtitle label shown beneath hang up button that further explains the option to hang up and stop being a guest caller. */
+"Hang Up Subtitle (Camera + Microphone): \"Stop sharing camera and microphone\"" = "Stop sharing camera and microphone";
+
+/* A short phrase to indicate that the broadcaster experienced harassment */
+"Harassment" = "Harassment";
+
+/* Button | Report Broadcast | Option if the user is reporting the broadcast because they believe the broadcaster may direct hates against a protected category. */
+"Hateful Conduct (Report Option)" = "Hateful Conduct";
+
+/* No comment provided by engineer. */
+"HEART" = "HEART";
+
+/* Singluar form \"heart received\", which is combined with the number of hearts that have been received (in this case, 1) */
+"heart received (accessibility label)" = "heart received";
+
+/* User Channel | Announcement posted when the user sends a heart. */
+"Heart Sent (accessiblity announcement)" = "Heart Sent";
+
+/* No comment provided by engineer. */
+"HEARTS" = "HEARTS";
+
+/* Button | Pre-Broadcast | Indicates that the broadcast will disallow chats or hearts from any viewer. */
+"Hearts & Chats off" = "Hearts & Chats off";
+
+/* Button | Pre-Broadcast | Indicates that the broadcast will allow all users to chat and heart. */
+"Hearts & Chats on" = "Hearts & Chats on";
+
+/* Plural form \"hearts received\", which is combined with the number of hearts that have been received */
+"hearts received (accessibility label)" = "hearts received";
+
+/* Label | Moderation | Instructions to signify that we're asking the viewer to moderate/classify the message shown below. */
+"Help us moderate this comment..." = "Help us moderate this comment...";
+
+/* Title | Action Sheet | Asks the user to help identify the reason for reporting the current account. */
+"Help us understand the problem.\nWhat issue with @%@ are you reporting?" = "Help us understand the problem.\nWhat issue with @%@ are you reporting?";
+
+/* Button | Hides the current broadcast so only the broadcaster can see it */
+"Hide Broadcast" = "Hide Broadcast";
+
+/* Subtitle | Action Sheet | Subtitle shown below \"Theater Mode\"to Indicate what Theater Mode does */
+"Hide everything except video (action sheet)" = "Hide everything except video";
+
+/* Title | Nav Bar | Title for view of current user's History */
+"History (profile view title)" = "History";
+
+/* Button | Accessibility hint for the button that presents a user's recent broadcasts. */
+"History button (accessibility hint)" = "Double-tap to view recent broadcasts.";
+
+/* Label | Post-broadcast | Survey question to ask the broadcaster to explain why the broadcasting experience was not good */
+"How can we improve?" = "How can we improve?";
+
+/* Label | Post-broadcast | Survey question to ask the broadcaster for a rating on their experience on a scale of 1 to 5 */
+"How was your broadcasting experience?" = "How was your broadcasting experience?";
+
+/* Link | Stars Profile | Link to general help for Virtual Gifting. */
+"https://help.pscp.tv/" = "https://help.pscp.tv/";
+
+/* Link | Stars Profile | Link to the What are Super Hearts help center page. */
+"https://help.pscp.tv/customer/en/portal/articles/2820488" = "https://help.pscp.tv/customer/portal/articles/2820488";
+
+/* Link | Stars Profile | Link to help for Virtual Gifting for Super broadcasters. */
+"https://help.pscp.tv/customer/portal/articles/2820487" = "https://help.pscp.tv/customer/portal/articles/2820487";
+
+/* Link | Settings | Links to the help center article what-are-super-hearts-and-how-do-i-give-them */
+"https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119" = "https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119";
+
+/* Link | Stars Profile | Link to contact support. */
+"https://help.pscp.tv/customer/portal/emails/new" = "https://help.pscp.tv/customer/portal/emails/new";
+
+/* Link | Settings | Links to the help center article about privacy settings */
+"https://pscp.tv/i/help/2932218" = "https://pscp.tv/i/help/2932218";
+
+/* https://pscp.tv/i/super/terms */
+"https://pscp.tv/i/super/terms" = "https://pscp.tv/i/super/terms";
+
+/* Link | Stars Profile | Link to super hearts application page */
+"https://www.pscp.tv/i/super/apply" = "https://www.pscp.tv/i/super/apply";
+
+/* Button | Action Sheet | Let's the user specify that they aren't interested in the shown account. */
+"I'm Not Interested in @%@" = "I'm Not Interested in @%@";
+
+/* Label | Report Broadcast | Subtitle shown in the modal when the user presses report broadcast for depicting sexually explicit content. */
+"If this broadcast depicts pornography or sexual acts, please tap below. (Report Sexual Content Modal)" = "If this broadcast depicts pornography or sexual acts, please tap below.";
+
+/* Label | Report Broadcast | Subtitle shown in the modal when the user presses report broadcast because they believe it places a child at risk. */
+"If you believe that this broadcast places a child at risk, please tap below. (Report Child Safety Modal)" = "If you believe that this broadcast places a child at risk, please tap below.";
+
+/* Label | Report Broadcast | Subtitle shown in the modal when the user presses report broadcast for violence. */
+"If you believe this broadcast contains violence or someone is being physically threatened, please tap below. (Report Violence Modal)" = "If you believe this broadcast contains violence or someone is being physically threatened, please tap below.";
+
+/* Label | Report Broadcast | Subtitle shown in the modal when the user presses report broadcast for hateful conduct. */
+"If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below.";
+
+/* Label | Report Broadcast | Subtitle shown in the modal when the user presses report broadcast for private information. */
+"If you believe this broadcast exposes private information, please tap below. (Report Private Information Modal)" = "If you believe this broadcast exposes private information, please tap below.";
+
+/* Label | Report Broadcast | Subtitle shown in the modal when the user presses report broadcast for abusive behavior. */
+"If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below. (Report Harassment Modal)" = "If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below.";
+
+/* Label | Report Guest | Subtitle shown in the modal when the user presses report guest for self harm. */
+"If you believe this guest is contemplating or encouraging suicide or self harm, please tap below. (Report Self Harm Modal)" = "If you believe this guest is contemplating or encouraging suicide or self harm, please tap below.";
+
+/* Label | Report Guest | Subtitle shown in the modal when the user presses report guest for hateful conduct. */
+"If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below.";
+
+/* Label | Report Guest | Subtitle shown in the modal when the user presses report guest for private information. */
+"If you believe this guest is exposing private information, please tap below. (Report Private Information Modal)" = "If you believe this guest is exposing private information, please tap below.";
+
+/* Label | Report Guest | Subtitle shown in the modal when the user presses report guest for abusive behavior. */
+"If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below. (Report Harassment Modal)" = "If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below.";
+
+/* Label | Report Guest | Subtitle shown in the modal when the user presses report guest for violence. */
+"If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below. (Report Violence Modal)" = "If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below.";
+
+/* Label | Report Guest | Subtitle shown in the modal when the user presses report guest because they believe the guest places a child at risk. */
+"If you believe this guest is sharing content that places a child at risk, please tap below. (Report Child Safety Modal)" = "If you believe this guest is sharing content that places a child at risk, please tap below.";
+
+/* Label | Report Guest | Subtitle shown in the modal when the user presses report guest for depicting sexually explicit content. */
+"If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below. (Report Sexual Content Modal)" = "If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below.";
+
+/* Label | Report Broadcast | Subtitle shown in the modal when the user presses report broadcast for self harm. */
+"If you believe this individual is contemplating suicide or self harm, please tap below. (Report Self Harm Modal)" = "If you believe this individual is contemplating suicide or self harm, please tap below.";
+
+/* Warning when deleting broadcast that had super heart receiving enabled. */
+"If you delete this broadcast, you will lose the stars that you received. This cannot be undone." = "If you delete this broadcast, you will lose the stars that you received. This cannot be undone.";
+
+/* No comment provided by engineer. */
+"Initializing video stream..." = "Initializing video stream...";
+
+/* Button | Manage Guest Broadcasters Call-Ins List | When pressed by the broadcaster, sends a notice to current LIVE viewers inviting them to call in as guest broadcasters. */
+"Invite Guests (Manage Guest Broadcasters Call-Ins List)" = "Invite Guests";
+
+/* Subtitle Label | Guest Broadcasting | Subtitle for modal explaining to the broadcaster that Guest Broadcasting is a new feature. */
+"Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time.";
+
+/* Subtitle Label | Guest Broadcasting | Subtitle for modal explaining to the broadcaster that Guest Broadcasting is a new feature. */
+"Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time.";
+
+/* No comment provided by engineer. */
+"invited" = "invited";
+
+/* No comment provided by engineer. */
+"invited followers" = "invited followers";
+
+/* Alert | Broadcasting | Informs the user that they can't record and therefore broadcast using the Split View feature of the iPad. */
+"iPad doesn’t support broadcasting from Split View." = "iPad doesn’t support broadcasting from Split View.";
+
+/* Label | Comment | shown below the name of a new user (i.e. brand new to Periscope) who has just entered the broadcast. */
+"it's their first day on Periscope" = "it's their first day on Periscope";
+
+/* Button | Guest Calling Menu | Button label that takes the viewer to the page where they can setup their request to call in to the broadcast. */
+"Join as a Guest (Guest Calling Menu)" = "Join as a Guest";
+
+/* Text on the user profile that displays the month and year in which the given user created their Periscope account (i.e. Joined June 2019 */
+"Joined %@" = "Joined %@";
+
+/* Title Label | Guest Call In Countdown Screen| Title label above the guest caller's camera/microphone preview, which has a 3... 2... 1.. countdown on top of it. This screen is shown when the request to call in has been approved and offers one last chance to cancel before the user becomes a Guest Broadcaster. */
+"Joining as a guest... (Guest Call-In Countdown Screen Title)" = "Joining as a guest...";
+
+/* Title shown in profile Stars detail screen */
+"Keep broadcasting to collect more stars!" = "Keep broadcasting to collect more stars!";
+
+/* Subtitle under Hide Broadcast lets user know they will not lose stars if they hide the broadcast */
+"Keep stars received" = "Keep stars received";
+
+/* Button | Action View | Dismisses the alert view, indicating the user will take this action later. */
+"Later (alert view)" = "Later";
+
+/* Button title telling the user to click to learn more about the content. */
+"Learn More" = "Learn More";
+
+/* Button title in stars profile view controller */
+"Learn More (Stars Profile)" = "Learn More";
+
+/* Button | Broadcasting | Button for leaving a broadcast while it's still running. Only used with external sources. */
+"Leave Broadcast" = "Leave Broadcast";
+
+/* No comment provided by engineer. */
+"Limited by Broadcaster" = "Limited by Broadcaster";
+
+/* indication of time remaining in sentence, e.g. Limited for 3 days, 2 minutes, 1 second, etc. */
+"Limited for %@" = "Limited for %@";
+
+/* Separator used between items in a comma-separated list of names. */
+"List separator" = ",";
+
+/* Label | Text used to indicate a Live broadcast, as opposed to a replay. */
+"LIVE" = "LIVE";
+
+/* Share Via Prefix | Text placed in front of the broadcast URL when sharing an untitled LIVE broadcact externally, such as via Twitter or Facebook. */
+"LIVE on #Periscope" = "LIVE on #Periscope";
+
+/* Share Via Prefix | Text placed before the broadcast URL when sharing a LIVE broadcact externally, such as via Twitter or Facebook. The '%@' is the broadcast title. E.g. 'LIVE on #Periscope: <broadcast title>' */
+"LIVE on #Periscope: %@" = "LIVE on #Periscope: %@";
+
+/* Title of cell displayed to a user that indicates the total amount of time that their broadcast was viewed across all live viewers */
+"Live Time Watched (CELL)" = "Live Time Watched";
+
+/* Broadcast Screen | Audience Selector | Indicates to the user that the broadcast will be live. Used when private broadcast is not an option. */
+"LIVE Video (Broadcast Audience)" = "LIVE Video";
+
+/* LIVE VIEWER */
+"LIVE VIEWER" = "LIVE VIEWER";
+
+/* LIVE VIEWERS */
+"LIVE VIEWERS" = "LIVE VIEWERS";
+
+/* Tooltip explaining to people how much time was watched per minute of the live broadcast. */
+"Live watch time per minute tooltip" = "For every minute that this broadcast was live, viewers spent a combined total of %@ watching it.";
+
+/* No comment provided by engineer. */
+"LOADING" = "LOADING";
+
+/* Label | Followers Table | Placeholder text while the user's list of followers loads. */
+"Loading followers" = "Loading followers";
+
+/* Label | Following Table | Placeholder text while the list of people the user follows loads. */
+"Loading following" = "Loading following";
+
+/* Label | User's Recent Broadcast List | Placeholder while loading a user's recent broadcast history. */
+"Loading history" = "Loading history";
+
+/* Label | Transaction History Table | Placeholder text while list of transaction history loads. */
+"Loading History." = "Loading History.";
+
+/* Label | Followers Table | Placeholder text while your list of followers loads. */
+"Loading your followers" = "Loading your followers";
+
+/* Label | Following Table | Placeholder text while the list of people you follow loads. */
+"Loading your following" = "Loading your following";
+
+/* Title | Alert Modal VIew | Explains that the user needs to grant Periscope location permissions in order to turn on the share location feature. */
+"Location Permissions Required" = "Location Permissions Required";
+
+/* No comment provided by engineer. */
+"Location Unknown" = "Location Unknown";
+
+/* Button | Pre-Broadcast | Indicates that the user is logged out of twitter */
+"Logged Out" = "Logged Out";
+
+/* Error Label | ReplayKit | Alert title indicating that the user needs to login. */
+"Login Error (ReplayKit)" = "Login Required";
+
+/* Error Instructions | ReplayKit | Instructs the user to open Periscope to login before they'll be able to start their ReplayKit broadcast. */
+"Login Error Instructions (ReplayKit)" = "Please open the Periscope app to login. Then return here to start your broadcast.";
+
+/* Toast | Message displayed to the user when their network connection drops during a broadcast, to help them understand that we are trying to reconnect them. */
+"Looks like the connection was lost. Reconnecting... (Toast)" = "Looks like the connection was lost. Reconnecting...";
+
+/* Button | Moderation | Chosen if the viewer moderates the message as being appropriate / not offensive. */
+"Looks OK" = "Looks OK";
+
+/* Subtitle under Delete Broadcast warns user they will lose stars earned in the broadcast if it is deleted */
+"Lose stars received" = "Lose stars received";
+
+/* No comment provided by engineer. */
+"LOST CONNECTION" = "LOST CONNECTION";
+
+/* Error | Toast | Device ran out of storage space (implying that the replay will be cut off later.) */
+"Low disk space. A portion of this broadcast will not be available for replay later." = "Low disk space. A portion of this broadcast will not be available for replay later.";
+
+/* A short phrase to indicate that the broadcaster was unhappy with how many viewers they had in their broadcast */
+"Low Viewer Count" = "Low Viewer Count";
+
+/* Label | Chat | Message prompt indicating that the majority of moderators decided the comment was abusive (the extra spacing is intentional). Typically we like to have the second sentence on a new line. */
+"Majority voted <destructive emphasis> Abuse </destructive emphasis>\nThe commenter's chat has been limited." = "Majority voted  •|• Abuse •|•\nThe commenter's chat has been limited.";
+
+/* Label | Chat | Message prompt indicating that the majority of moderators decided the comment was NOT abusive (the extra spacing is intentional). */
+"Majority voted <destructive emphasis> Looks OK  </destructive emphasis>" = "Majority voted  •|• Looks OK •|•";
+
+/* Label | Chat | Message prompt indicating that the majority of moderators couldn't decide on an action (the extra spacing is intentional). */
+"Majority voted <destructive emphasis> Not Sure </destructive emphasis>" = "Majority voted  •|• Not Sure •|•";
+
+/* Label | Chat | Message prompt indicating that the majority of moderators decided the comment was spam (the extra spacing is intentional). Typically we like to have the second sentence on a new line. */
+"Majority voted <destructive emphasis> Spam </destructive emphasis>\nThe commenter's chat has been limited." = "Majority voted  •|• Spam •|•\nThe commenter's chat has been limited.";
+
+/* Subtitle of menu item to unhide a public broadcast */
+"Makes broadcast visible to everyone" = "Makes broadcast visible to everyone";
+
+/* Subtitle of menu item to unhide a private broadcast */
+"Makes broadcast visible to invited viewers" = "Makes broadcast visible to invited viewers";
+
+/* Subtitle of menu button that allows broadcast editing. */
+"Manage details about your Broadcast (menu subtitle)" = "Manage details about your Broadcast";
+
+/* Subtitle | Chat Warning Modal | Explains the consequences of posting too many messages that get blocked by other users. */
+"Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen." = "Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen.";
+
+/* Compact abbreviation for decimal number in millions (For example, 5.3M). As few characters as necessary and no spaces between the number and the abbreviation if possible. If no direct translation, please use M. */
+"Million Decimal Abbreviation" = "%.1fM";
+
+/* Compact abbreviation for whole number in millions (For example, 5M). As few characters as necessary and no spaces between the number and the abbreviation if possible.  If no direct translation, please use M. */
+"Million Integer Abbreviation" = "%dM";
+
+/* Button | Moderation Modal | Button pressed by user to confirm they understand what moderation is */
+"Moderation Modal Button Label" = "OK, I understand";
+
+/* Label | Moderation Modal | Title that is centered above the example of moderation voting */
+"Moderation Modal Example Label" = "EXAMPLE";
+
+/* Label | Moderation Modal | The message body in the example message that's being voted on by the moderation juror */
+"Moderation Modal Example Message" = "Questionable message...";
+
+/* Label | Moderation Modal | This label is just above the button to confirm that you understand, explaining that you can adjust moderation settings */
+"Moderation Modal Settings Label" = "You can turn this off in settings.";
+
+/* Subtitle | Moderation Modal | Explains what will be asked of the viewer as part of voting in moderation. */
+"Moderation Modal Subtitle" = "We will occasionally ask you to moderate a comment by quickly determining if it is •|•ABUSE•|• or •|•SPAM•|•. Moderation is anonymous.";
+
+/* Title | Moderation Modal | Title of the modal presented to users to teach them about moderation */
+"Moderation Modal Title" = "Moderation";
+
+/* Button | Title | Text for button that presents a summary of moderator actions for the broadcast.
+Label | Broadcast Details | Title for the row showing the number of moderator actions that occurred during the broadcast */
+"Moderator Actions" = "Moderator Actions";
+
+/* Button | Title | Text for button that presents a summary of moderator actions for the broadcast. The %@ is an important placeholder for the count to be shown. */
+"Moderator Actions (%@)" = "Moderator Actions (%@)";
+
+/* Moderator <username> joined. This is shown to broadcasters and moderators when a moderator joins the broadcast. Note the delimiters around the username to provide bolding for that part of the dynamic string. */
+"Moderator •|•%@•|• joined" = "Moderator •|•%@•|• joined";
+
+/* Note shown to a moderator in chat carousel when the message has been muted by a moderator. | \"•|•%@•|•\" represents the username of the person / people who muted the message. Place wherever appropriate in the sentence structure of your translation. */
+"ModeratorName muted this message (Message Carousel)" = "•|•%@•|• muted this message";
+
+/* Button | Broacast Menu | Menu Item used to select an advertising campaign for the broadcast.
+Button | Title of a button a user would tap to view a list of monetization options. */
+"Monetize Broadcast" = "Monetize Broadcast";
+
+/* Button | Title of a button a user would tap to close an expanded list of monetization options */
+"Monetize Broadcast (expanded cell title)" = "Monetize Broadcast";
+
+/* Button | Title of a button a user would tap to open an list of monetization options */
+"Monetize Broadcast (minimized cell title)" = "Monetize Broadcast ▾";
+
+/* Label saying how many more followers or following you have */
+"More (following/followers)" = "More";
+
+/* Button | Action Sheet | Mutes the guest (other users will not be able to hear them). */
+"Mute" = "Mute";
+
+/* Button | Accessibility label for the button that toggles audio muting while broadcasting. */
+"Mute (accessibility label)" = "Mute";
+
+/* Button | Action Sheet | Mutes the comment and prevents the user from commenting again in this broadcast. */
+"Mute User" = "Mute User";
+
+/* Button | Action Sheet | Mutes notifications from the selected user. */
+"Mute User Notifications" = "Mute User Notifications";
+
+/* Text shown in chat messages when the message has been muted by a moderator
+Text shown to obscure chat messages when the message has been muted by a moderator */
+"Muted by Moderator" = "Muted by Moderator";
+
+/* Table Header Badge | User Settings | Small badge indicating that a section header in User Settings is a new feature. */
+"NEW" = "NEW";
+
+/* Label | Guest Broadcasting | Shown to new broadcasters after they accept their first guest. Informs them that they can have up to 3 guests at a time. */
+"New Broadcaster Education: 3 Guest Limit" = "You can have up to 3 guests at the same time.";
+
+/* Button | Label | Title of button used to share a broadcast by composing a new tweet. */
+"New Tweet (Compose)" = "New Tweet";
+
+/* Label | Transaction History Table | Placeholder for transactions. */
+"No history." = "No history.";
+
+/* Label | Viewers List | Placeholder after the list of live viewers for a broadcast has loaded (and was empty). */
+"NO LIVE VIEWERS" = "NO LIVE VIEWERS";
+
+/* Label | Manage Guest Broadcasters Call-Ins List | Shown above the \"Ask for Call-Ins\" button when there aren't any viewers who have called in yet. Position the \"\\n\\n\" to maintain a line break between the first and second sentence(s). */
+"No one has asked to join yet. Tap to invite your viewers to join. (Empty Manage Guest Broadcasters Call-Ins List)" = "No one has asked to join yet.\n\nTap to invite your viewers to join.";
+
+/* Label | Followers Table | Placeholder text afer your list of followers has loaded (and is empty). */
+"No one is following you." = "No one is following you.";
+
+/* Label | Viewers List | Placeholder after the list of replay viewers for a broadcast has loaded (and was empty). */
+"NO REPLAY VIEWERS" = "NO REPLAY VIEWERS";
+
+/* Button | Title | Title of button used to indicate that the user doesn't have rights to broadcast copyrighted content. */
+"No, stop broadcasting (Copyright Violation)" = "No, stop broadcasting";
+
+/* Text displayed to indicate that the current user does not follow anyone who follows the user in question */
+"Not followed by anyone you're following" = "Not followed by anyone you're following";
+
+/* Follow/Unfollow button accessibility hint for not following state. */
+"not following (accessibility hint)" = "Double-tap to follow";
+
+/* Follow/Unfollow button accessibility label for not following state. */
+"not following (accessibility label)" = "Not following";
+
+/* Button | Moderation | Chosen if the viewer does not know how to moderate the message. */
+"Not Sure" = "Not Sure";
+
+/* Button | Accessibility label for the button that toggles notifications. The accessibility value will indicate the state. */
+"Notifications (accessiblity label)" = "Notifications";
+
+/* No comment provided by engineer. */
+"Notifications OFF" = "Notifications OFF";
+
+/* Button | Accessibility hint describing what the notifications button does when notifications are not enabled. */
+"Notifications Off (accessibility hint)" = "Double-tap to enable notifications from this user.";
+
+/* Button | Accessibility value for the button that toggles notifications when notifications are not enabled. Should indicate that notifications are 'Off' */
+"Notifications Off (accessibility value)" = "Off";
+
+/* No comment provided by engineer. */
+"Notifications ON" = "Notifications ON";
+
+/* Button | Accessibility hint describing what the notifications button does when notifications are currently enabled. */
+"Notifications On (accessibility hint)" = "Double-tap to disable notifications from this user.";
+
+/* Button | Accessibility value for the button that toggles notifications when notifications are enabled. Should indicate that notifications are 'On' */
+"Notifications On (accessibility value)" = "On";
+
+/* Button | Guest Call In | Title of the button that allows the user to select if they want or not to notify their followers when joining as a guest. This copy is displayed when the option is ON, the followers will be notified. */
+"Notify my followers (Guest Call-In Notify Followers Option)" = "Notify my followers";
+
+/* Button | Report Guest | Option if the user is reporting the guest because they find them generally offensive. */
+"Offensive Guest (Report Option)" = "Offensive Guest";
+
+/* Button | Title for a button that confirms the user understood a warning message they were shown */
+"OK, Got It" = "OK, Got It";
+
+/* Button | Report Broadcast | Button to confirm the user wishes to leave the broadcast after having successfully reported it. */
+"Okay (Report Broadcast Modal)" = "Okay";
+
+/* Label | Moderation | Tells the user they've been punished because one of their comments was found to be abusive, and their commenting privileges are now disabled across all broadcasts. */
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts." = "One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts.";
+
+/* Label | Moderation | Tells the user they've been punished because one of their comments was found to be abusive, and their commenting privileges are now disabled for the remainder of the current broadcast. */
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast." = "One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast.";
+
+/* Label | Moderation | Tells the user they've been punished because one of their comments was found to be abusive, and their commenting privileges are now temporarily disabled across all broadcasts.. */
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts.";
+
+/* Label | Moderation | Tells the user they've been punished because one of their comments was found to be abusive, and their commenting privileges are now temporarily disabled.. */
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited." = "One or more of your comments was hidden for ABUSE. Commenting is temporarily limited.";
+
+/* Label | Moderation | Tells the user they've been punished because one of their comments was found to be spam, and their commenting privileges are now disabled across all broadcasts. */
+"One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts." = "One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts.";
+
+/* Label | Moderation | Tells the user they've been punished because one of their comments was found to be spam, and their commenting privileges are now disabled for the remainder of the current broadcast. */
+"One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast." = "One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast.";
+
+/* Label | Moderation | Tells the user they've been punished because one of their comments was found to be spam, and their commenting privileges are now temporarily disabled across all broadcasts.. */
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts.";
+
+/* Label | Moderation | Tells the user they've been punished because one of their comments was found to be spam, and their commenting privileges are now temporarily disabled.. */
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited." = "One or more of your comments was hidden for SPAM. Commenting is temporarily limited.";
+
+/* Label | Moderation | Tells the user they've been punished because one of their comments was found to be abusive, and their commenting privileges are now disabled across all broadcasts. */
+"One or more of your comments was hidden. Commenting is disabled for all broadcasts." = "One or more of your comments was hidden. Commenting is disabled for all broadcasts.";
+
+/* Label | Moderation | Tells the user they've been punished because one of their comments was found to be abusive, and their commenting privileges are now disabled for the remainder of the current broadcast. */
+"One or more of your comments was hidden. Commenting is disabled for this broadcast." = "One or more of your comments was hidden. Commenting is disabled for this broadcast.";
+
+/* Label | Moderation | Tells the user they've been punished because one of their comments was found to be abusive, and their commenting privileges are now temporarily disabled across all broadcasts.. */
+"One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts." = "One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts.";
+
+/* Label | Moderation | Tells the user they've been punished because one of their comments was found to be abusive, and their commenting privileges are now temporarily disabled.. */
+"One or more of your comments was hidden. Commenting is temporarily limited." = "One or more of your comments was hidden. Commenting is temporarily limited.";
+
+/* Label | Moderation | Tells the user they've been punished because one or more of their comments was found to be abusive, and their commenting privileges are now disabled for the remainder of the current broadcast. */
+"One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast." = "One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast.";
+
+/* Message shown for menu item that isn't available outside the Periscope app */
+"Only available in Periscope" = "Only available in Periscope";
+
+/* Informative tooltip label that indicates the count for number of broadcasts displayed on a user's Periscope profile is a count only of the available public broadcasts */
+"Only public broadcasts counted" = "Only public broadcasts counted";
+
+/* Button | Pre-Broadcast | Indicates that the broadcast will only allow users who the broadcaster follows to chat. */
+"Only users you follow can chat" = "Only users you follow can chat";
+
+/* Subtitle of menu button that hides broadcast from other people. */
+"Only you can see your hidden broadcasts (menu subtitle)" = "Only you can see your hidden broadcasts";
+
+/* Button | Report Broadcast | Option if the user is reporting the broadcast for a different reason than the options listed above. */
+"Other Reason (Report Option)" = "Other Reason";
+
+/* Button | Action Sheet | Reports the selected message for some other reason. */
+"Other Reason \n e.g. Foreign Language" = "Other Reason•|•\ne.g. Foreign Language•|•";
+
+/* No comment provided by engineer. */
+"Our apologies for the inconvenience." = "Our apologies for the inconvenience.";
+
+/* Button | Replay controls | Accessibility label for the button that pauses playback */
+"Pause (accessibility label)" = "Pause";
+
+/* Peak | Label used on a dot on a graph to indicate it is the peak (highest) value on that graph | '120 Peak' */
+"Peak (graph label)" = "Peak";
+
+/* No comment provided by engineer. */
+"people" = "people";
+
+/* Title of cell displayed to a user that indicates how much people watcher their broadcast per minute */
+"per Broadcast Minute (CELL)" = "per Broadcast Minute";
+
+/* Title of cell displayed to a user that indicates the amount of time each viewer watched a broadcast */
+"per Viewer (CELL)" = "per Viewer";
+
+/* Generic error message when the user attempts to do something that requires an account. */
+"Periscope account is required." = "Periscope account is required.";
+
+/* No comment provided by engineer. */
+"Periscope App Feedback" = "Periscope App Feedback";
+
+/* Message shown to indicate when Periscope will be officially sunset. Do not remove the •|•, as it bolds the given text */
+"Periscope is discontinuing on •|•%@•|•" = "Periscope is discontinuing on •|•%@•|•";
+
+/* No comment provided by engineer. */
+"person" = "person";
+
+/* Button | Replay controls | Accessibility label for the button that begins playback */
+"Play (accessibility label)" = "Play";
+
+/* Transaction History | Table view header | Help text shown in transaction history. */
+"Please allow some time for all transactions to be posted." = "Please allow some time for all transactions to be posted.";
+
+/* No comment provided by engineer. */
+"poor" = "poor";
+
+/* No comment provided by engineer. */
+"POOR CONNECTION" = "POOR CONNECTION";
+
+/* A short phrase to indicate that the community participating in the broadcast was positive */
+"Positive Community" = "Positive Community";
+
+/* Broadcast Interstitial | This text is displayed over the image of a broadcast which may contain innapropriate content. NSFW is a common english acronym for innapropriate content (Not Safe For Work) */
+"POSSIBLY NSFW (Interstitial)" = "POSSIBLY NSFW";
+
+/* Button | Accessibility hint for the button that toggles posting to Twitter. */
+"Post to Twitter (accessibility hint)" = "Double-tap to toggle.";
+
+/* Button | Accessibility label for the button that toggles posting to Twitter. */
+"Post to Twitter (accessibility label)" = "Post to Twitter";
+
+/* Broadcast Screen | Audience Selector | Tells the user that their broadcast will post publicly to periscope. */
+"posting publicly on Periscope" = "posting publicly on Periscope";
+
+/* Broadcast Screen | Audience Selector | Tells the user that their broadcast will post publicly to their Twitter followers. */
+"posting publicly on Twitter" = "posting publicly on Twitter";
+
+/* Label | Pre-Broadcast | Header label telling the user what twitter account their broadcast will be posted to. */
+"Posting to Twitter as @%@" = "Posting to Twitter as @%@";
+
+/* Label | Pre-Broadcast | Header label telling the user what their broadcast will not be posted to Twitter. */
+"Posting to Twitter OFF" = "Posting to Twitter OFF";
+
+/* Button | Pre-Broadcast | Indicates that the broadcast will NOT share the user's precise location. */
+"Precise Location Sharing OFF" = "Precise Location Sharing OFF";
+
+/* Button | Pre-Broadcast | Indicates that the broadcast will share the user's precise location. */
+"Precise Location Sharing ON" = "Precise Location Sharing ON";
+
+/* Broadcast Screen | Audience Selector | Tells the user that their broadcast will be privately visible. */
+"Private (Broadcast Audience)" = "Private";
+
+/* Button | Report Broadcast | Option if the user is reporting the broadcast because they believe the broadcaster may expose private information. */
+"Private Information (Report Option)" = "Private Information";
+
+/* Image | profile accessibility label */
+"Profile (accessibility label)" = "Profile";
+
+/* Success Message | Toast | Tells viewer the profile  URL was copied to their clipboard. */
+"Profile URL copied" = "Profile URL copied";
+
+/* Broadcast Screen | Audience Selector | Tells the user that their broadcast will be publicly visible, when they have a choice to make it private. */
+"Public (Broadcast Audience)" = "Public";
+
+/* Broadcast Screen | Audience Selector | Tells the user that their broadcast will be public but hidden, when they have a choice to make it private. */
+"Public Hidden (Broadcast Audience)" = "Public (Hidden)";
+
+/* Label shown when the user is scrubbing at a quarter of the speed */
+"Quarter-Speed" = "Quarter-Speed";
+
+/* Text shown above heart menu when a super heart is selected */
+"Ready to give Super Hearts!" = "Ready to give Super Hearts!";
+
+/* Message title in history view controller */
+"Received in: (History)" = "Received in: \"%@\"";
+
+/* Message title in history view controller */
+"Received stars (History)" = "Received stars.";
+
+/* Button | User Modal | Opens the selected user's list of recent broadcast history. */
+"RECENT (user profile modal)" = "RECENT";
+
+/* Instructions | Broadcasting | As they are dragging the view downwards, this instructs the broadcaster that they can let go to dismiss the modal. | Delimiter = bold */
+"Release to <bold>Leave</bold> (broadcasting)" = "Release to •|•Leave•|•";
+
+/* Instructions | Watching | As they are dragging the view downwards, this instructs the viewer that they can let go to dismiss the modal. | Delimiter = bold */
+"Release to <bold>Leave</bold> (watching)" = "Release to •|•Leave•|•";
+
+/* Release to Refresh */
+"Release to Refresh" = "Release to Refresh";
+
+/* Button | Switchboard Palette | Removes photo from broadcast. */
+"Remove" = "Remove";
+
+/* Button | Title of a buton a user would tap to remove an Amplify program on a broadcast */
+"Remove Amplify Program" = "Remove Amplify Program";
+
+/* Button | Title of a button a user would tap to remove an existing monetization option (in this case: an Amplify program) */
+"Remove Amplify Program (cell title)" = "Remove Amplify Program";
+
+/* Instructions Tooltip | Pre Broadcast Title Screen | Shown if the user tries to insert a suggested hashtag that would exceed the maximum broadcast title restriction by 1 character. */
+"Remove at least 1 character from your title to make room for #(example hashtag)" = "Remove at least 1 character from your title to make room for %@";
+
+/* Instructions Tooltip | Pre Broadcast Title Screen | Shown if the user tries to insert a suggested hashtag that would exceed the maximum broadcast title restriction by more than 1 character. */
+"Remove at least X characters from your title to make room for #(example hashtag)" = "Remove at least %lu characters from your title to make room for %@";
+
+/* Button | Action Sheet | Confirms that the broadcaster actually wants to remove location from the broadcast. */
+"Remove Location" = "Remove Location";
+
+/* Title of cell displayed to a user that indicates the total amount of time that their broadcast was viewed across all replay viewers */
+"Replay Time Watched (CELL)" = "Replay Time Watched";
+
+/* Button | Title | Text for failure state of button that lets user replay their broadcast. */
+"Replay Unavailable" = "Replay Unavailable";
+
+/* REPLAY VIEWER */
+"REPLAY VIEWER" = "REPLAY VIEWER";
+
+/* REPLAY VIEWERS */
+"REPLAY VIEWERS" = "REPLAY VIEWERS";
+
+/* Tooltip explaining to people how much time was watched per minute of the replay broadcast. */
+"Replay watch time per minute tooltip" = "For every minute of this broadcast's replay, viewers spent a combined total of %@ watching it.";
+
+/* Button | Action Sheet | Compose new chat message in a live broadcast as a reply to a specific user's previous comment. */
+"Reply" = "Reply";
+
+/* Button | Report Guest | Button to confirm the user wishes to report the guest for the reason described above. | Place the \"@%@\" wherever you want, knowing that it will be replaced with the guest's username. */
+"Report @<guest's username> (Report Guest Modal)" = "Report @%@";
+
+/* Label | Report Broadcast | Title of modal shown if the user is reporting the broadcast for abusive behavior. */
+"Report Abusive Behavior (Report Abusive Behavior Modal)" = "Abusive Behavior";
+
+/* Button | Action Sheet | Reports a user for abuse. */
+"Report Abusive Profile" = "Report Abusive Profile";
+
+/* Button | Action Sheet | Reports the selected user as being a spam account. */
+"Report As Spam" = "Report As Spam";
+
+/* Button | Report Broadcast | Button to confirm the user wishes to report the broadcast for the reason described above. */
+"Report Broadcast (Report Broadcast Modal)" = "Report Broadcast";
+
+/* Label | Report Broadcast | Title of modal shown if the user is reporting the broadcast because they believe it places a child at risk. */
+"Report Child Safety (Report Child Safety Modal)" = "Child Safety";
+
+/* Button | Action Sheet | Brings up the options for reporting the selected user's comment. */
+"Report Comment" = "Report Comment";
+
+/* Label | Report Broadcast | Title of modal shown if the user is reporting the broadcast for hateful conduct. */
+"Report Hateful Conduct (Report Hateful conduct Modal)" = "Hateful Conduct";
+
+/* Label | Report Broadcast | Title of modal shown if the user is reporting the broadcast for private information. */
+"Report Private Information (Report Private Information Modal)" = "Private Information";
+
+/* Label | Report Broadcast | Title of modal shown if the user is reporting the broadcast for self-harm. */
+"Report Self-Harm (Report Self Harm Modal)" = "Self-Harm";
+
+/* Label | Report Broadcast | Title of modal shown if the user is reporting the broadcast for sexual content. */
+"Report Sexual Content (Report Sexual Content Modal)" = "Sexual Content";
+
+/* Button | Action Sheet | Reports the selected user. */
+"Report User" = "Report User";
+
+/* Label | Report Broadcast | Title of modal shown if the user is reporting the broadcast for violence. */
+"Report Violence (Report Violence Modal)" = "Violence";
+
+/* Note shown to the user when reporting a comment. */
+"Reporting is anonymous and will hide the user's comments (just for you)." = "Reporting is anonymous and will hide the user's comments (just for you).";
+
+/* Button | Accessibility hint for the button that disables chat and hearts from all users.
+Button | Accessibility hint for the button that restricts chat to users who the user follows. */
+"Restrict Chat (accessibility hint)" = "Double-tap to toggle restricting chat to users you follow.";
+
+/* Button | Accessibility label for the button that disables chat and hearts from all users.
+Button | Accessibility label for the button that restricts chat to users who the user follows. */
+"Restrict Chat (accessibility label)" = "Restrict Chat";
+
+/* Button | Accessibility hint for a user's display name when in a non-condensed state. */
+"Return to Summary (accessibility hint)" = "Double-tap to return to the user summary.";
+
+/* Retweet broadcast */
+"Retweet" = "Retweet";
+
+/* Button | Edit Broadcast | Title of a Button to save changes for updating edit broadcast */
+"Save Changes" = "Save Changes";
+
+/* No comment provided by engineer. */
+"Save To Camera Roll" = "Save To Camera Roll";
+
+/* Title | Alert Modal View | Prompt title explaining that the user needs to grant Periscope camera roll permissions in order to save their broadcasts to camera roll. */
+"Save To Camera Roll Unavailable" = "Save To Camera Roll Unavailable";
+
+/* No comment provided by engineer. */
+"Saved To Camera Roll" = "Saved To Camera Roll";
+
+/* Button | Edit Broadcast | Title of the Save Changes button after changes have been saved remotely. */
+"Saved!" = "Saved!";
+
+/* Button | Edit Broadcast | Title of the Save Changes button in the Edit Broadcast screen while in saving state */
+"Saving..." = "Saving...";
+
+/* No comment provided by engineer. */
+"Say something..." = "Say something...";
+
+/* Label | Prompt shown to users to explain how to scroll to view previous comments. */
+"Scroll for Old Comments" = "Scroll for Old Comments";
+
+/* Button | Text | Title of button that will scroll the user back to the most recent chat messages. Shown only when they have scrolled chat messages. */
+"Scroll to Bottom" = "Scroll to Bottom";
+
+/* Broadcast Screen | Audience Selector | Text shown when an Amplify program (a monetization option) has been selected. */
+"selected Amplify Program" = "selected Amplify Program";
+
+/* Button | Report Broadcast | Option if the user is reporting the broadcast because they believe the broadcaster may be harming themselves. */
+"Self-Harm (Report Option)" = "Self-Harm";
+
+/* Button | Accessibility label for the send chat button. */
+"Send (accessibility label)" = "Send";
+
+/* Button | Chat Warning Modal | Confirms the user wishes to proceed with sending the message */
+"Send Message (Blocked Modal)" = "Send Message";
+
+/* No comment provided by engineer. */
+"Send people a notification to join this broadcast. Mutuals are people you follow that follow you back." = "Send people a notification to join this broadcast. Mutuals are people you follow that follow you back.";
+
+/* Message title in history view controller */
+"Sent for payment processing (History)" = "Sent for payment processing.";
+
+/* Separator used between a list of two names (Alice & Bob) */
+"Separator between two names" = "&";
+
+/* Button | Title of a buton a user would tap to set an Amplify program on a broadcast */
+"Set Amplify Program" = "Set Amplify Program";
+
+/* No comment provided by engineer. */
+"Setting the broadcast Amplify Program to •|•%@•|• will publish a new Tweet." = "Setting the broadcast Amplify Program to %@ will publish a new Tweet.";
+
+/* Button | Alert Modal View | The user wants to leave Periscope and open 'Settings' */
+"Settings (app)" = "Settings";
+
+/* Button | Report Broadcast | Option if the user is reporting the broadcast or comment because it contains sexual content. */
+"Sexual Content (Report Option)" = "Sexual Content";
+
+/* Button | Action Sheet | Option if the user is reporting the broadcast or comment because it contains inappropriate sexual remarks. | The phrase that comes after the \n will be treated as a subtitle and is meant to further clarify the phrase that comes before the \n */
+"Sexually Inappropriate \n Obscene or unwanted sexual remarks" = "Sexually Inappropriate•|•\nObscene or unwanted sexual remarks•|•";
+
+/* Action | Title | Title of buttons or screens in which the viewer can share a broadcast. */
+"Share Broadcast" = "Share Broadcast";
+
+/* Text for a button that allows the user to select to share a broadcast highlight (as opposed to sharing the entire broadcast).
+Text for a button that allows the user to select to share a broadcast highlight (as opposed to sharing the entire broadcast). This should be the same translation as was provided for 'Share From %@'. This version excludes the '%@' simply because it is shown before the app has loaded the timecode value that goes in place of the '%@'. */
+"Share From" = "Share From";
+
+/* Text for a button that allows the user to select to share a broadcast highlight (as opposed to sharing the entire broadcast). For example, 'Share From 3:21'. The '%@' will be replaced with the timecode, so translators should place the '%@' wherever makes sense for the given language. */
+"Share From %@" = "Share From %@";
+
+/* Text for a button that allows the user to select to share a broadcast from the beginning of that broadcast. */
+"Share From Beginning" = "Share From Beginning";
+
+/* Text for a button that allows the user to select to share a broadcast while it is still LIVE */
+"Share Live" = "Share Live";
+
+/* Button | Accessibility label for the location services button. */
+"Share precise location (accessibility label)" = "Share precise location";
+
+/* Chat Message | Broadcasting | Message shown in chat to broadcaster when they send request for viewers to share this broadcast */
+"Share request sent. (chat message)" = "Share request sent.";
+
+/* Button | Chat | Prompts the user to click the chat message if they want to share the screenshot they just captured (and the broadcast) */
+"Share screenshot and broadcast" = "Share screenshot and broadcast";
+
+/* No comment provided by engineer. */
+"Share this broadcast so your followers don't miss it." = "Share this broadcast so your followers don't miss it.";
+
+/* Button | Pre-Broadcast | Indicates that the broadcast doesn't allow sharing to Twitter while the allow guests feature is enabled. */
+"Share Twitter Tooltip (explaining that the feature is disabled while guests are enabled)" = "Disabled for broadcasts with guests";
+
+/* Text on share item for sharing a broadcast using the default iOS share sheet. */
+"Share via..." = "Share via...";
+
+/* Cell title where people would click to view the stats for a broadcast */
+"Show Stats (cell)" = "Show Stats";
+
+/* Button | Post-broadcast | Title for a Skip button for a user survey */
+"Skip" = "Skip";
+
+/* Error | Toast | Message shown to the user when they can't access the API because they were blocked by another user. */
+"Sorry, that action could not be completed because you have been blocked." = "Sorry, that action could not be completed because you have been blocked.";
+
+/* Error | Toast | Message shown to the user when they can't follow more users because they reached the block limit. */
+"Sorry, that action could not be completed because you have reached the block limit." = "Sorry, that action could not be completed because you have reached the block limit.";
+
+/* Error | Toast | Message shown to the user when they can't follow more users because they reached the follow limit. */
+"Sorry, that action could not be completed because you have reached the follow limit." = "Sorry, that action could not be completed because you have reached the follow limit.";
+
+/* No comment provided by engineer. */
+"Sorry, the broadcast is too full..." = "Sorry, the broadcast is too full...";
+
+/* Toast message shown when trying to view an unavailable broadcast. */
+"Sorry, this broadcast is unavailable" = "Sorry, this broadcast is unavailable";
+
+/* Error | Toast | Tells viewer there was an error loading the share URL for copying to their clipboard. */
+"Sorry, we couldn't load the broadcast share URL. Please try again." = "Sorry, we couldn't load the broadcast share URL. Please try again.";
+
+/* Error | Toast | Tells viewer there was an error saving changes caused by broadcast editing. */
+"Sorry, we couldn't save your changes. Please try again." = "Sorry, we couldn't save your changes. Please try again.";
+
+/* Error | Toast | Tells user there was an error performing the block request. */
+"Sorry, we encountered an error blocking some users. Please try again." = "Sorry, we encountered an error blocking some users. Please try again.";
+
+/* Error | Toast | Tells user there was a network error fulfilling their request to block a user. */
+"Sorry, we encountered an error blocking that user. Please try again." = "Sorry, we encountered an error blocking that user. Please try again.";
+
+/* Error | Toast | Tells user there was a network error fetching user data. */
+"Sorry, we encountered an error loading user data. Please try again." = "Sorry, we encountered an error loading user data. Please try again.";
+
+/* Error | Toast | Tells user there was a network error getting their new broadcast. */
+"Sorry, we encountered an error loading your broadcasts. Please try again." = "Sorry, we encountered an error loading your broadcasts. Please try again.";
+
+/* Error | Toast | Tells user there was a network error reporting the broadcast for abuse. */
+"Sorry, we encountered an error reporting this broadcast. Please try again." = "Sorry, we encountered an error reporting this broadcast. Please try again.";
+
+/* Error | Toast | Tells user there was a network error reporting the guest for abuse. */
+"Sorry, we encountered an error reporting this guest. Please try again." = "Sorry, we encountered an error reporting this guest. Please try again.";
+
+/* Error | Toast | Generic message shown when we have a non-specific loading/server error. */
+"Sorry, we've encountered a loading error. Please try again." = "Sorry, we've encountered a loading error. Please try again.";
+
+/* Error | Toast | Message shown to the user when they've been rate limited. */
+"Sorry, you've done that too many times. Try again in a few minutes." = "Sorry, you've done that too many times. Try again in a few minutes.";
+
+/* Error | Toast | Message shown to the user when they failed SLL Pinning. */
+"Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv" = "Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv";
+
+/* Error | Toast | Message shown to the user when they failed SLL Pinning. */
+"Sorry, you've encountered a loading error (421). Please email help@pscp.tv" = "Sorry, you've encountered a loading error (421). Please email help@pscp.tv";
+
+/* Label | Broadcasting | Error message when broadcaster's internet connection was not strong enough to capture/upload a new thumbnail. */
+"Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later." = "Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later.";
+
+/* Button | Action Sheet | Reports the selected message for being spammy.
+Button | Moderation | Chosen if the viewer moderates the message as being spammy. */
+"Spam" = "Spam";
+
+/* A short phrase to indicate that the broadcaster experienced spam in the chat comments */
+"Spam in Chat" = "Spam in Chat";
+
+/* Button title in stars profile view controller */
+"Star & Cash Outs History (Stars Profile)" = "Star & Cash Outs History";
+
+/* Message title in history view controller */
+"Star balance adjustment. Contact superhearts@pscp.tv if you have any questions. (History)" = "Star balance adjustment. Contact superhearts@pscp.tv if you have any questions.";
+
+/* Button title in stars profile view controller */
+"Star History (Stars Profile)" = "Star History";
+
+/* Singluar form \"star received\", which is combined with the number of stars that have been received (in this case, 1) */
+"star received (accessibility label)" = "star received";
+
+/* Title | Nav Bar | Title for view of current user's Stars */
+"Stars (profile view title)" = "Stars";
+
+/* Button | Profile Section | Takes the user to their Stars view */
+"Stars (profile)" = "Stars";
+
+/* Plural form \"stars received\", which is combined with the number of stars that have been received */
+"stars received (accessibility label)" = "stars received";
+
+/* Edit Broadcast Screen | Edit Start Point Label | Label indicating start of the edit start point section. */
+"Start Point" = "Start Point";
+
+/* Button | Action Sheet | Open Sketch Mode */
+"Start Sketching (action sheet)" = "Start Sketching";
+
+/* Button | Broadcasting | Button for stopping a broadcast. */
+"Stop Broadcast" = "Stop Broadcast";
+
+/* Button | Post-broadcast | Title for a Submit button for a user survey */
+"Submit" = "Submit";
+
+/* Success | Toast | Tells the broadcaster that their unmute request has been sent.
+Success | Toast | Tells the moderator that their unmute request has been sent. */
+"Success! You've unmuted @%@" = "Success! You've unmuted @%@";
+
+/* Label | Title of a toast alerting the user that they successfully set an Amplify Program */
+"Successfully set Amplify Program (title)" = "Successfully set Amplify Program";
+
+/* Suggested user is watching singlular */
+"Suggested user is watching singlular" = "%@•|• is watching now•|•";
+
+/* Suggested users are watching plural */
+"Suggested users are watching plural" = "%ld friends•|• are watching now•|•";
+
+/* Label title in stars profile view controller */
+"Super Broadcaster (Stars Profile)" = "Super Broadcaster";
+
+/* Title of web page about the super broadcaster program */
+"Super Broadcaster Program" = "Super Broadcaster Program";
+
+/* Page title of super heart terms of service */
+"Super Heart Terms" = "Super Heart Terms";
+
+/* The general term uses for Super Hearts, will be used for headers, buttons, etc. */
+"Super Hearts" = "Super Hearts";
+
+/* Button | Pre-Broadcast | Indicates that the broadcast will NOT allow viewers to send gift hearts. */
+"Super Hearts OFF" = "Super Hearts OFF";
+
+/* Button | Pre-Broadcast | Indicates that the broadcast will allow viewers to send gift hearts. */
+"Super Hearts ON" = "Super Hearts ON";
+
+/* Instructions | Broadcasting | Instructs the broadcaster that they can swipe down to stop the broadcast. | Delimiter = bold */
+"Swipe down to <bold>Stop</bold>" = "Swipe down to •|•Stop•|•";
+
+/* Label | Broadcast | Instructions to indicate that the viewer can exit Theater Mode by tapping the screen | Delimiter = bold */
+"Tap anyhwhere to <bold>Exit Theater Mode</bold>" = "Tap anywhere to •|•Exit Theater Mode•|•";
+
+/* Button | Guest Broadcasting Chat Messages| When pressed by the viewer, opens the screen to setup & configure camera and/or microphone so that the viewer can request to call in as a Guest Broadcaster. | The broadcaster's display name will be placed wherever the \"•|•%@•|•\" is within your translated string. */
+"Tap this icon to join Broadcaster's broadcast as a guest. (Viewer Prompt to Call-In)" = "Tap this icon to join •|•%@•|•'s broadcast as a guest.";
+
+/* Broadcast Screen | Audience Selector | Tells the user that they can change which Amplify Program their broadcast will be assigned. */
+"tap to change Amplify Program" = "tap to change Amplify Program";
+
+/* Description used beneath menu item that allows the user to change the Twitter Amplify program associated with the broadcast */
+"tap to change Amplify program" = "tap to change Amplify program";
+
+/* Broadcast Screen | Audience Selector | Tells the user that they can change who can view their brodcast. */
+"tap to change audience" = "tap to change audience";
+
+/* Label | Report Broadcast | Title of modal shown after user successfully reports the broadcast. */
+"Thank You (Report Broadcast Confirmation Modal)" = "Thank You";
+
+/* Success Message | Toast | A thank you message to the user for reporting a spammy or abusive profile. */
+"Thank you for your report" = "Thank you for your report";
+
+/* Success | Chat Prompt | Thanks the logged-in user for reporting the guest's behavior. */
+"Thank you for your report (Chat Prompt)" = "Thank you for your report";
+
+/* Title | Action Sheet | Thank the user for filing a report and blocking the user */
+"Thank you for your report." = "Thank you for your report.";
+
+/* Chat Message | Viewing a Broadcast | Confirms that after having reported the specified user's comment, you will no longer see any future messages from that person. | Special formatting within delimiter is bold typeface. */
+"Thank you. You won't see any more messages from •|•@%@•|• in this broadcast." = "Thank you. You won't see any more messages from •|•@%@•|• in this broadcast.";
+
+/* Subtitle of message thinking user for sending their first super heart */
+"Thanks %@!" = "Thanks %@!";
+
+/* Label | Post-broadcast | Message to thank broadcasters for filling out the survey form */
+"Thanks for your feedback!" = "Thanks for your feedback!";
+
+/* Label | Modal Subtitle | Shown below the user's message which was specifically blocked by the broadcaster. */
+"The broadcaster blocked you in response to this message." = "The broadcaster blocked you in response to this message.";
+
+/* Modal Pop Up | Viewing a Broadcast | Modal shown in response to viewer tapping a lock icon which indicates that they cannot send comments during this broadcast. */
+"The broadcaster has limited chat." = "The broadcaster has limited chat.";
+
+/* Label | Modal Subtitle | Shown below the title of the modal explaining that the user was specifically blocked by the broadcaster. */
+"The broadcaster has the ability to remove people from their broadcasts." = "The broadcaster has the ability to remove people from their broadcasts.";
+
+/* Message shown to indicate the coin store has closed so users can no longer buy coins. */
+"The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•." = "The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•.";
+
+/* Button | Action Sheet | Hide Chat, Hearts, \"X\", and Bottom Bar Section in Broadcast */
+"Theater Mode (action sheet)" = "Theater Mode";
+
+/* Subtitle under Report Abusive Profile that explains that this report is for name, bio or profile images that violate Periscope Community Guidelines */
+"Their name, bio, or profile image violates the Community Guidelines" = "Their name, bio, or profile image violates the Community Guidelines";
+
+/* No comment provided by engineer. */
+"There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat." = "There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat.";
+
+/* Error | Manage Guest Broadcasters Call-Ins List | Shown if there's an error accepting a viewers request to become a guest broadcaster. %@ will be replaced by the viewer's username. */
+"There was an error adding @username as a guest. Please try again." = "There was an error adding @%@ as a guest. Please try again.";
+
+/* Error | Manage Guest Broadcasters Call-Ins List | Shown if the viewer receives an error becoming a guest broadcaster. %@ will be replaced by the main broadcaster's display name.
+Error | Manage Guest Broadcasters Call-Ins List | Shown if there's an error completing the countdown for a viewer to become a guest broadcaster. %@ will be replaced by the main broadcaster's display name. */
+"There was an error adding you as a guest. We've notified Broadcaster, and will alert you if we're able to try again." = "There was an error adding you as a guest. We've notified %@, and will alert you if we're able to try again.";
+
+/* Error | Manage Guest Broadcasters Call-Ins List | Shown if there's an error turning ON the Call-Ins page allowing viewers to request to become guest broadcasters. */
+"There was an error allowing guests. Please try again." = "There was an error allowing guests. Please try again.";
+
+/* Error | Manage Guest Broadcasters Call-Ins List | Shown if the viewer receives an error cancelling their request to become a guest broadcaster. */
+"There was an error cancelling your request. Please try again." = "There was an error cancelling your request. Please try again.";
+
+/* Error | Manage Guest Broadcasters Call-Ins List | Shown if there's an error cancelling the countdown for a viewer to become a guest broadcaster. */
+"There was an error cancelling. Please try again." = "There was an error cancelling. Please try again.";
+
+/* Error | Manage Guest Broadcasters Call-Ins List | Shown if there's an error turning OFF the Call-Ins page allowing viewers to request to become guest broadcasters. */
+"There was an error disallowing guests. Please try again." = "There was an error disallowing guests. Please try again.";
+
+/* Error | Manage Guest Broadcasters Call-Ins List | Shown if there's an error sending an invitation from the broadcaster to the viewers inviting them to become guest broadcasters. */
+"There was an error inviting guests. Please try again." = "There was an error inviting guests. Please try again.";
+
+/* Error | Manage Guest Broadcasters Call-Ins List | Shown if there's an error muting or un-muting a guest. %@ will be replaced by the guests' username. */
+"There was an error muting or un-muting @username. Please try again." = "There was an error muting or un-muting @%@. Please try again.";
+
+/* Error | Manage Guest Broadcasters Call-Ins List | Shown if there's an error muting or un-muting the local audio. */
+"There was an error muting or un-muting you. Please try again." = "There was an error muting or un-muting you. Please try again.";
+
+/* Error | Manage Guest Broadcasters Call-Ins List | Shown if there's an error hanging up on the guest broadcaster. %@ will be replaced by the viewer's username. */
+"There was an error removing your guest @username. Please try again." = "There was an error removing your guest @%@. Please try again.";
+
+/* Error | Manage Guest Broadcasters Call-Ins List | Shown if the viewer receives an error requesting to become a guest broadcaster. */
+"There was an error sending your request to join as a guest. Please try again." = "There was an error sending your request to join as a guest. Please try again.";
+
+/* Error | Manage Guest Settings | Shown if the broadcaster receives an error updating the conversation controls settings. */
+"There was an error updating the settings (conversation controls and mentioned users). Please try again." = "There was an error updating the settings (conversation controls and mentioned users). Please try again.";
+
+/* Error | Manage Guest Settings | Shown if the broadcaster receives an error updating the locked/unlocked settings. */
+"There was an error updating the settings (locked/unlocked). Please try again." = "There was an error updating the settings (locked/unlocked). Please try again.";
+
+/* Watch Broadcast | Unavailable | Status Text | Text shown to inform the viewer that the broadcast is no longer available to watch. */
+"This broadcast is no longer available." = "This broadcast is no longer available.";
+
+/* Title | Title text shown prominently when a viewer watches a broadcast flagged for copyright violation. */
+"This broadcast isn’t available (Copyright Violation)" = "This broadcast isn’t available";
+
+/* Description | Explanation shown when a broadcaster's broadcast is flagged for copyright violation. '%1$@' will be replaced with the name of the copyrighted content, and %2$@ with the name of the copyright holder. */
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}." = "This broadcast matches “%1$@,” a copyrighted work by %2$@. •|•Learn more•|•";
+
+/* Description | Explanation shown when a broadcaster's broadcast matches copyrighted content, but wasn't flagged. '%1$@' will be replaced with the name of the copyrighted content, and %2$@ with the name of the copyright holder. */
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}. Do you have all rights necessary to broadcast this video on Twitter?" = "This broadcast matches “%1$@,” a copyrighted work by %2$@. Do you have all rights necessary to broadcast this video on Twitter?";
+
+/* Alert message shown when users view 360-degree video. We no longer support these and this message explains why the video will render weirdly. */
+"This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video." = "This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video.";
+
+/* Description | Explanation shown when a broadcast's title isn't editable. 'Learn More' will link to Help Center. */
+"This broadcast’s title can’t be edited. Learn more (Copyright Violation)" = "This broadcast’s title can’t be edited. •|•Learn more•|•";
+
+/* Label | Post-broadcast | Text to explain that it is not necessary to fill out the text field */
+"This is optional" = "This is optional";
+
+/* Placeholder text after the given user's following list was loaded and is empty, and they do not have a valid display name */
+"This user doesn't have any followers yet" = "This user doesn't have any followers yet";
+
+/* Placeholder text after the given user's broadcast history was loaded and is empty, and they do not have a valid display name */
+"This user has not broadcasted yet" = "This user has not broadcasted yet";
+
+/* Placeholder text after the given user's following list was loaded and is empty, and they do not have a valid display name */
+"This user isn't following anyone yet" = "This user isn't following anyone yet";
+
+/* Compact abbreviation for decimal number in thousands (For example, 5.3K). As few characters as necessary and no spaces between the number and the abbreviation if possible. If no direct translation, please use K. */
+"Thousand Decimal Abbreviation" = "%.1fK";
+
+/* Compact abbreviation for whole number in thousands (For example, 5K). As few characters as necessary and no spaces between the number and the abbreviation if possible. If no direct translation, please use K. */
+"Thousand Integer Abbreviation" = "%dK";
+
+/* Edit Broadcast Screen | Edit Thumbnail Label | Label indicating start of the edit thumbnail section. */
+"Thumbnail" = "Thumbnail";
+
+/* Title of cell displayed to a user that indicates the total amount of time that their broadcast was viewed across all viewers */
+"Time Watched (CELL)" = "Time Watched";
+
+/* Text View | Accessibility label for the text view in which users enter a new broadcast's title. */
+"Title (accessibility label)" = "Title";
+
+/* Link to the help center article with details about when broadcast titles are editable or not. */
+"Title Editing Help Center Link" = "https://help.pscp.tv/customer/portal/articles/2952993";
+
+/* No comment provided by engineer. */
+"To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off." = "To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off.";
+
+/* Label | Alert Modal View | Instructs user to open 'Settings' and grant Periscope camera roll permissions in order to save their replay to camera roll. */
+"To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos." = "To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos.";
+
+/* Label after the seek icon to explain seeking direction while in scrubbing mode. */
+"to seek" = "to seek";
+
+/* No comment provided by engineer. */
+"To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account." = "To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account.";
+
+/* Label | Alert Modal View | Instructs the user to open 'Settings' in order to grant Periscope location permissions. */
+"To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option." = "To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option.";
+
+/* Label | Description label for a user who gave the most coins in a broadcast */
+"Top Contributor" = "Top Contributor";
+
+/* Tooltip explaining to people how much time was watched per minute of the total broadcast. */
+"Total watch time per minute tooltip" = "For every minute of this broadcast, viewers spent a combined total of %@ watching it.";
+
+/* Tooltip explaining to the broadcast how much time was watched per minute of the total broadcast, and why the stat is useful */
+"Total watch time per minute tooltip (broadcaster)" = "For every minute of this broadcast, viewers spent a combined total of %@ watching it. This statistic normalizes time watched across broadcasts of different durations.";
+
+/* No comment provided by engineer. */
+"Trying to reconnect" = "Trying to reconnect";
+
+/* Button | Pre-Broadcast | Indicates that the broadcast will NOT be posted to the user's Twitter account. */
+"Twitter Post OFF" = "Twitter Post OFF";
+
+/* Button | Pre-Broadcast | Indicates that the broadcast will be posted to the user's Twitter account. */
+"Twitter Post ON" = "Twitter Post ON";
+
+/* Watch Broadcast | Failed | Status Text | Text shown to inform the viewer that broadcast failed to load, likely due to no internet connection or unexpected server error. */
+"Unable to load broadcast." = "Unable to load broadcast.";
+
+/* Button | Action Sheet | Unblocks the selected user. */
+"Unblock User" = "Unblock User";
+
+/* Button | Action Sheet | Unfollows the selected user */
+"Unfollow User" = "Unfollow User";
+
+/* Button | Broadcast Menu | Menu item that unhides the currently open broadcast so it becomes visible to other users. */
+"Unhide Broadcast (menu button)" = "Unhide Broadcast";
+
+/* Button | Action Sheet | Un-mutes the guest (other users will be able to hear them). */
+"Unmute" = "Unmute";
+
+/* Button | Action Sheet | Unmutes the user, allowing them to comment again in this broadcast. */
+"Unmute User" = "Unmute User";
+
+/* Button | Action Sheet | Unmutes notifications from the selected user. */
+"Unmute User Notifications" = "Unmute User Notifications";
+
+/* No comment provided by engineer. */
+"Untitled" = "Untitled";
+
+/* No comment provided by engineer. */
+"User has not provided a profile description." = "User has not provided a profile description.";
+
+/* Text to describe a 1-star rating where 1 is very bad */
+"Very bad" = "Very bad";
+
+/* Text to describe a 5-star rating where 5 is very good */
+"Very good" = "Very good";
+
+/* A short phrase to represent Video Issues */
+"Video Issues" = "Video Issues";
+
+/* A short phrase to represent Video Quality */
+"Video Quality" = "Video Quality";
+
+/* No comment provided by engineer. */
+"Video will resume if signal improves" = "Video will resume if signal improves";
+
+/* Button | Broadcast Actions | Accessibility label for the button that shows broadcast menu with actions and details. */
+"View Broadcast Actions (accessibility label)" = "View Broadcast Actions";
+
+/* Button | Replay controls | Accessibility label for the button that shows participants of a broadcast */
+"View Participants (accessibility label)" = "View Participants";
+
+/* Button | Action Sheet | Launches a user profile from a chat comment cell. */
+"View Profile" = "View Profile";
+
+/* Button | Title | Text for button that presents stats about a broadcast. */
+"View Stats" = "View Stats";
+
+/* Label | Profile Settings | Text displayed beneath Accept Gift Hearts setting. | Text between •|• symbol will be highlighted blue for link. */
+"Viewers can give you Super Hearts.\n<link>Learn more.</link>" = "Viewers can give you Super Hearts.\n•|•Learn more.•|•";
+
+/* Label | Profile Settings | Text displayed beneath Accept Gift Hearts setting. | Text between •|• symbol will be highlighted blue for link. */
+"Viewers cannot give you Super Hearts.\n<link>Learn more.</link>" = "Viewers cannot give you Super Hearts.\n•|•Learn more.•|•";
+
+/* Button | Report Broadcast | Option if the user is reporting the broadcast because they believe the broadcast contains violence towards people. */
+"Violence (Report Option)" = "Violence";
+
+/* Label | Moderation | Informs the viewer that we're awaiting responses from other moderators. */
+"Waiting for other responses..." = "Waiting for other responses...";
+
+/* Error | Pre Broadcast | Indicates that the user cannot create a broadcast until they have logged in to Periscope. */
+"Waiting for you to <bold>login</bold>." = "Waiting for you to •|•login•|•.";
+
+/* Share Via | Suggested text used when sharing an entire live or replay broadcast. For example 'Watch(@ClareMean)'s broadcast: <broadcast title> http://...'. Or 'Watch (Clare Means)'s broadcast: <broadcast title> http://... */
+"Watch %1$@'s broadcast: %2$@" = "Watch %1$@'s broadcast: %2$@";
+
+/* Share Via | Suggested tweet text when sharing an untitled broadcast. | Default text shown when composing a tweet to share an entire live or replay broadcast. For example 'Watch(@ClareMean)'s broadcast. (http://...)'. Or 'Watch (Clare Means)'s broadcast. (http://...) */
+"Watch %@'s broadcast." = "Watch %@'s broadcast.";
+
+/* Button | Title | Text for button that switches from live highlight to the Live broadcast. */
+"Watch Live" = "Watch Live";
+
+/* Button | Title | Title of button shown on the User Profile modal to open the user's currently live broadcast. Delimited text will be emphasized/bold. */
+"Watch LIVE" = "Watch •|•LIVE•|•";
+
+/* Share Via Prefix | Text placed in front of the broadcast URL when sharing an untitled replay broadcact externally, such as via Twitter or Facebook. */
+"Watch on #Periscope" = "Watch on #Periscope";
+
+/* Share Via Prefix | Text placed in front of the broadcast URL when sharing a LIVE broadcact externally, such as via Twitter or Facebook. The '%@' is the broadcast title. e.g. 'Watch on #Periscope: <broadcast title>' */
+"Watch on #Periscope: %@" = "Watch on #Periscope: %@";
+
+/* Button | Title | Text for button that watches a replay of a broadcast. */
+"Watch Replay" = "Watch Replay";
+
+/* Title shown for the OSX Handoff icon */
+"Watch Stream (User Activity)" = "Watch Stream";
+
+/* Share Via | Suggested text used when sharing a specific point in an untitled broadcast. For example 'Watch what happened at (02:34) in (@ClareMean)'s broadcast. (http://...)'. Or 'Watch what happened at (02:34) in (Clare Means)'s broadcast: (http://...) */
+"Watch what happened at %1$@ in %2$@'s broadcast." = "Watch what happened at %1$@ in %2$@'s broadcast.";
+
+/* Share Via | Suggested text when sharing a specific point in a broadcast that has a title. For example 'Watch what happened at (02:34) in (@ClareMean)'s broadcast: <broadcast title>'. Or 'Watch what happened at (02:34) in (Clare Means)'s broadcast: <broadcast title> */
+"Watch what happened at %1$@ in %2$@'s broadcast: %3$@" = "Watch what happened at %1$@ in %2$@'s broadcast: %3$@";
+
+/* Error | Toast | Tells broadcaster there was a network error deleting their broadcast.
+Error | Toast | Tells the broadcaster there was a network error deleting their broadcast. */
+"We encountered an error deleting your broadcast. Please try again." = "We encountered an error deleting your broadcast. Please try again.";
+
+/* Error | Toast | Tells the user there was a network error saving their accept gifts setting. */
+"We encountered an error updating your gift settings. Please try again." = "We encountered an error updating your gift settings. Please try again.";
+
+/* Label | Report Broadcast | Subtitle of modal shown after user successfully reports the broadcast. */
+"We have received your report. Thank you for helping keep the community safe! (Report Broadcast Confirmation Modal)" = "We have received your report. Thank you for helping keep the community safe!";
+
+/* Error | Toast | Tells the broadcaster there was a network/server error starting their broadcast. */
+"We're sorry, there was an error starting your broadcast. Please try starting it again." = "We're sorry, there was an error starting your broadcast. Please try starting it again.";
+
+/* Label | Comment | the message 'Welcome @<username>' is posted in chat whenever a new user enters a broadcast who is also brand new to Periscope. | Delimiter = bold text style */
+"Welcome <bold>%@</bold>" = "Welcome •|•%@•|•";
+
+/* Success | Chat Prompt | Confirms to the logged-in user who joined a broadcast as a guest that we notified their followers. */
+"We’ve let your followers know that you joined as a guest (Chat Prompt)" = "We’ve let your followers know that you joined as a guest";
+
+/* Placeholder displayed on the Pre-Broadcast Screen (default value). */
+"What are you seeing now?" = "What are you seeing now?";
+
+/* Placeholder displayed on the Pre-Broadcast Screen (experimental value). */
+"What do you want to talk about?" = "What do you want to talk about?";
+
+/* Label | Post-broadcast | Survey question to ask the broadcaster to explain why the broadcasting experience was good */
+"What went well?" = "What went well?";
+
+/* Subtitle placeholder text after the list of following the user is loaded and is empty, indicating once 1 or more people follow the user, they will appear in the list */
+"When someone follows them, they'll be listed here." = "When someone follows them, they'll be listed here.";
+
+/* Subtitle placeholder text for a user viewing their own profile after their list of followers is loaded and is empty, indicating once 1 or more people follow the user, they will appear in the list */
+"When someone follows you, they'll be listed here." = "When someone follows you, they'll be listed here.";
+
+/* Subtitle placeholder text after the broadcast history list for the given user is loaded and is empty, indicating once the user creates one or more broadcasts, they will appear in the list */
+"When they do, it'll show up here." = "When they do, it'll show up here.";
+
+/* Subtitle placeholder text after the list of people the user follows is loaded and is empty, indicating once a user follows 1 or more accounts, they will appear in the list */
+"When they do, they'll be listed here." = "When they do, they'll be listed here.";
+
+/* Subtitle placeholder text for a user viewing their own profile after their list of broadcasts is loaded and is empty, indicating once they create a broadcast, it will appear in the list */
+"When you do, it'll show up here" = "When you do, it'll show up here";
+
+/* Subtitle placeholder text for a user viewing their own profile after the list of users they are following is loaded and is empty, indicating once a user follows 1 or more accounts, they will appear in the list */
+"When you do, they'll be listed here." = "When you do, they'll be listed here.";
+
+/* Button | Title | Title of button used to confirm that the user has the rights to broadcast copyrighted content. */
+"Yes (Copyright Violation)" = "Yes";
+
+/* Toast | Tells user there they already have a linked Twitter Account. */
+"You already have a linked Twitter account. Please use this in the future to broadcast from Twitter" = "You already have a linked Twitter account. Please use this in the future to broadcast from Twitter";
+
+/* First part of 'You are now live' when the broadcaster goes live */
+"You are now" = "You are now";
+
+/* Placeholder text for a user viewing their own profile after the list of users they are following is loaded and is empty */
+"You aren't following anyone yet" = "You aren't following anyone yet";
+
+/* Label | Following Table | Placeholder text afer the list of people you follow has loaded (and is empty). */
+"You aren't following anyone." = "You aren't following anyone.";
+
+/* Label | Report Guest | Subtitle shown in the modal when the user presses report guest because they find them offensive. */
+"You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests. (Offensive Report Modal)" = "You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests.";
+
+/* Label | Report Broadcast | Subtitle shown in the modal when the user presses report broadcast because they find it offensive. */
+"You can block a user whose broadcasts you no longer want to see. (Offensive Report Modal)" = "You can block a user whose broadcasts you no longer want to see.";
+
+/* You can give (BOLD)<# of hearts>(/BOLD) of these, shown at bottom of sheet where user can select different types of gift hearts */
+"You can give •|•%@•|• of these" = "You can give •|•%@•|• of these";
+
+/* Title | Title text shown prominently when a broadcaster attempts to broadcast after being banned for multiple copyright violations. */
+"You can't broadcast right now (Copyright Violation)" = "You can't broadcast right now";
+
+/* Error | Toast | Tells the broadcaster they can't leave their broadcast to watch another. */
+"You can't watch a broadcast while you're still broadcasting." = "You can't watch a broadcast while you're still broadcasting.";
+
+/* Description | Explanation shown when a viewer watches a broadcast flagged for copyright violation. The '%@' will be replaced with the name of the copyright holder. */
+"You can’t watch this because it included a copyrighted work by {Full Name}. Learn more (Copyright Violation)" = "You can’t watch this because it included a copyrighted work by %@. •|•Learn more•|•";
+
+/* Detail label in profile stars detail string. Super Hearts is a link that opens a help page. */
+"You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster." = "You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster.";
+
+/* Label | Moderation | Clarifies that the viewer didn't cast a vote and prompts them to click the link to learn more about moderation. | Delimiter: underlined styling */
+"You didn't vote... <link>Learn about Moderation</link>" = "You didn't vote... •|•Learn about Moderation•|•";
+
+/* Placeholder text for a user viewing their own profile after their list of followers is loaded and is empty */
+"You don't have any followers yet" = "You don't have any followers yet";
+
+/* Explanation shown in the gifting leaderboard that the current logged in user earns stars from super hearts */
+"You earn stars from Super Hearts" = "You earn stars from Super Hearts";
+
+/* Placeholder text for a user viewing their own profile after their list of broadcasts is loaded and is empty */
+"You haven't broadcasted yet" = "You haven't broadcasted yet";
+
+/* Label | New Guest Caller Chat Message Event | Shown locally to the user who just hung up. */
+"you hung up (Guest Caller Hung Up Chat Message Event)" = "you hung up";
+
+/* Label | Blocked Modal | Title of modal presented to a user who has just been kicked out of a broadcast by the broadcaster. | Delimiter = bold */
+"You were <bold>blocked</bold> by the broadcaster" = "You were •|•blocked•|• by the broadcaster";
+
+/* Label | New Guest Caller Chat Message Event | Shown locally to the user who was just added as a new Guest Broadcaster. */
+"you were added (New Guest Caller Chat Message Event)" = "you were added";
+
+/* Label | Guest Caller Was Removed Chat Message Event | Shown locally to the user who was just removed by the broadcaster. */
+"you were removed (Guest Caller Was Removed Chat Message Event)" = "you were removed";
+
+/* Label | Label warning users they are about to leave without saving changes. */
+"You will lose any unsaved changes. Are you sure you want to leave this view?" = "You will lose any unsaved changes. Are you sure you want to leave this view?";
+
+/* Subtitle for delete broadcast that accepted gifts */
+"You will lose the stars you received" = "You will lose the stars you received";
+
+/* Button | Guest Calling Menu | Button label that takes the viewer to the page where they can cancel their request to be a guest broadcaster. */
+"You're Waiting to Join (Guest Calling Menu)" = "You're Waiting to Join";
+
+/* Error | Toast | Message shown when a user is banned for a copyright takedown request. */
+"Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv" = "Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv";
+
+/* Error | Toast | Message shown when a user is banned. */
+"Your account has been disabled. Please contact help@pscp.tv" = "Your account has been disabled. Please contact help@pscp.tv";
+
+/* Title | Title text shown prominently to notify a broadcaster that their broadcast has been flagged for copyright violation. */
+"Your broadcast has been disabled (Copyright Violation)" = "Your broadcast has been disabled.";
+
+/* Title | Title text shown prominently to notify a broadcaster that their broadcast matches copyrighted content (but wasn't flagged). */
+"Your broadcast matches a copyrighted work (Copyright Violation)" = "Your broadcast matches a copyrighted work";
+
+/* Label | Broadcasting | Confirmation message when broadcast's preview image has been succesfully updated */
+"Your broadcast's thumbnail has been updated to the current screen." = "Your broadcast's thumbnail has been updated to the current screen.";
+
+/* Title | Title text shown after a broadcaster disputes a copyright claim. */
+"Your dispute claim was submitted (Copyright Violation)" = "Your dispute claim was submitted";
+
+/* Label | Post-broadcast | Help text that explains how the survey data will be used, including a tappable text component that will open the Settings in the app to allow the user disable future surveys */
+"Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•." = "Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•.";
+
+/* Message | Watching a Broadcast | Conveys that the user has been moderated, and the effect it will have on their ability to chat. */
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts.";
+
+/* Message | Watching a Broadcast | Conveys that the user has been moderated, and the effect it will have on their ability to chat. */
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast." = "Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast.";
+
+/* Message | Watching a Broadcast | Conveys that the user has been moderated, and the effect it will have on their ability to chat. */
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts.";
+
+/* Message | Watching a Broadcast | Conveys that the user has been moderated, and the effect it will have on their ability to chat. */
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast." = "Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast.";
+
+/* Message | Watching a Broadcast | Conveys that the user has been moderated, and the effect it will have on their ability to chat. */
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts." = "Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts.";
+
+/* Message | Watching a Broadcast | Conveys that the user has been moderated, and the effect it will have on their ability to chat. */
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast." = "Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast.";
+
+/* Message | Watching a Broadcast | Conveys that the user has been moderated, and the effect it will have on their ability to chat. */
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts.";
+
+/* Message | Watching a Broadcast | Conveys that the user has been moderated, and the effect it will have on their ability to chat. */
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast." = "Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast.";
+
+/* Message | Watching a Broadcast | Conveys that the user has been moderated, and the effect it will have on their ability to chat. */
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts." = "Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts.";
+
+/* Message | Watching a Broadcast | Conveys that the user has been moderated, and the effect it will have on their ability to chat. */
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast." = "Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast.";
+
+/* Message | Watching a Broadcast | Conveys that the user has been moderated, and the effect it will have on their ability to chat. */
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts." = "Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts.";
+
+/* Message | Watching a Broadcast | Conveys that the user has been moderated, and the effect it will have on their ability to chat. */
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast." = "Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast.";
+
+/* Title | Action Sheet | Title explaining that because of their settings, the broadcast is about to be deleted. */
+"Your settings are about to automatically delete this broadcast." = "Your settings are about to automatically delete this broadcast.";
+
+/* Title | Action Sheet | Tells the user the broadcast will automatically be deleted in a certain amount of time */
+"Your settings will automatically delete this broadcast in %@" = "Your settings will automatically delete this broadcast in %@";
+
+/* Description | Explanation shown after a broadcaster disputes a copyright claim. */
+"Your video will be available for replay after the event has ended. (Copyright Violation)" = "Your video will be available for replay after the event has ended.";
+
+/* Label | Ask for Guest Callers Chat Message Event | Shown when the broadcaster sends a new request to all viewers inviting them to call in. */
+"Your viewers have been invited to join (Local Chat Prompt)" = "Your viewers have been invited to join";
+
+/* Label title in stars profile view controller */
+"You’re enrolled in automatic monthly cash outs. (Stars Profile)" = "You’re enrolled in automatic monthly cash outs.";
+
+/* Chat Prompt | This message is displayed in the broadcaster's chat feed right after a guest has been hang-up or blocked. %@ is going to be replaced by the guest's username. The pair of \"•|•\" symbols around the \"@%@\" instructs the app to use a more bold font for the username. */
+"You’ve blocked @username. Tap to report and share more details. (Should Report Guest User Chat Prompt)" = "You’ve blocked •|•@%@•|•. Tap to report and share more details.";
+
+/* Description | Placeholder text for what will appear in a survey pill collection view cell. */
+"[placeholder]" = "[placeholder]";
+
+/* Prompt shown to viewers to inform them that the broadcast start time was     edited. '%1$@' is the name of the broadcaster, and %2$@ is the start time.     For example: Clare Means updated their broadcast to start at 03:20. */
+"•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•." = "•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•.";
+
+/* Broadcast Guests Social Proof | This text is displayed when a user have several of their followees in the broadcast as guests. %@ will be replaced by the users display names, separated by a comma. the part between •|• will be in bold. */
+"•|•%@•|• are guests (Broadcast Guests Social Proof)" = "•|•%@•|• are guests";
+
+/* Broadcast Guest Invitation Social Proof | This text is displayed when a user is invited to be a guest in a broadcast. %@ will be replaced by the user display name. the part between •|• will be in bold. */
+"•|•%@•|• invited you (Broadcast Guest Invitation Social Proof)" = "•|•%@•|• invited you";
+
+/* Broadcast Guest Social Proof | This text is displayed when a user have one of their followees in the broadcast as guest. %@ will be replaced by the user display name. the part between •|• will be in bold. */
+"•|•%@•|• is a guest (Broadcast Guest Social Proof)" = "•|•%@•|• is a guest";
+
+/* Broadcast Share Social Proof | This text is displayed when a user shared the broadcast to their followers. %@ will be replaced by the user's display name. the part between •|• will be in bold. */
+"•|•%@•|• shared (Broadcast Share Social Proof)" = "•|•%@•|• shared";
+
+/* Broadcast Guest Social Proof | This text is displayed when a user had one of their followees in the broadcast as guest (broadcast already ended). %@ will be replaced by the user display name. the part between •|• will be in bold. */
+"•|•%@•|• was a guest (Broadcast Guest Social Proof)" = "•|•%@•|• was a guest";
+
+/* Broadcast Guests Social Proof | This text is displayed when a user had several of their followees in the broadcast as guests (broadcast already ended). %@ will be replaced by the users display names, separated by a comma. the part between •|• will be in bold. */
+"•|•%@•|• were guests (Broadcast Guests Social Proof)" = "•|•%@•|• were guests";
+
+/* Label for Broadcasts Tab Button on the User Profile Modal. Lists the  broadcasts created by a given user. For example: 10\nBroadcasts, with the number and title separated on a new line (if the language allows) due to width constraint on the profile (there are three of these tabs aligned with one another) */
+"•|•%@•|•\nBroadcasts" = "•|•%@•|•\nBroadcasts";
+
+/* Label for Followers Tab Button on the User Profile Modal. Lists the users that follow the given user. For example: 100\nFollowers, with the number and title separated on a new line (if the language allows) due to width constraint on the profile (there are three of these tabs aligned with one another) */
+"•|•%@•|•\nFollowers" = "•|•%@•|•\nFollowers";
+
+/* Label for Following Tab Button on the User Profile Modal. Lists the users the given user is following. For example: 100\nFollowing, with the number and title separated on a new line (if the language allows) due to width constraint on the profile (there are three of these tabs aligned with one another) */
+"•|•%@•|•\nFollowing" = "•|•%@•|•\nFollowing";
+
+/* '@<username> was muted by <moderator name>' is posted in chat whenever a moderator mutes a user. Note the delimiters around the username and reporter display names to provide bolding for those parts of the string. %1$@ is the muted user's name, and %2$@ is the name of the moderator. */
+"•|•@%1$@•|• was muted by •|•%2$@•|•" = "•|•@%1$@•|• was muted by •|•%2$@•|•";
+
+/* '@<username> was unmuted by <moderator name>' is posted in chat whenever a moderator unmutes a user. Note the delimiters around the username and reporter display names to provide bolding for those parts of the string. %1$@ is the username and %2$@ is the reporter's name */
+"•|•@%1$@•|• was unmuted by •|•%2$@•|•" = "•|•@%1$@•|• was unmuted by •|•%2$@•|•";
+
+/* @<username> Retweeted on <twitter logo> is posted in chat whenever the mentioned user retweets the broadcast on Twitter. Note the delimiters around the username to provide bolding for that part of the dynamic string. */
+"•|•@%@•|• Retweeted on" = "•|•@%@•|• Retweeted on";
+
+/* @<username> shared on <twitter logo> is posted in chat whenever the mentioned user shared the broadcast on Twitter. Note the delimiters around the username to provide bolding for that part of the dynamic string. */
+"•|•@%@•|• shared on" = "•|•@%@•|• shared on";
+
+/* Text shown in broadcaster report to identify which moderator muted a comment */
+"•|•Muted•|• by %@" = "•|•Muted•|• by %@";
+
+/* Chat message shown when user tries to send a gift heart and doesn't have enough coins. */
+"•|•Not enough coins.•|• Get more coins to keep giving Super Hearts." = "•|•Not enough coins.•|• Get more coins to keep giving Super Hearts.";
+
+/* Prompt shown to user to tell them they can scrub through a replay */
+"•|•Press & Hold•|• the video to skip ahead" = "•|•Press & Hold•|• the video to skip ahead";
+
+/* Prompt shown to viewers to inform them that the broadcast start time was     edited. '%1$@' is the name of the broadcaster, and %2$@ is the start time.     For example: Clare Means updated their broadcast to start at 03:20. */
+"•|•Press & Hold•|• to skip back or ahead." = "•|•Press & Hold•|• to skip back or ahead.";
+
+/* Chat message shown when user first selects a gift heart during a broadcast. */
+"•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one." = "•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one.";
+
+/* Support <broadcaster display name> is bolded, shown at bottom of sheet where user can select different types of gift hearts */
+"•|•Support %@•|• by giving Super Hearts!" = "•|•Support %@•|• by giving Super Hearts!";
+
+/* Text shown in broadcaster report to identify which moderator muted a comment */
+"•|•Unmuted•|• by %@" = "•|•Unmuted•|• by %@";
+
+/* 'You need more coins' is bolded, shown at bottom of sheet where user can select different types of gift hearts */
+"•|•You need more coins•|• to give Super Hearts" = "•|•You need more coins•|• to give Super Hearts";
+
+/* Label | Moderation | Tells the user they've been punished because one of their comments was muted by a moderator, and their commenting privileges are now temporarily disabled. '%1$@' is the broadcaster's name, and %2$@ is the comment. */
+"•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast." = "•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast.";
+
+/* Label | Moderation | Tells the user they've been unmuted by a moderator, and their commenting privileges are now restored. */
+"•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast." = "•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast.";
+

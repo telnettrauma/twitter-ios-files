@@ -1,0 +1,1448 @@
+"%@ New Messages" = "%@ nye beskeder";
+
+"%@ Viewer (Broadcast Info)" = "%@ seer";
+
+"%@ Viewers (Broadcast Info)" = "%@ seere";
+
+"%@ ago" = "%@ siden";
+
+"%@ doesn't have any followers yet" = "%@ har ikke nogen følgere endnu";
+
+"%@ has not broadcasted yet" = "%@ har ikke udsendt noget endnu";
+
+"%@ is LIVE (broadcast title)" = "%@ er på DIREKTE";
+
+"%@ isn't following anyone yet" = "%@ følger ikke nogen endnu";
+
+"%@ joined" = "deltager nu";
+
+"%@ wants you to moderate comments. Tap on comments to mute them." = "%@ beder dig om at moderere kommentarer. Tryk på en kommentar for at skjule den.";
+
+"%@ wants you to moderate comments. Tap or swipe left on comments to mute them." = "%@ beder dig om at moderere kommentarer. Tryk eller stryg til venstre på en kommentar for at skjule den.";
+
+"%@ was live  (broadcast title)" = "%@ var på direkte";
+
+"%d More Live Viewers" = "andre direkte seere";
+
+"%d More Replay Viewers" = "andre replay-seere";
+
+"%d More Viewers" = "andre seere";
+
+"%ldd (days)" = "%ldd";
+
+"%ldh (hours)" = "%ldt";
+
+"%ldm (minutes)" = "%ldm";
+
+"%lds (seconds)" = "%lds";
+
+"%ldy (years)" = "%ldå";
+
+"(EDITED)" = "(REDIGERET)";
+
+"(Skip to) LIVE" = "DIREKTE";
+
+"1 More Live Viewer" = "anden direkte seer";
+
+"1 More Replay Viewier" = "anden replay-seer";
+
+"1 More Viewer" = "anden seer";
+
+"1 New Message" = "1 ny besked";
+
+"@username \"Tap to cancel\" (Add Guest Caller Chat Message Event)" = "Tryk for at annullere";
+
+"@username \"canceled\" (Add Guest Caller Chat Message Event)" = "har annulleret";
+
+"@username \"has asked to join\" (Add Guest Caller Chat Message Event)" = "har anmodet om at deltage";
+
+"@username \"hung up\" (Guest Caller Hung Up Chat Message Event)" = "•|•@%@•|• lagde på";
+
+"@username \"was added\" (Add Guest Caller Chat Message Event)" = "blev tilføjet";
+
+"@username \"was added\" (New Guest Caller Chat Message Event)" = "•|•@%@•|• blev tilføjet";
+
+"@username \"was removed\" (Add Guest Caller Chat Message Event)" = "blev fjernet";
+
+"@username \"was removed\" (Guest Caller Was Removed Chat Message Event)" = "•|•@%@•|• blev fjernet";
+
+"A Periscope account is required to edit a broadcast." = "Du skal have en Periscope-konto for at kunne redigere en udsendelse.";
+
+"A Periscope account is required to share a broadcast." = "En Periscope-konto er påkrævet for at kunne dele en udsendelse.";
+
+"A broadcast with a star balance was deleted. (History)" = "En udsendelse med en stjernesaldo blev slettet.";
+
+"ACTIVE CONTRIBUTORS" = "AKTIVE BIDRAGYDERE";
+
+"Abuse" = "Misbrug";
+
+"Abusive Behavior (Report Option)" = "Krænkende adfærd";
+
+"Accept Caller as Guest" = "Acceptér opkalder som gæst";
+
+"Accept Super Hearts (accessibility hint)" = "Dobbelttryk for at acceptere superhjerter for denne udsendelse.";
+
+"Accept Super Hearts (accessibility label)" = "Accepter superhjerter";
+
+"Accept as Guest" = "Acceptér som gæst";
+
+"Actions (accessibility label)" = "Handlinger";
+
+"Add Guest (Manage Guest Call-Ins Action Sheet)" = "Tilføj gæst";
+
+"Add guest \n viewer will become a guest broadcaster" = "Tilføj gæst•|•\nseeren bliver gæstevært•|•";
+
+"All-Time Stars (Stars Profile)" = "Alle tiders stjerner";
+
+"Allow Guests (Tooltip Selected)" = "Tillad gæster";
+
+"Allow guests / Don't allow guests (accessibility label)" = "Tillad gæster/tillad ikke gæster";
+
+"Anything else you'd like to share?" = "Er der andet, du vil fortælle os?";
+
+"Are you sure you want to send this message?" = "Er du sikker på, at du vil sende denne besked?";
+
+"Are you sure you want to unblock?" = "Er du sikker på, du vil fjerne blokeringen?";
+
+"Are you sure? (title)" = "Er du sikker?";
+
+"Ask for Follow (action sheet)" = "Spørg om at følge";
+
+"Ask for Share (action sheet)" = "Spørg om at dele";
+
+"Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Anmod om at deltage i udsendelsen som gæst. Alle vil kunne høre dig, og du kan lægge på når som helst.";
+
+"Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Anmod om at deltage i udsendelsen som gæst. Alle vil kunne se og høre dig, og du kan lægge på når som helst.";
+
+"Asking to join... Broadcaster must accept you (Local Chat Prompt)" = "Anmoder om at deltage ...\n•|•%@•|• skal acceptere dig";
+
+"Audio Only (accessibility label)" = "Udsendelse kun med lyd";
+
+"Audio from: Headphones" = "Lydkilde: Hovedtelefoner";
+
+"Audio from: Phone" = "Lydkilde: Telefon";
+
+"Back" = "Tilbage";
+
+"Back (action sheet)" = "Tilbage";
+
+"Back Camera (accessibility hint)" = "Dobbelttryk for at skifte til forsidekamera";
+
+"Back Camera (accessiblity value)" = "Bagsidekamera";
+
+"Back to %@" = "Tilbage til %@";
+
+"Back to Hearts" = "Tilbage til hjerter";
+
+"Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. Learn more (Copyright violation)" = "Din mulighed for at sende er midlertidigt blevet deaktiveret, fordi flere af dine seneste udsendelser har indeholdt ophavsretligt beskyttede værker. •|•Lær mere•|•";
+
+"Betascope App Feedback" = "Feedback om Betascope-app";
+
+"Billion Decimal Abbreviation" = "%.1f mia";
+
+"Billion Integer Abbreviation" = "%d mia";
+
+"Block @%@" = "Bloker @%@";
+
+"Block @%@ (Offensive Report Modal)" = "Bloker @%@";
+
+"Block And Hang Up (Manage Guest Call-Ins Action Sheet)" = "Bloker og læg på";
+
+"Block User" = "Bloker bruger";
+
+"Block Users (%@)" = "Bloker brugere (%@)";
+
+"Block {Username}" = "Bloker @%@";
+
+"Blocked (user modal)" = "Blokeret";
+
+"Blocked by you" = "Blokeret af dig";
+
+"Blocking will dismiss the broadcast and not report to Periscope. (Offensive Report Modal)" = "Hvis du blokerer, afvises udsendelsen, men den indberettes ikke til Periscope.";
+
+"Broadcast Actions (accessibility hint)" = "Åbner en menu med udsendelseshandlinger.";
+
+"Broadcast Details (action sheet)" = "Oplysninger om udsendelse";
+
+"Broadcast Super Heart Auto-Deletion Warning" = "•|•Denne udsendelse slettes ikke automatisk efter 24 timer•|• for at forhindre tab af stjerner fra de superhjerter, du måtte modtage.\n\nDu kan om nødvendigt skjule udsendelsen, når den er slut, så den ikke er synlig for andre.";
+
+"Broadcast Title" = "Udsendelsens titel";
+
+"Broadcast about to expire (Cell)" = "Udsendelse er ved at udløbe";
+
+"Broadcast creation" = "Oprettelse af udsendelse";
+
+"Broadcaster Has Disabled Call-Ins (Generic Error Message)" = "Værten har i øjeblikket deaktiveret opringningslisten.";
+
+"Broadcaster blocked •|•@%@•|•" = "Vært blokerede •|•@%@•|•";
+
+"Broadcaster doesn’t accept Super Hearts" = "Værten accepterer ikke superhjerter";
+
+"Broadcaster has assigned chat moderators." = "Værten har tilføjet chatmoderatorer.";
+
+"Broadcaster has to accept your request before you can join as a guest. (Guest Call-In Instructions Subtitle)" = "%@ skal acceptere din anmodning, før du kan deltage som gæst.";
+
+"Broadcaster is allowing guests to join (Local Chat Prompt)" = "•|•%@•|• tillader deltagelse af gæster";
+
+"Broadcaster is not allowing guests to join (Local Chat Prompt)" = "•|•%@•|• tillader ikke deltagelse af gæster";
+
+"Broadcasters earn stars from Super Hearts" = "Broadcastere optjener stjerner fra superhjerter";
+
+"Bummer (ReplayKit)" = "Surt";
+
+"CONCATENTATION_ACCESSIBILITY_STRING" = ".";
+
+"CONTRIBUTORS WHO HAVE LEFT" = "BIDRAGYDERE, DER HAR FORLADT UDSENDELSEN";
+
+"COULDN'T LOAD REPLAY VIEWERS" = "KUNNE IKKE INDLÆSE REPLAY-SEERE";
+
+"COULDN'T LOAD VIEWERS" = "KUNNE IKKE INDLÆSE SEERE";
+
+"Camera Selection (accessibility label)" = "Kameravalg";
+
+"Cancel" = "Annuller";
+
+"Cancel (action sheet)" = "Annuller";
+
+"Cancel Call In Button: \"Cancel Request to Join as a Guest\"" = "Annuller anmodningen om at deltage som gæst";
+
+"Cancel Guest Call-In Instructions Title: \"Waiting to join as a guest...\"" = "Venter på at deltage som gæst ...";
+
+"Cannot be undone" = "Kan ikke fortrydes";
+
+"Capture Thumbnail (action sheet)" = "Indstil som miniature";
+
+"Cash Outs (Stars Profile)" = "Udbetalinger";
+
+"Cash out your stars, and continue using live video on Twitter" = "Få dine stjerner udbetalt, og fortsæt med at bruge direkte video på Twitter";
+
+"Change Amplify Program" = "Skift Amplify-program";
+
+"Change Expiration (Cell)" = "Skift udløbstid";
+
+"Change Expiration Subtitle (Cell)" = "Slettes automatisk om %@";
+
+"Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program." = "Ændring af Amplify-programmet til •|•%@•|• vil slette dit gamle Tweet og publicere et nyt om det nye program.";
+
+"Chatroom too full..." = "Chatrum er overfyldt...";
+
+"Child Safety (Report Option)" = "Børnesikkerhed";
+
+"Choose guests to add. You can remove them at any time. (Manage Guest Callers Page Subtitle)" = "Vælg de gæster, du vil tilføje. Du kan fjerne dem når som helst.";
+
+"Close (accessibility label)" = "Luk";
+
+"Comment Tip Option 1" = "Skriv en kommentar, så •|•%@•|• ved, du er her.";
+
+"Comment Tip Option 2" = "Fortæl •|•%@•|•, hvor du kigger med fra.";
+
+"Comment Tip Option 3" = "Sig hej for at chatte med •|•%@•|• og andre seere.";
+
+"Commenting is OFF" = "Kommentering er slået FRA";
+
+"Comments Received (CELL)" = "Kommentarer modtaget";
+
+"Comments Received Unavailable (CELL)" = "Mangler";
+
+"Compose Direct Message (Accessibility Label)" = "Skriv en direkte besked";
+
+"Compose New Tweet (Accessibility Label)" = "Skriv et nyt Tweet";
+
+"Confirm Call In Button: \"OK, Ask to Join\"" = "OK, anmod om at deltage";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile and audio will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and hear you. This may include people you’ve blocked on either app.\"" = "•\tDin profil og lyd bliver en del af udsendelsen og kan ikke fjernes, medmindre %1$@ sletter genafspilningen.\n\n•\tAlle, der ser med på Periscope eller Twitter, kan se, at du deltager i udsendelsen fra %1$@, og høre dig. Dette kan omfatte personer, du har blokeret i en af eller begge apps.";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile, audio and video will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and see you. This may include people you’ve blocked on either app.\"" = "•\tDin profil, lyd og video bliver en del af udsendelsen og kan ikke fjernes, medmindre %1$@ sletter genafspilningen.\n\n•\tAlle, der ser med på Periscope eller Twitter, kan se, at du deltager i udsendelsen fra %1$@, og både se og høre dig. Dette kan omfatte personer, du har blokeret i en af eller begge apps.";
+
+"Confirm Guest Call-In Instructions Title: \"Good to know...\"" = "Godt at vide ...";
+
+"Connecting to chatroom" = "Forbinder til chatrum";
+
+"Connection Error" = "Forbindelsesfejl";
+
+"Connection too" = "Forbindelse for";
+
+"Contact Us (action sheet)" = "Kontakt os";
+
+"Contributors" = "Bidragydere";
+
+"Copy Profile URL" = "Kopier profilens URL-adresse";
+
+"Current Star Balance (Stars Profile)" = "Aktuel stjernesaldo";
+
+"Current Time (Accessibility Label)" = "Aktuelt tidspunkt";
+
+"Dear Periscope Team," = "Kære Periscope-team,";
+
+"Delete Broadcast" = "Slet udsendelse";
+
+"Delete Broadcast (action sheet)" = "Slet udsendelse";
+
+"Delete Broadcast Now" = "Slet udsendelse nu";
+
+"Describe the issue (Report Option)" = "Beskriv problemet";
+
+"Describe the issue with %@ (Report Option)" = "Beskriv problemet med @%@";
+
+"Describe the issue with @%1$@ at %2$@ (Report Option)" = "Beskriv problemet med @%1$@ ved tidspunktet %2$@";
+
+"Describe the issue you are seeing at %@ (Report Option)" = "Beskriv det problem, du ser ved tidspunktet %@";
+
+"Direct Message (Compose)" = "Direkte besked";
+
+"Disable Audio Only Broadcast" = "Deaktiver udsendelse kun med lyd";
+
+"Disabled for all broadcasts" = "Slået fra for alle udsendelser";
+
+"Disabled for this broadcast" = "Slået fra for denne udsendelse";
+
+"Discard Changes" = "Slet ændringer";
+
+"Display Photo (action sheet)" = "Vis billede";
+
+"Dispute Claim (Copyright Violation)" = "Afvis anmeldelsen";
+
+"Do not notify my followers (Guest Call-In Notify Followers Option)" = "Giv ikke mine følgere besked";
+
+"Don't Allow Guests (Manage Guest Broadcasters Call-Ins List)" = "Tillad ikke gæster";
+
+"Don't Allow Guests (Tooltip)" = "Tillad ikke gæster";
+
+"Don't Auto-Delete" = "Slet ikke automatisk";
+
+"Don't Send (Blocked Modal)" = "Send ikke";
+
+"Done" = "Færdig";
+
+"Done (action sheet)" = "Færdig";
+
+"Double Tap anywhere to Exit Theater Mode (accessibility label)" = "Dobbelttryk et tilfældigt sted for at afslutte biograftilstand";
+
+"Double Tap to <bold>Flip Camera</bold>" = "Dobbelttryk for at •|•vende kamera•|•";
+
+"Double tap to allow or disallow guests (accessibility hint)" = "Dobbelttryk for at tillade/ikke tillade gæster";
+
+"Duration (CELL)" = "Varighed";
+
+"END (graph)" = "AFSLUT";
+
+"ENDED" = "AFSLUTTET";
+
+"Edit Broadcast" = "Rediger udsendelsen";
+
+"Edit Broadcast (action sheet)" = "Rediger udsendelsen";
+
+"Edit Broadcast Unavailable" = "Udsendelsen kan ikke redigeres";
+
+"Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured." = "Hvis du redigerer din udsendelse, vil den se anderledes ud for dem, der ser den. Disse ændringer påvirker ikke allerede sendte Tweets eller meddelelser.";
+
+"Enable Audio Only Broadcast" = "Aktivér udsendelse kun med lyd";
+
+"Enable Email" = "Slå e-mail til";
+
+"Enable camera (Permissions Screen)" = "Aktivér kameraet";
+
+"Enable microphone (Permissions Screen)" = "Aktivér mikrofonen";
+
+"Enable/Disable Audio Only Broadcast (accessibility hint)" = "Dobbelttryk for at aktivere eller deaktivere udsendelse kun med lyd.";
+
+"Enable/Disable Audio Only Broadcast (accessibility label)" = "Aktivér/deaktiver udsendelse kun med lyd";
+
+"Ended" = "Afsluttet";
+
+"Engaging Chat" = "Engagerende chat";
+
+"Error (ReplayKit)" = "Fejl";
+
+"Error accessing audio from microphone." = "Fejl ved tilgang til lyd fra mikrofon.";
+
+"Error accessing history." = "Fejl ved åbning af historik.";
+
+"Error saving video to Camera Roll" = "Kunne ikke arkivere video i kamerarulle.";
+
+"Error setting Amplify Program (title)" = "Fejl under indstilling af Amplify-program";
+
+"Every heart you send will be a Super Heart" = "Hvert hjerte, du sender, vil være et superhjerte";
+
+"Everybody can chat" = "Alle kan chatte";
+
+"FEATURED" = "UDVALGT";
+
+"FOLLOWERS (user profile modal)" = "FØLGERE";
+
+"FOLLOWING (user profile modal)" = "FØLGER";
+
+"Final List separator" = "og";
+
+"Fine Control" = "Finstyring";
+
+"First Super Heart" = "Første superhjerte";
+
+"Flip Camera (action sheet)" = "Vend kamera";
+
+"Follow (user modal)" = "Følg";
+
+"Follow request sent. (chat message)" = "Følgeanmodning sendt.";
+
+"Follow the broadcaster to catch their next broadcast." = "Følg værten for at fange deres næste udsendelse.";
+
+"Follow •|•%@•|• to catch their next broadcast" = "Følg •|•%@•|• for at fange deres næste udsendelse";
+
+"Followed by %1$@ and %2$@" = "Følges af %1$@ og %2$@";
+
+"Followed by %1$@, %2$@, %3$@ and %4$i others" = "Følges af %1$@, %2$@, %3$@ og %4$i andre";
+
+"Followed by %1$@, %2$@, and %3$@" = "Følges af %1$@, %2$@ og %3$@";
+
+"Followed by %@" = "Følges af %@";
+
+"Followers button (accessibility hint)" = "Dobbelttryk for at vise følgere.";
+
+"Following (user modal)" = "Følger";
+
+"Following button (accessibility hint)" = "Dobbelttryk for at vise fulgte brugere.";
+
+"Front Camera (accessibility hint)" = "Dobbelttryk for at skifte til bagsidekamera";
+
+"Front Camera (accessiblity value)" = "Forsidekamera";
+
+"Get Coins" = "Køb mønter";
+
+"Give Super Hearts (menu button)" = "Giv superhjerter";
+
+"Go LIVE" = "Gå på DIREKTE";
+
+"Go LIVE to %@" = "Gå på DIREKTE for %@";
+
+"Go LIVE together (Guest Broadcasting Modal Title)" = "Gå på direkte – sammen";
+
+"Go to Twitter Profile" = "Gå til Twitter-profil";
+
+"Good Viewer Count" = "Godt antal seere";
+
+"Got It (Button Title)" = "Forstået";
+
+"Got it (Copyright Violation)" = "Forstået";
+
+"Got it (ReplayKit)" = "OK";
+
+"Got it!" = "Modtaget!";
+
+"Guest Action Sheet Report Item" = "Indberet";
+
+"Guest Call In Choice Label: \"Camera and microphone\"" = "Kamera og mikrofon";
+
+"Guest Call In Choice Label: \"Microphone only\"" = "Kun mikrofon";
+
+"Guest Call-In Audio Only Permissions Subtitle beneath Title: \"Enable microphone to become a guest\"" = "Aktivér mikrofonen for at deltage som gæst";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request. Learn more\"" = "Du tilføjes som deltager, når værten accepterer din anmodning. •|•Lær mere•|•";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request.\"" = "Du tilføjes som deltager, når værten accepterer din anmodning.";
+
+"Guest Call-In Instructions Title: \"Ask to Join\"" = "Anmod om at deltage";
+
+"Guest Call-In Instructions Title: \"Join as a guest\"" = "Deltag som gæst";
+
+"Guest Call-In Permissions Subtitle beneath Title: \"Enable camera and microphone to become a guest\"" = "Aktivér kamera og mikrofon for at deltage som gæst";
+
+"Guest Call-In Permissions Title: \"Guest setup\"" = "Gæsteopsætning";
+
+"Guest List (Manage Guest Callers Page Title)" = "Gæsteliste";
+
+"Guest Was Banned Chat Message (Periscope)" = "•|•@%@•|• blev indberettet, gennemgået af Periscope og fundet at have overtrådt retningslinjerne for fællesskabet.";
+
+"Guest Was Banned Chat Message (Twitter)" = "•|•@%@•|• blev indberettet, gennemgået af Twitter og fundet at have overtrådt Twitter-reglerne.";
+
+"Guests Not Allowed (Manage Guest Broadcasters Call-Ins List)" = "Gæster er ikke tilladt";
+
+"Guests can now ask to join. Use this icon to add or remove guests at any time. (Guest Broadcasting Enabled Prompt)" = "Gæster kan nu bede om lov til at deltage. Brug dette ikon til at tilføje eller fjerne gæster efter behov.";
+
+"HEART" = "HJERTE";
+
+"HEARTS" = "HJERTER";
+
+"Half-Speed" = "Halv hastighed";
+
+"Hang Up (Guest Calling Menu)" = "Læg på";
+
+"Hang Up (Manage Guest Call-Ins Action Sheet)" = "Læg på";
+
+"Hang Up Button Label: \"Hang Up\"" = "Læg på";
+
+"Hang Up Subtitle (Audio Only): \"Stop sharing microphone\"" = "Stop deling af mikrofon";
+
+"Hang Up Subtitle (Camera + Microphone): \"Stop sharing camera and microphone\"" = "Stop deling af kamera og mikrofon";
+
+"Hang Up on Guest or Cancel Guest From Joining" = "Afbryd gæsten, eller annuller gæstens deltagelse";
+
+"Hang up" = "Læg på";
+
+"Harassment" = "Chikane";
+
+"Hateful Conduct (Report Option)" = "Hadefuld adfærd";
+
+"Heart Sent (accessiblity announcement)" = "Hjerte sendt";
+
+"Hearts & Chats off" = "Hjerter og chats fra";
+
+"Hearts & Chats on" = "Hjerter og chats til";
+
+"Help us moderate this comment..." = "Hjælp os med at moderere denne kommentar...";
+
+"Help us understand the problem.\nWhat issue with @%@ are you reporting?" = "Hjælp os med at forstå problemet.\nHvilket problem med @%@ indberetter du?";
+
+"Hide Broadcast" = "Skjul udsendelse";
+
+"Hide everything except video (action sheet)" = "Skjul alt undtagen video";
+
+"History (profile view title)" = "Historik";
+
+"History button (accessibility hint)" = "Dobbelttryk for at vise seneste udsendelser.";
+
+"How can we improve?" = "Hvad kan vi gøre bedre?";
+
+"How was your broadcasting experience?" = "Hvordan var udsendelseskvaliteten?";
+
+"I'm Not Interested in @%@" = "Jeg er ikke interesseret i @%@";
+
+"If this broadcast depicts pornography or sexual acts, please tap below. (Report Sexual Content Modal)" = "Tryk nedenfor, hvis udsendelsen indeholder pornografi eller seksuel aktivitet.";
+
+"If you believe that this broadcast places a child at risk, please tap below. (Report Child Safety Modal)" = "Hvis du mener, at denne udsendelse udgør en risiko for børn, skal du trykke nedenfor.";
+
+"If you believe this broadcast contains violence or someone is being physically threatened, please tap below. (Report Violence Modal)" = "Hvis du mener, at denne udsendelse indeholder vold eller fysiske trusler mod nogen, skal du trykke nedenfor.";
+
+"If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Hvis du mener, at en beskyttet kategori (f.eks. race, religion, køn, orientering, handicap) lægges for had i denne udsendelse, skal du trykke nedenfor.";
+
+"If you believe this broadcast exposes private information, please tap below. (Report Private Information Modal)" = "Hvis du mener, at der afsløres private oplysninger i denne udsendelse, skal du trykke nedenfor.";
+
+"If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below. (Report Harassment Modal)" = "Hvis du mener, at nogen bliver chikaneret, intimideret eller truet til tavshed i denne udsendelse, skal du trykke nedenfor.";
+
+"If you believe this guest is contemplating or encouraging suicide or self harm, please tap below. (Report Self Harm Modal)" = "Hvis du mener, at denne gæst overvejer at begå eller tilskynder til selvmord eller selvskade, skal du trykke nedenfor.";
+
+"If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Hvis du mener, at denne gæst lægger en beskyttet kategori (f.eks. race, religion, køn, orientering, handicap) for had, skal du trykke nedenfor.";
+
+"If you believe this guest is exposing private information, please tap below. (Report Private Information Modal)" = "Hvis du mener, at denne gæst afslører private oplysninger, skal du trykke nedenfor.";
+
+"If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below. (Report Harassment Modal)" = "Hvis du mener, at denne gæst chikanerer, intimiderer eller truer nogen til tavshed, skal du trykke nedenfor.";
+
+"If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below. (Report Violence Modal)" = "Hvis du mener, at denne gæst fremsætter specifikke trusler om vold mod nogens fysiske sikkerhed eller velfærd, skal du trykke nedenfor.";
+
+"If you believe this guest is sharing content that places a child at risk, please tap below. (Report Child Safety Modal)" = "Hvis du mener, at denne gæst deler indhold, der udgør en risiko for børn, skal du trykke nedenfor.";
+
+"If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below. (Report Sexual Content Modal)" = "Hvis du mener, at denne gæst deler upassende seksuelt indhold såsom pornografi, skal du trykke nedenfor.";
+
+"If you believe this individual is contemplating suicide or self harm, please tap below. (Report Self Harm Modal)" = "Hvis du mener, at denne person overvejer at begå selvmord eller selvskade, skal du trykke nedenfor.";
+
+"If you delete this broadcast, you will lose the stars that you received. This cannot be undone." = "Hvis du sletter denne udsendelse, mister du de stjerner, du har fået. Denne handling kan ikke fortrydes.";
+
+"Initializing video stream..." = "Initialiserer video-stream...";
+
+"Invite Guests (Manage Guest Broadcasters Call-Ins List)" = "Inviter gæster";
+
+"Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Inviter seere ind i dine udsendelser som gæster. Alle kan høre dem, og du kan tilføje eller fjerne dem når som helst.";
+
+"Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Inviter seere ind i dine udsendelser som gæster. Alle vil kunne se og høre dem, og du kan tilføje eller fjerne dem når som helst.";
+
+"Join as a Guest (Guest Calling Menu)" = "Deltag som gæst";
+
+"Joined %@" = "Medlem siden %@";
+
+"Joining as a guest... (Guest Call-In Countdown Screen Title)" = "Hentes ind som gæst ...";
+
+"Keep broadcasting to collect more stars!" = "Bliv ved med at lave udsendelser for at samle flere stjerner!";
+
+"Keep stars received" = "Behold modtagne stjerner";
+
+"LIVE" = "LIVE";
+
+"LIVE VIEWER" = "DIREKTE SEER";
+
+"LIVE VIEWERS" = "DIREKTE SEERE";
+
+"LIVE Video (Broadcast Audience)" = "Direkte video";
+
+"LIVE on #Periscope" = "DIREKTE på #Periscope";
+
+"LIVE on #Periscope: %@" = "DIREKTE på #Periscope: %@";
+
+"LOADING" = "INDLÆSER";
+
+"LOST CONNECTION" = "MISTET FORBINDELSE";
+
+"Later (alert view)" = "Senere";
+
+"Learn More" = "Lær mere";
+
+"Learn More (Stars Profile)" = "Lær mere";
+
+"Leave Broadcast" = "Forlad udsendelse";
+
+"Limited by Broadcaster" = "Begrænset af programvært";
+
+"Limited for %@" = "Begrænset til %@";
+
+"List separator" = ",";
+
+"Live Time Watched (CELL)" = "Direkte tid set";
+
+"Live watch time per minute tooltip" = "For hvert minut denne udsendelse var direkte, brugte seere sammenlagt %@ på at se den.";
+
+"Loading History." = "Indlæser historik.";
+
+"Loading followers" = "Indlæser følgere";
+
+"Loading following" = "Indlæser følger";
+
+"Loading history" = "Indlæser historik";
+
+"Loading your followers" = "Indlæser dine følgere";
+
+"Loading your following" = "Indlæser dem du følger";
+
+"Location Permissions Required" = "Lokalitetstilladelser påkrævet";
+
+"Location Unknown" = "Lokalitet er ukendt";
+
+"Logged Out" = "Logget af";
+
+"Login Error (ReplayKit)" = "Log ind påkrævet";
+
+"Login Error Instructions (ReplayKit)" = "Log ind på Periscope-appen, inden du starter din udsendelse.";
+
+"Looks OK" = "Ser OK ud";
+
+"Looks like the connection was lost. Reconnecting... (Toast)" = "Det ser ud til, at forbindelsen blev afbrudt. Opretter forbindelse igen...";
+
+"Lose stars received" = "Mist modtagne stjerner";
+
+"Low Viewer Count" = "Lavt antal seere";
+
+"Low disk space. A portion of this broadcast will not be available for replay later." = "Lav diskplads. En del af denne udsendelse vil ikke være tilgængelig til replay senere.";
+
+"Majority voted <destructive emphasis> Abuse </destructive emphasis>\nThe commenter's chat has been limited." = "Flertallet har stemt  •|• Misbrug •|•\nForfatterens chat er blevet begrænset.";
+
+"Majority voted <destructive emphasis> Looks OK  </destructive emphasis>" = "Flertallet har stemt •|• Ser OK ud •|•";
+
+"Majority voted <destructive emphasis> Not Sure </destructive emphasis>" = "Flertallet har stemt •|• Ikke sikker •|•";
+
+"Majority voted <destructive emphasis> Spam </destructive emphasis>\nThe commenter's chat has been limited." = "Flertallet har stemt  •|• Spam •|•\nForfatterens chat er blevet begrænset.";
+
+"Makes broadcast visible to everyone" = "Gør, at alle kan se udsendelsen";
+
+"Makes broadcast visible to invited viewers" = "Gør, at udsendelsen kan ses af inviterede seere";
+
+"Manage details about your Broadcast (menu subtitle)" = "Administrer oplysninger om udsendelsen";
+
+"Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen." = "Beskeder som denne bliver ofte blokeret. Hvis du bliver blokeret for mange gange, vil dine kommentarer ikke længere blive set.";
+
+"Million Decimal Abbreviation" = "%.1f mio";
+
+"Million Integer Abbreviation" = "%d mio";
+
+"Moderation Modal Button Label" = "OK, jeg forstår";
+
+"Moderation Modal Example Label" = "EKSEMPEL";
+
+"Moderation Modal Example Message" = "Tvivlsom besked...";
+
+"Moderation Modal Settings Label" = "Du kan slå dette fra i indstillinger.";
+
+"Moderation Modal Subtitle" = "Vi vil lejlighedsvis bede dig om at moderere en kommentar ved at vurdere, om der er tale om •|•MISBRUG•|• eller •|•SPAM•|•. Moderation sker anonymt.";
+
+"Moderation Modal Title" = "Moderering";
+
+"Moderator Actions" = "Moderatorhandlinger";
+
+"Moderator Actions (%@)" = "Moderatorhandlinger (%@)";
+
+"Moderator •|•%@•|• joined" = "Moderatoren •|•%@•|• deltager";
+
+"ModeratorName muted this message (Message Carousel)" = "•|•%@•|• skjulte denne besked";
+
+"Monetize Broadcast" = "Tjen penge på udsendelsen";
+
+"Monetize Broadcast (expanded cell title)" = "Tjen penge på udsendelse";
+
+"Monetize Broadcast (minimized cell title)" = "Tjen penge på udsendelse ▾";
+
+"More (following/followers)" = "Andre";
+
+"Mute" = "Skjul";
+
+"Mute (accessibility label)" = "Skjul";
+
+"Mute User" = "Skjul bruger";
+
+"Mute User Notifications" = "Skjul brugermeddelelser";
+
+"Muted by Moderator" = "Skjult af moderator";
+
+"NEW" = "NYT";
+
+"NO LIVE VIEWERS" = "INGEN DIREKTE SEERE";
+
+"NO REPLAY VIEWERS" = "INGEN REPLAY-SEERE";
+
+"New Broadcaster Education: 3 Guest Limit" = "Du kan have op til 3 gæster samtidigt.";
+
+"New Tweet (Compose)" = "Nyt Tweet";
+
+"No history." = "Ingen historik.";
+
+"No one has asked to join yet. Tap to invite your viewers to join. (Empty Manage Guest Broadcasters Call-Ins List)" = "Ingen har anmodet om at deltage endnu.\n\nTryk for at invitere dine seere ind i udsendelsen.";
+
+"No one is following you." = "Ingen følger dig.";
+
+"No, stop broadcasting (Copyright Violation)" = "Nej, stop udsendelsen";
+
+"Not Sure" = "Ikke sikker";
+
+"Not followed by anyone you're following" = "Følges ikke af nogen, som du følger";
+
+"Notifications (accessiblity label)" = "Meddelelser";
+
+"Notifications OFF" = "Meddelelser er slået FRA";
+
+"Notifications ON" = "Meddelelser er slået TIL";
+
+"Notifications Off (accessibility hint)" = "Dobbelttryk for at slå meddelelser til for denne bruger.";
+
+"Notifications Off (accessibility value)" = "Fra";
+
+"Notifications On (accessibility hint)" = "Dobbelttryk for at slå meddelelser fra for denne bruger.";
+
+"Notifications On (accessibility value)" = "Til";
+
+"Notify my followers (Guest Call-In Notify Followers Option)" = "Giv mine følgere besked";
+
+"OK, Got It" = "Ok, forstået";
+
+"Offensive Guest (Report Option)" = "Stødende gæst";
+
+"Okay (Report Broadcast Modal)" = "OK";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts." = "En eller flere af dine kommentarer blev skjult pga. MISBRUG. Kommentering er slået fra for alle udsendelser.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast." = "En eller flere af dine kommentarer blev skjult pga. MISBRUG. Kommentering er slået fra for denne udsendelse.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "En eller flere af dine kommentarer blev skjult pga. MISBRUG. Kommentering er midlertidigt begrænset for alle udsendelser.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited." = "En eller flere af dine kommentarer blev skjult pga. MISBRUG. Kommentering er midlertidigt begrænset.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts." = "En eller flere af dine kommentarer blev skjult pga. SPAM. Kommentering er begrænset for alle udsendelser.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast." = "En eller flere af dine kommentarer blev skjult pga. SPAM. Kommentering er begrænset for denne udsendelse.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "En eller flere af dine kommentarer blev skjult pga. SPAM. Kommentering er midlertidigt begrænset for alle udsendelser.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited." = "En eller flere af dine kommentarer blev skjult pga. SPAM. Kommentering er midlertidigt begrænset.";
+
+"One or more of your comments was hidden. Commenting is disabled for all broadcasts." = "En eller flere af dine kommentarer blev skjult. Kommentering er begrænset for alle udsendelser.";
+
+"One or more of your comments was hidden. Commenting is disabled for this broadcast." = "En eller flere af dine kommentarer blev skjult. Kommentering er begrænset for denne udsendelse.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts." = "En eller flere af dine kommentarer blev skjult. Kommentering er midlertidigt begrænset for alle udsendelser.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited." = "En eller flere af dine kommentarer blev skjult. Kommentering er midlertidigt begrænset.";
+
+"One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast." = "En eller flere af dine kommentarer er blevet skjult af en moderator. Du kan ikke længere kommentere denne udsendelse.";
+
+"Only available in Periscope" = "Kun tilgængelig i Periscope";
+
+"Only public broadcasts counted" = "Tallet omfatter kun offentlige udsendelser";
+
+"Only users you follow can chat" = "Kun brugere du følger kan chatte";
+
+"Only you can see your hidden broadcasts (menu subtitle)" = "Det er kun dig, der kan se dine skjulte udsendelser";
+
+"Other Reason (Report Option)" = "Anden årsag";
+
+"Other Reason \n e.g. Foreign Language" = "Anden begrundelse•|•\nfx fremmedsprog•|•";
+
+"Our apologies for the inconvenience." = "Beklager ulejligheden.";
+
+"POOR CONNECTION" = "DÅRLIG FORBINDELSE";
+
+"POSSIBLY NSFW (Interstitial)" = "MÅSKE UEGNET FOR ARB.PLADS";
+
+"Pause (accessibility label)" = "Sæt på pause";
+
+"Peak (graph label)" = "Maks.";
+
+"Periscope App Feedback" = "Periscope app-feedback";
+
+"Periscope account is required." = "Periscope-konto er påkrævet.";
+
+"Periscope is discontinuing on •|•%@•|•" = "Periscope ophører den •|•%@•|•";
+
+"Play (accessibility label)" = "Afspil";
+
+"Please allow some time for all transactions to be posted." = "Der kan gå lidt tid, før alle transaktioner er blevet bogført.";
+
+"Positive Community" = "Positivt fællesskab";
+
+"Post to Twitter (accessibility hint)" = "Dobbelttryk for at skifte.";
+
+"Post to Twitter (accessibility label)" = "Publicer på Twitter";
+
+"Posting to Twitter OFF" = "Publicer på Twitter FRA";
+
+"Posting to Twitter as @%@" = "Publicer på Twitter som @%@";
+
+"Precise Location Sharing OFF" = "Præcis lokalitetsdeling FRA";
+
+"Precise Location Sharing ON" = "Præcis lokalitetsdeling TIL";
+
+"Private (Broadcast Audience)" = "Privat";
+
+"Private Information (Report Option)" = "Private oplysninger";
+
+"Profile (accessibility label)" = "Profil";
+
+"Profile URL copied" = "Profilens URL-adresse blev kopieret";
+
+"Public (Broadcast Audience)" = "Offentlig";
+
+"Public Hidden (Broadcast Audience)" = "Offentlig (skjult)";
+
+"Quarter-Speed" = "Kvart hastighed";
+
+"RECENT (user profile modal)" = "SENESTE";
+
+"REPLAY VIEWER" = "REPLAY-SEER";
+
+"REPLAY VIEWERS" = "REPLAY-SEERE";
+
+"Ready to give Super Hearts!" = "Klar til at give superhjerter!";
+
+"Received in: (History)" = "Modtaget i: \"%@\"";
+
+"Received stars (History)" = "Modtagne stjerner.";
+
+"Release to <bold>Leave</bold> (broadcasting)" = "Slip for at •|•forlade•|•";
+
+"Release to <bold>Leave</bold> (watching)" = "Slip for at •|•forlade•|•";
+
+"Release to Refresh" = "Slip for at opdatere";
+
+"Remove" = "Fjern";
+
+"Remove Amplify Program" = "Fjern Amplify-program";
+
+"Remove Amplify Program (cell title)" = "Fjern Amplify-program";
+
+"Remove Location" = "Fjern lokalitet";
+
+"Remove at least 1 character from your title to make room for #(example hashtag)" = "Slet mindst 1 tegn fra titlen for at gøre plads til %@";
+
+"Remove at least X characters from your title to make room for #(example hashtag)" = "Slet mindst %lu tegn fra titlen for at gøre plads til %@";
+
+"Replay Time Watched (CELL)" = "Replay-tid set";
+
+"Replay Unavailable" = "Genafspilning er ikke tilgængelig";
+
+"Replay watch time per minute tooltip" = "For hvert minut af denne udsendelses replay, har seere brugt sammenlagt %@ på at se den.";
+
+"Reply" = "Svar";
+
+"Report @<guest's username> (Report Guest Modal)" = "Indberet @%@";
+
+"Report Abusive Behavior (Report Abusive Behavior Modal)" = "Krænkende adfærd";
+
+"Report Abusive Profile" = "Indberet krænkende profil";
+
+"Report As Spam" = "Indberet som spam";
+
+"Report Broadcast (Report Broadcast Modal)" = "Indberet udsendelse";
+
+"Report Child Safety (Report Child Safety Modal)" = "Børnesikkerhed";
+
+"Report Comment" = "Indberet kommentar";
+
+"Report Hateful Conduct (Report Hateful conduct Modal)" = "Hadefuld adfærd";
+
+"Report Private Information (Report Private Information Modal)" = "Private oplysninger";
+
+"Report Self-Harm (Report Self Harm Modal)" = "Selvskade";
+
+"Report Sexual Content (Report Sexual Content Modal)" = "Seksuelt indhold";
+
+"Report User" = "Indberet brugeren";
+
+"Report Violence (Report Violence Modal)" = "Vold";
+
+"Reporting is anonymous and will hide the user's comments (just for you)." = "Indberetning sker anonymt og skjuler brugerens kommentarer (dog kun for dig).";
+
+"Restrict Chat (accessibility hint)" = "Dobbelttryk for at skifte mellem at begrænse chatten til brugere, du følger.";
+
+"Restrict Chat (accessibility label)" = "Begræns chat";
+
+"Return to Summary (accessibility hint)" = "Dobbelttryk for at gå tilbage til brugerens resumé.";
+
+"Retweet" = "Retweet";
+
+"Save Changes" = "Gem ændringerne";
+
+"Save To Camera Roll" = "Arkiver i kamerarulle";
+
+"Save To Camera Roll Unavailable" = "Arkiver i kamerarulle er ikke tilgængelig";
+
+"Saved To Camera Roll" = "Arkiveret i kamerarulle";
+
+"Saved!" = "Gemt!";
+
+"Saving..." = "Gemmer ...";
+
+"Say something..." = "Sig noget...";
+
+"Scroll for Old Comments" = "Rul for at se gamle kommentarer";
+
+"Scroll to Bottom" = "Rul til bunden";
+
+"Self-Harm (Report Option)" = "Selvskade";
+
+"Send (accessibility label)" = "Send";
+
+"Send Message (Blocked Modal)" = "Send besked";
+
+"Send people a notification to join this broadcast. Mutuals are people you follow that follow you back." = "Send personer en meddelelse om at se denne udsendelse. Gensidige følgere er personer, du følger, og som følger dig.";
+
+"Sent for payment processing (History)" = "Sendt til behandling mhp. udbetaling.";
+
+"Separator between two names" = "og";
+
+"Set Amplify Program" = "Indstil Amplify-program";
+
+"Setting the broadcast Amplify Program to •|•%@•|• will publish a new Tweet." = "Indstilling af udsendelsens Amplify-program til %@ vil publicere et nyt Tweet.";
+
+"Settings (app)" = "Indstillinger";
+
+"Sexual Content (Report Option)" = "Seksuelt indhold";
+
+"Sexually Inappropriate \n Obscene or unwanted sexual remarks" = "Seksuelt upassende•|•\nSjofle eller uønskede seksuelle ytringer•|•";
+
+"Share Broadcast" = "Del udsendelse";
+
+"Share From" = "Del fra";
+
+"Share From %@" = "Del fra %@";
+
+"Share From Beginning" = "Del fra begyndelsen";
+
+"Share Live" = "Del direkte";
+
+"Share Twitter Tooltip (explaining that the feature is disabled while guests are enabled)" = "Deaktiveret for udsendelser med gæster";
+
+"Share precise location (accessibility label)" = "Del præcis lokalitet";
+
+"Share request sent. (chat message)" = "Anmodning om deling sendt.";
+
+"Share screenshot and broadcast" = "Del skærmbillede og udsendelse";
+
+"Share this broadcast so your followers don't miss it." = "Del denne udsendelse så dine følgere ikke går glip af den.";
+
+"Share via..." = "Del via...";
+
+"Show Stats (cell)" = "Vis statistik";
+
+"Skip" = "Spring over";
+
+"Sorry, that action could not be completed because you have been blocked." = "Beklager, den handling kunne ikke udføres, fordi du er blevet blokeret.";
+
+"Sorry, that action could not be completed because you have reached the block limit." = "Handlingen kan desværre ikke udføres, fordi du har nået blokeringsgrænsen.";
+
+"Sorry, that action could not be completed because you have reached the follow limit." = "Handlingen kan desværre ikke udføres, fordi du har nået grænsen for, hvor mange du kan følge.";
+
+"Sorry, the broadcast is too full..." = "Beklager, udsendelsen er overfyldt...";
+
+"Sorry, this broadcast is unavailable" = "Beklager, denne udsendelse er ikke tilgængelig";
+
+"Sorry, we couldn't load the broadcast share URL. Please try again." = "Beklager, vi kunne ikke indlæse udsendelsens dele-URL. Prøv venligst igen.";
+
+"Sorry, we couldn't save your changes. Please try again." = "Vi kunne desværre ikke gemme ændringerne. Prøv igen.";
+
+"Sorry, we encountered an error blocking some users. Please try again." = "Der opstod desværre en fejl under blokeringen af udvalgte brugere. Prøv igen.";
+
+"Sorry, we encountered an error blocking that user. Please try again." = "Beklager, vi ramte ind i en fejl, da vi skulle blokere brugeren. Prøv venligst igen.";
+
+"Sorry, we encountered an error loading user data. Please try again." = "Der opstod desværre en fejl under indlæsning af brugerdata. Prøv igen.";
+
+"Sorry, we encountered an error loading your broadcasts. Please try again." = "Beklager, vi løb ind i problemer under indlæsning af dine udsendelser. Prøv venligst igen.";
+
+"Sorry, we encountered an error reporting this broadcast. Please try again." = "Beklager, vi løb ind i problemer under indberetning af denne udsendelse. Prøv venligst igen.";
+
+"Sorry, we encountered an error reporting this guest. Please try again." = "Der opstod desværre en fejl under indberetning af denne gæst. Prøv igen.";
+
+"Sorry, we've encountered a loading error. Please try again." = "Beklager, der opstod en indlæsningsfejl. Prøv venligst igen.";
+
+"Sorry, you've done that too many times. Try again in a few minutes." = "Beklager, du har gjort dette for mange gange. Prøv igen om nogle få minutter.";
+
+"Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv" = "Der er desværre opstået en indlæsningsfejl (421 - selektor). Send en e-mail til help@pscp.tv";
+
+"Sorry, you've encountered a loading error (421). Please email help@pscp.tv" = "Der er desværre opstået en indlæsningsfejl (421). Send en e-mail til help@pscp.tv";
+
+"Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later." = "Det er ikke muligt at uploade en ny udsendelsesminiature, fordi internetforbindelsen ikke er stærk nok. Prøv igen senere.";
+
+"Spam" = "Spam";
+
+"Spam in Chat" = "Spam i chatten";
+
+"Star & Cash Outs History (Stars Profile)" = "Stjerne- og udbetalingshistorik";
+
+"Star History (Stars Profile)" = "Stjernehistorik";
+
+"Star balance adjustment. Contact superhearts@pscp.tv if you have any questions. (History)" = "Justering af stjernesaldo. Kontakt superhearts@pscp.tv, hvis du har spørgsmål.";
+
+"Stars (profile view title)" = "Stjerner";
+
+"Stars (profile)" = "Stjerner";
+
+"Start Point" = "Startpunkt";
+
+"Start Sketching (action sheet)" = "Tegn";
+
+"Stop Broadcast" = "Stop udsendelse";
+
+"Submit" = "Send";
+
+"Success! You've unmuted @%@" = "Udført! @%@ vises igen";
+
+"Successfully set Amplify Program (title)" = "Amplify-program blev indstillet korrekt";
+
+"Suggested user is watching singlular" = "%@•|• ser dette nu•|•";
+
+"Suggested users are watching plural" = "%ld venner•|• ser dette nu•|•";
+
+"Super Broadcaster (Stars Profile)" = "Super Broadcaster";
+
+"Super Broadcaster Program" = "Super Broadcaster-program";
+
+"Super Heart Terms" = "Vilkår for superhjerter";
+
+"Super Hearts" = "Superhjerter";
+
+"Super Hearts OFF" = "Superhjerter FRA";
+
+"Super Hearts ON" = "Superhjerter TIL";
+
+"Swipe down to <bold>Stop</bold>" = "Skub ned for at •|•stoppe•|•";
+
+"Tap anyhwhere to <bold>Exit Theater Mode</bold>" = "Tryk et tilfældigt sted for at •|•afslutte biograftilstand•|•";
+
+"Tap this icon to join Broadcaster's broadcast as a guest. (Viewer Prompt to Call-In)" = "Tryk på dette ikon for at deltage som gæst i udsendelsen fra •|•%@•|•.";
+
+"Thank You (Report Broadcast Confirmation Modal)" = "Tak";
+
+"Thank you for your report" = "Tak for din indberetning";
+
+"Thank you for your report (Chat Prompt)" = "Tak for din indberetning";
+
+"Thank you for your report." = "Tak for din indberetning.";
+
+"Thank you. You won't see any more messages from •|•@%@•|• in this broadcast." = "Tak. Du vil ikke se flere beskeder fra •|•@%@•|• i denne udsendelse.";
+
+"Thanks %@!" = "Tak %@!";
+
+"Thanks for your feedback!" = "Tak for din feedback!";
+
+"The broadcaster blocked you in response to this message." = "Værten blokerede dig som modsvar til denne besked.";
+
+"The broadcaster has limited chat." = "Værten har begrænset chatten.";
+
+"The broadcaster has the ability to remove people from their broadcasts." = "Værten har muligheden for at fjerne folk fra deres udsendelser.";
+
+"The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•." = "Møntbutikken har lukket. Hvis du har mønter tilbage, kan du bruge dem til at sende superhjerter til dine foretrukne værter inden den •|•%@•|•.";
+
+"Theater Mode (action sheet)" = "Biograftilstand";
+
+"Their name, bio, or profile image violates the Community Guidelines" = "Vedkommendes navn, bio eller profilbillede overtræder retningslinjerne for fællesskabet";
+
+"There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat." = "Der er mange personer, der ser dette lige nu! For at begrænse beskeder til programværten, er det kun de første deltagere, der kan chatte.";
+
+"There was an error adding @username as a guest. Please try again." = "Der opstod en fejl under tilføjelse af @%@ som gæst. Prøv igen.";
+
+"There was an error adding you as a guest. We've notified Broadcaster, and will alert you if we're able to try again." = "Der opstod en fejl under tilføjelsen af dig som gæst. Vi har underrettet %@ og giver dig besked, hvis det bliver muligt at prøve igen.";
+
+"There was an error allowing guests. Please try again." = "Der opstod en fejl under aktivering af gæster. Prøv igen.";
+
+"There was an error cancelling your request. Please try again." = "Der opstod en fejl under annulleringen af din anmodning. Prøv igen.";
+
+"There was an error cancelling. Please try again." = "Der opstod en fejl under annulleringen. Prøv igen.";
+
+"There was an error disallowing guests. Please try again." = "Der opstod en fejl under deaktivering af gæster. Prøv igen.";
+
+"There was an error inviting guests. Please try again." = "Der opstod en fejl under afsendelse af invitationen. Prøv igen.";
+
+"There was an error muting or un-muting @username. Please try again." = "Det var ikke muligt at skjule eller vise @%@. Prøv igen.";
+
+"There was an error muting or un-muting you. Please try again." = "Det var ikke muligt at skjule eller vise dig. Prøv igen.";
+
+"There was an error removing your guest @username. Please try again." = "Der opstod en fejl under fjernelse af gæsten @%@. Prøv igen.";
+
+"There was an error sending your request to join as a guest. Please try again." = "Der opstod en fejl under afsendelse af anmodningen om at deltage som gæst. Prøv igen.";
+
+"There was an error updating the settings (conversation controls and mentioned users). Please try again." = "Der opstod en fejl under opdateringen af indstillingerne (samtalekontrol og omtalte brugere). Prøv igen.";
+
+"There was an error updating the settings (locked/unlocked). Please try again." = "Der opstod en fejl under opdatering af indstillingerne (låst/låst op). Prøv igen.";
+
+"This broadcast is no longer available." = "Denne udsendelse er ikke længere tilgængelig.";
+
+"This broadcast isn’t available (Copyright Violation)" = "Denne udsendelse er ikke tilgængelig";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}." = "Denne udsendelse matcher \"%1$@\", som er et ophavsretligt beskyttet værk af %2$@. •|•Lær mere•|•";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}. Do you have all rights necessary to broadcast this video on Twitter?" = "Denne udsendelse matcher \"%1$@\", som er et ophavsretligt beskyttet værk af %2$@. Har du alle de fornødne rettigheder til at udsende denne video på Twitter?";
+
+"This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video." = "Denne udsendelse er optaget med et 360-kamera. Periscope understøtter ikke længere afspilning af 360-video.";
+
+"This broadcast’s title can’t be edited. Learn more (Copyright Violation)" = "Titlen på denne udsendelse kan ikke redigeres. •|•Lær mere•|•";
+
+"This is optional" = "Dette er valgfrit";
+
+"This user doesn't have any followers yet" = "Denne bruger har ikke nogen følgere endnu";
+
+"This user has not broadcasted yet" = "Denne bruger har ikke udsendt noget endnu";
+
+"This user isn't following anyone yet" = "Denne bruger følger ikke nogen endnu";
+
+"Thousand Decimal Abbreviation" = "%.1f K";
+
+"Thousand Integer Abbreviation" = "%d K";
+
+"Thumbnail" = "Miniature";
+
+"Time Watched (CELL)" = "Tid set";
+
+"Title (accessibility label)" = "Titel";
+
+"To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off." = "Hvis du vil chatte, skal du aktivere \"Forbind til Periscope\" i indstillingerne. Hvis \"Beskyt mine Tweets\" er aktiveret på din konto, skal du downloade Periscope-appen og oprette en Periscope-konto eller skifte til en Twitter-konto, hvor \"Beskyt mine Tweets\" er deaktiveret.";
+
+"To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos." = "For at arkivere din video, skal Periscope have adgang til dine Fotos. For at aktivere denne funktion til en fremtidig udsendelse, skal du trykke på Indstillinger og derefter slå kontakten til for Fotos.";
+
+"To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account." = "For at sende feedback via e-mail skal du først opsætte e-mail på din enhed. Åbn Indstillinger-appen først, gå derefter til E-mail, kontakter, kalendere og vælg Tilføj konto.";
+
+"To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option." = "For at dele din lokalitet skal Periscope have tilladelse til at tilgå den på din enhed. Tryk på Indstillinger-knappen, gå derefter til Lokalitetstjenester og vælg Mens du bruger appen.";
+
+"Top Contributor" = "Største bidragyder";
+
+"Total watch time per minute tooltip" = "For hvert minut af denne udsendelse, brugte seere sammenlagt %@ på at se den.";
+
+"Total watch time per minute tooltip (broadcaster)" = "For hvert minut af denne udsendelse, brugte seere sammenlagt %@ på at se den. Denne statistik normaliserer tid set på tværs af udsendelser af forskellig varighed.";
+
+"Trying to reconnect" = "Prøver at forbinde igen";
+
+"Twitter Post OFF" = "Twitteropslag FRA";
+
+"Twitter Post ON" = "Twitteropslag TIL";
+
+"Unable to load broadcast." = "Kan ikke indlæse udsendelsen.";
+
+"Unblock User" = "Fjern blokering af bruger";
+
+"Unfollow User" = "Følg ikke bruger";
+
+"Unhide Broadcast (menu button)" = "Vis udsendelsen";
+
+"Unmute" = "Vis";
+
+"Unmute User" = "Vis brugeren";
+
+"Unmute User Notifications" = "Vis brugermeddelelser";
+
+"Untitled" = "Unavngivet";
+
+"User has not provided a profile description." = "Brugeren har ikke skrevet nogen profilbeskrivelse.";
+
+"Very bad" = "Meget dårligt";
+
+"Very good" = "Meget godt";
+
+"Video Issues" = "Videoproblemer";
+
+"Video Quality" = "Videokvalitet";
+
+"Video will resume if signal improves" = "Video vil fortsætte, hvis signalet forbedres";
+
+"View Broadcast Actions (accessibility label)" = "Vis udsendelseshandlinger";
+
+"View Participants (accessibility label)" = "Vis deltagere";
+
+"View Profile" = "Vis profil";
+
+"View Stats" = "Vis statistik";
+
+"Viewers can give you Super Hearts.\n<link>Learn more.</link>" = "Seerne kan give dig superhjerter.\n•|•Lær mere.•|•";
+
+"Viewers cannot give you Super Hearts.\n<link>Learn more.</link>" = "Seerne kan ikke give dig superhjerter.\n•|•Lær mere.•|•";
+
+"Violence (Report Option)" = "Vold";
+
+"Waiting for other responses..." = "Afventer yderligere svar...";
+
+"Waiting for you to <bold>login</bold>." = "Venter på, at du •|•logger ind•|•.";
+
+"Watch %1$@'s broadcast: %2$@" = "Se %1$@s udsendelse: %2$@";
+
+"Watch %@'s broadcast." = "Se udsendelsen af %@.";
+
+"Watch LIVE" = "Se •|•DIREKTE•|•";
+
+"Watch Live" = "Se direkte";
+
+"Watch Replay" = "Se replay";
+
+"Watch Stream (User Activity)" = "Se stream";
+
+"Watch on #Periscope" = "Se på #Periscope";
+
+"Watch on #Periscope: %@" = "Se på #Periscope: %@";
+
+"Watch what happened at %1$@ in %2$@'s broadcast." = "Se, hvad der skete ved %1$@ i %2$@s udsendelse.";
+
+"Watch what happened at %1$@ in %2$@'s broadcast: %3$@" = "Se, hvad der skete ved %1$@ i %2$@s udsendelse: %3$@";
+
+"We encountered an error deleting your broadcast. Please try again." = "Der opstod en fejl under sletning af udsendelsen. Prøv igen.";
+
+"We encountered an error updating your gift settings. Please try again." = "Der opstod en fejl under opdateringen af dine gaveindstillinger. Prøv igen.";
+
+"We have received your report. Thank you for helping keep the community safe! (Report Broadcast Confirmation Modal)" = "Vi har modtaget din indberetning. Tak, fordi du hjælper med at holde fællesskabet sikkert!";
+
+"We're sorry, there was an error starting your broadcast. Please try starting it again." = "Vi beklager, der opstod en fejl under start af din udsendelse. Prøv venligst at starte den igen.";
+
+"Welcome <bold>%@</bold>" = "Velkommen •|•%@•|•";
+
+"We’ve let your followers know that you joined as a guest (Chat Prompt)" = "Vi har givet dine følgere besked om, at du deltager som gæst";
+
+"What are you seeing now?" = "Hvad ser du lige nu?";
+
+"What do you want to talk about?" = "Hvad vil du snakke om?";
+
+"What went well?" = "Hvad gik godt?";
+
+"When someone follows them, they'll be listed here." = "Når nogen følger vedkommende, vises de her.";
+
+"When someone follows you, they'll be listed here." = "Når nogen følger dig, vises de her.";
+
+"When they do, it'll show up here." = "Når de gør det, vises det her.";
+
+"When they do, they'll be listed here." = "Når vedkommende gør det, vises det her.";
+
+"When you do, it'll show up here" = "Når du gør det, vises det her";
+
+"When you do, they'll be listed here." = "Når du har det, vises det her.";
+
+"Yes (Copyright Violation)" = "Ja";
+
+"You already have a linked Twitter account. Please use this in the future to broadcast from Twitter" = "Du har allerede en tilknyttet Twitter-konto. Brug den fremover, når du sender udsendelser fra Twitter.";
+
+"You are now" = "Du er nu";
+
+"You aren't following anyone yet" = "Du følger ikke nogen endnu";
+
+"You aren't following anyone." = "Du følger ikke nogen.";
+
+"You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests. (Offensive Report Modal)" = "Du kan blokere en bruger, hvis du ikke vil se vedkommendes udsendelser. Du vil fortsat se brugere, du har blokeret, når de er gæster.";
+
+"You can block a user whose broadcasts you no longer want to see. (Offensive Report Modal)" = "Du kan blokere en bruger, hvis du ikke længere vil se vedkommendes udsendelser.";
+
+"You can give •|•%@•|• of these" = "Du kan give •|•%@•|• af disse";
+
+"You can't broadcast right now (Copyright Violation)" = "Du kan ikke sende i øjeblikket";
+
+"You can't watch a broadcast while you're still broadcasting." = "Du kan ikke se en udsendelse, mens du stadig udsender.";
+
+"You can’t watch this because it included a copyrighted work by {Full Name}. Learn more (Copyright Violation)" = "Du kan ikke se dette, fordi det indeholder et ophavsretligt beskyttet værk af %@. •|•Lær mere•|•";
+
+"You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster." = "Du samler stjerner, når fans giver dig •|•superhjerter•|•. Få kontanter for dine stjerner ved at blive Super Broadcaster.";
+
+"You didn't vote... <link>Learn about Moderation</link>" = "Du har ikke stemt... •|•Lær om moderation•|•";
+
+"You don't have any followers yet" = "Du har endnu ingen følgere";
+
+"You earn stars from Super Hearts" = "Du optjener stjerner fra superhjerter";
+
+"You haven't broadcasted yet" = "Du har ikke udsendt noget endnu";
+
+"You were <bold>blocked</bold> by the broadcaster" = "Du blev •|•blokeret•|• af værten";
+
+"You will lose any unsaved changes. Are you sure you want to leave this view?" = "Eventuelle ikke-gemte ændringer vil gå tabt. Er du sikker på, at du vil forlade denne visning?";
+
+"You will lose the stars you received" = "Du mister de stjerner, du har fået";
+
+"You're Waiting to Join (Guest Calling Menu)" = "Du venter på at deltage";
+
+"Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv" = "Din konto er blevet deaktiveret som følge af en anmodning om fjernelse af ophavsretligt beskyttet indhold. Kontakt help@pscp.tv";
+
+"Your account has been disabled. Please contact help@pscp.tv" = "Din konto er blevet deaktiveret. Kontakt help@pscp.tv";
+
+"Your broadcast has been disabled (Copyright Violation)" = "Din udsendelse er blevet deaktiveret.";
+
+"Your broadcast matches a copyrighted work (Copyright Violation)" = "Din udsendelse matcher et ophavsretligt beskyttet værk";
+
+"Your broadcast's thumbnail has been updated to the current screen." = "Det aktuelle skærmbillede er indstillet som udsendelsesminiature.";
+
+"Your dispute claim was submitted (Copyright Violation)" = "Din afvisning blev sendt";
+
+"Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•." = "Din feedback er vigtig, da den hjælper os til at forbedre udsendelseskvaliteten. Du kan når som helst fravælge fremtidige undersøgelser i •|•indstillingerne•|•.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Din besked •|•\"%@\"•|• blev skjult pga. MISBRUG. Kommentering er slået fra for alle udsendelser.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast." = "Din besked •|•\"%@\"•|• blev skjult pga. MISBRUG. Kommentering er slået fra for denne udsendelse.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Din besked •|•\"%@\"•|• blev skjult pga. MISBRUG. Kommentering er midlertidigt begrænset for alle udsendelser.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast." = "Din besked •|•\"%@\"•|• blev skjult pga. MISBRUG. Kommentering er midlertidigt begrænset for denne udsendelse.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts." = "Din besked •|•\"%@\"•|• blev skjult pga. SPAM. Kommentering er slået fra for alle udsendelser.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast." = "Din besked •|•\"%@\"•|• blev skjult pga. SPAM. Kommentering er slået fra for denne udsendelse.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Din besked •|•\"%@\"•|• blev skjult pga. SPAM. Kommentering er midlertidigt begrænset for alle udsendelser.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast." = "Din besked •|•\"%@\"•|• blev skjult pga. SPAM. Kommentering er midlertidigt begrænset for denne udsendelse.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts." = "Din besked •|•\"%@\"•|• blev skjult. Kommentering er slået fra for alle udsendelser.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast." = "Din besked •|•\"%@\"•|• blev skjult. Kommentering er slået fra for denne udsendelse.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts." = "Din besked •|•\"%@\"•|• blev skjult. Kommentering er midlertidigt begrænset for alle udsendelser.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast." = "Din besked •|•\"%@\"•|• blev skjult. Kommentering er midlertidigt begrænset for denne udsendelse.";
+
+"Your settings are about to automatically delete this broadcast." = "Dine indstillinger vil snart slette denne udsendelse automatisk.";
+
+"Your settings will automatically delete this broadcast in %@" = "Dine indstillinger vil slette denne udsendelse automatisk om %@";
+
+"Your video will be available for replay after the event has ended. (Copyright Violation)" = "Din video vil kunne genafspilles, når begivenheden er afsluttet.";
+
+"Your viewers have been invited to join (Local Chat Prompt)" = "Dine seere er blevet inviteret til at deltage";
+
+"You’re enrolled in automatic monthly cash outs. (Stars Profile)" = "Du er tilmeldt automatiske månedlige udbetalinger.";
+
+"You’ve blocked @username. Tap to report and share more details. (Should Report Guest User Chat Prompt)" = "Du har blokeret •|•@%@•|•. Tryk for at indberette og give flere oplysninger.";
+
+"[placeholder]" = "[placeholder]";
+
+"beta-feedback@pscp.tv" = "beta-feedback@pscp.tv";
+
+"coin bonus" = "%i%% ekstra";
+
+"coin received (accessibility label)" = "mønt modtaget";
+
+"coins received (accessibility label)" = "mønter modtaget";
+
+"contact@pscp.tv" = "contact@pscp.tv";
+
+"current audience" = "nuværende målgruppe";
+
+"failed" = "fejlet";
+
+"following (accessibility hint)" = "Dobbelttryk for ikke at følge længere";
+
+"following (accessibility label)" = "Følger";
+
+"for fine control" = "til finstyring";
+
+"heart received (accessibility label)" = "hjerte modtaget";
+
+"hearts received (accessibility label)" = "hjerter modtaget";
+
+"https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119" = "https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119";
+
+"https://pscp.tv/i/super/terms" = "https://pscp.tv/i/super/terms";
+
+"iPad doesn’t support broadcasting from Split View." = "iPad understøtter ikke udsendelse fra Split View.";
+
+"invited" = "inviteret";
+
+"invited followers" = "inviterede følgere";
+
+"it's their first day on Periscope" = "har sin første dag på Periscope";
+
+"not following (accessibility hint)" = "Dobbelttryk for at følge";
+
+"not following (accessibility label)" = "Følger ikke";
+
+"people" = "personer";
+
+"per Broadcast Minute (CELL)" = "pr. udsendelsesminut";
+
+"per Viewer (CELL)" = "pr. seer";
+
+"person" = "person";
+
+"poor" = "dårlig";
+
+"posting publicly on Periscope" = "vises offentligt på Periscope";
+
+"posting publicly on Twitter" = "vises offentligt på Twitter";
+
+"selected Amplify Program" = "valgte Amplify-program";
+
+"star received (accessibility label)" = "stjerne modtaget";
+
+"stars received (accessibility label)" = "stjerner modtaget";
+
+"tap to change Amplify Program" = "tryk for at ændre Amplify-program";
+
+"tap to change Amplify program" = "tryk for at skifte Amplify-program";
+
+"tap to change audience" = "tryk for at ændre målgruppe";
+
+"to seek" = "for at søge";
+
+"you hung up (Guest Caller Hung Up Chat Message Event)" = "du lagde på";
+
+"you were added (New Guest Caller Chat Message Event)" = "du blev tilføjet";
+
+"you were removed (Guest Caller Was Removed Chat Message Event)" = "du blev fjernet";
+
+"•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•." = "•|•%1$@•|• ændrede udsendelsestidspunktet til •|•%2$@•|•.";
+
+"•|•%@•|• are guests (Broadcast Guests Social Proof)" = "•|•%@•|• er gæster";
+
+"•|•%@•|• invited you (Broadcast Guest Invitation Social Proof)" = "•|•%@•|• inviterede dig";
+
+"•|•%@•|• is a guest (Broadcast Guest Social Proof)" = "•|•%@•|• er gæst";
+
+"•|•%@•|• shared (Broadcast Share Social Proof)" = "•|•%@•|• delte";
+
+"•|•%@•|• was a guest (Broadcast Guest Social Proof)" = "•|•%@•|• var gæst";
+
+"•|•%@•|• were guests (Broadcast Guests Social Proof)" = "•|•%@•|• var gæster";
+
+"•|•%@•|•\nBroadcasts" = "•|•%@•|•\nUdsendelser";
+
+"•|•%@•|•\nFollowers" = "•|•%@•|•\nFølgere";
+
+"•|•%@•|•\nFollowing" = "•|•%@•|•\nFølger";
+
+"•|•@%1$@•|• was muted by •|•%2$@•|•" = "•|•@%1$@•|• blev skjult af •|•%2$@•|•";
+
+"•|•@%1$@•|• was unmuted by •|•%2$@•|•" = "•|•@%1$@•|• blev vist igen af •|•%2$@•|•";
+
+"•|•@%@•|• Retweeted on" = "•|•@%@•|• retweetede på";
+
+"•|•@%@•|• shared on" = "•|•@%@•|• har delt på";
+
+"•|•Muted•|• by %@" = "•|•Skjult•|• af %@";
+
+"•|•Not enough coins.•|• Get more coins to keep giving Super Hearts." = "•|•Ikke nok mønter.•|• Optjen flere mønter for at give flere superhjerter.";
+
+"•|•Press & Hold•|• the video to skip ahead" = "•|•Tryk og hold nede•|• på videoen for at springe frem";
+
+"•|•Press & Hold•|• to skip back or ahead." = "•|•Tryk og hold nede•|• for at springe frem eller tilbage.";
+
+"•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one." = "•|•Superhjerter er TIL.•|• Tryk på udsendelsen for at give dit første superhjerte.";
+
+"•|•Support %@•|• by giving Super Hearts!" = "•|•Støt %@•|• ved at give superhjerter!";
+
+"•|•Unmuted•|• by %@" = "•|•Vist igen•|• af %@";
+
+"•|•You need more coins•|• to give Super Hearts" = "•|•Du skal have flere mønter•|• for at kunne give superhjerter";
+
+"•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast." = "•|•Du er blevet skjult•|• af en af moderatorerne for %1$@ på grund af din kommentar •|•\"%2$@\"•|•. Du kan ikke længere chatte i denne udsendelse.";
+
+"•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast." = "En af moderatorerne for %@ har ændret din status, så du •|•vises igen•|•. Du kan nu chatte i denne udsendelse.";
+

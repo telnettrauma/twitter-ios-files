@@ -1,0 +1,1448 @@
+"%@ New Messages" = "%@ Yeni Mesaj";
+
+"%@ Viewer (Broadcast Info)" = "%@ İzleyici";
+
+"%@ Viewers (Broadcast Info)" = "%@ İzleyici";
+
+"%@ ago" = "%@ önce";
+
+"%@ doesn't have any followers yet" = "%@ adlı kişinin henüz hiç takipçisi yok";
+
+"%@ has not broadcasted yet" = "%@ henüz yayın yapmadı";
+
+"%@ is LIVE (broadcast title)" = "%@ CANLI yayında";
+
+"%@ isn't following anyone yet" = "%@ henüz hiç kimseyi takip etmiyor";
+
+"%@ joined" = "katıldı";
+
+"%@ wants you to moderate comments. Tap on comments to mute them." = "%@ yorumlar için moderasyon yapmanı istiyor. Sessize almak için yorumlara dokun.";
+
+"%@ wants you to moderate comments. Tap or swipe left on comments to mute them." = "%@ yorum moderasyonu yapmanı istiyor. Sessize almak için yorumlara dokun veya sola kaydır.";
+
+"%@ was live  (broadcast title)" = "%@ canlı yayındaydı";
+
+"%d More Live Viewers" = "Tane Daha Canlı İzleyici";
+
+"%d More Replay Viewers" = "Tane Daha Tekrar Gösterim İzleyicisi";
+
+"%d More Viewers" = "Tane Daha İzleyici";
+
+"%ldd (days)" = "%ldg";
+
+"%ldh (hours)" = "%ldsa";
+
+"%ldm (minutes)" = "%ldd";
+
+"%lds (seconds)" = "%ldsn";
+
+"%ldy (years)" = "%ldy";
+
+"(EDITED)" = "(DÜZENLENDİ)";
+
+"(Skip to) LIVE" = "CANLI";
+
+"1 More Live Viewer" = "Tane Daha Canlı İzleyici";
+
+"1 More Replay Viewier" = "Tane Daha Tekrar Gösterim İzleyicisi";
+
+"1 More Viewer" = "Tane Daha İzleyici";
+
+"1 New Message" = "1 Yeni Mesaj";
+
+"@username \"Tap to cancel\" (Add Guest Caller Chat Message Event)" = "İptal etmek için dokun";
+
+"@username \"canceled\" (Add Guest Caller Chat Message Event)" = "iptal etti";
+
+"@username \"has asked to join\" (Add Guest Caller Chat Message Event)" = "katılma isteğinde bulundu";
+
+"@username \"hung up\" (Guest Caller Hung Up Chat Message Event)" = "•|•@%@•|• kapattı";
+
+"@username \"was added\" (Add Guest Caller Chat Message Event)" = "eklendi";
+
+"@username \"was added\" (New Guest Caller Chat Message Event)" = "•|•@%@•|• eklendi";
+
+"@username \"was removed\" (Add Guest Caller Chat Message Event)" = "kaldırıldı";
+
+"@username \"was removed\" (Guest Caller Was Removed Chat Message Event)" = "•|•@%@•|• kaldırıldı";
+
+"A Periscope account is required to edit a broadcast." = "Yayın düzenlemek için Scope hesabı gereklidir.";
+
+"A Periscope account is required to share a broadcast." = "Yayın paylaşmak için Scope hesabı gereklidir.";
+
+"A broadcast with a star balance was deleted. (History)" = "Bir yıldız bakiyesi olan yayın silindi.";
+
+"ACTIVE CONTRIBUTORS" = "ETKİN KATILIMCILAR";
+
+"Abuse" = "Taciz";
+
+"Abusive Behavior (Report Option)" = "Taciz İçeren Davranış";
+
+"Accept Caller as Guest" = "Arayanı Konuk Olarak Kabul Et";
+
+"Accept Super Hearts (accessibility hint)" = "Bu yayında Süper Kalp kabul etmek için iki kez dokun.";
+
+"Accept Super Hearts (accessibility label)" = "Süper Kalpleri kabul et";
+
+"Accept as Guest" = "Konuk Olarak Kabul Et";
+
+"Actions (accessibility label)" = "Eylemler";
+
+"Add Guest (Manage Guest Call-Ins Action Sheet)" = "Misafir Ekle";
+
+"Add guest \n viewer will become a guest broadcaster" = "Misafir ekle•|•\nizleyici, misafir yayıncı haline gelecek•|•";
+
+"All-Time Stars (Stars Profile)" = "Tüm Yıldızlar";
+
+"Allow Guests (Tooltip Selected)" = "Misafirlere İzin Ver";
+
+"Allow guests / Don't allow guests (accessibility label)" = "Misafirlere izin ver / Misafirlere izin verme";
+
+"Anything else you'd like to share?" = "Paylaşmak istediğin başka bir şey var mı?";
+
+"Are you sure you want to send this message?" = "Bu mesajı göndermek istediğinden emin misin?";
+
+"Are you sure you want to unblock?" = "Engellemeyi kaldırmak istediğinizden emin misiniz?";
+
+"Are you sure? (title)" = "Emin misin?";
+
+"Ask for Follow (action sheet)" = "Takip İste";
+
+"Ask for Share (action sheet)" = "Paylaşmalarını İste";
+
+"Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Bu yayına misafir olarak katılma isteğinde bulun. Herkes sesini duyar, ancak istediğin zaman bunu durdurabilirsin.";
+
+"Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Bu yayına misafir olarak katılma isteğinde bulun. Herkes seni görür ve sesini duyar, ancak istediğin zaman bunu durdurabilirsin.";
+
+"Asking to join... Broadcaster must accept you (Local Chat Prompt)" = "Katılma isteği gönderiliyor...\n•|•%@•|• seni kabul etmeli";
+
+"Audio Only (accessibility label)" = "Yalnızca Sesli Yayın";
+
+"Audio from: Headphones" = "Ses kaynağı: Kulaklıklar";
+
+"Audio from: Phone" = "Ses kaynağı: Telefon";
+
+"Back" = "Geri";
+
+"Back (action sheet)" = "Geri";
+
+"Back Camera (accessibility hint)" = "Ön Kameraya geçiş yapmak için çift dokun";
+
+"Back Camera (accessiblity value)" = "Arka Kamera";
+
+"Back to %@" = "%@ uygulamasına dön";
+
+"Back to Hearts" = "Kalplere dön";
+
+"Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. Learn more (Copyright violation)" = "Son zamanlarda telifli eser içeren birden fazla yayın yaptığın için geçici olarak yayın yapamayacaksın. •|•Daha fazla bilgi al•|•";
+
+"Betascope App Feedback" = "Betascope Uygulaması Geri Bildirimi";
+
+"Billion Decimal Abbreviation" = "%.1f MR";
+
+"Billion Integer Abbreviation" = "%d MR";
+
+"Block @%@" = "@%@ Adlı Kişiyi Engelle";
+
+"Block @%@ (Offensive Report Modal)" = "@%@ adlı kullanıcıyı engelle";
+
+"Block And Hang Up (Manage Guest Call-Ins Action Sheet)" = "Engelle ve Kapat";
+
+"Block User" = "Kullanıcıyı Engelle";
+
+"Block Users (%@)" = "Kullanıcıları Engelle (%@)";
+
+"Block {Username}" = "@%@ adlı kişiyi engelle";
+
+"Blocked (user modal)" = "Engellendi";
+
+"Blocked by you" = "Senin tarafından engellendi";
+
+"Blocking will dismiss the broadcast and not report to Periscope. (Offensive Report Modal)" = "Engelleme ile yayın durdurulur, ancak durum Scope'a bildirilmez.";
+
+"Broadcast Actions (accessibility hint)" = "Yayın işlemlerini içeren bir menü açılır.";
+
+"Broadcast Details (action sheet)" = "Yayın Detayları";
+
+"Broadcast Super Heart Auto-Deletion Warning" = "•|•Bu yayın, 24 saat sonra otomatik olarak silinmeyecektir•|• ve böylece kazanmış olabileceğin Süper Kalplerden yıldız kaybı olması engellenecektir.\n\nEğer istiyorsan, diğerlerinin görmesini kısıtlamak için yayını bittikten sonra saklayabilirsin.";
+
+"Broadcast Title" = "Yayın Başlığı";
+
+"Broadcast about to expire (Cell)" = "Yayının Süresi Dolmak Üzere";
+
+"Broadcast creation" = "Yayın oluşturma";
+
+"Broadcaster Has Disabled Call-Ins (Generic Error Message)" = "Aramalar listesi şu anda Yayıncı tarafından devre dışı bırakılmış.";
+
+"Broadcaster blocked •|•@%@•|•" = "Yayıncı engelledi: •|•@%@•|•";
+
+"Broadcaster doesn’t accept Super Hearts" = "Yayıncı Süper Kalpleri kabul etmiyor";
+
+"Broadcaster has assigned chat moderators." = "Yayıncı, sohbet moderatörleri görevlendirdi.";
+
+"Broadcaster has to accept your request before you can join as a guest. (Guest Call-In Instructions Subtitle)" = "Misafir olarak katılabilmen için %@ isteğini kabul etmeli.";
+
+"Broadcaster is allowing guests to join (Local Chat Prompt)" = "•|•%@•|• misafirlerin katılmasına izin veriyor";
+
+"Broadcaster is not allowing guests to join (Local Chat Prompt)" = "•|•%@•|• misafirlerin katılmasına izin vermiyor";
+
+"Broadcasters earn stars from Super Hearts" = "Yayıncılar Süper Kalpler'den yıldız kazanıyor.";
+
+"Bummer (ReplayKit)" = "Hay aksi";
+
+"CONCATENTATION_ACCESSIBILITY_STRING" = ".";
+
+"CONTRIBUTORS WHO HAVE LEFT" = "AYRILAN KATILIMCILAR";
+
+"COULDN'T LOAD REPLAY VIEWERS" = "YENİDEN OYNATAN İZLEYİCİLER YÜKLENEMEDİ";
+
+"COULDN'T LOAD VIEWERS" = "İZLEYİCİLER YÜKLENEMEDİ";
+
+"Camera Selection (accessibility label)" = "Kamera Seçimi";
+
+"Cancel" = "İptal";
+
+"Cancel (action sheet)" = "İptal";
+
+"Cancel Call In Button: \"Cancel Request to Join as a Guest\"" = "Misafir Olarak Katılma İsteğini İptal Et";
+
+"Cancel Guest Call-In Instructions Title: \"Waiting to join as a guest...\"" = "Misafir olarak katılım bekleniyor...";
+
+"Cannot be undone" = "Geri alınamaz";
+
+"Capture Thumbnail (action sheet)" = "Küçük Resim Yakala";
+
+"Cash Outs (Stars Profile)" = "Paraya Çevirme";
+
+"Cash out your stars, and continue using live video on Twitter" = "Yıldızlarını paraya çevir ve Twitter'da canlı video özelliğini kullanmaya devam et";
+
+"Change Amplify Program" = "Amplify Programını Değiştir";
+
+"Change Expiration (Cell)" = "Bitiş Tarihini Değiştir";
+
+"Change Expiration Subtitle (Cell)" = "%@ İçinde Otomatik Sil";
+
+"Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program." = "Amplify Programını %@ olarak değiştirdiğinde Tweetin silinir ve yeni Programla yeni bir Tweet yayınlanır.";
+
+"Chatroom too full..." = "Sohbet odası aşırı dolu...";
+
+"Child Safety (Report Option)" = "Çocuk Güvenliği";
+
+"Choose guests to add. You can remove them at any time. (Manage Guest Callers Page Subtitle)" = "Eklemek için misafir seç. Misafirleri dilediğin zaman kaldırabilirsin.";
+
+"Close (accessibility label)" = "Kapat";
+
+"Comment Tip Option 1" = "Bir yorum yaz, •|•%@•|• burada olduğunu bilsin!";
+
+"Comment Tip Option 2" = "•|•%@•|• onu nereden izlediğini bilsin!";
+
+"Comment Tip Option 3" = "•|•%@•|• ve diğer izleyicilerle sohbet etmek için merhaba de.";
+
+"Commenting is OFF" = "Yorum yapma KAPALI";
+
+"Comments Received (CELL)" = "Alınan Yorumlar";
+
+"Comments Received Unavailable (CELL)" = "yok";
+
+"Compose Direct Message (Accessibility Label)" = "Direkt Mesaj Oluştur";
+
+"Compose New Tweet (Accessibility Label)" = "Yeni Tweet Oluştur";
+
+"Confirm Call In Button: \"OK, Ask to Join\"" = "Tamam, Katılma İsteğinde Bulun";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile and audio will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and hear you. This may include people you’ve blocked on either app.\"" = "•\tProfilin ve sesin bu yayının bir parçası haline gelecek ve %1$@ tekrar yayını silmediği sürece kaldırılamayacak.\n\n•\tScope veya Twitter'da izleyen herkes %1$@ adlı kişinin yayınına katıldığını görecek ve sesini duyacak. Her iki uygulamada engellediğin kişiler buna dahil olabilir.";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile, audio and video will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and see you. This may include people you’ve blocked on either app.\"" = "•\tProfilin, sesin ve videon bu yayının bir parçası haline gelecek ve %1$@ tekrar yayını silmediği sürece kaldırılamayacak.\n\n•\tScope veya Twitter'da izleyen herkes %1$@ adlı kişinin yayınına katıldığını görecek ve seni izleyecek. Her iki uygulamada engellediğin kişiler buna dahil olabilir.";
+
+"Confirm Guest Call-In Instructions Title: \"Good to know...\"" = "Bilmen gerekenler...";
+
+"Connecting to chatroom" = "Sohbet odasına bağlanılıyor";
+
+"Connection Error" = "Bağlantı Hatası";
+
+"Connection too" = "Bağlantı çok";
+
+"Contact Us (action sheet)" = "Bizimle İletişime Geç";
+
+"Contributors" = "Katılımcılar";
+
+"Copy Profile URL" = "Profil Bağlantısını Kopyala";
+
+"Current Star Balance (Stars Profile)" = "Geçerli Yıldız Bakiyesi";
+
+"Current Time (Accessibility Label)" = "Geçerli Süre";
+
+"Dear Periscope Team," = "Sayın Scope Ekibi,";
+
+"Delete Broadcast" = "Yayını Sil";
+
+"Delete Broadcast (action sheet)" = "Yayını Sil";
+
+"Delete Broadcast Now" = "Yayını Şimdi Sil";
+
+"Describe the issue (Report Option)" = "Sorunu açıkla";
+
+"Describe the issue with %@ (Report Option)" = "@%@ ile ilgili sorunu açıkla";
+
+"Describe the issue with @%1$@ at %2$@ (Report Option)" = "@%1$@ ile ilgili %2$@ anındaki sorunu açıkla";
+
+"Describe the issue you are seeing at %@ (Report Option)" = "%@ anında gördüğün sorunu açıkla";
+
+"Direct Message (Compose)" = "Direkt Mesaj";
+
+"Disable Audio Only Broadcast" = "Yalnızca Sesli Yayını Devre Dışı Bırak";
+
+"Disabled for all broadcasts" = "Tüm yayınlar için devre dışı bırakıldı";
+
+"Disabled for this broadcast" = "Bu yayın için devre dışı bırakıldı";
+
+"Discard Changes" = "Değişikliklerden Vazgeç";
+
+"Display Photo (action sheet)" = "Fotoğrafı Göster";
+
+"Dispute Claim (Copyright Violation)" = "İddiaya İtiraz Et";
+
+"Do not notify my followers (Guest Call-In Notify Followers Option)" = "Takipçilerime bildirme";
+
+"Don't Allow Guests (Manage Guest Broadcasters Call-Ins List)" = "Misafirlere İzin Verme";
+
+"Don't Allow Guests (Tooltip)" = "Misafirlere İzin Verme";
+
+"Don't Auto-Delete" = "Otomatik Silme";
+
+"Don't Send (Blocked Modal)" = "Gönderme";
+
+"Done" = "Bitti";
+
+"Done (action sheet)" = "Bitti";
+
+"Double Tap anywhere to Exit Theater Mode (accessibility label)" = "Sinema Modundan Çıkmak için herhangi bir yere İki Kez Dokun";
+
+"Double Tap to <bold>Flip Camera</bold>" = "•|•Kamerayı Çevirmek•|• için çift dokun";
+
+"Double tap to allow or disallow guests (accessibility hint)" = "Misafirlere izin vermek veya vermemek için iki kez dokun";
+
+"Duration (CELL)" = "Süre";
+
+"END (graph)" = "SON";
+
+"ENDED" = "BİTİRİLDİ";
+
+"Edit Broadcast" = "Yayını Düzenle";
+
+"Edit Broadcast (action sheet)" = "Yayını Düzenle";
+
+"Edit Broadcast Unavailable" = "Yayın Düzenleme Özelliği Kullanılamıyor";
+
+"Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured." = "Yayınını düzenlemek, izleyenlere nasıl göründüğünü değiştirecek. Bu değişiklikler, zaten gerçekleşmiş Tweet veya Bildirimleri etkilemeyecek.";
+
+"Enable Audio Only Broadcast" = "Yalnızca Sesli Yayını Etkinleştir";
+
+"Enable Email" = "E-postayı Etkinleştir";
+
+"Enable camera (Permissions Screen)" = "Kamerayı etkinleştir";
+
+"Enable microphone (Permissions Screen)" = "Mikrofonu etkinleştir";
+
+"Enable/Disable Audio Only Broadcast (accessibility hint)" = "Yalnızca Sesli Yayını etkinleştirmek veya devre dışı bırakmak için çift dokun";
+
+"Enable/Disable Audio Only Broadcast (accessibility label)" = "Yalnızca Sesli Yayını Etkinleştir / Devre Dışı Bırak";
+
+"Ended" = "Sona erdi";
+
+"Engaging Chat" = "İlgi Çekici Sohbet";
+
+"Error (ReplayKit)" = "Hata";
+
+"Error accessing audio from microphone." = "Mikrofondan ses alınamıyor.";
+
+"Error accessing history." = "Geçmişe erişim hatası.";
+
+"Error saving video to Camera Roll" = "Video Kamera Rulosuna kaydedilemedi";
+
+"Error setting Amplify Program (title)" = "Amplify Programını ayarlarken hata";
+
+"Every heart you send will be a Super Heart" = "Gönderdiğin tüm kalpler Süper Kalp olacak";
+
+"Everybody can chat" = "Herkes sohbet edebilir";
+
+"FEATURED" = "TANITILAN";
+
+"FOLLOWERS (user profile modal)" = "TAKİPÇİLER";
+
+"FOLLOWING (user profile modal)" = "TAKİP ETTİKLERİ";
+
+"Final List separator" = "ve";
+
+"Fine Control" = "İnce Ayar";
+
+"First Super Heart" = "İlk Süper Kalp";
+
+"Flip Camera (action sheet)" = "Kamerayı Çevir";
+
+"Follow (user modal)" = "Takip et";
+
+"Follow request sent. (chat message)" = "Takip isteği gönderildi.";
+
+"Follow the broadcaster to catch their next broadcast." = "Bir sonraki yayınını kaçırmamak için yayıncıyı takip et.";
+
+"Follow •|•%@•|• to catch their next broadcast" = "Bir sonraki yayınını kaçırmamak için takip et: •|•%@•|•";
+
+"Followed by %1$@ and %2$@" = "%1$@ ve %2$@ takip ediyor";
+
+"Followed by %1$@, %2$@, %3$@ and %4$i others" = "%1$@, %2$@, %3$@ ve %4$i kişi daha takip ediyor";
+
+"Followed by %1$@, %2$@, and %3$@" = "%1$@, %2$@ ve %3$@ takip ediyor";
+
+"Followed by %@" = "%@ takip ediyor";
+
+"Followers button (accessibility hint)" = "Takipçileri görüntülemek için çift dokun.";
+
+"Following (user modal)" = "Takip Ediliyor";
+
+"Following button (accessibility hint)" = "Takip edilen kullanıcıları görüntülemek için çift dokun.";
+
+"Front Camera (accessibility hint)" = "Arka Kameraya geçiş yapmak için çift dokun";
+
+"Front Camera (accessiblity value)" = "Ön Kamera";
+
+"Get Coins" = "Jeton Al";
+
+"Give Super Hearts (menu button)" = "Süper Kalp Ver";
+
+"Go LIVE" = "CANLI yayına geç";
+
+"Go LIVE to %@" = "%@ grubunda CANLI yayına geç";
+
+"Go LIVE together (Guest Broadcasting Modal Title)" = "Birlikte CANLI yayına geç";
+
+"Go to Twitter Profile" = "Twitter Profiline git";
+
+"Good Viewer Count" = "İyi İzleyici Sayısı";
+
+"Got It (Button Title)" = "Anladım";
+
+"Got it (Copyright Violation)" = "Anladım";
+
+"Got it (ReplayKit)" = "Anladım";
+
+"Got it!" = "Anladım!";
+
+"Guest Action Sheet Report Item" = "Bildir";
+
+"Guest Call In Choice Label: \"Camera and microphone\"" = "Kamera ve mikrofon";
+
+"Guest Call In Choice Label: \"Microphone only\"" = "Yalnızca mikrofon";
+
+"Guest Call-In Audio Only Permissions Subtitle beneath Title: \"Enable microphone to become a guest\"" = "Misafir olmak için mikrofonu etkinleştir";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request. Learn more\"" = "Yayıncı isteğini kabul ettiğinde katılacaksın. •|•Daha fazla bilgi•|•";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request.\"" = "Yayıncı isteğini kabul ettiğinde katılacaksın.";
+
+"Guest Call-In Instructions Title: \"Ask to Join\"" = "Katılma İsteğinde Bulun";
+
+"Guest Call-In Instructions Title: \"Join as a guest\"" = "Misafir olarak katıl";
+
+"Guest Call-In Permissions Subtitle beneath Title: \"Enable camera and microphone to become a guest\"" = "Misafir olmak için kamera ve mikrofonu etkinleştir";
+
+"Guest Call-In Permissions Title: \"Guest setup\"" = "Misafir ayarı";
+
+"Guest List (Manage Guest Callers Page Title)" = "Misafir Listesi";
+
+"Guest Was Banned Chat Message (Periscope)" = "•|•@%@•|• bildirildi, Scope tarafından incelendi ve Topluluk Kuralları'nı ihlal ettiği belirlendi.";
+
+"Guest Was Banned Chat Message (Twitter)" = "•|•@%@•|• bildirildi, Twitter tarafından incelendi ve Twitter Kuralları'nı ihlal ettiği belirlendi.";
+
+"Guests Not Allowed (Manage Guest Broadcasters Call-Ins List)" = "Misafirlere İzin Verilmiyor";
+
+"Guests can now ask to join. Use this icon to add or remove guests at any time. (Guest Broadcasting Enabled Prompt)" = "Misafirler artık katılma isteğinde bulunabilir. Dilediğin zaman misafir eklemek veya kaldırmak için bu simgeyi kullanabilirsin.";
+
+"HEART" = "KALP";
+
+"HEARTS" = "KALP";
+
+"Half-Speed" = "Yarı Hız";
+
+"Hang Up (Guest Calling Menu)" = "Kapat";
+
+"Hang Up (Manage Guest Call-Ins Action Sheet)" = "Kapat";
+
+"Hang Up Button Label: \"Hang Up\"" = "Kapat";
+
+"Hang Up Subtitle (Audio Only): \"Stop sharing microphone\"" = "Mikrofon paylaşımını durdur";
+
+"Hang Up Subtitle (Camera + Microphone): \"Stop sharing camera and microphone\"" = "Kamera ve mikrofon paylaşımını durdur";
+
+"Hang Up on Guest or Cancel Guest From Joining" = "Konuğu Beklet veya Konuğun Katılımını İptal Et";
+
+"Hang up" = "Beklet";
+
+"Harassment" = "Taciz";
+
+"Hateful Conduct (Report Option)" = "Nefret Davranışı";
+
+"Heart Sent (accessiblity announcement)" = "Kalp Gönderildi";
+
+"Hearts & Chats off" = "Kalpler ve Sohbet kapalı";
+
+"Hearts & Chats on" = "Kalpler ve Sohbet açık";
+
+"Help us moderate this comment..." = "Bu yorumu sınıflandırmamıza yardımcı ol...";
+
+"Help us understand the problem.\nWhat issue with @%@ are you reporting?" = "Sorunu anlamamıza yardım et.\n@%@ adlı kişiyi hangi sorundan dolayı bildiriyorsun?";
+
+"Hide Broadcast" = "Yayını gizle";
+
+"Hide everything except video (action sheet)" = "Video dışında her şeyi gizle";
+
+"History (profile view title)" = "Geçmiş";
+
+"History button (accessibility hint)" = "Yakın tarihli yayınları görüntülemek için çift dokun.";
+
+"How can we improve?" = "Kendimizi nasıl geliştirebiliriz?";
+
+"How was your broadcasting experience?" = "Yayın deneyimin nasıldı?";
+
+"I'm Not Interested in @%@" = "@%@ İlgimi Çekmiyor";
+
+"If this broadcast depicts pornography or sexual acts, please tap below. (Report Sexual Content Modal)" = "Bu yayın pornografi veya cinsel eylemler sergiliyorsa, lütfen aşağıya dokun.";
+
+"If you believe that this broadcast places a child at risk, please tap below. (Report Child Safety Modal)" = "Eğer bu yayının bir çocuğu risk altında bıraktığına inanıyorsan, lütfen aşağıya dokun.";
+
+"If you believe this broadcast contains violence or someone is being physically threatened, please tap below. (Report Violence Modal)" = "Bu yayının şiddet içerdiğine veya birinin fiziksel tehdit altında olduğuna inanıyorsan, lütfen aşağıya dokun.";
+
+"If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Bu yayının korumalı bir kategoriye (ör. ırk, din, cinsiyet, yönelim, engelli olma hâli) karşı nefret söylemi içerdiğini düşünüyorsan, lütfen aşağıya dokun.";
+
+"If you believe this broadcast exposes private information, please tap below. (Report Private Information Modal)" = "Bu yayında gizli bilgi ifşa edildiğini düşünüyorsan, lütfen aşağıya dokun.";
+
+"If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below. (Report Harassment Modal)" = "Bu yayında birinin taciz edildiğini, tehdit edildiğini veya sesini çıkarmasını engellemek için korkutulduğunu düşünüyorsan, lütfen aşağıya dokun.";
+
+"If you believe this guest is contemplating or encouraging suicide or self harm, please tap below. (Report Self Harm Modal)" = "Bu misafirin intihar etmeyi veya kendine zarar vermeyi düşündüğünü ya da başkalarını buna teşvik ettiğini düşünüyorsan, lütfen aşağıya dokun.";
+
+"If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Bu misafirin korumalı bir kategoriye (ör. ırk, din, cinsiyet, yönelim, engelli olma hâli) karşı nefret söyleminde bulunduğunu düşünüyorsan, lütfen aşağıya dokun.";
+
+"If you believe this guest is exposing private information, please tap below. (Report Private Information Modal)" = "Bu misafirin gizli bilgi ifşa ettiğini düşünüyorsan, lütfen aşağıya dokun.";
+
+"If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below. (Report Harassment Modal)" = "Bu misafirin birini taciz ettiğini, tehdit ettiğini veya sesini çıkarmasını engellemek için korkuttuğunu düşünüyorsan, lütfen aşağıya dokun.";
+
+"If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below. (Report Violence Modal)" = "Bu misafirin özel olarak fiziksel güvenlik ve sağlıkla ilgili şiddet içeren tehditlerde bulunduğunu düşünüyorsan, lütfen aşağıya dokun.";
+
+"If you believe this guest is sharing content that places a child at risk, please tap below. (Report Child Safety Modal)" = "Bu misafirin bir çocuğu risk altında bırakan içerik paylaştığını düşünüyorsan, lütfen aşağıya dokun.";
+
+"If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below. (Report Sexual Content Modal)" = "Bu misafirin pornografi gibi uygunsuz cinsel içerik paylaştığını düşünüyorsan, lütfen aşağıya dokun.";
+
+"If you believe this individual is contemplating suicide or self harm, please tap below. (Report Self Harm Modal)" = "Bu kişinin intihar ettiğine veya kendine zarar verdiğine inanıyorsan, lütfen aşağıya dokun.";
+
+"If you delete this broadcast, you will lose the stars that you received. This cannot be undone." = "Bu yayını silersen aldığın yıldızları kaybedeceksin. Bu işlem geri alınamaz.";
+
+"Initializing video stream..." = "Video akışı başlatılıyor...";
+
+"Invite Guests (Manage Guest Broadcasters Call-Ins List)" = "Misafir Davet Et";
+
+"Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "İzleyicilerini misafir olarak yayınlarına davet et. Misafirlerin sesi herkes tarafından duyulur ve onları dilediğin zaman ekleyebilir veya kaldırabilirsin.";
+
+"Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "İzleyicilerini misafir olarak yayınlarına davet et. Herkes tarafından görülür ve duyulurlar, ancak onları dilediğin zaman ekleyebilir veya kaldırabilirsin.";
+
+"Join as a Guest (Guest Calling Menu)" = "Misafir Olarak Katıl";
+
+"Joined %@" = "%@ tarihinde katıldı";
+
+"Joining as a guest... (Guest Call-In Countdown Screen Title)" = "Misafir olarak katılıyor...";
+
+"Keep broadcasting to collect more stars!" = "Daha fazla yıldız toplamak için yayına devam et!";
+
+"Keep stars received" = "Alınan yıldızlar tutulur";
+
+"LIVE" = "CANLI";
+
+"LIVE VIEWER" = "CANLI İZLEYİCİ";
+
+"LIVE VIEWERS" = "CANLI İZLEYİCİ";
+
+"LIVE Video (Broadcast Audience)" = "CANLI Video";
+
+"LIVE on #Periscope" = "#Scope'ta CANLI";
+
+"LIVE on #Periscope: %@" = "#Scope'ta CANLI: %@";
+
+"LOADING" = "YÜKLENİYOR";
+
+"LOST CONNECTION" = "BAĞLANTI KESİLDİ";
+
+"Later (alert view)" = "Daha Sonra";
+
+"Learn More" = "Daha Fazla Bilgi Al";
+
+"Learn More (Stars Profile)" = "Daha Fazla Bilgi Al";
+
+"Leave Broadcast" = "Yayından Ayrıl";
+
+"Limited by Broadcaster" = "Yayıncının sınırladığı";
+
+"Limited for %@" = "%@ boyunca sınırlı";
+
+"List separator" = ",";
+
+"Live Time Watched (CELL)" = "Canlı İzleme Süresi";
+
+"Live watch time per minute tooltip" = "Bu yayının canlı olduğu her dakikada izleyiciler onu izlemek üzere toplamda %@ ayırdı.";
+
+"Loading History." = "Geçmiş Yükleniyor.";
+
+"Loading followers" = "Takipçiler yükleniyor";
+
+"Loading following" = "Takip edilenler yükleniyor";
+
+"Loading history" = "Geçmiş yükleniyor";
+
+"Loading your followers" = "Takipçileriniz yükleniyor";
+
+"Loading your following" = "Takip ettikleriniz yükleniyor";
+
+"Location Permissions Required" = "Konum İzinleri Gereklidir";
+
+"Location Unknown" = "Konum Bilinmiyor";
+
+"Logged Out" = "Çıkış Yapıldı";
+
+"Login Error (ReplayKit)" = "Giriş Gerekli";
+
+"Login Error Instructions (ReplayKit)" = "Giriş yapmak için lütfen Scope uygulamasını aç. Ardından yayınını başlatmak için buraya dön.";
+
+"Looks OK" = "Sorunsuz görünüyor";
+
+"Looks like the connection was lost. Reconnecting... (Toast)" = "Bağlantı kopmuş gibi görünüyor. Tekrar bağlanılıyor...";
+
+"Lose stars received" = "Alınan yıldızlar kaybedilir";
+
+"Low Viewer Count" = "Düşük İzleyici Sayısı";
+
+"Low disk space. A portion of this broadcast will not be available for replay later." = "Düşük disk alanı. Bu yayının bir bölümü tekrar gösterim için daha sonra kullanılmayacak.";
+
+"Majority voted <destructive emphasis> Abuse </destructive emphasis>\nThe commenter's chat has been limited." = "Çoğunluğun oyu: •|• Taciz içerikli •|•\nYorumcunun sohbet özelliği sınırlandırıldı.";
+
+"Majority voted <destructive emphasis> Looks OK  </destructive emphasis>" = "Çoğunluğun oyu •|• Sorunsuz görünüyor •|•";
+
+"Majority voted <destructive emphasis> Not Sure </destructive emphasis>" = "Çoğunluğun oyu •|• Emin Değilim •|•";
+
+"Majority voted <destructive emphasis> Spam </destructive emphasis>\nThe commenter's chat has been limited." = "Çoğunluğun oyu: •|• Spam •|•\nYorumcunun sohbet özelliği sınırlandırıldı.";
+
+"Makes broadcast visible to everyone" = "Yayını herkese görünür kılar";
+
+"Makes broadcast visible to invited viewers" = "Yayını davet edilen izleyicilere görünür kılar";
+
+"Manage details about your Broadcast (menu subtitle)" = "Yayınınla ilgili ayrıntıları yönet";
+
+"Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen." = "Buna benzer sıklıkta mesaj gönderdiğin için engellendin. Birçok kez engellendiysen, yorumların artık görünmez.";
+
+"Million Decimal Abbreviation" = "%.1f MN";
+
+"Million Integer Abbreviation" = "%d Mn";
+
+"Moderation Modal Button Label" = "Tamam, anlıyorum";
+
+"Moderation Modal Example Label" = "ÖRNEK";
+
+"Moderation Modal Example Message" = "Sorgulamaya açık mesaj...";
+
+"Moderation Modal Settings Label" = "Bunu ayarlarda kapatabilirsin.";
+
+"Moderation Modal Subtitle" = "•|•TACİZ•|• veya •|•SPAM•|• olup olmadığını hızlıca belirleyerek bir yorumun moderasyonunu yapmanı zaman zaman rica edeceğiz. Moderasyon anonimdir.";
+
+"Moderation Modal Title" = "Moderasyon";
+
+"Moderator Actions" = "Moderatör Eylemleri";
+
+"Moderator Actions (%@)" = "Moderatör Eylemleri (%@)";
+
+"Moderator •|•%@•|• joined" = "•|•%@•|• adlı moderatör katıldı";
+
+"ModeratorName muted this message (Message Carousel)" = "•|•%@•|• bu mesajı sessize aldı";
+
+"Monetize Broadcast" = "Yayını Gelire Dönüştür";
+
+"Monetize Broadcast (expanded cell title)" = "Yayını Gelire Dönüştür";
+
+"Monetize Broadcast (minimized cell title)" = "Yayını Gelire Dönüştür ▾";
+
+"More (following/followers)" = "Tane Daha";
+
+"Mute" = "Sessize al";
+
+"Mute (accessibility label)" = "Sessize Al";
+
+"Mute User" = "Kullanıcıyı Sessize Al";
+
+"Mute User Notifications" = "Kullanıcı Bildirimlerini Sessize Al";
+
+"Muted by Moderator" = "Moderatör tarafından sessize alındı";
+
+"NEW" = "YENİ";
+
+"NO LIVE VIEWERS" = "CANLI İZLEYİCİ YOK";
+
+"NO REPLAY VIEWERS" = "TEKRAR GÖSTERİM İZLEYİCİSİ YOK";
+
+"New Broadcaster Education: 3 Guest Limit" = "Aynı anda en fazla 3 misafirin olabilir.";
+
+"New Tweet (Compose)" = "Yeni Tweet";
+
+"No history." = "Geçmiş yok.";
+
+"No one has asked to join yet. Tap to invite your viewers to join. (Empty Manage Guest Broadcasters Call-Ins List)" = "Henüz kimse katılma isteğinde bulunmadı.\n\nİzleyicilerini katılmaya davet etmek için dokun.";
+
+"No one is following you." = "Seni kimse takip etmiyor.";
+
+"No, stop broadcasting (Copyright Violation)" = "Hayır, yayını durdur";
+
+"Not Sure" = "Emin Değilim";
+
+"Not followed by anyone you're following" = "Takip ettiğin kimse tarafından takip edilmiyor";
+
+"Notifications (accessiblity label)" = "Bildirimler";
+
+"Notifications OFF" = "Bildirimler KAPALI";
+
+"Notifications ON" = "Bildirimler AÇIK";
+
+"Notifications Off (accessibility hint)" = "Bu kullanıcıdan gelen bildirimleri etkinleştirmek için çift dokun.";
+
+"Notifications Off (accessibility value)" = "Kapalı";
+
+"Notifications On (accessibility hint)" = "Bu kullanıcıdan gelen bildirimleri devre dışı bırakmak için çift dokun.";
+
+"Notifications On (accessibility value)" = "Açık";
+
+"Notify my followers (Guest Call-In Notify Followers Option)" = "Takipçilerime bildir";
+
+"OK, Got It" = "Tamam, Anladım.";
+
+"Offensive Guest (Report Option)" = "Saldırgan Misafir";
+
+"Okay (Report Broadcast Modal)" = "Tamam";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Bir veya daha fazla yorumun TACİZ nedeniyle gizlendi. Tüm yayınlar için yorum özelliği devre dışı bırakıldı.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast." = "Bir veya daha fazla yorumun TACİZ nedeniyle gizlendi. Bu yayın için yorum özelliği devre dışı bırakıldı.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Bir veya daha fazla yorumun TACİZ nedeniyle gizlendi. Tüm yayınlar için yorum özelliği geçici olarak sınırlandırıldı.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited." = "Bir veya daha fazla yorumun TACİZ nedeniyle gizlendi. Yorum özelliği geçici olarak sınırlandırıldı.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts." = "Bir veya daha fazla yorumun SPAM nedeniyle gizlendi. Tüm yayınlar için yorum özelliği devre dışı bırakıldı.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast." = "Bir veya daha fazla yorumun SPAM nedeniyle gizlendi. Bu yayın için yorum özelliği devre dışı bırakıldı.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Bir veya daha fazla yorumun SPAM nedeniyle gizlendi. Tüm yayınlar için yorum özelliği geçici olarak sınırlandırıldı.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited." = "Bir veya daha fazla yorumun SPAM nedeniyle gizlendi. Yorum özelliği geçici olarak sınırlandırıldı.";
+
+"One or more of your comments was hidden. Commenting is disabled for all broadcasts." = "Bir veya daha fazla yorumun gizlendi. Tüm yayınlar için yorum özelliği devre dışı bırakıldı.";
+
+"One or more of your comments was hidden. Commenting is disabled for this broadcast." = "Bir veya daha fazla yorumun gizlendi. Bu yayın için yorum özelliği devre dışı bırakıldı.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts." = "Bir veya daha fazla yorumun gizlendi. Tüm yayınlar için yorum özelliği geçici olarak sınırlandırıldı.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited." = "Bir veya daha fazla yorumun gizlendi. Yorum özelliği geçici olarak sınırlandırıldı.";
+
+"One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast." = "Bir veya daha fazla yorumun bir moderatör tarafından sessize alındı. Bu yayın için yorum özelliği devre dışı bırakıldı.";
+
+"Only available in Periscope" = "Yalnızca Scope'ta kullanılabilir";
+
+"Only public broadcasts counted" = "Yalnızca herkese açık yayınlar sayıldı";
+
+"Only users you follow can chat" = "Yalnızca takip ettiğiniz kullanıcılar sohbet edebilir";
+
+"Only you can see your hidden broadcasts (menu subtitle)" = "Gizlediğin yayınlarını yalnızca sen görebilirsin";
+
+"Other Reason (Report Option)" = "Diğer Sebep";
+
+"Other Reason \n e.g. Foreign Language" = "Farklı bir neden•|•\nörn. Yabancı Dil•|•";
+
+"Our apologies for the inconvenience." = "Bu durumdan dolayı özür dileriz.";
+
+"POOR CONNECTION" = "ZAYIF BAĞLANTI";
+
+"POSSIBLY NSFW (Interstitial)" = "UYGUNSUZ İÇERİK OLABİLİR";
+
+"Pause (accessibility label)" = "Duraklat";
+
+"Peak (graph label)" = "Tepe";
+
+"Periscope App Feedback" = "Scope Uygulaması Geri Bildirimi";
+
+"Periscope account is required." = "Scope hesabı gereklidir.";
+
+"Periscope is discontinuing on •|•%@•|•" = "Scope •|•%@•|• tarihinden itibaren devam etmeyecek";
+
+"Play (accessibility label)" = "Oynat";
+
+"Please allow some time for all transactions to be posted." = "Lütfen tüm işlemlerin gönderilmesi için biraz bekle.";
+
+"Positive Community" = "Pozitif Topluluk";
+
+"Post to Twitter (accessibility hint)" = "Ayar değiştirmek için çift dokun.";
+
+"Post to Twitter (accessibility label)" = "Twitter'da Paylaş";
+
+"Posting to Twitter OFF" = "Twitter'a Gönderme KAPALI";
+
+"Posting to Twitter as @%@" = "Twitter'a @%@ olarak gönderiliyor";
+
+"Precise Location Sharing OFF" = "Hassas Konum Paylaşımı KAPALI";
+
+"Precise Location Sharing ON" = "Hassas Konum Paylaşımı AÇIK";
+
+"Private (Broadcast Audience)" = "Özel";
+
+"Private Information (Report Option)" = "Gizli Bilgi";
+
+"Profile (accessibility label)" = "Profil";
+
+"Profile URL copied" = "Profil Bağlantısı kopyalandı";
+
+"Public (Broadcast Audience)" = "Herkese Açık";
+
+"Public Hidden (Broadcast Audience)" = "Herkese Açık (Gizli)";
+
+"Quarter-Speed" = "Çeyrek Hız";
+
+"RECENT (user profile modal)" = "SON";
+
+"REPLAY VIEWER" = "TEKRAR GÖSTERİM İZLEYİCİSİ";
+
+"REPLAY VIEWERS" = "TEKRAR GÖSTERİM İZLEYİCİSİ";
+
+"Ready to give Super Hearts!" = "Süper Kalp vermeye hazırsın!";
+
+"Received in: (History)" = "Alındı: \"%@\"";
+
+"Received stars (History)" = "Yıldız alındı.";
+
+"Release to <bold>Leave</bold> (broadcasting)" = "•|•Ayrılmak•|• için bırak";
+
+"Release to <bold>Leave</bold> (watching)" = "•|•Ayrılmak•|• için bırak";
+
+"Release to Refresh" = "Yenilemek için bırak";
+
+"Remove" = "Kaldır";
+
+"Remove Amplify Program" = "Amplify Programını Kaldır";
+
+"Remove Amplify Program (cell title)" = "Amplify Programını Kaldır";
+
+"Remove Location" = "Konumu Kaldır";
+
+"Remove at least 1 character from your title to make room for #(example hashtag)" = "%@ için yer açmak üzere başlığından en az 1 karakter çıkar";
+
+"Remove at least X characters from your title to make room for #(example hashtag)" = "%@ için yer açmak üzere başlığından en az %lu karakter çıkar";
+
+"Replay Time Watched (CELL)" = "Yeniden Oynatma İzleme Süresi";
+
+"Replay Unavailable" = "Tekrar Oynatma Kullanılamıyor";
+
+"Replay watch time per minute tooltip" = "Bu yayının canlı olduğu her dakikada izleyiciler onu izlemek üzere toplamda %@ ayırdı.";
+
+"Reply" = "Yanıtla";
+
+"Report @<guest's username> (Report Guest Modal)" = "@%@ adlı kişiyi bildir";
+
+"Report Abusive Behavior (Report Abusive Behavior Modal)" = "Taciz İçeren Davranış";
+
+"Report Abusive Profile" = "Taciz İçeren Profil Bildir";
+
+"Report As Spam" = "Spam Olarak Bildir";
+
+"Report Broadcast (Report Broadcast Modal)" = "Yayını Bildir";
+
+"Report Child Safety (Report Child Safety Modal)" = "Çocuk Güvenliği";
+
+"Report Comment" = "Yorumu Bildir";
+
+"Report Hateful Conduct (Report Hateful conduct Modal)" = "Nefret Davranışı";
+
+"Report Private Information (Report Private Information Modal)" = "Gizli Bilgi";
+
+"Report Self-Harm (Report Self Harm Modal)" = "Kendine Zarar Verme";
+
+"Report Sexual Content (Report Sexual Content Modal)" = "Cinsel İçerik";
+
+"Report User" = "Kullanıcıyı Bildir";
+
+"Report Violence (Report Violence Modal)" = "Şiddet";
+
+"Reporting is anonymous and will hide the user's comments (just for you)." = "Bildirme anonimdir ve kullanıcının yorumlarını (yalnızca senin için) gizler.";
+
+"Restrict Chat (accessibility hint)" = "Takip ettiğin kullanıcılarla sohbet etmeyi kısıtlamak ya da kısıtlamayı kaldırmak için çift dokun.";
+
+"Restrict Chat (accessibility label)" = "Sohbeti Kısıtla";
+
+"Return to Summary (accessibility hint)" = "Kullanıcı özetine dönmek için çift dokun.";
+
+"Retweet" = "Retweetle";
+
+"Save Changes" = "Değişiklikleri Kaydet";
+
+"Save To Camera Roll" = "Kamera Rulosuna Kaydet";
+
+"Save To Camera Roll Unavailable" = "Kamera Rulosuna Kaydet İşlevi Kullanılamıyor";
+
+"Saved To Camera Roll" = "Kamera Rulosuna Kaydedildi";
+
+"Saved!" = "Kaydedildi!";
+
+"Saving..." = "Kaydediliyor...";
+
+"Say something..." = "Bir şeyler söyle...";
+
+"Scroll for Old Comments" = "Eski Yorumlar İçin Kaydır";
+
+"Scroll to Bottom" = "En Alta Kaydır";
+
+"Self-Harm (Report Option)" = "Kendine Zarar Verme";
+
+"Send (accessibility label)" = "Gönder";
+
+"Send Message (Blocked Modal)" = "Mesaj Gönder";
+
+"Send people a notification to join this broadcast. Mutuals are people you follow that follow you back." = "İnsanlara bu yayına katılmaları için bir bildirim gönder. Karşılıklı takipçiler, takip ettiğin ve aynı zamanda seni takip eden kişilerdir.";
+
+"Sent for payment processing (History)" = "Ödeme işleme için gönderildi.";
+
+"Separator between two names" = "ve";
+
+"Set Amplify Program" = "Amplify Programını Ayarla";
+
+"Setting the broadcast Amplify Program to •|•%@•|• will publish a new Tweet." = "Yayın Amplify Programını %@ olarak ayarladığında yeni bir Tweet gönderilir.";
+
+"Settings (app)" = "Ayarlar";
+
+"Sexual Content (Report Option)" = "Cinsel İçerik";
+
+"Sexually Inappropriate \n Obscene or unwanted sexual remarks" = "Cinsel Olarak Uygunsuz•|•\nMüstehcen veya istenmeyen cinsel ifadeler•|•";
+
+"Share Broadcast" = "Yayını Paylaş";
+
+"Share From" = "Şuradan İtibaren Paylaş:";
+
+"Share From %@" = "Şuradan İtibaren Paylaş: %@";
+
+"Share From Beginning" = "Başından İtibaren Paylaş";
+
+"Share Live" = "Canlı Paylaş";
+
+"Share Twitter Tooltip (explaining that the feature is disabled while guests are enabled)" = "Misafirli yayınlar için devre dışı bırakıldı";
+
+"Share precise location (accessibility label)" = "Hassas konum paylaşımı";
+
+"Share request sent. (chat message)" = "Paylaşım isteği gönderildi.";
+
+"Share screenshot and broadcast" = "Ekran görüntüsünü ve yayını paylaş";
+
+"Share this broadcast so your followers don't miss it." = "Bu yayını kaçırmamaları için takipçilerinizle paylaşın.";
+
+"Share via..." = "Paylaşma aracı…";
+
+"Show Stats (cell)" = "İstatistikleri Göster";
+
+"Skip" = "Atla";
+
+"Sorry, that action could not be completed because you have been blocked." = "Üzgünüz, engellendiğin için bu eylem tamamlanamıyor.";
+
+"Sorry, that action could not be completed because you have reached the block limit." = "Üzgünüz, engelleme sınırına ulaştığın için bu eylem tamamlanamıyor.";
+
+"Sorry, that action could not be completed because you have reached the follow limit." = "Üzgünüz, takip etme sınırına ulaştığın için bu eylem tamamlanamıyor.";
+
+"Sorry, the broadcast is too full..." = "Üzgünüz, yayın çok dolu...";
+
+"Sorry, this broadcast is unavailable" = "Üzgünüz, bu yayın mevcut değil";
+
+"Sorry, we couldn't load the broadcast share URL. Please try again." = "Üzgünüz, yayın paylaşma bağlantısını yükleyemedik. Lütfen tekrar dene.";
+
+"Sorry, we couldn't save your changes. Please try again." = "Üzgünüz, değişikliklerini kaydedemedik. Lütfen tekrar dene.";
+
+"Sorry, we encountered an error blocking some users. Please try again." = "Üzgünüz, bazı kullanıcılar engellenirken bir hata oluştu. Lütfen yeniden dene.";
+
+"Sorry, we encountered an error blocking that user. Please try again." = "Üzgünüz, ilgili kullanıcıyı engelleme hatası oluştu. Lütfen yeniden deneyin.";
+
+"Sorry, we encountered an error loading user data. Please try again." = "Üzgünüz, veriler yüklenirken bir hatayla karşılaştık. Lütfen tekrar dene.";
+
+"Sorry, we encountered an error loading your broadcasts. Please try again." = "Üzgünüz, yayınların yüklenirken bir hatayla karşılaştık. Lütfen yeniden dene.";
+
+"Sorry, we encountered an error reporting this broadcast. Please try again." = "Üzgünüz, bu yayını bildirme hatası oluştu. Lütfen yeniden deneyin.";
+
+"Sorry, we encountered an error reporting this guest. Please try again." = "Üzgünüz, bu misafir bildirilirken hata oluştu. Lütfen yeniden dene.";
+
+"Sorry, we've encountered a loading error. Please try again." = "Üzgünüz, bir yükleme hatası oluştu. Lütfen yeniden deneyin.";
+
+"Sorry, you've done that too many times. Try again in a few minutes." = "Üzgünüz, bunu çok sayıda yaptın. Birkaç dakika içinde yeniden dene.";
+
+"Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv" = "Üzgünüz, bir yükleme hatası (421 - selector) ile karşılaştın. Lütfen help@pscp.tv ile iletişim kur.";
+
+"Sorry, you've encountered a loading error (421). Please email help@pscp.tv" = "Üzgünüz, bir yükleme hatası (421 - selector) ile karşılaştın. Lütfen help@pscp.tv ile iletişim kur.";
+
+"Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later." = "Üzgünüz, İnternet bağlantın yeni bir yayın küçük resmi yüklemeye yetecek kadar güçlü değil. Lütfen daha sonra yeniden dene.";
+
+"Spam" = "Spam";
+
+"Spam in Chat" = "Sohbette Spam";
+
+"Star & Cash Outs History (Stars Profile)" = "Yıldız ve Paraya Çevirme Geçmişi";
+
+"Star History (Stars Profile)" = "Yıldız Geçmişi";
+
+"Star balance adjustment. Contact superhearts@pscp.tv if you have any questions. (History)" = "Yıldız bakiyesi ayarlaması. Soruların varsa superhearts@pscp.tv adresinden iletişime geçebilirsin.";
+
+"Stars (profile view title)" = "Yıldızlar";
+
+"Stars (profile)" = "Yıldızlar";
+
+"Start Point" = "Başlangıç Noktası";
+
+"Start Sketching (action sheet)" = "Çizmeye Başla";
+
+"Stop Broadcast" = "Yayını Durdur";
+
+"Submit" = "Gönder";
+
+"Success! You've unmuted @%@" = "Başarılı! @%@ adlı kullanıcıyı sessize aldın";
+
+"Successfully set Amplify Program (title)" = "Amplify Programı başarıyla ayarlandı";
+
+"Suggested user is watching singlular" = "%@•|• şu anda izliyor•|•";
+
+"Suggested users are watching plural" = "%ld arkadaş•|• şu anda izliyor•|•";
+
+"Super Broadcaster (Stars Profile)" = "Süper Yayıncı";
+
+"Super Broadcaster Program" = "Süper Yayıncı Programı";
+
+"Super Heart Terms" = "Süper Kalp Şartları";
+
+"Super Hearts" = "Süper Kalpler";
+
+"Super Hearts OFF" = "Süper Kalpler KAPALI";
+
+"Super Hearts ON" = "Süper Kalpler AÇIK";
+
+"Swipe down to <bold>Stop</bold>" = "•|•Durdurmak•|• için aşağı kaydır";
+
+"Tap anyhwhere to <bold>Exit Theater Mode</bold>" = "•|•Sinema Modundan Çıkmak•|• için herhangi bir yere dokun";
+
+"Tap this icon to join Broadcaster's broadcast as a guest. (Viewer Prompt to Call-In)" = "•|•%@•|• adlı kişinin yayınına misafir olarak katılmak için bu simgeye dokun.";
+
+"Thank You (Report Broadcast Confirmation Modal)" = "Teşekkürler";
+
+"Thank you for your report" = "Bildirimin için teşekkürler";
+
+"Thank you for your report (Chat Prompt)" = "Bildirimin için teşekkürler";
+
+"Thank you for your report." = "Bildirimin için teşekkürler.";
+
+"Thank you. You won't see any more messages from •|•@%@•|• in this broadcast." = "Teşekkürler. Bu yayında •|•@%@•|• kullanıcının başka bir mesajını görmeyeceksin.";
+
+"Thanks %@!" = "Teşekkürler %@!";
+
+"Thanks for your feedback!" = "Geri bildirimin için teşekkürler!";
+
+"The broadcaster blocked you in response to this message." = "Yayıncı bu mesaja yanıt olarak seni engelledi.";
+
+"The broadcaster has limited chat." = "Yayıncı sohbeti sınırladı.";
+
+"The broadcaster has the ability to remove people from their broadcasts." = "Yayıncı, kişileri kendi yayınlarından kaldırma özelliğine sahip.";
+
+"The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•." = "Jeton mağazası kapandı. Jetonun varsa •|•%@•|• tarihinden önce favori yayıncılarına Süper Kalp göndermek için kullan.";
+
+"Theater Mode (action sheet)" = "Sinema Modu";
+
+"Their name, bio, or profile image violates the Community Guidelines" = "İsmi, kişisel bilgileri veya profil resmi Topluluk Kuralları'nı ihlal ediyor";
+
+"There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat." = "Bunu şu anda izleyen pek çok kişi var! Yayıncıya gönderilen mesajları sınırlamak amacıyla yalnızca önceden katılanlar sohbet edebilir.";
+
+"There was an error adding @username as a guest. Please try again." = "@%@ misafir olarak eklenirken bir hata oluştu. Lütfen yeniden dene.";
+
+"There was an error adding you as a guest. We've notified Broadcaster, and will alert you if we're able to try again." = "Misafir olarak eklenirken bir hata oluştu. %@ adlı kişiye bildirim gönderdik, yeniden deneyebilirsek seni bilgilendireceğiz.";
+
+"There was an error allowing guests. Please try again." = "Misafirlere izin verilirken bir hata oluştu. Lütfen yeniden dene.";
+
+"There was an error cancelling your request. Please try again." = "İsteğin iptal edilirken bir hata oluştu. Lütfen yeniden dene.";
+
+"There was an error cancelling. Please try again." = "İptal edilirken bir hata oluştu. Lütfen yeniden dene.";
+
+"There was an error disallowing guests. Please try again." = "Misafirlere izin verilmeme sırasında bir hata oluştu. Lütfen yeniden dene.";
+
+"There was an error inviting guests. Please try again." = "Misafirler davet edilirken bir hata oluştu. Lütfen yeniden dene.";
+
+"There was an error muting or un-muting @username. Please try again." = "@%@ sessize alınırken veya sesi açılırken bir hata oluştu. Lütfen yeniden dene.";
+
+"There was an error muting or un-muting you. Please try again." = "Sessize alınırken veya sesin açılırken bir hata oluştu. Lütfen yeniden dene.";
+
+"There was an error removing your guest @username. Please try again." = "@%@ adlı misafirin kaldırılırken bir hata oluştu. Lütfen yeniden dene.";
+
+"There was an error sending your request to join as a guest. Please try again." = "Misafir olarak katılma isteğin gönderilirken bir hata oluştu. Lütfen yeniden dene.";
+
+"There was an error updating the settings (conversation controls and mentioned users). Please try again." = "Ayarlar güncellenirken bir sorun oluştu (sohbet kontrolleri ve bahsedilen kullanıcılar). Lütfen tekrar deneyin.";
+
+"There was an error updating the settings (locked/unlocked). Please try again." = "Ayarlar güncellenirken bir hata oluştu (kilitli / kilidi açık). Lütfen tekrar dene.";
+
+"This broadcast is no longer available." = "Bu yayın artık kullanılamıyor.";
+
+"This broadcast isn’t available (Copyright Violation)" = "Bu yayın kullanılamıyor";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}." = "Bu yayıncı, telif hakkı %2$@ adlı kişiye ait bir çalışma olan “%1$@” ile eşleşiyor. •|•Daha fazla bilgi•|•";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}. Do you have all rights necessary to broadcast this video on Twitter?" = "Bu yayın, telif hakkı  %2$@ adlı kullanıcıya ait bir çalışma olan “%1$@” ile eşleşiyor. Bu videoyu Twitter'da yayınlamak için gereken tüm haklara sahip misin?";
+
+"This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video." = "Bu yayın, 360 derecelik kamerayla çekilmiş. Scope, artık 360 derecelik video oynatmayı desteklemiyor.";
+
+"This broadcast’s title can’t be edited. Learn more (Copyright Violation)" = "Bu yayının başlığı düzenlenemez. •|•Daha faza bilgi•|•";
+
+"This is optional" = "İsteğe bağlı";
+
+"This user doesn't have any followers yet" = "Bu kullanıcının henüz hiç takipçisi yok";
+
+"This user has not broadcasted yet" = "Bu kullanıcı henüz yayın yapmadı";
+
+"This user isn't following anyone yet" = "Bu kullanıcı henüz hiç kimseyi takip etmiyor";
+
+"Thousand Decimal Abbreviation" = "%.1f B";
+
+"Thousand Integer Abbreviation" = "%d B";
+
+"Thumbnail" = "Küçük resim";
+
+"Time Watched (CELL)" = "İzlenme Süresi";
+
+"Title (accessibility label)" = "Başlık";
+
+"To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off." = "Sohbet etmek için lütfen \"Scope'a Bağlan\" özelliğini ayarlarında aç. Hesabındaki \"Tweetlerimi korumaya al\" ayarı açıksa, Scope uygulamasını indirip bir Scope hesabı oluşturman veya \"Tweetlerimi korumaya al\" ayarı kapalı olan bir Twitter hesabına geçmen gerekir.";
+
+"To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos." = "Videonu kaydetmek için Scope'un Fotoğraflar uygulamana erişim izni olması gerekir. Gelecekteki bir yayın için bu özelliği etkinleştirmek amacıyla, Ayarlara dokun ve ardından Fotoğraflar anahtarını aç.";
+
+"To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account." = "E-posta ile geri bildirim göndermek için öncelikle cihazınızda e-posta ayarı yapmanız gerekir. İlk olarak Ayarlar uygulamasını açın. Ardından Posta, Kişiler, Takvimler seçeneğine gidin ve Hesap Ekle seçeneğini belirleyin.";
+
+"To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option." = "Konumunuzu paylaşabilmesi için Scope'un cihazınızdan ilgili bilgiye erişim iznine sahip olması gerekir. Ayarlar düğmesine tıklayın, ardından Konum'a gidin ve Uygulamayı Kullanırken seçeneğini belirleyin.";
+
+"Top Contributor" = "En Çok Katkı Veren";
+
+"Total watch time per minute tooltip" = "Bu yayının canlı olduğu her dakikada izleyiciler onu izlemek üzere toplamda %@ ayırdı.";
+
+"Total watch time per minute tooltip (broadcaster)" = "Bu yayının canlı olduğu her dakikada izleyiciler onu izlemek üzere toplamda %@ ayırdı. Bu istatistik, farklı sürelere sahip yayınlar arasındaki izleme sürelerini normalleştirir.";
+
+"Trying to reconnect" = "Yeniden bağlanmaya çalışılıyor";
+
+"Twitter Post OFF" = "Twitter Gönderisi KAPALI";
+
+"Twitter Post ON" = "Twitter Gönderisi AÇIK";
+
+"Unable to load broadcast." = "Yayın yüklenemedi.";
+
+"Unblock User" = "Kullanıcı Engellemesini Kaldır";
+
+"Unfollow User" = "Kullanıcıyı Takibi Bırak";
+
+"Unhide Broadcast (menu button)" = "Yayının gizliliğini kaldır";
+
+"Unmute" = "Sesi aç";
+
+"Unmute User" = "Kullanıcının Sesini Aç";
+
+"Unmute User Notifications" = "Kullanıcı Bildirimlerinin Sesini Aç";
+
+"Untitled" = "Başlıksız";
+
+"User has not provided a profile description." = "Kullanıcı bir profil açıklaması eklemedi.";
+
+"Very bad" = "Çok kötü";
+
+"Very good" = "Çok iyi";
+
+"Video Issues" = "Video Sorunları";
+
+"Video Quality" = "Video Kalitesi";
+
+"Video will resume if signal improves" = "Sinyal kalitesi arttığında video oynatılmaya başlayacaktır";
+
+"View Broadcast Actions (accessibility label)" = "Yayın İşlemlerini Görüntüle";
+
+"View Participants (accessibility label)" = "Katılımcıları Görüntüle";
+
+"View Profile" = "Profili Görüntüle";
+
+"View Stats" = "İstatistikleri Görüntüle";
+
+"Viewers can give you Super Hearts.\n<link>Learn more.</link>" = "İzleyiciler sana Süper Kalp verebilir.\n•|•Daha fazla bilgi al.•|•";
+
+"Viewers cannot give you Super Hearts.\n<link>Learn more.</link>" = "İzleyiciler sana Süper Kalp veremez.\n•|•Daha fazla bilgi al.•|•";
+
+"Violence (Report Option)" = "Şiddet";
+
+"Waiting for other responses..." = "Diğer yanıtlar bekleniyor...";
+
+"Waiting for you to <bold>login</bold>." = "•|•Giriş yapmanı•|• bekliyoruz.";
+
+"Watch %1$@'s broadcast: %2$@" = "%1$@ adlı kişinin yayınını izle: %2$@";
+
+"Watch %@'s broadcast." = "%@ adlı kişinin yayınını izle.";
+
+"Watch LIVE" = "•|•CANLI•|• izle";
+
+"Watch Live" = "Canlı İzle";
+
+"Watch Replay" = "Tekrarı İzle";
+
+"Watch Stream (User Activity)" = "Akışı İzle";
+
+"Watch on #Periscope" = "#Scope'ta izle";
+
+"Watch on #Periscope: %@" = "#Scope'ta izle: %@";
+
+"Watch what happened at %1$@ in %2$@'s broadcast." = "%2$@ adlı kişinin yayınının %1$@ noktasında olup bitenleri izle.";
+
+"Watch what happened at %1$@ in %2$@'s broadcast: %3$@" = "%2$@ adlı kişinin yayınının %1$@ noktasında olup bitenleri izle: %3$@";
+
+"We encountered an error deleting your broadcast. Please try again." = "Yayının silinirken hata oluştu. Lütfen yeniden dene.";
+
+"We encountered an error updating your gift settings. Please try again." = "Hediye ayarlarını güncellerken bir hatayla karşılaştık. Lütfen yeniden dene.";
+
+"We have received your report. Thank you for helping keep the community safe! (Report Broadcast Confirmation Modal)" = "Bildirimini aldık. Topluluğu güvende tutmamıza yardımcı olduğun için teşekkür ederiz!";
+
+"We're sorry, there was an error starting your broadcast. Please try starting it again." = "Üzgünüz, yayınınız başlatılırken hata oluştu. Lütfen yeniden başlatmayı deneyin.";
+
+"Welcome <bold>%@</bold>" = "Hoş geldin •|•%@•|•";
+
+"We’ve let your followers know that you joined as a guest (Chat Prompt)" = "Misafir olarak katıldığını takipçilerine bildirdik";
+
+"What are you seeing now?" = "Şu anda ne görüyorsun?";
+
+"What do you want to talk about?" = "Nelerden bahsetmek istiyorsun?";
+
+"What went well?" = "Olumlu yönleri nelerdi?";
+
+"When someone follows them, they'll be listed here." = "Biri onu takip ettiğinde burada listelenir.";
+
+"When someone follows you, they'll be listed here." = "Biri onu takip ettiğinde burada listelenir.";
+
+"When they do, it'll show up here." = "Oluşturduklarında burada görüntülenecek.";
+
+"When they do, they'll be listed here." = "Kullanıcılar bu işlemi gerçekleştirdiklerinde burada listelenir.";
+
+"When you do, it'll show up here" = "Oluşturduğunda burada görüntülenir";
+
+"When you do, they'll be listed here." = "Kullanıcılar bu işlemi gerçekleştirdiklerinde burada listelenir.";
+
+"Yes (Copyright Violation)" = "Evet";
+
+"You already have a linked Twitter account. Please use this in the future to broadcast from Twitter" = "Zaten bağlı bir Twitter hesabın var. Hesabını yakında Twitter yayınları için kullanabilirsin.";
+
+"You are now" = "Şu anda";
+
+"You aren't following anyone yet" = "Henüz hiç kimseyi takip etmiyorsun.";
+
+"You aren't following anyone." = "Takip ettiğiniz kimse yok.";
+
+"You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests. (Offensive Report Modal)" = "Yayınlarını görmek istemediğin bir kullanıcıyı engelleyebilirsin. Engellediğin kullanıcıları misafir olduklarında görmeye devam edersin.";
+
+"You can block a user whose broadcasts you no longer want to see. (Offensive Report Modal)" = "Yayınlarını artık görmek istemediğin bir kullanıcıyı engelleyebilirsin.";
+
+"You can give •|•%@•|• of these" = "Bu kalplerden •|•%@•|• tane verebilirsin";
+
+"You can't broadcast right now (Copyright Violation)" = "Şu anda yayın yapamazsın";
+
+"You can't watch a broadcast while you're still broadcasting." = "Yayın yapmayı sürdürürken başka bir yayın izleyemezsiniz.";
+
+"You can’t watch this because it included a copyrighted work by {Full Name}. Learn more (Copyright Violation)" = "Telif hakkı %@ adlı kişiye ait bir çalışma içerdiği için bu yayını izleyemiyorsun. •|•Daha fazla bilgi•|•";
+
+"You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster." = "Hayranların sana •|•Süper Kalp•|• verdiğinde, yıldız toplarsın. Bir Süper Yayıncı olarak yıldızlarını paraya dönüştür.";
+
+"You didn't vote... <link>Learn about Moderation</link>" = "Oy kullanmadın... •|•Moderasyon hakkında bilgi al•|•";
+
+"You don't have any followers yet" = "Henüz takipçin yok";
+
+"You earn stars from Super Hearts" = "Süper Kalpler'den yıldız kazanıyorsun.";
+
+"You haven't broadcasted yet" = "Henüz yayın yapmadın";
+
+"You were <bold>blocked</bold> by the broadcaster" = "Yayıncı tarafından •|•engellendin•|•";
+
+"You will lose any unsaved changes. Are you sure you want to leave this view?" = "Kaydedilmemiş değişiklikleri kaybedeceksin. Bu görünümden ayrılmak istediğine emin misin?";
+
+"You will lose the stars you received" = "Aldığın yıldızları kaybedeceksin";
+
+"You're Waiting to Join (Guest Calling Menu)" = "Katılmayı Bekliyorsun";
+
+"Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv" = "Hesabın, telif hakkı kaynaklı bir yayından kaldırma talebi üzerine devre dışı bırakıldı. Lütfen help@pscp.tv ile iletişim kur.";
+
+"Your account has been disabled. Please contact help@pscp.tv" = "Hesabın devre dışı bırakıldı. Lütfen help@pscp.tv ile iletişim kur.";
+
+"Your broadcast has been disabled (Copyright Violation)" = "Yayının devre dışı bırakıldı.";
+
+"Your broadcast matches a copyrighted work (Copyright Violation)" = "Yayının, telif hakkı bulunan bir çalışmayla eşleşiyor";
+
+"Your broadcast's thumbnail has been updated to the current screen." = "Yayınının küçük resmi mevcut ekranla güncellendi.";
+
+"Your dispute claim was submitted (Copyright Violation)" = "İddiaya yaptığın itiraz gönderildi";
+
+"Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•." = "Daha iyi bir yayın deneyimi oluşturabilmemiz adına geri bildirimin bizim için önemli. Dilediğin zaman •|•Ayarlar•|•'ına giderek daha sonra gerçekleştirilecek anketlerden çekilebilirsin.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts." = "•|•\"%@\"•|• şeklindeki mesajın TACİZ nedeniyle gizlendi. Tüm yayınlar için yorum özelliği devre dışı bırakıldı.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast." = "•|•\"%@\"•|• şeklimdeki mesajın TACİZ nedeniyle gizlendi. Bu yayın için yorum özelliği devre dışı bırakıldı.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "•|•\"%@\"•|• şeklindeki mesajın TACİZ nedeniyle gizlendi. Yorum özelliği tüm yayınlar için geçici olarak devre dışı bırakıldı.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast." = "•|•\"%@\"•|• şeklindeki mesajın TACİZ nedeniyle gizlendi. Yorum özelliği bu yayın için geçici olarak devre dışı bırakıldı.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts." = "•|•\"%@\"•|• şeklindeki mesajın SPAM nedeniyle gizlendi. Tüm yayınlar için yorum özelliği devre dışı bırakıldı.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast." = "•|•\"%@\"•|• şeklindeki mesajın SPAM nedeniyle gizlendi. Bu yayın için yorum özelliği devre dışı bırakıldı.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "•|•\"%@\"•|• şeklindeki mesajın SPAM nedeniyle gizlendi. Yorum özelliği tüm yayınlar için geçici olarak devre dışı bırakıldı.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast." = "•|•\"%@\"•|• şeklindeki mesajın SPAM nedeniyle gizlendi. Yorum özelliği bu yayın için geçici olarak devre dışı bırakıldı.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts." = "•|•\"%@\"•|• şeklindeki mesajın gizlendi. Tüm yayınlar için yorum özelliği devre dışı bırakıldı.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast." = "•|•\"%@\"•|• şeklindeki mesajın gizlendi. Bu yayın için yorum özelliği devre dışı bırakıldı.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts." = "•|•\"%@\"•|• şeklindeki mesajın gizlendi. Yorum özelliği tüm yayınlar için geçici olarak devre dışı bırakıldı.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast." = "•|•\"%@\"•|• şeklindeki mesajın gizlendi. Yorum özelliği bu yayın için geçici olarak devre dışı bırakıldı.";
+
+"Your settings are about to automatically delete this broadcast." = "Ayarların nedeniyle bu yayın otomatik olarak silinmek üzere.";
+
+"Your settings will automatically delete this broadcast in %@" = "Ayarların nedeniyle bu yayın %@ içinde silinecek";
+
+"Your video will be available for replay after the event has ended. (Copyright Violation)" = "Videon etkinlik sona erdikten sonra yeniden oynatılabilecek.";
+
+"Your viewers have been invited to join (Local Chat Prompt)" = "İzleyicilerin katılmaya davet edildi";
+
+"You’re enrolled in automatic monthly cash outs. (Stars Profile)" = "Bakiyeni her ay otomatik olarak paraya çevirmek için kaydoldun.";
+
+"You’ve blocked @username. Tap to report and share more details. (Should Report Guest User Chat Prompt)" = "•|•@%@•|• adlı kişiyi engelledin. Bildirmek ve daha fazla ayrıntı paylaşmak için dokun.";
+
+"[placeholder]" = "[placeholder]";
+
+"beta-feedback@pscp.tv" = "beta-feedback@pscp.tv";
+
+"coin bonus" = "%i%% tane daha";
+
+"coin received (accessibility label)" = "jeton alındı";
+
+"coins received (accessibility label)" = "jeton alındı";
+
+"contact@pscp.tv" = "contact@pscp.tv";
+
+"current audience" = "şu anki hedef kitle";
+
+"failed" = "başarısız";
+
+"following (accessibility hint)" = "Takibi bırakmak çift dokun";
+
+"following (accessibility label)" = "Takip Ediyor";
+
+"for fine control" = "ince ayar için";
+
+"heart received (accessibility label)" = "kalp alındı";
+
+"hearts received (accessibility label)" = "kalp alındı";
+
+"https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119" = "https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119";
+
+"https://pscp.tv/i/super/terms" = "https://pscp.tv/i/super/terms";
+
+"iPad doesn’t support broadcasting from Split View." = "iPad, Bölünmüş Görünümden yayın yapmayı desteklemiyor.";
+
+"invited" = "davet edildi";
+
+"invited followers" = "davet edilen takipçiler";
+
+"it's their first day on Periscope" = "Scope'taki ilk günü";
+
+"not following (accessibility hint)" = "Takip etmek için çift dokun";
+
+"not following (accessibility label)" = "Takip edilmiyor";
+
+"people" = "kişiler";
+
+"per Broadcast Minute (CELL)" = "Yayın Dakikası başına";
+
+"per Viewer (CELL)" = "İzleyici başına";
+
+"person" = "kişi";
+
+"poor" = "zayıf";
+
+"posting publicly on Periscope" = "Scope'ta herkese açık olarak yayın yapıyor";
+
+"posting publicly on Twitter" = "Twitter'da herkese açık olarak yayın yapıyor";
+
+"selected Amplify Program" = "seçilen Amplify Programı";
+
+"star received (accessibility label)" = "yıldız alındı";
+
+"stars received (accessibility label)" = "yıldız alındı";
+
+"tap to change Amplify Program" = "Amplify Programını değiştirmek için dokunun";
+
+"tap to change Amplify program" = "Amplify programını değiştirmek için dokun";
+
+"tap to change audience" = "hedef kitleyi değiştirmek için dokun";
+
+"to seek" = "ara";
+
+"you hung up (Guest Caller Hung Up Chat Message Event)" = "kapattın";
+
+"you were added (New Guest Caller Chat Message Event)" = "eklendin";
+
+"you were removed (Guest Caller Was Removed Chat Message Event)" = "kaldırıldın";
+
+"•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•." = "•|•%1$@•|•, yayınını •|•%2$@•|• süresinde başlayacak şekilde güncelledi.";
+
+"•|•%@•|• are guests (Broadcast Guests Social Proof)" = "•|•%@•|• misafirler";
+
+"•|•%@•|• invited you (Broadcast Guest Invitation Social Proof)" = "•|•%@•|• seni davet etti";
+
+"•|•%@•|• is a guest (Broadcast Guest Social Proof)" = "•|•%@•|• misafir";
+
+"•|•%@•|• shared (Broadcast Share Social Proof)" = "•|•%@•|• paylaştı";
+
+"•|•%@•|• was a guest (Broadcast Guest Social Proof)" = "•|•%@•|• misafir oldu";
+
+"•|•%@•|• were guests (Broadcast Guests Social Proof)" = "•|•%@•|• misafir oldular";
+
+"•|•%@•|•\nBroadcasts" = "•|•%@•|•\nYayın";
+
+"•|•%@•|•\nFollowers" = "•|•%@•|•\nTakipçiler";
+
+"•|•%@•|•\nFollowing" = "•|•%@•|•\nTakip Ediliyor";
+
+"•|•@%1$@•|• was muted by •|•%2$@•|•" = "•|•@%1$@•|• adlı kullanıcı •|•%2$@•|• tarafından sessize alındı";
+
+"•|•@%1$@•|• was unmuted by •|•%2$@•|•" = "•|•@%1$@•|• adlı kullanıcının sesi •|•%2$@•|• tarafından açıldı";
+
+"•|•@%@•|• Retweeted on" = "•|•@%@•|• şu tarihte Retweetledi:";
+
+"•|•@%@•|• shared on" = "•|•@%@•|• şurada paylaştı:";
+
+"•|•Muted•|• by %@" = "%@ tarafından •|•Sessize Alındı•|•";
+
+"•|•Not enough coins.•|• Get more coins to keep giving Super Hearts." = "•|•Yeterli jeton yok.•|• Süper Kalp vermeye devam etmek için daha fazla jeton al.";
+
+"•|•Press & Hold•|• the video to skip ahead" = "İleri atlamak için videoya •|•Bas ve Basılı Tut•|•";
+
+"•|•Press & Hold•|• to skip back or ahead." = "İleri veya geri atlamak için •|•Basılı Tut•|•";
+
+"•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one." = "•|•Süper Kalpler AÇIK.•|• İlk kalbini göndermek için yayına dokun.";
+
+"•|•Support %@•|• by giving Super Hearts!" = "Süper Kalp vererek •|•%@ adlı kullanıcıyı destekle•|•!";
+
+"•|•Unmuted•|• by %@" = "%@ tarafından •|•Sesi Açıldı•|•";
+
+"•|•You need more coins•|• to give Super Hearts" = "Süper Kalp vermek için •|•daha fazla jetona ihtiyacın var•|•";
+
+"•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast." = "•|•\"%2$@\"•|• yorumun nedeniyle %1$@ adlı yayıncının bir moderatörü tarafından •|•sessize alındın•|•. Artık bu yayında sohbet edemezsin.";
+
+"•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast." = "%@ adlı kullanıcının bir moderatörü •|•sesini açtı•|•. Artık bu yayında sohbet edebilirsin.";
+

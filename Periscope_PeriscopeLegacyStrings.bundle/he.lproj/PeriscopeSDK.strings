@@ -1,0 +1,1448 @@
+"%@ New Messages" = "%@ מסרים חדשים";
+
+"%@ Viewer (Broadcast Info)" = "צופה %@";
+
+"%@ Viewers (Broadcast Info)" = "%@ צופים";
+
+"%@ ago" = "לפני %@";
+
+"%@ doesn't have any followers yet" = "ל־%@ אין עוקבים עדיין";
+
+"%@ has not broadcasted yet" = "%@ עוד לא שידר";
+
+"%@ is LIVE (broadcast title)" = "%@ בשידור חי";
+
+"%@ isn't following anyone yet" = "%@ לא עוקב עדיין אחרי אף אחד";
+
+"%@ joined" = "הצטרף";
+
+"%@ wants you to moderate comments. Tap on comments to mute them." = "%@ רוצה שתנהל תגובות. גע בתגובות כדי להשתיק אותן.";
+
+"%@ wants you to moderate comments. Tap or swipe left on comments to mute them." = "%@ רוצה שתנהל את התגובות. גע בתגובות או החלק אותן שמאלה כדי להשתיק אותן.";
+
+"%@ was live  (broadcast title)" = "%@ היה בשידור חי";
+
+"%d More Live Viewers" = "עוד צופים שצפו בשידור חי";
+
+"%d More Replay Viewers" = "עוד צופים שצפו בשידור חוזר";
+
+"%d More Viewers" = "עוד צופים";
+
+"%ldd (days)" = "%ld ימים";
+
+"%ldh (hours)" = "%ld שעות";
+
+"%ldm (minutes)" = "%ld דקות";
+
+"%lds (seconds)" = "%ld שניות";
+
+"%ldy (years)" = "%ld שנים";
+
+"(EDITED)" = "(נערך)";
+
+"(Skip to) LIVE" = "חי";
+
+"1 More Live Viewer" = "עוד צופה בשידור חי";
+
+"1 More Replay Viewier" = "עוד צופה בשידור חוזר";
+
+"1 More Viewer" = "עוד צופה";
+
+"1 New Message" = "מסר חדש אחד";
+
+"@username \"Tap to cancel\" (Add Guest Caller Chat Message Event)" = "גע כדי לבטל";
+
+"@username \"canceled\" (Add Guest Caller Chat Message Event)" = "ביטל";
+
+"@username \"has asked to join\" (Add Guest Caller Chat Message Event)" = "ביקש להצטרף";
+
+"@username \"hung up\" (Guest Caller Hung Up Chat Message Event)" = "•|•@%@•|• ניתק";
+
+"@username \"was added\" (Add Guest Caller Chat Message Event)" = "נוסף";
+
+"@username \"was added\" (New Guest Caller Chat Message Event)" = "•|•@%@•|• נוסף";
+
+"@username \"was removed\" (Add Guest Caller Chat Message Event)" = "הוסר";
+
+"@username \"was removed\" (Guest Caller Was Removed Chat Message Event)" = "•|•@%@•|• הוסר";
+
+"A Periscope account is required to edit a broadcast." = "נדרש חשבון Periscope כדי לערוך שידור.";
+
+"A Periscope account is required to share a broadcast." = "חשבון Periscope דרוש כדי לשתף שידור.";
+
+"A broadcast with a star balance was deleted. (History)" = "שידור עם יתרת כוכבים נמחק.";
+
+"ACTIVE CONTRIBUTORS" = "תורמים פעילים";
+
+"Abuse" = "פגיעה";
+
+"Abusive Behavior (Report Option)" = "התנהגות פוגענית";
+
+"Accept Caller as Guest" = "קבל את המתקשר בתור אורח";
+
+"Accept Super Hearts (accessibility hint)" = "גע נגיעה כפולה כדי לקבל כוכבי-על עבור השידור הזה.";
+
+"Accept Super Hearts (accessibility label)" = "אשר קבלת לבבות-על";
+
+"Accept as Guest" = "קבל כאורח";
+
+"Actions (accessibility label)" = "פעולות";
+
+"Add Guest (Manage Guest Call-Ins Action Sheet)" = "הוסף אורח";
+
+"Add guest \n viewer will become a guest broadcaster" = "הוסף אורח•|•\nהצופה יהפוך למשדר אורח•|•";
+
+"All-Time Stars (Stars Profile)" = "כוכבי כל הזמנים";
+
+"Allow Guests (Tooltip Selected)" = "אפשר אורחים";
+
+"Allow guests / Don't allow guests (accessibility label)" = "אפשר אורחים / אל תאפשר אורחים";
+
+"Anything else you'd like to share?" = "יש עוד משהו שתרצה לשתף?";
+
+"Are you sure you want to send this message?" = "האם אתה בטוח שברצונך לשלוח מסר זה?";
+
+"Are you sure you want to unblock?" = "האם אכן ברצונך לשחרר?";
+
+"Are you sure? (title)" = "האם אתה בטוח?";
+
+"Ask for Follow (action sheet)" = "בקש מעקב";
+
+"Ask for Share (action sheet)" = "בקש שיתוף";
+
+"Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "בקש להצטרף לשידור בתור אורח. כולם ישמעו אותך, ותוכל להפסיק בכל רגע.";
+
+"Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "בקש להצטרף לשידור בתור אורח. כולם ישמעו אותך, ותוכל להפסיק בכל רגע.";
+
+"Asking to join... Broadcaster must accept you (Local Chat Prompt)" = "מבקש להצטרף...\n•|•%@•|• צריך לאשר את בקשתך";
+
+"Audio Only (accessibility label)" = "שידור באודיו בלבד";
+
+"Audio from: Headphones" = "שמע מ: אוזניות";
+
+"Audio from: Phone" = "שמע מ: טלפון";
+
+"Back" = "הקודם";
+
+"Back (action sheet)" = "חזרה";
+
+"Back Camera (accessibility hint)" = "גע נגיעה כפולה כדי לעבור למצלמה הקדמית";
+
+"Back Camera (accessiblity value)" = "מצלמה אחורית";
+
+"Back to %@" = "חזרה אל %@";
+
+"Back to Hearts" = "בחזרה ללבבות";
+
+"Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. Learn more (Copyright violation)" = "מכיוון שהיו לך לאחרונה מספר שידורים שכללו תוכן המוגן בזכויות יוצרים, לא תוכל לשדר באופן זמני. •|•מידע  נוסף•|•";
+
+"Betascope App Feedback" = "משוב על יישום Betascope";
+
+"Billion Decimal Abbreviation" = "‎%.1fB";
+
+"Billion Integer Abbreviation" = "‎%dB";
+
+"Block @%@" = "חסום את ‎@%@‎";
+
+"Block @%@ (Offensive Report Modal)" = "חסום את ‎@%@";
+
+"Block And Hang Up (Manage Guest Call-Ins Action Sheet)" = "חסום ונתק";
+
+"Block User" = "חסום משתמש";
+
+"Block Users (%@)" = "חסימת משתמשים (%@)";
+
+"Block {Username}" = "חסום את @%@";
+
+"Blocked (user modal)" = "נחסם";
+
+"Blocked by you" = "נחסם על ידך";
+
+"Blocking will dismiss the broadcast and not report to Periscope. (Offensive Report Modal)" = "החסימה תבטל את השידור ולא תדווח ל-Periscope.";
+
+"Broadcast Actions (accessibility hint)" = "פותח תפריט של פעולות שידור.";
+
+"Broadcast Details (action sheet)" = "פרטי שידור";
+
+"Broadcast Super Heart Auto-Deletion Warning" = "•|•שידור זה לא יימחק באופן אוטומטי אחרי 24 שעות•|• כדי למנוע אובדן של כוכבים מלבבות-על שקיבלת.\n\nאם תרצה, תוכל להסתיר את השידור לאחר סיומו כדי להגביל את הנראות שלו עבור משתמשים אחרים.";
+
+"Broadcast Title" = "כותרת שידור";
+
+"Broadcast about to expire (Cell)" = "השידור עומד לפוג";
+
+"Broadcast creation" = "יצירת שידור";
+
+"Broadcaster Has Disabled Call-Ins (Generic Error Message)" = "המשדר השבית בשלב זה את הרשימה 'שיחות נכנסות'.";
+
+"Broadcaster blocked •|•@%@•|•" = "המשדר חסם את •|•‎@%@•|•";
+
+"Broadcaster doesn’t accept Super Hearts" = "משדר לא מאשר קבלת לבבות-על";
+
+"Broadcaster has assigned chat moderators." = "המשדר מינה מנהלי צ'אט.";
+
+"Broadcaster has to accept your request before you can join as a guest. (Guest Call-In Instructions Subtitle)" = "%@ צריך לאשר את הבקשה שלך לפני שתוכל להצטרף כאורח.";
+
+"Broadcaster is allowing guests to join (Local Chat Prompt)" = "•|•%@•|• מאפשר לאורחים להצטרף";
+
+"Broadcaster is not allowing guests to join (Local Chat Prompt)" = "•|•%@•|• אינו מאפשר לאורחים להצטרף";
+
+"Broadcasters earn stars from Super Hearts" = "משדרים מרוויחים כוכבים מלבבות-על";
+
+"Bummer (ReplayKit)" = "חבל";
+
+"CONCATENTATION_ACCESSIBILITY_STRING" = ".";
+
+"CONTRIBUTORS WHO HAVE LEFT" = "תורמים שעזבו";
+
+"COULDN'T LOAD REPLAY VIEWERS" = "לא ניתן לטעון את רשימת הצופים בשידור החוזר";
+
+"COULDN'T LOAD VIEWERS" = "לא ניתן לטעון את רשימת הצופים";
+
+"Camera Selection (accessibility label)" = "בחירת מצלמה";
+
+"Cancel" = "ביטול";
+
+"Cancel (action sheet)" = "ביטול";
+
+"Cancel Call In Button: \"Cancel Request to Join as a Guest\"" = "בטל בקשה להצטרף כאורח";
+
+"Cancel Guest Call-In Instructions Title: \"Waiting to join as a guest...\"" = "ממתין להצטרף כאורח...";
+
+"Cannot be undone" = "בלתי הפיך";
+
+"Capture Thumbnail (action sheet)" = "צור תמונה ממוזערת";
+
+"Cash Outs (Stars Profile)" = "המרות למזומן";
+
+"Cash out your stars, and continue using live video on Twitter" = "ממש את הכוכבים והמשך להשתמש בשידורים חיים של וידאו בטוויטר.";
+
+"Change Amplify Program" = "שנה תוכנית הגברה";
+
+"Change Expiration (Cell)" = "שינוי מועד תפוגה";
+
+"Change Expiration Subtitle (Cell)" = "מחיקה אוטומטית תוך %@";
+
+"Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program." = "מעבר לתוכנית ההגברה •|•%@•|• יגרום למחיקת הציוץ הישן ולפרסום ציוץ חדש ביחד עם התוכנית החדשה.";
+
+"Chatroom too full..." = "חדר הצ'אט מלא מדי...";
+
+"Child Safety (Report Option)" = "בטיחות ילדים";
+
+"Choose guests to add. You can remove them at any time. (Manage Guest Callers Page Subtitle)" = "בחר אורחים להוספה. תוכל להסיר אותם בכל עת.";
+
+"Close (accessibility label)" = "סגור";
+
+"Comment Tip Option 1" = "כתוב הערה ותן ל-•|•%@•|• לדעת שאתה כאן!";
+
+"Comment Tip Option 2" = "תן ל-•|•%@•|• לדעת מאיפה אתה צופה!";
+
+"Comment Tip Option 3" = "מסור \"שלום\" לכולם כדי לשוחח בצ'אט עם •|•%@•|• וצופים אחרים.";
+
+"Commenting is OFF" = "הוספת תגובות מושבתת";
+
+"Comments Received (CELL)" = "תגובות שהתקבלו";
+
+"Comments Received Unavailable (CELL)" = "לא רלוונטי";
+
+"Compose Direct Message (Accessibility Label)" = "כתיבת מסר ישיר";
+
+"Compose New Tweet (Accessibility Label)" = "כתיבת ציוץ חדש";
+
+"Confirm Call In Button: \"OK, Ask to Join\"" = "טוב, בקש להצטרף";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile and audio will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and hear you. This may include people you’ve blocked on either app.\"" = "•\tהפרופיל והשמע שלך יהפכו לחלק מהשידור הזה ולא יהיה ניתן להסיר אותם אלא אם כן %1$@ ימחק את השידור החוזר.\n\n•\tכל מי שיצפה ב-Periscope או בטוויטר יוכל לראות שהצטרפת לשידור של %1$@ ולשמוע אותך. זה עשוי לכלול אנשים שחסמת ביישומים האלה.";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile, audio and video will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and see you. This may include people you’ve blocked on either app.\"" = "•\tהפרופיל, השמע והווידאו שלך יהפכו לחלק מהשידור הזה ולא יהיה ניתן להסיר אותם אלא אם כן %1$@ ימחק את השידור החוזר.\n\n•\tכל מי שיצפה ב-Periscope או בטוויטר יוכל לראות שהצטרפת לשידור של %1$@ ולראות אותך. זה עשוי לכלול אנשים שחסמת ביישומים האלה.";
+
+"Confirm Guest Call-In Instructions Title: \"Good to know...\"" = "טוב לדעת...";
+
+"Connecting to chatroom" = "מתחבר לחדר הצ׳ט";
+
+"Connection Error" = "שגיאת חיבור";
+
+"Connection too" = "החיבור מאוד";
+
+"Contact Us (action sheet)" = "צור קשר";
+
+"Contributors" = "תורמים";
+
+"Copy Profile URL" = "העתק כתובת פרופיל";
+
+"Current Star Balance (Stars Profile)" = "יתרת כוכבים נוכחית";
+
+"Current Time (Accessibility Label)" = "הזמן הנוכחי";
+
+"Dear Periscope Team," = "צוות Periscope יקר,";
+
+"Delete Broadcast" = "מחיקת שידור";
+
+"Delete Broadcast (action sheet)" = "מחק שידור";
+
+"Delete Broadcast Now" = "מחיקת השידור כעת";
+
+"Describe the issue (Report Option)" = "תאר את הבעיה";
+
+"Describe the issue with %@ (Report Option)" = "תאר את הבעיה עם @%@";
+
+"Describe the issue with @%1$@ at %2$@ (Report Option)" = "תאר את הבעיה עם @%1$@ ב-%2$@";
+
+"Describe the issue you are seeing at %@ (Report Option)" = "תאר את הבעיה שאתה רואה ב-%@";
+
+"Direct Message (Compose)" = "מסר ישיר";
+
+"Disable Audio Only Broadcast" = "השבת שידור באודיו בלבד";
+
+"Disabled for all broadcasts" = "מושבת עבור כל השידורים";
+
+"Disabled for this broadcast" = "מושבת עבור שידור זה";
+
+"Discard Changes" = "מחק שינויים";
+
+"Display Photo (action sheet)" = "הצג תמונה";
+
+"Dispute Claim (Copyright Violation)" = "ערעור עד תביעה";
+
+"Do not notify my followers (Guest Call-In Notify Followers Option)" = "אל תודיע לעוקבים שלי";
+
+"Don't Allow Guests (Manage Guest Broadcasters Call-Ins List)" = "אל תאפשר אורחים";
+
+"Don't Allow Guests (Tooltip)" = "אל תאפשר אורחים";
+
+"Don't Auto-Delete" = "אל תמחק אוטומטית";
+
+"Don't Send (Blocked Modal)" = "אל תשלח";
+
+"Done" = "סיום";
+
+"Done (action sheet)" = "סיום";
+
+"Double Tap anywhere to Exit Theater Mode (accessibility label)" = "גע פעמיים במקום כלשהו כדי לצאת ממצב תיאטרון";
+
+"Double Tap to <bold>Flip Camera</bold>" = "הקש הקשה כפולה כדי •|•להפוך את המצלמה•|•";
+
+"Double tap to allow or disallow guests (accessibility hint)" = "גע נגיעה כפולה כדי לאפשר או לא לאפשר אורחים";
+
+"Duration (CELL)" = "משך זמן";
+
+"END (graph)" = "סיום";
+
+"ENDED" = "הסתיים";
+
+"Edit Broadcast" = "ערוך שידור";
+
+"Edit Broadcast (action sheet)" = "ערוך שידור";
+
+"Edit Broadcast Unavailable" = "עריכת שידור אינה זמינה";
+
+"Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured." = "עריכת השינויים בשידור שלך לאופן שבו אנשים אחרים יראו אותו. השינויים הללו לא ישפיעו על ציוצים או הודעות שכבר נשלחו.";
+
+"Enable Audio Only Broadcast" = "הפעל שידור אודיו בלבד";
+
+"Enable Email" = "לאפשר דואר אלקטרוני";
+
+"Enable camera (Permissions Screen)" = "הפעל מצלמה";
+
+"Enable microphone (Permissions Screen)" = "הפעל מיקרופון";
+
+"Enable/Disable Audio Only Broadcast (accessibility hint)" = "גע נגיעה כפולה כדי לעבור בין האפשרות להפעיל או להשבית שידור באודיו בלבד.";
+
+"Enable/Disable Audio Only Broadcast (accessibility label)" = "הפעל/השבת שידור אודיו בלבד";
+
+"Ended" = "הסתיים";
+
+"Engaging Chat" = "צ'אט מרתק";
+
+"Error (ReplayKit)" = "שגיאה";
+
+"Error accessing audio from microphone." = "שגיאה בגישת האודיו למיקרופון.";
+
+"Error accessing history." = "שגיאה בגישה להיסטוריה.";
+
+"Error saving video to Camera Roll" = "שגיאה בשמירה לסרט הצילום";
+
+"Error setting Amplify Program (title)" = "התרחשה שגיאה במהלך הגדרת תוכנית ההגברה";
+
+"Every heart you send will be a Super Heart" = "כל לב שאתה שולח יהיה לב-על";
+
+"Everybody can chat" = "כולם יכולים לשוחח";
+
+"FEATURED" = "מוצגים";
+
+"FOLLOWERS (user profile modal)" = "עוקבים";
+
+"FOLLOWING (user profile modal)" = "רשימת עוקבים";
+
+"Final List separator" = "ו-";
+
+"Fine Control" = "שליטה בפרטים הקטנים";
+
+"First Super Heart" = "לב-על ראשון";
+
+"Flip Camera (action sheet)" = "הפוך את המצלמה";
+
+"Follow (user modal)" = "עקוב";
+
+"Follow request sent. (chat message)" = "הבקשה למעקב נשלחה.";
+
+"Follow the broadcaster to catch their next broadcast." = "עקוב אחר המשדר כדי לא להפסיד את השידור הבא שלו.";
+
+"Follow •|•%@•|• to catch their next broadcast" = "עקוב אחרי •|•%@•|• כדי לראות את השידור הבא שלו";
+
+"Followed by %1$@ and %2$@" = "ברשימת המעקב של %1$@ ו-%2$@";
+
+"Followed by %1$@, %2$@, %3$@ and %4$i others" = "ברשימת המעקב של %1$@, %2$@, %3$@ ו-%4$i משתמשים נוספים";
+
+"Followed by %1$@, %2$@, and %3$@" = "ברשימת המעקב של %1$@, %2$@ ו-%3$@";
+
+"Followed by %@" = "ברשימת המעקב של %@";
+
+"Followers button (accessibility hint)" = "גע נגיעה כפולה כדי להציג עוקבים.";
+
+"Following (user modal)" = "עוקב";
+
+"Following button (accessibility hint)" = "גע נגיעה כפולה כדי להציג משתמשים שאתה עוקב אחריהם.";
+
+"Front Camera (accessibility hint)" = "גע נגיעה כפולה כדי לעבור למצלמה האחורית";
+
+"Front Camera (accessiblity value)" = "מצלמה קדמית";
+
+"Get Coins" = "קבל מטבעות";
+
+"Give Super Hearts (menu button)" = "הענק כוכבי-על";
+
+"Go LIVE" = "עבור לשידור חי";
+
+"Go LIVE to %@" = "עבור לשידור חי בקבוצה %@";
+
+"Go LIVE together (Guest Broadcasting Modal Title)" = "מעבר לשידור חי ביחד";
+
+"Go to Twitter Profile" = "עבור לפרופיל בטוויטר";
+
+"Good Viewer Count" = "ספירת צופים גבוהה";
+
+"Got It (Button Title)" = "הבנתי";
+
+"Got it (Copyright Violation)" = "הבנתי";
+
+"Got it (ReplayKit)" = "הבנתי";
+
+"Got it!" = "הבנתי";
+
+"Guest Action Sheet Report Item" = "דיווח";
+
+"Guest Call In Choice Label: \"Camera and microphone\"" = "מצלמה ומיקרופון";
+
+"Guest Call In Choice Label: \"Microphone only\"" = "מיקרופון בלבד";
+
+"Guest Call-In Audio Only Permissions Subtitle beneath Title: \"Enable microphone to become a guest\"" = "הפעל מיקרופון כדי להפוך לאורח";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request. Learn more\"" = "תצטרף כשהמשדר יקבל את הבקשה שלך. •|•מידע נוסף•|•";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request.\"" = "תצטרף כשהמשדר יקבל את הבקשה שלך.";
+
+"Guest Call-In Instructions Title: \"Ask to Join\"" = "בקש להצטרף";
+
+"Guest Call-In Instructions Title: \"Join as a guest\"" = "הצטרף כאורח";
+
+"Guest Call-In Permissions Subtitle beneath Title: \"Enable camera and microphone to become a guest\"" = "אפשר למצלמה ולמיקרופון להפוך לאורח";
+
+"Guest Call-In Permissions Title: \"Guest setup\"" = "הגדרת אורחים";
+
+"Guest List (Manage Guest Callers Page Title)" = "רשימת אורחים";
+
+"Guest Was Banned Chat Message (Periscope)" = "התקבל דיווח לגבי •|•‎@%@‎•|•. הדיווח נבדק על-ידי Periscope ונמצא כי המשדר האורח הפר את הנחיות הקהילה.";
+
+"Guest Was Banned Chat Message (Twitter)" = "התקבל דיווח לגבי ‎•|•‎@%@‎•|•‎. הדיווח נבדק על-ידי טוויטר ונמצא כי המשדר האורח הפר את הכללים של טוויטר.";
+
+"Guests Not Allowed (Manage Guest Broadcasters Call-Ins List)" = "אין אפשרות להצטרף כאורח";
+
+"Guests can now ask to join. Use this icon to add or remove guests at any time. (Guest Broadcasting Enabled Prompt)" = "עכשיו האורחים יכולים לבקש להצטרף. השתמש בסמל זה כדי להוסיף או להסיר אורחים בכל עת.";
+
+"HEART" = "לב";
+
+"HEARTS" = "לבבות";
+
+"Half-Speed" = "חצי מהמהירות המרבית";
+
+"Hang Up (Guest Calling Menu)" = "נתק";
+
+"Hang Up (Manage Guest Call-Ins Action Sheet)" = "נתק";
+
+"Hang Up Button Label: \"Hang Up\"" = "נתק";
+
+"Hang Up Subtitle (Audio Only): \"Stop sharing microphone\"" = "הפסק לשתף מיקרופון";
+
+"Hang Up Subtitle (Camera + Microphone): \"Stop sharing camera and microphone\"" = "הפסק לשתף מצלמה ומיקרופון";
+
+"Hang Up on Guest or Cancel Guest From Joining" = "נתק אורח או מנע מאורח להצטרף";
+
+"Hang up" = "נתק";
+
+"Harassment" = "הטרדה";
+
+"Hateful Conduct (Report Option)" = "התנהגות רוויית שנאה";
+
+"Heart Sent (accessiblity announcement)" = "הלב נשלח";
+
+"Hearts & Chats off" = "השבתת לבבות וצ'אטים";
+
+"Hearts & Chats on" = "הפעלת לבבות וצ'אטים";
+
+"Help us moderate this comment..." = "עזור לנו למתן תגובה זו...";
+
+"Help us understand the problem.\nWhat issue with @%@ are you reporting?" = "עזור לנו להבין את הבעיה.\nעל איזה בעיה אתה מדווח בקשר ל-‎@%@‎?";
+
+"Hide Broadcast" = "הסתר שידור";
+
+"Hide everything except video (action sheet)" = "הסתר הכול מלבד וידאו";
+
+"History (profile view title)" = "היסטוריה";
+
+"History button (accessibility hint)" = "גע נגיעה כפולה כדי להציג שידורים ששודרו לאחרונה.";
+
+"How can we improve?" = "כיצד נוכל להשתפר?";
+
+"How was your broadcasting experience?" = "איך הייתה חוויית השידור שלך?";
+
+"I'm Not Interested in @%@" = "‎‎@%@‎ לא מעניין אותי";
+
+"If this broadcast depicts pornography or sexual acts, please tap below. (Report Sexual Content Modal)" = "אם השידור הזה כולל פורנוגרפיה או פעולות בעלות אופי מיני, גע באפשרות שלמטה.";
+
+"If you believe that this broadcast places a child at risk, please tap below. (Report Child Safety Modal)" = "אם לדעתך השידור מהווה סיכון לילד, גע באפשרות למטה.";
+
+"If you believe this broadcast contains violence or someone is being physically threatened, please tap below. (Report Violence Modal)" = "אם לדעתך השידור מכיל אלימות או איום פיזי על אדם כלשהו, גע באפשרות שלמטה.";
+
+"If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "אם לדעתך השידור הזה מפגין שנאה כנגד קטגוריה מוגנת (כגון גזע, דת, מגדר, נטייה, לקות), גע באפשרות שלמטה.";
+
+"If you believe this broadcast exposes private information, please tap below. (Report Private Information Modal)" = "אם לדעתך שידור זה חושף מידע פרטי, גע באפשרות שלמטה.";
+
+"If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below. (Report Harassment Modal)" = "אם לדעתך השידור הזה מטריד, מאיים או משתמש בפחד כדי להשתיק אדם אחר, גע באפשרות שלמטה.";
+
+"If you believe this guest is contemplating or encouraging suicide or self harm, please tap below. (Report Self Harm Modal)" = "אם לדעתך האדם הזה שוקל או מעודד התאבדות או פגיעה עצמית, גע באפשרות שלמטה.";
+
+"If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "אם לדעתך האורח הזה מפגין שנאה כנגד קטגוריה מוגנת (כגון גזע, דת, מגדר, נטייה, לקות), גע באפשרות שלמטה.";
+
+"If you believe this guest is exposing private information, please tap below. (Report Private Information Modal)" = "אם לדעתך האורח הזה חושף מידע פרטי, גע באפשרות שלמטה.";
+
+"If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below. (Report Harassment Modal)" = "אם לדעתך האורח הזה מטריד, מאיים או משתמש בפחד כדי להשתיק אדם אחר, גע באפשרות שלמטה.";
+
+"If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below. (Report Violence Modal)" = "אם לדעתך האורח הזה משמיע איומים אלימים ספציפיים הקשורים בבטיחות פיזית או ברווחה, גע באפשרות שלמטה.";
+
+"If you believe this guest is sharing content that places a child at risk, please tap below. (Report Child Safety Modal)" = "אם לדעתך האורח הזה משתף תוכן שמעמיד ילד בסיכון, גע באפשרות שלמטה.";
+
+"If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below. (Report Sexual Content Modal)" = "אם לדעתך האורח הזה משתף תוכן מיני בלתי הולם כגון פורנוגרפיה, גע באפשרות שלמטה.";
+
+"If you believe this individual is contemplating suicide or self harm, please tap below. (Report Self Harm Modal)" = "אם לדעתך האדם הזה שוקל להתאבד או לפגוע בעצמו, גע באפשרות שלמטה.";
+
+"If you delete this broadcast, you will lose the stars that you received. This cannot be undone." = "אם השידור הזה יימחק, הכוכבים שקיבלת יאבדו. הפעולה הזאת בלתי הפיכה.";
+
+"Initializing video stream..." = "מתחיל זרם וידאו...";
+
+"Invite Guests (Manage Guest Broadcasters Call-Ins List)" = "הזמן אורחים";
+
+"Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "הזמן צופים להתארח בשידורים שלך. כולם יוכלו לשמוע אותם, ותוכל להוסיף או להסיר אותם בכל עת.";
+
+"Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "הזמן צופים להתארח בשידורים שלך. כולם יוכלו לשמוע אותם, ותוכל להוסיף או להסיר אותם בכל עת";
+
+"Join as a Guest (Guest Calling Menu)" = "הצטרף כאורח";
+
+"Joined %@" = "כאן מאז %@";
+
+"Joining as a guest... (Guest Call-In Countdown Screen Title)" = "מצטרף כאורח...";
+
+"Keep broadcasting to collect more stars!" = "המשך לשדר כדי לאסוף עוד כוכבים!";
+
+"Keep stars received" = "הכוכבים שצברת יישארו";
+
+"LIVE" = "חי";
+
+"LIVE VIEWER" = "צופה בשידור החי";
+
+"LIVE VIEWERS" = "צופים בשידור החי";
+
+"LIVE Video (Broadcast Audience)" = "סרטון חי";
+
+"LIVE on #Periscope" = "חי דרך #Periscope";
+
+"LIVE on #Periscope: %@" = "בשידור חי ב-‎#Periscope: %@";
+
+"LOADING" = "טוען";
+
+"LOST CONNECTION" = "החיבור אבד";
+
+"Later (alert view)" = "מאוחר יותר";
+
+"Learn More" = "מידע נוסף";
+
+"Learn More (Stars Profile)" = "מידע נוסף";
+
+"Leave Broadcast" = "צא מהשידור";
+
+"Limited by Broadcaster" = "הוגבל ע״י המשדר";
+
+"Limited for %@" = "מוגבל למשך %@";
+
+"List separator" = ",";
+
+"Live Time Watched (CELL)" = "משך זמן של צפייה בשידור חי";
+
+"Live watch time per minute tooltip" = "על כל דקה של שידור חי זה, הצופים בילו %@ בסך הכול בצפייה בו.";
+
+"Loading History." = "טוען היסטוריה";
+
+"Loading followers" = "טוען עוקבים";
+
+"Loading following" = "טוען רשימת עוקבים";
+
+"Loading history" = "טוען היסטוריה";
+
+"Loading your followers" = "טוען את העוקבים שלך";
+
+"Loading your following" = "טוען את רשימת העוקבים שלך";
+
+"Location Permissions Required" = "הרשאות מיקום נדרשות";
+
+"Location Unknown" = "מיקום לא ידוע";
+
+"Logged Out" = "התנתקת";
+
+"Login Error (ReplayKit)" = "נדרשת כניסה";
+
+"Login Error Instructions (ReplayKit)" = "פתח את אפליקציית Periscope כדי להיכנס, ולאחר מכן חזור לכאן כדי להתחיל את השידור.";
+
+"Looks OK" = "נראה בסדר";
+
+"Looks like the connection was lost. Reconnecting... (Toast)" = "נראה שהחיבור התנתק. מתחבר מחדש...";
+
+"Lose stars received" = "הכוכבים שצברת יאבדו";
+
+"Low Viewer Count" = "ספירת צופים נמוכה";
+
+"Low disk space. A portion of this broadcast will not be available for replay later." = "שטח דיסק נמוך. חלק מהשידור הזה לא יהיה זמין לצפייה נוספת מאוחר יותר.";
+
+"Majority voted <destructive emphasis> Abuse </destructive emphasis>\nThe commenter's chat has been limited." = "הרוב הצביעו •|• פגיעה •|•\nהצ'אט של כותב התגובה הוגבל.";
+
+"Majority voted <destructive emphasis> Looks OK  </destructive emphasis>" = "הרוב הצביעו •|• נראה בסדר •|•";
+
+"Majority voted <destructive emphasis> Not Sure </destructive emphasis>" = "הרוב הצביעו •|• לא בטוח •|•";
+
+"Majority voted <destructive emphasis> Spam </destructive emphasis>\nThe commenter's chat has been limited." = "הרוב הצביעו •|• זבל •|•\nהצ'אט של כותב התגובה הוגבל.";
+
+"Makes broadcast visible to everyone" = "הופך את השידורים לגלויים לכולם";
+
+"Makes broadcast visible to invited viewers" = "הופך את השידורים לגלויים לצופים שהוזמנו";
+
+"Manage details about your Broadcast (menu subtitle)" = "נהל פרטים אודות השידור שלך";
+
+"Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen." = "מסרים שכאלה נחסמים לעתים קרובות. אם תיחסם יותר מדי פעמים, התגובות שלך לא יוצגו יותר.";
+
+"Million Decimal Abbreviation" = "‎%.1fM";
+
+"Million Integer Abbreviation" = "‎%dM";
+
+"Moderation Modal Button Label" = "בסדר, אני מבין";
+
+"Moderation Modal Example Label" = "דוגמה";
+
+"Moderation Modal Example Message" = "מסר מפוקפק...";
+
+"Moderation Modal Settings Label" = "ניתן לבטל זאת בהגדרות.";
+
+"Moderation Modal Subtitle" = "מדי פעם נבקש ממך לנהל תגובה על-ידי קביעה מהירה אם התגובה מהווה •|•פגיעה•|• או •|•זבל•|•. הניהול הוא אנונימי.";
+
+"Moderation Modal Title" = "ניהול תגובות";
+
+"Moderator Actions" = "פעולות מנחה";
+
+"Moderator Actions (%@)" = "פעולות מנחה (%@)";
+
+"Moderator •|•%@•|• joined" = "המנחה •|•%@•|• הצטרף";
+
+"ModeratorName muted this message (Message Carousel)" = "•|•%@•|• התשתיק הודעה זו";
+
+"Monetize Broadcast" = "הפעל מונטיזציה של השידור";
+
+"Monetize Broadcast (expanded cell title)" = "הפעל מונטיזציה של השידור";
+
+"Monetize Broadcast (minimized cell title)" = "הפעל מונטיזציה של השידור ▾";
+
+"More (following/followers)" = "עוד";
+
+"Mute" = "השתק";
+
+"Mute (accessibility label)" = "השתק";
+
+"Mute User" = "השתק משתמש";
+
+"Mute User Notifications" = "השתק הודעות משתמשים";
+
+"Muted by Moderator" = "הושתק על יד המנחה";
+
+"NEW" = "חדש";
+
+"NO LIVE VIEWERS" = "אין צופים בשידור חי";
+
+"NO REPLAY VIEWERS" = "אין צופים בשידורים החוזרים";
+
+"New Broadcaster Education: 3 Guest Limit" = "עד 3 אורחים יכולים להשתתף בו-זמנית.";
+
+"New Tweet (Compose)" = "ציוץ חדש";
+
+"No history." = "אין היסטוריה";
+
+"No one has asked to join yet. Tap to invite your viewers to join. (Empty Manage Guest Broadcasters Call-Ins List)" = "אף אחד לא ביקש להצטרף עדיין.\n\nגע כדי להזמין את הצופים שלך להצטרף.";
+
+"No one is following you." = "אף אחד לא עוקב אחריך.";
+
+"No, stop broadcasting (Copyright Violation)" = "לא, עצור את השידור";
+
+"Not Sure" = "לא בטוח";
+
+"Not followed by anyone you're following" = "אף משתמש מרשימת המעקב שלך לא עוקב אחרי המשתמש הזה";
+
+"Notifications (accessiblity label)" = "הודעות";
+
+"Notifications OFF" = "הודעות כבויות";
+
+"Notifications ON" = "הודעות מופעלות";
+
+"Notifications Off (accessibility hint)" = "גע נגיעה כפולה כדי להפעיל הודעות ממשתמש זה.";
+
+"Notifications Off (accessibility value)" = "כבוי";
+
+"Notifications On (accessibility hint)" = "גע נגיעה כפולה כדי להשבית הודעות ממשתמש זה.";
+
+"Notifications On (accessibility value)" = "מופעל";
+
+"Notify my followers (Guest Call-In Notify Followers Option)" = "הודע לעוקבים שלי";
+
+"OK, Got It" = "בסדר, הבנתי";
+
+"Offensive Guest (Report Option)" = "אורח פוגעני";
+
+"Okay (Report Broadcast Modal)" = "אישור";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts." = "תגובה אחת או יותר שלך הוסתרה בשל פגיעה. כתיבת תגובות מושבתת עבור כל השידורים.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast." = "תגובה אחת או יותר שלך הוסתרה בשל פגיעה. כתיבת תגובות מושבתת עבור שידור זה.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "תגובה אחת או יותר שלך הוסתרה בשל פגיעה. כתיבת תגובות מוגבלת באופן זמני עבור כל השידורים.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited." = "תגובה אחת או יותר שלך הוסתרה בשל פגיעה. כתיבת תגובות מוגבלת באופן זמני.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts." = "תגובה אחת או יותר שלך הוסתרה בשל תוכן זבל. כתיבת תגובות מושבתת עבור כל השידורים.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast." = "תגובה אחת או יותר שלך הוסתרה בשל תוכן זבל. כתיבת תגובות מושבתת עבור שידור זה.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "תגובה אחת או יותר שלך הוסתרה בשל תוכן זבל. כתיבת תגובות מוגבלת באופן זמני עבור כל השידורים.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited." = "תגובה אחת או יותר שלך הוסתרה בשל תוכן זבל. כתיבת תגובות מוגבלת באופן זמני.";
+
+"One or more of your comments was hidden. Commenting is disabled for all broadcasts." = "תגובה אחת או יותר שלך הוסתרה. כתיבת תגובות מושבתת עבור כל השידורים.";
+
+"One or more of your comments was hidden. Commenting is disabled for this broadcast." = "תגובה אחת או יותר שלך הוסתרה. כתיבת תגובות מושבתת עבור שידור זה.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts." = "תגובה אחת או יותר שלך הוסתרה. כתיבת תגובות מוגבלת באופן זמני עבור כל השידורים.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited." = "תגובה אחת או יותר שלך הוסתרה. כתיבת תגובות מוגבלת באופן זמני.";
+
+"One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast." = "תגובה אחת או יותר שלך הוסתרה על ידי המנחה. כתיבת תגובות מושבתת עבור שידור זה.";
+
+"Only available in Periscope" = "זמין רק ב-Periscope";
+
+"Only public broadcasts counted" = "רק משדרים ציבוריים נספרים";
+
+"Only users you follow can chat" = "רק משתמשים שברשימת המעקב שלך יכולים לשוחח";
+
+"Only you can see your hidden broadcasts (menu subtitle)" = "השידורים המוסתרים שלך גלויים רק לך";
+
+"Other Reason (Report Option)" = "סיבה אחרת";
+
+"Other Reason \n e.g. Foreign Language" = "סיבה אחרת•|•\nלדוגמה, שפה זרה•|•";
+
+"Our apologies for the inconvenience." = "התנצלותנו על חוסר הנוחות.";
+
+"POOR CONNECTION" = "חיבור באיכות ירודה";
+
+"POSSIBLY NSFW (Interstitial)" = "ייתכן תוכן בלתי הולם";
+
+"Pause (accessibility label)" = "השהה";
+
+"Peak (graph label)" = "שיא";
+
+"Periscope App Feedback" = "משוב על יישום Periscope";
+
+"Periscope account is required." = "דרוש חשבון Periscope.";
+
+"Periscope is discontinuing on •|•%@•|•" = "השימוש ב-Periscope יסתיים ב-•|•%@•|•";
+
+"Play (accessibility label)" = "הפעל";
+
+"Please allow some time for all transactions to be posted." = "פרסום כל הטרנזקציות עשוי להימשך כמה זמן.";
+
+"Positive Community" = "קהילה חיובית";
+
+"Post to Twitter (accessibility hint)" = "גע נגיעה כפולה כדי לעבור בין מצבים.";
+
+"Post to Twitter (accessibility label)" = "פרסם בטוויטר";
+
+"Posting to Twitter OFF" = "הפרסום בטוויטר מושבת";
+
+"Posting to Twitter as @%@" = "מפרסם בטוויטר כ-‎@%@‎";
+
+"Precise Location Sharing OFF" = "שיתוף מיקום מדויק כבוי";
+
+"Precise Location Sharing ON" = "שיתוף מיקום מדויק מופעל";
+
+"Private (Broadcast Audience)" = "פרטי";
+
+"Private Information (Report Option)" = "מידע פרטי";
+
+"Profile (accessibility label)" = "פרופיל";
+
+"Profile URL copied" = "כתובת הפרופיל הועתקה";
+
+"Public (Broadcast Audience)" = "ציבורי";
+
+"Public Hidden (Broadcast Audience)" = "ציבורי (מוסתר)";
+
+"Quarter-Speed" = "רבע מהמהירות המרבית";
+
+"RECENT (user profile modal)" = "שודרו לאחרונה";
+
+"REPLAY VIEWER" = "צופה בשידור חוזר";
+
+"REPLAY VIEWERS" = "צופים בשידור חוזר";
+
+"Ready to give Super Hearts!" = "מוכן להעניק לבבות-על!";
+
+"Received in: (History)" = "התקבל ב: \"%@\"";
+
+"Received stars (History)" = "התקבלו כוכבים.";
+
+"Release to <bold>Leave</bold> (broadcasting)" = "שחרר כדי •|•לצאת•|•";
+
+"Release to <bold>Leave</bold> (watching)" = "שחרר כדי •|•לצאת•|•";
+
+"Release to Refresh" = "לשחרר כדי לעדכן";
+
+"Remove" = "הסר";
+
+"Remove Amplify Program" = "הסר תוכנית הגברה";
+
+"Remove Amplify Program (cell title)" = "הסר תוכנית הגברה";
+
+"Remove Location" = "מיקום מרוחק";
+
+"Remove at least 1 character from your title to make room for #(example hashtag)" = "הסר תו אחד לפחות מהכותרת כדי לפנות מקום ל-%@";
+
+"Remove at least X characters from your title to make room for #(example hashtag)" = "הסר %lu תווים לפחות מהכותרת כדי לפנות מקום ל-%@";
+
+"Replay Time Watched (CELL)" = "משך זמן צפייה בשידורים חוזרים";
+
+"Replay Unavailable" = "שידור חוזר לא זמין";
+
+"Replay watch time per minute tooltip" = "על כל דקה של שידור חוזר זה, הצופים בילו %@ בסך הכול בצפייה בו.";
+
+"Reply" = "השב";
+
+"Report @<guest's username> (Report Guest Modal)" = "דווח על @%@";
+
+"Report Abusive Behavior (Report Abusive Behavior Modal)" = "התנהגות פוגענית";
+
+"Report Abusive Profile" = "דווח על פרופיל פוגעני";
+
+"Report As Spam" = "דווח כזבל";
+
+"Report Broadcast (Report Broadcast Modal)" = "דווח על שידור";
+
+"Report Child Safety (Report Child Safety Modal)" = "בטיחות ילדים";
+
+"Report Comment" = "דווח על תגובה";
+
+"Report Hateful Conduct (Report Hateful conduct Modal)" = "התנהגות רוויית שנאה";
+
+"Report Private Information (Report Private Information Modal)" = "מידע פרטי";
+
+"Report Self-Harm (Report Self Harm Modal)" = "פגיעה עצמית";
+
+"Report Sexual Content (Report Sexual Content Modal)" = "תוכן מיני";
+
+"Report User" = "דווח על משתמש";
+
+"Report Violence (Report Violence Modal)" = "אלימות";
+
+"Reporting is anonymous and will hide the user's comments (just for you)." = "הדיווח הוא אנונימי ויוביל להסתרת התגובות של המשתמש (רק עבורך).";
+
+"Restrict Chat (accessibility hint)" = "גע נגיעה כפולה כדי לעבור למצב המאפשר שיחות צ'אט עם משתמשים שאתה עוקב אחריהם בלבד.";
+
+"Restrict Chat (accessibility label)" = "הגבל שיחות צ'אט";
+
+"Return to Summary (accessibility hint)" = "גע נגיעה כפולה כדי לחזור לסיכום פרטי המשתמש.";
+
+"Retweet" = "צייץ מחדש";
+
+"Save Changes" = "שמור שינויים";
+
+"Save To Camera Roll" = "שמור לסרט הצילום";
+
+"Save To Camera Roll Unavailable" = "שמירה לסרט הצילום לא זמינה";
+
+"Saved To Camera Roll" = "נשמר בסרט הצילום";
+
+"Saved!" = "נשמר!";
+
+"Saving..." = "שומר...";
+
+"Say something..." = "להגיד משהו...";
+
+"Scroll for Old Comments" = "גלול כדי להציג הודעות ישנות";
+
+"Scroll to Bottom" = "גלול לתחתית";
+
+"Self-Harm (Report Option)" = "פגיעה עצמית";
+
+"Send (accessibility label)" = "שלח";
+
+"Send Message (Blocked Modal)" = "שלח מסר";
+
+"Send people a notification to join this broadcast. Mutuals are people you follow that follow you back." = "שלח לאנשים הודעה כדי שיצטרפו לשידור זה. עוקבים הדדיים הם אנשים שאתה עוקב אחריהם והם עוקבים אחריך בחזרה.";
+
+"Sent for payment processing (History)" = "נשלח לעיבוד התשלום.";
+
+"Separator between two names" = "ו-";
+
+"Set Amplify Program" = "הגדר תוכנית הגברה";
+
+"Setting the broadcast Amplify Program to •|•%@•|• will publish a new Tweet." = "הגדרת השידור של תוכנית ההגברה %@ תגרום לפרסום של ציוץ חדש.";
+
+"Settings (app)" = "הגדרות";
+
+"Sexual Content (Report Option)" = "תוכן מיני";
+
+"Sexually Inappropriate \n Obscene or unwanted sexual remarks" = "לא הולם מבחינה מינית•|•\nהערות מיניות גסות או לא רצויות•|•";
+
+"Share Broadcast" = "שתף שידור";
+
+"Share From" = "שתף החל מ-";
+
+"Share From %@" = "שתף החל מ-%@";
+
+"Share From Beginning" = "שתף מהתחלה";
+
+"Share Live" = "שתף שידור חי";
+
+"Share Twitter Tooltip (explaining that the feature is disabled while guests are enabled)" = "מושבת עבור שידורים עם אורחים";
+
+"Share precise location (accessibility label)" = "שתף מיקום מדויק";
+
+"Share request sent. (chat message)" = "הבקשה לשיתוף נשלחה.";
+
+"Share screenshot and broadcast" = "שתף צילום מסך ושידור";
+
+"Share this broadcast so your followers don't miss it." = "שיתוף השידור הזה כך שהעוקבים שלך לא יפספסו אותו.";
+
+"Share via..." = "שתף באמצעות...";
+
+"Show Stats (cell)" = "הצג סטטיסטיקה";
+
+"Skip" = "דלג";
+
+"Sorry, that action could not be completed because you have been blocked." = "סליחה, הפעולה לא יכולה להסתיים בגלל שנחסמת.";
+
+"Sorry, that action could not be completed because you have reached the block limit." = "מצטערים, לא ניתן להשלים פעולה זו מכיוון שהגעת למגבלת החסימות.";
+
+"Sorry, that action could not be completed because you have reached the follow limit." = "מצטערים, לא ניתן להשלים פעולה זו מכיוון שהגעת למגבלת המעקבים.";
+
+"Sorry, the broadcast is too full..." = "סליחה, השידור מלא מידי...";
+
+"Sorry, this broadcast is unavailable" = "מצטערים, השידור הזה אינו זמין";
+
+"Sorry, we couldn't load the broadcast share URL. Please try again." = "מצטערים, לא הצלחנו לטעון כתובת השיתוף של השידור. יש לנסות שוב.";
+
+"Sorry, we couldn't save your changes. Please try again." = "מצטערים, לא הצלחנו לשמור את השינויים שביצעת. נסה שוב.";
+
+"Sorry, we encountered an error blocking some users. Please try again." = "מצטערים, נתקלנו בשגיאה בעת חסימת משתמשים מסוימים. נסה שוב.";
+
+"Sorry, we encountered an error blocking that user. Please try again." = "מצטערים, נתקלנו בשגיאה בעת חסימת משתמש זה. נסה שוב.";
+
+"Sorry, we encountered an error loading user data. Please try again." = "מצטערים, נתקלנו בבעיה בעת העלאת נתוני המשתמש. נסה שוב.";
+
+"Sorry, we encountered an error loading your broadcasts. Please try again." = "נתקלנו בשגיאה בעת טעינת השידורים שלך. נסה שוב.";
+
+"Sorry, we encountered an error reporting this broadcast. Please try again." = "מצטערים, נתקלנו בשגיאה בעת דיווח על שידור זה. נסה שוב.";
+
+"Sorry, we encountered an error reporting this guest. Please try again." = "מצטערים, נתקלנו בשגיאה בעת דיווח על אורח זה. נסה שוב.";
+
+"Sorry, we've encountered a loading error. Please try again." = "מצטערים, נתקלנו בשגיאת טעינה. נסה שוב.";
+
+"Sorry, you've done that too many times. Try again in a few minutes." = "מצטערים, ניסית יותר מדי פעמים. נסה שוב בעוד מספר דקות.";
+
+"Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv" = "מצטערים, נתקלת בשגיאת טעינה (421 - בורר). שלח דואר אלקטרוני אל help@pscp.tv";
+
+"Sorry, you've encountered a loading error (421). Please email help@pscp.tv" = "מצטערים, נתקלת בשגיאת טעיננ (421). פנה בדואר אלקטרוני אל help@pscp.tv";
+
+"Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later." = "מצטערים, חיבור האינטרנט שלך לא מספיק חזק כדי להעלות תמונה ממוזערת חדשה של שידור. נסה שוב מאוחר יותר.";
+
+"Spam" = "זבל";
+
+"Spam in Chat" = "זבל בצ'אט";
+
+"Star & Cash Outs History (Stars Profile)" = "היסטוריית כוכבים והמרה למזומנים";
+
+"Star History (Stars Profile)" = "היסטוריית כוכבים";
+
+"Star balance adjustment. Contact superhearts@pscp.tv if you have any questions. (History)" = "התאמת יתרת הכוכבים. אם יש לך שאלות, פנה לכתובת superhearts@pscp.tv.";
+
+"Stars (profile view title)" = "כוכבים";
+
+"Stars (profile)" = "כוכבים";
+
+"Start Point" = "נקודת התחלה";
+
+"Start Sketching (action sheet)" = "התחל לשרטט";
+
+"Stop Broadcast" = "עצירת שידור";
+
+"Submit" = "שלח";
+
+"Success! You've unmuted @%@" = "הצלחה! ביטלת את ההשתקה של @%@";
+
+"Successfully set Amplify Program (title)" = "תוכנית הגברה הוגדרה בהצלחה";
+
+"Suggested user is watching singlular" = "%@•|• צופה עכשיו•|•";
+
+"Suggested users are watching plural" = "%ld חברים•|• צופים עכשיו•|•";
+
+"Super Broadcaster (Stars Profile)" = "משדר-על";
+
+"Super Broadcaster Program" = "התוכנית למשדרי-על";
+
+"Super Heart Terms" = "תנאי לבבות-על";
+
+"Super Hearts" = "לבבות-על";
+
+"Super Hearts OFF" = "לבבות-על מושבתים";
+
+"Super Hearts ON" = "לבבות-על פעילים";
+
+"Swipe down to <bold>Stop</bold>" = "החלק כלפי מטה כדי •|•להפסיק•|•";
+
+"Tap anyhwhere to <bold>Exit Theater Mode</bold>" = "גע במקום כלשהו כדי •|•לצאת ממצב תיאטרון•|•";
+
+"Tap this icon to join Broadcaster's broadcast as a guest. (Viewer Prompt to Call-In)" = "גע בסמל זה כדי להצטרף לשידור של •|•%@•|• בתור אורח.";
+
+"Thank You (Report Broadcast Confirmation Modal)" = "תודה";
+
+"Thank you for your report" = "תודה על הדיווח";
+
+"Thank you for your report (Chat Prompt)" = "תודה על הדיווח";
+
+"Thank you for your report." = "תודה על הדיווח.";
+
+"Thank you. You won't see any more messages from •|•@%@•|• in this broadcast." = "תודה. לא תראה עוד מסרים מאת •|•@%@•|• בשידור הזה.";
+
+"Thanks %@!" = "תודה %@!";
+
+"Thanks for your feedback!" = "תודה על המשוב!";
+
+"The broadcaster blocked you in response to this message." = "המשדר חסם אותך בתגובה להודעה זו.";
+
+"The broadcaster has limited chat." = "המשדר הגביל את הצ׳אט.";
+
+"The broadcaster has the ability to remove people from their broadcasts." = "המשדר יכול להרחיק אנשים מהשידורים שלו.";
+
+"The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•." = "חנות המטבעות נסגרה. אם נשארו לך מטבעות, השתמש בהם כדי לשלוח לבבות-על למשדרים האהובים עליך לפני •|•%@•|•.";
+
+"Theater Mode (action sheet)" = "מצב תיאטרון";
+
+"Their name, bio, or profile image violates the Community Guidelines" = "השם, הביוגרפיה או תמונת הפרופיל מפרים את הנחיות הקהילה";
+
+"There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat." = "יש הרבה אנשים שצופים בזה ממש עכשיו! כדי להגביל את ההודעות למשדר, רק מצטרפים מוקדמים יכולים לשוחח.";
+
+"There was an error adding @username as a guest. Please try again." = "אירעה שגיאה בעת הוספת @%@ כאורח. נסה שוב.";
+
+"There was an error adding you as a guest. We've notified Broadcaster, and will alert you if we're able to try again." = "אירעה שגיאה בעת ההוספה שלך כאורח. הודענו ל-%@, ונודיע לך אם נוכל לנסות שוב.";
+
+"There was an error allowing guests. Please try again." = "אירעה שגיאה בעת הבחירה לאפשר אורחים. נסה שוב.";
+
+"There was an error cancelling your request. Please try again." = "אירעה שגיאה בעת ביטול הבקשה שלך. נסה שוב.";
+
+"There was an error cancelling. Please try again." = "אירעה שגיאה בעת הביטול. נסה שוב.";
+
+"There was an error disallowing guests. Please try again." = "אירעה שגיאה בעת הבחירה שלא לאפשר אורחים. נסה שוב.";
+
+"There was an error inviting guests. Please try again." = "אירעה שגיאה בעת הזמנת אורחים. נסה שוב.";
+
+"There was an error muting or un-muting @username. Please try again." = "אירעה שגיאה בהשתקה או בביטול ההשתקה של ‎@%@‎‎. נסה שוב.";
+
+"There was an error muting or un-muting you. Please try again." = "אירעה שגיאה בהשתקה או בביטול ההשתקה שלך. נסה שוב.";
+
+"There was an error removing your guest @username. Please try again." = "אירעה שגיאה בעת הסרת האורח שלך @%@. נסה שוב.";
+
+"There was an error sending your request to join as a guest. Please try again." = "אירעה שגיאה בעת שליחת הבקשה שלך להצטרף כאורח. נסה שוב.";
+
+"There was an error updating the settings (conversation controls and mentioned users). Please try again." = "אירעה שגיאה בעת עדכון ההגדרות (פקדי השיחה ומשתמשים מוזכרים). נסה שוב.";
+
+"There was an error updating the settings (locked/unlocked). Please try again." = "אירעה שגיאה בעדכון ההגדרות (נעול/לא נעול). נסה שוב.";
+
+"This broadcast is no longer available." = "השידור הזה כבר לא זמין.";
+
+"This broadcast isn’t available (Copyright Violation)" = "השידור הזה אינו זמין";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}." = "השידור הזה תואם ל-“%1$@\"; עבודה של %2$@ עם זכויות יוצרים. •|•מידע נוסף•|•";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}. Do you have all rights necessary to broadcast this video on Twitter?" = "השידור הזה תואם ל-“%1$@\"; עבודה של %2$@ עם זכויות יוצרים. האם אתה מחזיק בזכויות הדרושות כדי לשדר את הסרטון הזה בטוויטר?";
+
+"This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video." = "שידור זה צולם במצלמת 360. Periscope לא תומכת יותר בתצוגת וידאו 360.";
+
+"This broadcast’s title can’t be edited. Learn more (Copyright Violation)" = "לא ניתן לערוך את הכותרת של שידור זה. •|•מידע נוסף•|•";
+
+"This is optional" = "זה לא חובה";
+
+"This user doesn't have any followers yet" = "למשתמש זה אין עדיין עוקבים";
+
+"This user has not broadcasted yet" = "משתמש זה עדיין לא שידר";
+
+"This user isn't following anyone yet" = "המשתמש עדיין לא עוקב אחרי אף אחד";
+
+"Thousand Decimal Abbreviation" = "‎%.1fK";
+
+"Thousand Integer Abbreviation" = "‎%dK";
+
+"Thumbnail" = "תמונה ממוזערת";
+
+"Time Watched (CELL)" = "משך זמן צפייה";
+
+"Title (accessibility label)" = "שם";
+
+"To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off." = "כדי לשוחח בצ'אט, הפעל את \"התחבר ל-Periscope\" בהגדרות שלך. אם האפשרות \"הגן על הציוצים שלי\" מופעלת בחשבון, תצטרך להוריד את היישום Periscope ולאחר מכן ליצור חשבון Periscope או לעבור לחשבון טוויטר שבו האפשרות \"הגן על הציוצים שלי\" מושבתת.";
+
+"To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos." = "כדי לשמור את הסרטון, מערכת Periscope צריכה הרשאת גישה לתמונות שלך. כדי להפעיל את התכונה הזאת לטובת שידורים עתידיים, גע ב'הגדרות' והעבר את המתג של 'תמונות' למצב מופעל.";
+
+"To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account." = "כדי שתוכל לשלוח משוב בדואר אלקטרוני, עליך להגדיר דואר אלקטרוני במכשיר שלך. ראשית, פתח את יישום ההגדרות. לאחר מכן עבור אל 'דואר, אנשי קשר, לוחות שנה' ובחר באפשרות 'הוסף חשבון'.";
+
+"To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option." = "כדי שתוכל לשתף במיקום, עליך לאשר ל-Periscope לגשת אליו במכשיר שלך. לחץ על הלחצן 'הגדרות' ולאחר מכן עבור אל 'מיקום' ובחר באפשרות 'בזמן שימוש ביישום'.";
+
+"Top Contributor" = "תורם מוביל";
+
+"Total watch time per minute tooltip" = "על כל דקה של שידור זה, הצופים בילו %@ בסך הכול בצפייה בו.";
+
+"Total watch time per minute tooltip (broadcaster)" = "על כל דקה של שידור זה, הצופים בילו %@ בסך הכול בצפייה בו. נתון זה מנרמל זמן צפייה בשידורים שנמשכו פרקי זמן שונים.";
+
+"Trying to reconnect" = "מנסה להתחבר מחדש";
+
+"Twitter Post OFF" = "שליחה לטוויטר כבויה";
+
+"Twitter Post ON" = "שליחה לטוויט מופעלת";
+
+"Unable to load broadcast." = "אי אפשר לטעון את השידור.";
+
+"Unblock User" = "שחרור משתמש";
+
+"Unfollow User" = "בטל מעקב אחרי משתמש";
+
+"Unhide Broadcast (menu button)" = "בטל הסתרת שידור";
+
+"Unmute" = "בטל השתקה";
+
+"Unmute User" = "בטל השתקה של משתמש";
+
+"Unmute User Notifications" = "בטל השתקה של הודעות משתמשים";
+
+"Untitled" = "ללא שם";
+
+"User has not provided a profile description." = "המשתמש לא סיפק תיאור פרופיל.";
+
+"Very bad" = "גרוע מאוד";
+
+"Very good" = "טוב מאוד";
+
+"Video Issues" = "בעיות בסרטונים";
+
+"Video Quality" = "איכות וידאו";
+
+"Video will resume if signal improves" = "הוידאו ימשיך אם האות ישתפר";
+
+"View Broadcast Actions (accessibility label)" = "הצג פעולות שידור";
+
+"View Participants (accessibility label)" = "הצג משתתפים";
+
+"View Profile" = "צפיה בפרופיל";
+
+"View Stats" = "הצג סטטיסטיקה";
+
+"Viewers can give you Super Hearts.\n<link>Learn more.</link>" = "צופים יכולים להעניק לך לבבות-על.\n•|•מידע נוסף.•|•";
+
+"Viewers cannot give you Super Hearts.\n<link>Learn more.</link>" = "צופים לא יכולים להעניק לך לבבות-על.\n•|•מידע נוסף.•|•";
+
+"Violence (Report Option)" = "אלימות";
+
+"Waiting for other responses..." = "ממתין לתגובות אחרות...";
+
+"Waiting for you to <bold>login</bold>." = "המערכת מחכה •|•לכניסה•|•.";
+
+"Watch %1$@'s broadcast: %2$@" = "צפה בשידור של %1$@: %2$@";
+
+"Watch %@'s broadcast." = "צפה בשידור של %@.";
+
+"Watch LIVE" = "צפה •|•בשידור חי•|•";
+
+"Watch Live" = "צפה בשידור חי";
+
+"Watch Replay" = "צפה בשידור החוזר";
+
+"Watch Stream (User Activity)" = "צפה בזרם";
+
+"Watch on #Periscope" = "צפה ב-#Periscope";
+
+"Watch on #Periscope: %@" = "צפה ב-‎#Periscope בשידור של: %@";
+
+"Watch what happened at %1$@ in %2$@'s broadcast." = "צפה במה שקרה ב-%1$@ בשידור של %2$@";
+
+"Watch what happened at %1$@ in %2$@'s broadcast: %3$@" = "צפה במה שקרה ב-%1$@ בשידור של %2$@: %3$@";
+
+"We encountered an error deleting your broadcast. Please try again." = "נתקלנו בשגיאה בעת מחיקת השידור שלך. נסה שוב.";
+
+"We encountered an error updating your gift settings. Please try again." = "נתקלנו בשגיאה בעת עדכון הגדרות המתנה שלך. נסה שוב.";
+
+"We have received your report. Thank you for helping keep the community safe! (Report Broadcast Confirmation Modal)" = "קיבלנו את הדיווח שלך. תודה שעזרת לנו לשמור על ביטחון הקהילה!";
+
+"We're sorry, there was an error starting your broadcast. Please try starting it again." = "מצטערים, אירעה שגיאה בעת ניסיון להתחיל את השידור שלך. נסה להתחיל את השידור שוב.";
+
+"Welcome <bold>%@</bold>" = "שלום •|•%@•|•";
+
+"We’ve let your followers know that you joined as a guest (Chat Prompt)" = "הודענו לעוקבים שלך שהצטרפת כאורח.";
+
+"What are you seeing now?" = "מה אתה רואה ברגע זה?";
+
+"What do you want to talk about?" = "על מה אתה רוצה לדבר?";
+
+"What went well?" = "מה הלך טוב?";
+
+"When someone follows them, they'll be listed here." = "כשאנשים יתחילו לעקוב אחריו, הם יהיו רשומים כאן.";
+
+"When someone follows you, they'll be listed here." = "כשאנשים יתחילו לעקוב אחריך, הם יהיו רשומים כאן.";
+
+"When they do, it'll show up here." = "כשזה יקרה, תראה זאת כאן";
+
+"When they do, they'll be listed here." = "כשזה יקרה, האנשים שאחריהם הוא עוקב יופיעו כאן.";
+
+"When you do, it'll show up here" = "כשזה יקרה, תראה זאת כאן";
+
+"When you do, they'll be listed here." = "כשזה יקרה, הם יהיו רשומים כאן.";
+
+"Yes (Copyright Violation)" = "כן";
+
+"You already have a linked Twitter account. Please use this in the future to broadcast from Twitter" = "כבר קישרת חשבון טוויטר. המשך להשתמש בו בעתיד כדי לשדר בטוויטר.";
+
+"You are now" = "עכשיו כן";
+
+"You aren't following anyone yet" = "אתה עדיין לא עוקב אחרי אף אחד";
+
+"You aren't following anyone." = "אינך עוקב אחרי אף אחד.";
+
+"You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests. (Offensive Report Modal)" = "ניתן לחסום משתמשים אם אינך מעוניין לראות את השידורים שלהם יותר. אתה תמשיך לראות משתמשים שחסמת כשהם יתארחו בשידורים.";
+
+"You can block a user whose broadcasts you no longer want to see. (Offensive Report Modal)" = "ניתן לחסום משתמשים אם אינך מעוניין עוד לראות את השידורים שלהם.";
+
+"You can give •|•%@•|• of these" = "אפשר להעניק •|•%@•|• כאלה";
+
+"You can't broadcast right now (Copyright Violation)" = "אינך יכול לשדר כרגע";
+
+"You can't watch a broadcast while you're still broadcasting." = "אינך יכול לצפות בשידור בזמן שאתה משדר.";
+
+"You can’t watch this because it included a copyrighted work by {Full Name}. Learn more (Copyright Violation)" = "לא ניתן לצפות בשידור זה מכיוון שהוא כולל עבודה של %@ עם זכויות יוצרים. •|•מידע נוסף•|•";
+
+"You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster." = "אתה אוסף כוכבים כשהאוהדים שלך מעניקים לך •|•לבבות-על•|•. הפוך את הכוכבים שלך למזומנים על-ידי כך שתהפוך למשדר-על.";
+
+"You didn't vote... <link>Learn about Moderation</link>" = "לא הצבעת... •|•למד אודות מתינות•|•";
+
+"You don't have any followers yet" = "עדיין אין לך עוקבים";
+
+"You earn stars from Super Hearts" = "אתה מרוויח כוכבים מלבבות-על";
+
+"You haven't broadcasted yet" = "עדיין לא שידרת";
+
+"You were <bold>blocked</bold> by the broadcaster" = "המשדר •|•חסם•|• אותך";
+
+"You will lose any unsaved changes. Are you sure you want to leave this view?" = "האם אתה בטוח שברצונך לעזוב את התצוגה? כל השינויים של נשמרו יאבדו.";
+
+"You will lose the stars you received" = "הכוכבים שצברת יאבדו";
+
+"You're Waiting to Join (Guest Calling Menu)" = "אתה מחכה להצטרף";
+
+"Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv" = "החשבון שלך הושבת בשל בקשת הסרה לפי דין של זכויות יוצרים. פנה אל help\@pscp.tv";
+
+"Your account has been disabled. Please contact help@pscp.tv" = "החשבון שלך הושבת. פנה אל help\@pscp.tv";
+
+"Your broadcast has been disabled (Copyright Violation)" = "השידור שלך הושבת.";
+
+"Your broadcast matches a copyrighted work (Copyright Violation)" = "השידור שלך תואם לעבודה בעלת זכויות יוצרים";
+
+"Your broadcast's thumbnail has been updated to the current screen." = "התמונה הממוזערת של השידור עודכנה למסך הנוכחי.";
+
+"Your dispute claim was submitted (Copyright Violation)" = "הערעור שלך על התביעה נשלח";
+
+"Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•." = "המשוב שלך חשוב לנו מאחר שאנחנו מעצבים חוויית שידור משופרת. באפשרותך לבטל את ההסכמה לסקרים עתידיים בכל שלב, על-ידי מעבר ל•|•הגדרות•|•.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts." = "המסר שלך •|•\"%@\"•|• הוסתר עקב פגיעה. כתיבת תגובות מושבתת עבור כל השידורים.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast." = "המסר שלך •|•\"%@\"•|• הוסתר עקב פגיעה. כתיבת תגובות מושבתת עבור שידור זה.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "המסר שלך •|•\"%@\"•|• הוסתר עקב פגיעה. כתיבת תגובות מוגבלת באופן זמני עבור כל השידורים.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast." = "המסר שלך •|•\"%@\"•|• הוסתר עקב פגיעה. כתיבת תגובות מוגבלת באופן זמני עבור שידור זה.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts." = "המסר שלך •|•\"%@\"•|• הוסתר עקב תוכן זבל. כתיבת תגובות מושבתת עבור כל השידורים.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast." = "המסר שלך •|•\"%@\"•|• הוסתר עקב תוכן זבל. כתיבת תגובות מושבתת עבור שידור זה.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "המסר שלך •|•\"%@\"•|• הוסתר עקב תוכן זבל. כתיבת תגובות מוגבלת באופן זמני עבור כל השידורים.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast." = "המסר שלך •|•\"%@\"•|• הוסתר עקב תוכן זבל. כתיבת תגובות מוגבלת זמנית עבור שידור זה.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts." = "המסר שלך •|•\"%@\"•|• הוסתר. כתיבת תגובות מושבתת עבור כל השידורים.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast." = "המסר שלך •|•\"%@\"•|• הוסתר. כתיבת תגובות מושבתת עבור שידור זה.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts." = "המסר שלך •|•\"%@\"•|• הוסתר. כתיבת תגובות מוגבלת באופן זמני עבור כל השידורים.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast." = "המסר שלך •|•\"%@\"•|• הוסתר. כתיבת תגובות מוגבלת באופן זמני עבור שידור זה.";
+
+"Your settings are about to automatically delete this broadcast." = "ההגדרות שלך עומדות למחוק אוטומטית שידור זה.";
+
+"Your settings will automatically delete this broadcast in %@" = "ההגדרות שלך ימחקו אוטומטית שידור זה תוך %@";
+
+"Your video will be available for replay after the event has ended. (Copyright Violation)" = "הסרטון שלך יהיה זמין לצפייה חוזרת מיד כשהאירוע יסתיים.";
+
+"Your viewers have been invited to join (Local Chat Prompt)" = "הצופים שלך הוזמנו להצטרף";
+
+"You’re enrolled in automatic monthly cash outs. (Stars Profile)" = "אתה ברשימת המרת יתרה חודשית אוטומטית למזומנים.";
+
+"You’ve blocked @username. Tap to report and share more details. (Should Report Guest User Chat Prompt)" = "חסמת את •|•@%@•|•. גע כדי לדווח ולשתף פרטים נוספים.";
+
+"[placeholder]" = "[placeholder]";
+
+"beta-feedback@pscp.tv" = "beta-feedback@pscp.tv";
+
+"coin bonus" = "%i%% יותר";
+
+"coin received (accessibility label)" = "מטבע שהתקבל";
+
+"coins received (accessibility label)" = "מטבעות שהתקבלו";
+
+"contact@pscp.tv" = "contact@pscp.tv";
+
+"current audience" = "קהל נוכחי";
+
+"failed" = "נכשל";
+
+"following (accessibility hint)" = "גע נגיעה כפולה כדי לבטל מעקב";
+
+"following (accessibility label)" = "מעקב";
+
+"for fine control" = "לשליטה בפרטים הקטנים";
+
+"heart received (accessibility label)" = "התקבל לב";
+
+"hearts received (accessibility label)" = "התקבלו לבבות";
+
+"https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119" = "https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119";
+
+"https://pscp.tv/i/super/terms" = "https://pscp.tv/i/super/terms";
+
+"iPad doesn’t support broadcasting from Split View." = "iPad אינו תומך בשידור מתצוגה מפוצלת.";
+
+"invited" = "מוזמן";
+
+"invited followers" = "עוקבים מוזמנים";
+
+"it's their first day on Periscope" = "היום הראשון ב-Periscope";
+
+"not following (accessibility hint)" = "גע נגיעה כפולה כדי לעקוב";
+
+"not following (accessibility label)" = "לא עוקב";
+
+"people" = "אנשים";
+
+"per Broadcast Minute (CELL)" = "לכל דקת שידור";
+
+"per Viewer (CELL)" = "לכל צופה";
+
+"person" = "אדם";
+
+"poor" = "חלש";
+
+"posting publicly on Periscope" = "מפרסם באופן ציבורי ב-Periscope";
+
+"posting publicly on Twitter" = "מפרסם באופן ציבורי בטוויטר";
+
+"selected Amplify Program" = "בחר תוכנית הגברה";
+
+"star received (accessibility label)" = "כוכב שהתקבל";
+
+"stars received (accessibility label)" = "כוכבים שהתקבלו";
+
+"tap to change Amplify Program" = "גע כדי להחליף תוכנית הגברה";
+
+"tap to change Amplify program" = "גע כדי להחליף תוכנית הגברה";
+
+"tap to change audience" = "גע כדי להחליף קהל";
+
+"to seek" = "לחיפוש";
+
+"you hung up (Guest Caller Hung Up Chat Message Event)" = "ניתקת";
+
+"you were added (New Guest Caller Chat Message Event)" = "הוסיפו אותך";
+
+"you were removed (Guest Caller Was Removed Chat Message Event)" = "הסירו אותך";
+
+"•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•." = "•|•%1$@•|• עדכן את תחילת השידור שלו ל-•|•%2$@•|•.";
+
+"•|•%@•|• are guests (Broadcast Guests Social Proof)" = "•|•%@•|• הם אורחים";
+
+"•|•%@•|• invited you (Broadcast Guest Invitation Social Proof)" = "•|•%@•|• הזמין אותך";
+
+"•|•%@•|• is a guest (Broadcast Guest Social Proof)" = "•|•%@•|• הוא אורח";
+
+"•|•%@•|• shared (Broadcast Share Social Proof)" = "•|•%@•|• שיתף";
+
+"•|•%@•|• was a guest (Broadcast Guest Social Proof)" = "•|•%@•|• היה אורח";
+
+"•|•%@•|• were guests (Broadcast Guests Social Proof)" = "•|•%@•|• היו אורחים";
+
+"•|•%@•|•\nBroadcasts" = "•|•%@•|•\nשידורים";
+
+"•|•%@•|•\nFollowers" = "•|•%@•|•\nעוקבים";
+
+"•|•%@•|•\nFollowing" = "•|•%@•|•\nבמעקב";
+
+"•|•@%1$@•|• was muted by •|•%2$@•|•" = "•|•@%1$@•|• הושתק על-ידי •|•%2$@•|•";
+
+"•|•@%1$@•|• was unmuted by •|•%2$@•|•" = "•|•ההשתקה של @%1$@•|• בוטלה על-ידי •|•%2$@•|•";
+
+"•|•@%@•|• Retweeted on" = "•|•@%@•|• צייץ מחדש ב-";
+
+"•|•@%@•|• shared on" = "שותף על־ידי •|•@%@•|• ב־";
+
+"•|•Muted•|• by %@" = "•|•הושתקה על-ידי•|• by %@";
+
+"•|•Not enough coins.•|• Get more coins to keep giving Super Hearts." = "•|•אין מספיק מטבעות.•|• השג עוד מטבעות כדי להמשיך ולהעניק לבבות-על.";
+
+"•|•Press & Hold•|• the video to skip ahead" = "•|•הקש ממושכות•|• על הסרטון כדי לדלג קדימה";
+
+"•|•Press & Hold•|• to skip back or ahead." = "•|•לחץ לחיצה ממושכת•|• כדי לדלג קדימה או אחורה.";
+
+"•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one." = "•|•לבבות-על מופעלים.•|• הקש על השידור כדי לתת את הראשון שלך.";
+
+"•|•Support %@•|• by giving Super Hearts!" = "•|•תמוך ב-%@•|• על ידי נתינת לבבות-על!";
+
+"•|•Unmuted•|• by %@" = "•|•ההשתקה בוטלה•|• על-ידי %@";
+
+"•|•You need more coins•|• to give Super Hearts" = "•|•אתה זקוק למטבעות נוספים•|• כדי להעניק לבבות-על";
+
+"•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast." = "•|•הושתקת•|• על-ידי האחד המנחים של %1$@ בגלל התגובה שלך•|•\"%2$@\"•|•. אינך יכול עוד להשתתף בצ'אט בשידור הזה.";
+
+"•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast." = "•|• ההשתקה שלך בוטלה על ידי •|• אחד אחד המנחים של %@. כעת תוכל לצ'וטט בשידור זה.";
+

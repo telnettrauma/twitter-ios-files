@@ -1,0 +1,1448 @@
+"%@ New Messages" = "Nové správy: %@";
+
+"%@ Viewer (Broadcast Info)" = "%@ divák";
+
+"%@ Viewers (Broadcast Info)" = "Diváci: %@";
+
+"%@ ago" = "%@ dozadu";
+
+"%@ doesn't have any followers yet" = "Používateľ @%@ zatiaľ nemá žiadnych sledujúcich";
+
+"%@ has not broadcasted yet" = "Používateľ %@ zatiaľ nevysielal";
+
+"%@ is LIVE (broadcast title)" = "Používateľ %@ vysiela NAŽIVO";
+
+"%@ isn't following anyone yet" = "Používateľ %@ zatiaľ nikoho nesleduje";
+
+"%@ joined" = "sa pripojil";
+
+"%@ wants you to moderate comments. Tap on comments to mute them." = "%@ chce, aby ste moderovali komentáre. Ťuknutím môžete komentáre stíšiť.";
+
+"%@ wants you to moderate comments. Tap or swipe left on comments to mute them." = "%@ chce, aby ste moderovali komentáre. Ťuknutím alebo potiahnutím doľava môžete komentáre stíšiť.";
+
+"%@ was live  (broadcast title)" = "Používateľ %@ vysielal naživo";
+
+"%d More Live Viewers" = "Ďalší diváci živého vysielania";
+
+"%d More Replay Viewers" = "ďalší diváci záznamu";
+
+"%d More Viewers" = "ďalší diváci";
+
+"%ldd (days)" = "%ld d.";
+
+"%ldh (hours)" = "%ld h";
+
+"%ldm (minutes)" = "%ld min";
+
+"%lds (seconds)" = "%ld s";
+
+"%ldy (years)" = "%ld r.";
+
+"(EDITED)" = "(UPRAVENÉ)";
+
+"(Skip to) LIVE" = "NAŽIVO";
+
+"1 More Live Viewer" = "Ďalší divák živého vysielania";
+
+"1 More Replay Viewier" = "ďalší divák prehrania";
+
+"1 More Viewer" = "ďalší divák";
+
+"1 New Message" = "1 nová správa";
+
+"@username \"Tap to cancel\" (Add Guest Caller Chat Message Event)" = "Ťuknutím akciu zrušíte";
+
+"@username \"canceled\" (Add Guest Caller Chat Message Event)" = "zrušil/-a";
+
+"@username \"has asked to join\" (Add Guest Caller Chat Message Event)" = "požiadal/-a o pripojenie";
+
+"@username \"hung up\" (Guest Caller Hung Up Chat Message Event)" = "Používateľ •|•@%@•|• položil";
+
+"@username \"was added\" (Add Guest Caller Chat Message Event)" = "sa pridal/-a";
+
+"@username \"was added\" (New Guest Caller Chat Message Event)" = "Používateľ •|•@%@•|• bol pridaný";
+
+"@username \"was removed\" (Add Guest Caller Chat Message Event)" = "sa odobral(-a)";
+
+"@username \"was removed\" (Guest Caller Was Removed Chat Message Event)" = "Používateľ •|•@%@•|• bol odstránený";
+
+"A Periscope account is required to edit a broadcast." = "Na úpravu vysielania potrebujete účet na Periscope.";
+
+"A Periscope account is required to share a broadcast." = "Na zdieľanie vysielania potrebujete účet na Periscope.";
+
+"A broadcast with a star balance was deleted. (History)" = "Vysielanie so zostatkom hviezdičiek bolo odstránené.";
+
+"ACTIVE CONTRIBUTORS" = "AKTÍVNI PRISPIEVATELIA";
+
+"Abuse" = "Zneužitie";
+
+"Abusive Behavior (Report Option)" = "Urážlivé správanie";
+
+"Accept Caller as Guest" = "Prijať volajúceho ako hosťa";
+
+"Accept Super Hearts (accessibility hint)" = "Dvojitým ťuknutím spustíte prijímanie supersrdiečok pre toto vysielanie.";
+
+"Accept Super Hearts (accessibility label)" = "Prijímať supersrdiečka";
+
+"Accept as Guest" = "Prijať ako hosťa";
+
+"Actions (accessibility label)" = "Akcie";
+
+"Add Guest (Manage Guest Call-Ins Action Sheet)" = "Pridať hosťa";
+
+"Add guest \n viewer will become a guest broadcaster" = "Pridať hosťa•|•\ndivák sa stane hosťujúcim vysielateľom•|•";
+
+"All-Time Stars (Stars Profile)" = "Všetky doterajšie hviezdičky";
+
+"Allow Guests (Tooltip Selected)" = "Povoliť hostí";
+
+"Allow guests / Don't allow guests (accessibility label)" = "Povoliť hostí/nepovoliť hostí";
+
+"Anything else you'd like to share?" = "Niečo iné, čo by ste nám ešte chceli oznámiť?";
+
+"Are you sure you want to send this message?" = "Naozaj chcete odoslať túto správu?";
+
+"Are you sure you want to unblock?" = "Naozaj chcete používateľa odblokovať?";
+
+"Are you sure? (title)" = "Naozaj?";
+
+"Ask for Follow (action sheet)" = "Požiadať o sledovanie";
+
+"Ask for Share (action sheet)" = "Požiadať o zdieľanie";
+
+"Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Spýtajte sa, či sa môžete pripojiť k tomuto vysielaniu ako hosť. Budú vás môcť počuť všetci, kedykoľvek tiež môžete prestať.";
+
+"Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Spýtajte sa, či sa môžete pripojiť k tomuto vysielaniu ako hosť. Budú vás môcť počuť všetci, kedykoľvek tiež môžete prestať.";
+
+"Asking to join... Broadcaster must accept you (Local Chat Prompt)" = "Žiadate o pripojenie...\nPoužívateľ •|•%@•|• vás musí prijať";
+
+"Audio Only (accessibility label)" = "Iba zvukové vysielanie";
+
+"Audio from: Headphones" = "Zdroj zvuku: Slúchadlá";
+
+"Audio from: Phone" = "Zdroj zvuku: Telefón";
+
+"Back" = "Späť";
+
+"Back (action sheet)" = "Späť";
+
+"Back Camera (accessibility hint)" = "Dvojitým ťuknutím prepnete na prednú kameru";
+
+"Back Camera (accessiblity value)" = "Zadná kamera";
+
+"Back to %@" = "Späť na %@";
+
+"Back to Hearts" = "Späť na srdiečka";
+
+"Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. Learn more (Copyright violation)" = "V poslednom čase ste mali viacero vysielaní, ktorých súčasťou boli diela chránené autorskými právami, preto dočasne nebudete môcť vysielať. •|•Viac informácií•|•";
+
+"Betascope App Feedback" = "Pripomienky k apke Betascope";
+
+"Billion Decimal Abbreviation" = "%.1f mld";
+
+"Billion Integer Abbreviation" = "%d mld";
+
+"Block @%@" = "Zablokovať používateľa @%@";
+
+"Block @%@ (Offensive Report Modal)" = "Zablokovať používateľa @%@";
+
+"Block And Hang Up (Manage Guest Call-Ins Action Sheet)" = "Zablokovať a položiť";
+
+"Block User" = "Zablokovať používateľa";
+
+"Block Users (%@)" = "Zablokovať používateľov (%@)";
+
+"Block {Username}" = "Zablokovať používateľa @%@";
+
+"Blocked (user modal)" = "Zablokovaný";
+
+"Blocked by you" = "Zablokované vami";
+
+"Blocking will dismiss the broadcast and not report to Periscope. (Offensive Report Modal)" = "Zablokovaním sa vysielanie zruší a nenahlási sa na Periscope.";
+
+"Broadcast Actions (accessibility hint)" = "Otvorí ponuku s akciami týkajúcimi sa vysielania.";
+
+"Broadcast Details (action sheet)" = "Podrobnosti o vysielaní";
+
+"Broadcast Super Heart Auto-Deletion Warning" = "•|•Toto vysielanie sa po 24 hodinách automaticky neodstráni,•|• aby sa zabránilo strate hviezdičiek, ktoré ste mohli získať zo supersrdiečok.\n\nAk chcete, môžete vysielanie po skončení skryť, aby ho ostatní nevideli.";
+
+"Broadcast Title" = "Názov vysielania";
+
+"Broadcast about to expire (Cell)" = "Platnosť vysielania čoskoro uplynie";
+
+"Broadcast creation" = "Vytvorenie vysielania";
+
+"Broadcaster Has Disabled Call-Ins (Generic Error Message)" = "Vysielateľ nedávno zakázal vytváranie zoznamu volaní do vysielania.";
+
+"Broadcaster blocked •|•@%@•|•" = "Vysielateľ zablokoval používateľa •|•@%@•|•";
+
+"Broadcaster doesn’t accept Super Hearts" = "Vysielateľ neprijíma supersrdiečka";
+
+"Broadcaster has assigned chat moderators." = "Vysielateľ priradil moderátorov chatu.";
+
+"Broadcaster has to accept your request before you can join as a guest. (Guest Call-In Instructions Subtitle)" = "Používateľ %@ vás najprv musí prijať, až potom sa môžete pripojiť ako hosť.";
+
+"Broadcaster is allowing guests to join (Local Chat Prompt)" = "Používateľ •|•%@•|• povoľuje pripojenie hostí";
+
+"Broadcaster is not allowing guests to join (Local Chat Prompt)" = "Používateľ •|•%@•|• nepovoľuje pripojenie hostí";
+
+"Broadcasters earn stars from Super Hearts" = "Vysielatelia dostávajú za supersrdiečka hviezdičky";
+
+"Bummer (ReplayKit)" = "Chyba";
+
+"CONCATENTATION_ACCESSIBILITY_STRING" = ".";
+
+"CONTRIBUTORS WHO HAVE LEFT" = "PRISPIEVATELIA, KTORÍ ODIŠLI";
+
+"COULDN'T LOAD REPLAY VIEWERS" = "NEPODARILO SA NAČÍTAŤ DIVÁKOV ZÁZNAMU";
+
+"COULDN'T LOAD VIEWERS" = "NEPODARILO SA NAČÍTAŤ DIVÁKOV";
+
+"Camera Selection (accessibility label)" = "Výber kamery";
+
+"Cancel" = "Zrušiť";
+
+"Cancel (action sheet)" = "Zrušiť";
+
+"Cancel Call In Button: \"Cancel Request to Join as a Guest\"" = "Zrušiť žiadosť o pripojenie v role hosťa";
+
+"Cancel Guest Call-In Instructions Title: \"Waiting to join as a guest...\"" = "Čaká na na pripojenie v role hosťa...";
+
+"Cannot be undone" = "Tento krok sa nedá vrátiť späť";
+
+"Capture Thumbnail (action sheet)" = "Nasnímať miniatúru";
+
+"Cash Outs (Stars Profile)" = "Vyplatené sumy";
+
+"Cash out your stars, and continue using live video on Twitter" = "Miňte svoje hviezdičky a prejdite na video naživo na Twitteri";
+
+"Change Amplify Program" = "Zmeniť program zviditeľňovania";
+
+"Change Expiration (Cell)" = "Zmeniť uplynutie platnosti";
+
+"Change Expiration Subtitle (Cell)" = "Automaticky odstrániť o %@";
+
+"Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program." = "Zmenou programu zviditeľňovania na možnosť •|•%@•|• sa odstráni váš starý Tweet a publikuje sa nový s novým programom.";
+
+"Chatroom too full..." = "Chatovacia miestnosť je príliš plná...";
+
+"Child Safety (Report Option)" = "Bezpečnosť detí";
+
+"Choose guests to add. You can remove them at any time. (Manage Guest Callers Page Subtitle)" = "Vyberte hostí, ktorých chcete pridať. Kedykoľvek ich môžete zase odobrať.";
+
+"Close (accessibility label)" = "Zavrieť";
+
+"Comment Tip Option 1" = "Napíšte komentár a dajte používateľovi •|•%@•|• vedieť, že ste tu.";
+
+"Comment Tip Option 2" = "Informujte používateľa •|•%@•|•, odkiaľ pozeráte.";
+
+"Comment Tip Option 3" = "Pozdravte používateľa •|•%@•|• a ďalších divákov a chatujte s nimi.";
+
+"Commenting is OFF" = "Komentovanie je VYPNUTÉ";
+
+"Comments Received (CELL)" = "Prijaté komentáre";
+
+"Comments Received Unavailable (CELL)" = "Nedostupné";
+
+"Compose Direct Message (Accessibility Label)" = "Napísať súkromnú správu";
+
+"Compose New Tweet (Accessibility Label)" = "Napísať nový Tweet";
+
+"Confirm Call In Button: \"OK, Ask to Join\"" = "V poriadku, požiadať o pripojenie";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile and audio will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and hear you. This may include people you’ve blocked on either app.\"" = "•\tVáš profil a zvuk sa stane súčasťou tohto vysielania a nebude sa dať odstrániť, kým vysielateľ %1$@ prehrávanie nevymaže.\n\n•\tVšetci ľudia, ktorí pozerajú Periscope na Twitteri, budú vidieť, že ste sa pripojili k vysielaniu používateľa %1$@, a budú vás počuť. Môžu byť medzi nimi aj ľudia, ktorých máte v niektorej z týchto apiek zablokovaných.";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile, audio and video will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and see you. This may include people you’ve blocked on either app.\"" = "•\tVáš profil, zvuk a video sa stane súčasťou tohto vysielania a nebude sa dať odstrániť, kým vysielateľ %1$@ prehrávanie nevymaže.\n\n•\tVšetci ľudia, ktorí pozerajú Periscope na Twitteri, budú vidieť, že ste sa pripojili k vysielaniu používateľa %1$@, a budú vás vidieť. Môžu byť medzi nimi aj ľudia, ktorých máte v niektorej z týchto apiek zablokovaných.";
+
+"Confirm Guest Call-In Instructions Title: \"Good to know...\"" = "Dobre vedieť...";
+
+"Connecting to chatroom" = "Pripojenie k chatovacej miestnosti";
+
+"Connection Error" = "Chyba pri pripájaní";
+
+"Connection too" = "Pripojenie k:";
+
+"Contact Us (action sheet)" = "Kontaktujte nás";
+
+"Contributors" = "Prispievatelia";
+
+"Copy Profile URL" = "Kopírovať URL adresu profilu";
+
+"Current Star Balance (Stars Profile)" = "Aktuálny zostatok hviezdičiek";
+
+"Current Time (Accessibility Label)" = "Aktuálny čas";
+
+"Dear Periscope Team," = "Vážený tím apky Periscope,";
+
+"Delete Broadcast" = "Odstrániť vysielanie";
+
+"Delete Broadcast (action sheet)" = "Vymazať vysielanie";
+
+"Delete Broadcast Now" = "Odstrániť vysielanie teraz";
+
+"Describe the issue (Report Option)" = "Popíšte problém";
+
+"Describe the issue with %@ (Report Option)" = "Popíšte problém, ktorý ste mali s účtom @%@";
+
+"Describe the issue with @%1$@ at %2$@ (Report Option)" = "Popíšte problém, ktorý ste mali s účtom @%1$@ v čase %2$@";
+
+"Describe the issue you are seeing at %@ (Report Option)" = "Popíšte problém, ktorý vidíte v čase %@";
+
+"Direct Message (Compose)" = "Súkromná správa";
+
+"Disable Audio Only Broadcast" = "Zakázať iba zvukové vysielanie";
+
+"Disabled for all broadcasts" = "Vypnuté pre všetky vysielania";
+
+"Disabled for this broadcast" = "Vypnuté pre toto vysielanie";
+
+"Discard Changes" = "Zahodiť zmeny";
+
+"Display Photo (action sheet)" = "Zobraziť fotku";
+
+"Dispute Claim (Copyright Violation)" = "Podať námietku proti nároku";
+
+"Do not notify my followers (Guest Call-In Notify Followers Option)" = "Neupozorniť mojich sledujúcich";
+
+"Don't Allow Guests (Manage Guest Broadcasters Call-Ins List)" = "Nepovoliť hostí";
+
+"Don't Allow Guests (Tooltip)" = "Nepovoliť hostí";
+
+"Don't Auto-Delete" = "Neodstrániť automaticky";
+
+"Don't Send (Blocked Modal)" = "Neodoslať";
+
+"Done" = "Hotovo";
+
+"Done (action sheet)" = "Hotovo";
+
+"Double Tap anywhere to Exit Theater Mode (accessibility label)" = "Dvojitým ťuknutím na ľubovoľné miesto ukončíte režim divadla";
+
+"Double Tap to <bold>Flip Camera</bold>" = "Dvojitým ťuknutím •|•prevrátite kameru•|•";
+
+"Double tap to allow or disallow guests (accessibility hint)" = "Dvojitým ťuknutím môžete povoliť alebo nepovoliť hostí";
+
+"Duration (CELL)" = "Trvanie";
+
+"END (graph)" = "KONIEC";
+
+"ENDED" = "SKONČILO";
+
+"Edit Broadcast" = "Upraviť vysielanie";
+
+"Edit Broadcast (action sheet)" = "Upraviť vysielanie";
+
+"Edit Broadcast Unavailable" = "Úprava vysielania je nedostupná";
+
+"Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured." = "Úpravy vysielania zmenia spôsob, ako sa budú zobrazovať ľuďom, ktorí ho sledujú. Tieto zmeny neovplyvnia žiadne predchádzajúce Tweety alebo notifikácie.";
+
+"Enable Audio Only Broadcast" = "Povoliť iba zvukové vysielanie";
+
+"Enable Email" = "Zapnúť e-mail";
+
+"Enable camera (Permissions Screen)" = "Zapnúť kameru";
+
+"Enable microphone (Permissions Screen)" = "Zapnúť mikrofón";
+
+"Enable/Disable Audio Only Broadcast (accessibility hint)" = "Ťuknutím povolíte alebo zakážete iba zvukové vysielanie";
+
+"Enable/Disable Audio Only Broadcast (accessibility label)" = "Povoliť alebo zakázať iba zvukové vysielanie";
+
+"Ended" = "Skončilo";
+
+"Engaging Chat" = "Pútavý chat";
+
+"Error (ReplayKit)" = "Chyba";
+
+"Error accessing audio from microphone." = "Chyba pri prístupe k zvuku z mikrofónu.";
+
+"Error accessing history." = "Chyba pri prístupe k histórii.";
+
+"Error saving video to Camera Roll" = "Chyba pri ukladaní videa do priečinka Fotoaparát";
+
+"Error setting Amplify Program (title)" = "Chyba pri nastavení programu zviditeľňovania";
+
+"Every heart you send will be a Super Heart" = "Každé odoslané srdiečko bude supersrdiečkom";
+
+"Everybody can chat" = "Všetci môžu chatovať";
+
+"FEATURED" = "ODPORÚČANÉ";
+
+"FOLLOWERS (user profile modal)" = "SLEDUJÚCI";
+
+"FOLLOWING (user profile modal)" = "SLEDOVANÍ";
+
+"Final List separator" = "a";
+
+"Fine Control" = "Jemné ovládanie";
+
+"First Super Heart" = "Prvé supersrdiečko";
+
+"Flip Camera (action sheet)" = "Prevrátiť kameru";
+
+"Follow (user modal)" = "Sledovať";
+
+"Follow request sent. (chat message)" = "Požiadavka na sledovanie bola odoslaná.";
+
+"Follow the broadcaster to catch their next broadcast." = "Sledujte vysielateľa, aby ste nezmeškali jeho ďalšie vysielanie.";
+
+"Follow •|•%@•|• to catch their next broadcast" = "Sledujte používateľa •|•%@•|•, aby ste nezmeškali jeho ďalšie vysielanie";
+
+"Followed by %1$@ and %2$@" = "Sledujú používatelia %1$@ a %2$@";
+
+"Followed by %1$@, %2$@, %3$@ and %4$i others" = "Sledujú používatelia %1$@, %2$@, %3$@ a ďalší (%4$i)";
+
+"Followed by %1$@, %2$@, and %3$@" = "Sledujú používatelia %1$@, %2$@ a %3$@";
+
+"Followed by %@" = "Sleduje používateľ %@";
+
+"Followers button (accessibility hint)" = "Dvojitým ťuknutím zobrazíte sledujúcich.";
+
+"Following (user modal)" = "Sleduje";
+
+"Following button (accessibility hint)" = "Dvojitým ťuknutím zobrazíte sledovaných používateľov.";
+
+"Front Camera (accessibility hint)" = "Dvojitým ťuknutím prepnete na zadnú kameru";
+
+"Front Camera (accessiblity value)" = "Predná kamera";
+
+"Get Coins" = "Získať mince";
+
+"Give Super Hearts (menu button)" = "Udeliť supersrdiečka";
+
+"Go LIVE" = "Vysielať NAŽIVO";
+
+"Go LIVE to %@" = "Vysielať NAŽIVO pre %@";
+
+"Go LIVE together (Guest Broadcasting Modal Title)" = "Vysielanie NAŽIVO spolu";
+
+"Go to Twitter Profile" = "Prejsť na profil na Twitteri";
+
+"Good Viewer Count" = "Vysoký počet divákov";
+
+"Got It (Button Title)" = "Rozumiem";
+
+"Got it (Copyright Violation)" = "Rozumiem";
+
+"Got it (ReplayKit)" = "Rozumiem";
+
+"Got it!" = "Chápem!";
+
+"Guest Action Sheet Report Item" = "Nahlásiť";
+
+"Guest Call In Choice Label: \"Camera and microphone\"" = "Kamera a mikrofón";
+
+"Guest Call In Choice Label: \"Microphone only\"" = "Iba mikrofón";
+
+"Guest Call-In Audio Only Permissions Subtitle beneath Title: \"Enable microphone to become a guest\"" = "Zapnite mikrofón, aby ste sa mohli stať hosťom";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request. Learn more\"" = "Budete pridaní, keď vysielateľ prijme vašu žiadosť. •|•Viac informácií•|•";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request.\"" = "Budete pridaní, keď vysielateľ prijme vašu žiadosť.";
+
+"Guest Call-In Instructions Title: \"Ask to Join\"" = "Požiadať o pripojenie";
+
+"Guest Call-In Instructions Title: \"Join as a guest\"" = "Pripojiť sa ako hosť";
+
+"Guest Call-In Permissions Subtitle beneath Title: \"Enable camera and microphone to become a guest\"" = "Zdieľajte kameru a mikrofón, aby ste sa mohli stať hosťom";
+
+"Guest Call-In Permissions Title: \"Guest setup\"" = "Nastavenie hostí";
+
+"Guest List (Manage Guest Callers Page Title)" = "Zoznam hostí";
+
+"Guest Was Banned Chat Message (Periscope)" = "Hosť •|•@%@•|• bol nahlásený, Periscope toto hlásenie preskúmal a zistil, že boli porušené pokyny pre komunitu.";
+
+"Guest Was Banned Chat Message (Twitter)" = "Hosť •|•@%@•|• bol nahlásený, Twitter hlásenie preskúmal a zistil, že boli porušené pravidlá používania Twitteru.";
+
+"Guests Not Allowed (Manage Guest Broadcasters Call-Ins List)" = "Hostia nie sú povolení";
+
+"Guests can now ask to join. Use this icon to add or remove guests at any time. (Guest Broadcasting Enabled Prompt)" = "Hostia teraz môžu požiadať o pripojenie. Pomocou tejto ikony môžete hostí kedykoľvek pridať alebo odobrať.";
+
+"HEART" = "SRDIEČKO";
+
+"HEARTS" = "SRDIEČKA";
+
+"Half-Speed" = "Polovičná rýchlosť";
+
+"Hang Up (Guest Calling Menu)" = "Položiť";
+
+"Hang Up (Manage Guest Call-Ins Action Sheet)" = "Položiť";
+
+"Hang Up Button Label: \"Hang Up\"" = "Položiť";
+
+"Hang Up Subtitle (Audio Only): \"Stop sharing microphone\"" = "Zastaviť zdieľanie mikrofónu";
+
+"Hang Up Subtitle (Camera + Microphone): \"Stop sharing camera and microphone\"" = "Zastaviť zdieľanie kamery a mikrofónu";
+
+"Hang Up on Guest or Cancel Guest From Joining" = "Položiť hosťovi alebo zrušiť pripojenie hosťa";
+
+"Hang up" = "Položiť";
+
+"Harassment" = "Obťažovanie";
+
+"Hateful Conduct (Report Option)" = "Zásady boja proti nenávistnému správaniu";
+
+"Heart Sent (accessiblity announcement)" = "Srdiečko sa odoslalo";
+
+"Hearts & Chats off" = "Srdiečka a chat sú vypnuté";
+
+"Hearts & Chats on" = "Srdiečka a chat sú zapnuté";
+
+"Help us moderate this comment..." = "Pomôžte nám moderovať tento komentár...";
+
+"Help us understand the problem.\nWhat issue with @%@ are you reporting?" = "Pomôžte nám pochopiť, o čo ide.\nAký problém s účtom @%@ nahlasujete?";
+
+"Hide Broadcast" = "Skryť vysielanie";
+
+"Hide everything except video (action sheet)" = "Skryť všetko okrem videa";
+
+"History (profile view title)" = "História";
+
+"History button (accessibility hint)" = "Dvojitým ťuknutím zobrazíte nedávne vysielania.";
+
+"How can we improve?" = "Ako sa môžeme zlepšiť?";
+
+"How was your broadcasting experience?" = "Aké sú vaše skúsenosti s vysielaním?";
+
+"I'm Not Interested in @%@" = "Účet @%@ ma nezaujíma";
+
+"If this broadcast depicts pornography or sexual acts, please tap below. (Report Sexual Content Modal)" = "Ak toto vysielanie znázorňuje pornografiu alebo pohlavný styk, ťuknite nižšie.";
+
+"If you believe that this broadcast places a child at risk, please tap below. (Report Child Safety Modal)" = "Ak sa domnievate, že toto vysielanie vystavuje deti riziku, ťuknite nižšie.";
+
+"If you believe this broadcast contains violence or someone is being physically threatened, please tap below. (Report Violence Modal)" = "Ak sa domnievate, že toto vysielanie obsahuje násilie alebo v ňom dochádza k fyzickému ohrozovaniu osoby, ťuknite nižšie.";
+
+"If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Ak sa domnievate, že toto vysielanie podnecuje nenávisť voči chránenej kategórii osôb (napríklad na základe rasy, náboženstva, pohlavia, orientácie, postihnutia), ťuknite nižšie.";
+
+"If you believe this broadcast exposes private information, please tap below. (Report Private Information Modal)" = "Ak sa domnievate, že toto vysielanie uverejňuje súkromné informácie, ťuknite nižšie.";
+
+"If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below. (Report Harassment Modal)" = "Ak sa domnievate, že toto vysielanie niekoho obťažuje, zastrašuje alebo šíri strach na umlčanie inej osoby, ťuknite nižšie.";
+
+"If you believe this guest is contemplating or encouraging suicide or self harm, please tap below. (Report Self Harm Modal)" = "Ak sa domnievate, že tento hosť uvažuje o samovražde alebo sebapoškodzovaní, prípadne na ne navádza, ťuknite nižšie.";
+
+"If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Ak sa domnievate, že tento hosť podnecuje nenávisť voči chránenej kategórii osôb (napríklad na základe rasy, náboženstva, pohlavia, orientácie, postihnutia), ťuknite nižšie.";
+
+"If you believe this guest is exposing private information, please tap below. (Report Private Information Modal)" = "Ak sa domnievate, že tento hosť uverejňuje súkromné informácie, ťuknite nižšie.";
+
+"If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below. (Report Harassment Modal)" = "Ak sa domnievate, že tento hosť niekoho obťažuje, zastrašuje alebo šíri strach na umlčanie inej osoby, ťuknite nižšie.";
+
+"If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below. (Report Violence Modal)" = "Ak sa domnievate, že tento hosť sa konkrétne vyhráža násilím alebo niekoho fyzicky ohrozuje či ohrozuje duševnú pohodu inej osoby, ťuknite nižšie.";
+
+"If you believe this guest is sharing content that places a child at risk, please tap below. (Report Child Safety Modal)" = "Ak sa domnievate, že tento hosť zdieľa obsah, ktorý vystavuje deti riziku, ťuknite nižšie.";
+
+"If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below. (Report Sexual Content Modal)" = "Ak sa domnievate, že tento hosť zdieľa nevhodný sexuálny obsah, napríklad pornografiu, ťuknite nižšie.";
+
+"If you believe this individual is contemplating suicide or self harm, please tap below. (Report Self Harm Modal)" = "Ak sa domnievate, že táto osoba uvažuje o samovražde alebo sebapoškodzovaní, ťuknite nižšie.";
+
+"If you delete this broadcast, you will lose the stars that you received. This cannot be undone." = "Ak vysielanie odstránite, stratíte prijaté hviezdičky. Tento krok sa nedá vrátiť späť.";
+
+"Initializing video stream..." = "Inicializuje sa stream videa...";
+
+"Invite Guests (Manage Guest Broadcasters Call-Ins List)" = "Pozvať hostí";
+
+"Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Pozvite divákov, aby sa k vysielaniu pripojili ako hostia. Hostí budú počuť všetci, pridať alebo odobrať ich môžete kedykoľvek.";
+
+"Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Pozvite divákov, aby sa k vysielaniu pripojili ako hostia. Hostí budú vidieť a počuť všetci, pridať alebo odobrať ich môžete kedykoľvek.";
+
+"Join as a Guest (Guest Calling Menu)" = "Pripojiť sa ako hosť";
+
+"Joined %@" = "Na Periscope od: %@";
+
+"Joining as a guest... (Guest Call-In Countdown Screen Title)" = "Pripájanie v role hosťa...";
+
+"Keep broadcasting to collect more stars!" = "Vysielajte aj naďalej a zbierajte ďalšie hviezdičky!";
+
+"Keep stars received" = "Prijaté hviezdičky sa ponechajú";
+
+"LIVE" = "NAŽIVO";
+
+"LIVE VIEWER" = "DIVÁK ŽIVÉHO VYSIELANIA";
+
+"LIVE VIEWERS" = "DIVÁCI ŽIVÉHO VYSIELANIA";
+
+"LIVE Video (Broadcast Audience)" = "Video NAŽIVO";
+
+"LIVE on #Periscope" = "NAŽIVO na #Periscope";
+
+"LIVE on #Periscope: %@" = "NAŽIVO na #Periscope: %@";
+
+"LOADING" = "NAČÍTAVA SA";
+
+"LOST CONNECTION" = "PRIPOJENIE SA PRERUŠILO";
+
+"Later (alert view)" = "Neskôr";
+
+"Learn More" = "Viac informácií";
+
+"Learn More (Stars Profile)" = "Viac informácií";
+
+"Leave Broadcast" = "Opustiť vysielanie";
+
+"Limited by Broadcaster" = "Obmedzené vysielateľom";
+
+"Limited for %@" = "Obmedzené na %@";
+
+"List separator" = ",";
+
+"Live Time Watched (CELL)" = "Čas pozerania naživo";
+
+"Live watch time per minute tooltip" = "Na každú naživo vysielanú minútu tohto vysielania diváci celkove strávili spolu %@ jeho pozeraním.";
+
+"Loading History." = "Načítava sa história.";
+
+"Loading followers" = "Načítavajú sa sledujúci";
+
+"Loading following" = "Načítavajú sa sledovaní";
+
+"Loading history" = "Načítava sa história";
+
+"Loading your followers" = "Načítavajú sa vaši sledujúci";
+
+"Loading your following" = "Načítavajú sa vaši sledovaní";
+
+"Location Permissions Required" = "Vyžadujú sa povolenia polohy";
+
+"Location Unknown" = "Neznáma poloha";
+
+"Logged Out" = "Odhlásené";
+
+"Login Error (ReplayKit)" = "Vyžaduje sa prihlásenie";
+
+"Login Error Instructions (ReplayKit)" = "Otvorte apku Periscope a prihláste sa. Potom sa sem vráťte a spustite vysielanie.";
+
+"Looks OK" = "Vyzerá to v poriadku";
+
+"Looks like the connection was lost. Reconnecting... (Toast)" = "Zdá sa, že sa prerušilo pripojenie. Pripája sa znova...";
+
+"Lose stars received" = "Stratíte prijaté hviezdičky";
+
+"Low Viewer Count" = "Nízky počet divákov";
+
+"Low disk space. A portion of this broadcast will not be available for replay later." = "Nedostatok miesta na disku. Časť tohto vysielania nebude k dispozícii na neskoršie prehranie.";
+
+"Majority voted <destructive emphasis> Abuse </destructive emphasis>\nThe commenter's chat has been limited." = "Väčšina hlasovala za možnosť •|• Zneužitie •|•.\nChat komentujúceho bol obmedzený.";
+
+"Majority voted <destructive emphasis> Looks OK  </destructive emphasis>" = "Väčšina hlasovala za možnosť •|• Vyzerá to v poriadku •|•";
+
+"Majority voted <destructive emphasis> Not Sure </destructive emphasis>" = "Väčšina hlasovala za možnosť •|• Neviem •|•";
+
+"Majority voted <destructive emphasis> Spam </destructive emphasis>\nThe commenter's chat has been limited." = "Väčšina hlasovala za možnosť •|• Spam •|•.\nChat komentujúceho bol obmedzený.";
+
+"Makes broadcast visible to everyone" = "Vysielanie sa zobrazí všetkým používateľom";
+
+"Makes broadcast visible to invited viewers" = "Vysielanie sa zobrazí pozvaným divákom";
+
+"Manage details about your Broadcast (menu subtitle)" = "Spravujte podrobnosti o vysielaní";
+
+"Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen." = "Správy podobné tejto bývajú často zablokované. Ak príde k vášmu zablokovaniu príliš veľakrát, vaše komentáre sa už nebudú zobrazovať.";
+
+"Million Decimal Abbreviation" = "%.1f mil";
+
+"Million Integer Abbreviation" = "%d mil";
+
+"Moderation Modal Button Label" = "Dobre, rozumiem";
+
+"Moderation Modal Example Label" = "PRÍKLAD";
+
+"Moderation Modal Example Message" = "Problematická správa...";
+
+"Moderation Modal Settings Label" = "Túto možnosť môžete vypnúť v nastaveniach.";
+
+"Moderation Modal Subtitle" = "Príležitostne vás požiadame o moderovanie komentára tak, že rýchlo určíte, či nejde o •|•ZNEUŽITIE•|• alebo •|•SPAM•|•. Moderovanie je anonymné.";
+
+"Moderation Modal Title" = "Moderovanie";
+
+"Moderator Actions" = "Akcie moderátora";
+
+"Moderator Actions (%@)" = "Akcie moderátora (%@)";
+
+"Moderator •|•%@•|• joined" = "Moderátor •|•%@•|• sa pripojil";
+
+"ModeratorName muted this message (Message Carousel)" = "Moderátor •|•%@•|• stíšil túto správu";
+
+"Monetize Broadcast" = "Zarábať z vysielania";
+
+"Monetize Broadcast (expanded cell title)" = "Zarábať z vysielania";
+
+"Monetize Broadcast (minimized cell title)" = "Zarábať z vysielania ▾";
+
+"More (following/followers)" = "Ešte";
+
+"Mute" = "Stíšiť";
+
+"Mute (accessibility label)" = "Stíšiť";
+
+"Mute User" = "Stíšiť používateľa";
+
+"Mute User Notifications" = "Stíšiť notifikácie používateľa";
+
+"Muted by Moderator" = "Stíšil moderátor";
+
+"NEW" = "NOVÉ";
+
+"NO LIVE VIEWERS" = "ŽIADNI DIVÁCI ŽIVÉHO VYSIELANIA";
+
+"NO REPLAY VIEWERS" = "ŽIADNI DIVÁCI ZÁZNAMU";
+
+"New Broadcaster Education: 3 Guest Limit" = "Naraz môžete mať až 3 hostí.";
+
+"New Tweet (Compose)" = "Nový Tweet";
+
+"No history." = "Žiadna história.";
+
+"No one has asked to join yet. Tap to invite your viewers to join. (Empty Manage Guest Broadcasters Call-Ins List)" = "Zatiaľ nikto nepožiadal o pripojenie.\n\nŤuknutím pozvete divákov, aby sa pripojili.";
+
+"No one is following you." = "Nikto vás nesleduje.";
+
+"No, stop broadcasting (Copyright Violation)" = "Nie, zastaviť vysielanie";
+
+"Not Sure" = "Neviem";
+
+"Not followed by anyone you're following" = "Nesledované nikým, koho sledujete";
+
+"Notifications (accessiblity label)" = "Notifikácie";
+
+"Notifications OFF" = "Notifikácie sú VYPNUTÉ";
+
+"Notifications ON" = "Notifikácie sú ZAPNUTÉ";
+
+"Notifications Off (accessibility hint)" = "Dvojitým ťuknutím zapnete notifikácie od tohto používateľa.";
+
+"Notifications Off (accessibility value)" = "Vypnuté";
+
+"Notifications On (accessibility hint)" = "Dvojitým ťuknutím vypnete notifikácie od tohto používateľa.";
+
+"Notifications On (accessibility value)" = "Zapnuté";
+
+"Notify my followers (Guest Call-In Notify Followers Option)" = "Upozorniť mojich sledujúcich";
+
+"OK, Got It" = "Dobre, rozumiem";
+
+"Offensive Guest (Report Option)" = "Urážajúci hosť";
+
+"Okay (Report Broadcast Modal)" = "OK";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Minimálne jeden z vašich komentárov bol skrytý z dôvodu ZNEUŽITIA. Komentovanie je pre všetky vysielania vypnuté.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast." = "Minimálne jeden z vašich komentárov bol skrytý z dôvodu ZNEUŽITIA. Komentovanie je pre toto vysielanie vypnuté.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Minimálne jeden z vašich komentárov bol skrytý z dôvodu ZNEUŽITIA. Komentovanie je pre všetky vysielania dočasne obmedzené.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited." = "Minimálne jeden z vašich komentárov bol skrytý z dôvodu ZNEUŽITIA. Komentovanie je dočasne obmedzené.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts." = "Minimálne jeden z vašich komentárov bol skrytý z dôvodu SPAMU. Komentovanie je pre všetky vysielania vypnuté.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast." = "Minimálne jeden z vašich komentárov bol skrytý z dôvodu SPAMU. Komentovanie je pre toto vysielanie vypnuté.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Minimálne jeden z vašich komentárov bol skrytý z dôvodu SPAMU. Komentovanie je pre všetky vysielania dočasne obmedzené.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited." = "Minimálne jeden z vašich komentárov bol skrytý z dôvodu SPAMU. Komentovanie je dočasne obmedzené.";
+
+"One or more of your comments was hidden. Commenting is disabled for all broadcasts." = "Minimálne jeden z vašich komentárov bol skrytý. Komentovanie je pre všetky vysielania vypnuté.";
+
+"One or more of your comments was hidden. Commenting is disabled for this broadcast." = "Minimálne jeden z vašich komentárov bol skrytý. Komentovanie je pre toto vysielanie vypnuté.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts." = "Minimálne jeden z vašich komentárov bol skrytý. Komentovanie je pre všetky vysielania dočasne obmedzené.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited." = "Minimálne jeden z vašich komentárov bol skrytý. Komentovanie je dočasne obmedzené.";
+
+"One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast." = "Niektoré vaše komentáre stíšil moderátor. Komentovanie je v tomto vysielaní zakázané.";
+
+"Only available in Periscope" = "K dispozícii len v Periscope";
+
+"Only public broadcasts counted" = "Započítavajú sa len verejné vysielania";
+
+"Only users you follow can chat" = "Chatovať môžu iba používatelia, ktorých sledujete";
+
+"Only you can see your hidden broadcasts (menu subtitle)" = "Skryté vysielania môžete vidieť iba vy";
+
+"Other Reason (Report Option)" = "Iný dôvod";
+
+"Other Reason \n e.g. Foreign Language" = "Iný dôvod•|•\nnapr. cudzí jazyk•|•";
+
+"Our apologies for the inconvenience." = "Ospravedlňujeme sa za spôsobené nepríjemnosti.";
+
+"POOR CONNECTION" = "SLABÉ PRIPOJENIE";
+
+"POSSIBLY NSFW (Interstitial)" = "PRAVDEPODOBNE NEVHODNÝ OBSAH";
+
+"Pause (accessibility label)" = "Pozastaviť";
+
+"Peak (graph label)" = "Maximum";
+
+"Periscope App Feedback" = "Pripomienky k apke Periscope";
+
+"Periscope account is required." = "Potrebujete účet na Periscope.";
+
+"Periscope is discontinuing on •|•%@•|•" = "Periscope sa prestane poskytovať •|•%@•|•";
+
+"Play (accessibility label)" = "Prehrať";
+
+"Please allow some time for all transactions to be posted." = "Odoslanie všetkých transakcií môže nejaký čas trvať.";
+
+"Positive Community" = "Pozitívne naladená komunita";
+
+"Post to Twitter (accessibility hint)" = "Dvojitým ťuknutím prepnete.";
+
+"Post to Twitter (accessibility label)" = "Uverejniť na Twitteri";
+
+"Posting to Twitter OFF" = "Uverejňovanie na Twitteri je VYPNUTÉ";
+
+"Posting to Twitter as @%@" = "Uverejňuje sa na Twitteri s účtom @%@";
+
+"Precise Location Sharing OFF" = "Zdieľanie presnej polohy je VYPNUTÉ";
+
+"Precise Location Sharing ON" = "Zdieľanie presnej polohy je ZAPNUTÉ";
+
+"Private (Broadcast Audience)" = "Súkromné";
+
+"Private Information (Report Option)" = "Súkromné informácie";
+
+"Profile (accessibility label)" = "Profil";
+
+"Profile URL copied" = "URL adresa profilu sa skopírovala";
+
+"Public (Broadcast Audience)" = "Verejné";
+
+"Public Hidden (Broadcast Audience)" = "Verejné (skryté)";
+
+"Quarter-Speed" = "Štvrtinová rýchlosť";
+
+"RECENT (user profile modal)" = "NEDÁVNE";
+
+"REPLAY VIEWER" = "DIVÁK ZÁZNAMU";
+
+"REPLAY VIEWERS" = "DIVÁCI ZÁZNAMU";
+
+"Ready to give Super Hearts!" = "Ste pripravení udeľovať supersrdiečka.";
+
+"Received in: (History)" = "Prijaté v: %@";
+
+"Received stars (History)" = "Prijali ste hviezdičky.";
+
+"Release to <bold>Leave</bold> (broadcasting)" = "Uvoľnením prsta vysielanie •|•pustíte•|•";
+
+"Release to <bold>Leave</bold> (watching)" = "Uvoľnením prsta vysielanie •|•pustíte•|•";
+
+"Release to Refresh" = "Uvoľnením prsta vysielanie obnovíte";
+
+"Remove" = "Odstrániť";
+
+"Remove Amplify Program" = "Odstrániť program zviditeľňovania";
+
+"Remove Amplify Program (cell title)" = "Odstrániť program zviditeľňovania";
+
+"Remove Location" = "Odstrániť polohu";
+
+"Remove at least 1 character from your title to make room for #(example hashtag)" = "Odstráňte z názvu aspoň 1 znak, aby ste mali miesto na %@";
+
+"Remove at least X characters from your title to make room for #(example hashtag)" = "Odstráňte z názvu aspoň niekoľko znakov (%lu), aby ste mali miesto na %@";
+
+"Replay Time Watched (CELL)" = "Čas pozerania prehrania";
+
+"Replay Unavailable" = "Prehranie nie je k dispozícii";
+
+"Replay watch time per minute tooltip" = "Na každú minútu prehrania tohto vysielania diváci celkove strávili spolu %@ jeho pozeraním.";
+
+"Reply" = "Odpovedať";
+
+"Report @<guest's username> (Report Guest Modal)" = "Nahlásiť hosťa @%@";
+
+"Report Abusive Behavior (Report Abusive Behavior Modal)" = "Urážlivé správanie";
+
+"Report Abusive Profile" = "Nahlásiť urážlivý profil";
+
+"Report As Spam" = "Nahlásiť ako spam";
+
+"Report Broadcast (Report Broadcast Modal)" = "Nahlásiť vysielanie";
+
+"Report Child Safety (Report Child Safety Modal)" = "Bezpečnosť detí";
+
+"Report Comment" = "Nahlásiť komentár";
+
+"Report Hateful Conduct (Report Hateful conduct Modal)" = "Zásady boja  proti nenávistnému správaniu";
+
+"Report Private Information (Report Private Information Modal)" = "Súkromné informácie";
+
+"Report Self-Harm (Report Self Harm Modal)" = "Sebapoškodzovanie";
+
+"Report Sexual Content (Report Sexual Content Modal)" = "Sexuálny obsah";
+
+"Report User" = "Nahlásiť používateľa";
+
+"Report Violence (Report Violence Modal)" = "Násilie";
+
+"Reporting is anonymous and will hide the user's comments (just for you)." = "Nahlasovanie je anonymné a skryjú sa ním komentáre daného používateľa (iba pre vás).";
+
+"Restrict Chat (accessibility hint)" = "Dvojitým ťuknutím prepnete obmedzenie chatu na používateľov, ktorých sledujete.";
+
+"Restrict Chat (accessibility label)" = "Obmedziť chat";
+
+"Return to Summary (accessibility hint)" = "Dvojitým ťuknutím sa vrátite na súhrnné informácie o používateľovi.";
+
+"Retweet" = "Retweetnuť";
+
+"Save Changes" = "Uložiť zmeny";
+
+"Save To Camera Roll" = "Ukladanie do priečinka Fotoaparát";
+
+"Save To Camera Roll Unavailable" = "Ukladanie do priečinka Fotoaparát je nedostupné";
+
+"Saved To Camera Roll" = "Uložené do priečinka Fotoaparát";
+
+"Saved!" = "Uložené";
+
+"Saving..." = "Ukladá sa...";
+
+"Say something..." = "Povedzte niečo...";
+
+"Scroll for Old Comments" = "Staršie komentáre zobrazíte posúvaním";
+
+"Scroll to Bottom" = "Posunúť nadol";
+
+"Self-Harm (Report Option)" = "Sebapoškodzovanie";
+
+"Send (accessibility label)" = "Odoslať";
+
+"Send Message (Blocked Modal)" = "Odoslať správu";
+
+"Send people a notification to join this broadcast. Mutuals are people you follow that follow you back." = "Odošlite ľuďom notifikáciu, aby sa pripojili k tomuto vysielaniu. Vzájomní sledujúci sú ľudia, ktorých sledujete a ktorí vás tiež začnú sledovať.";
+
+"Sent for payment processing (History)" = "Odoslané na spracovanie platby.";
+
+"Separator between two names" = "a";
+
+"Set Amplify Program" = "Nastaviť program zviditeľňovania";
+
+"Setting the broadcast Amplify Program to •|•%@•|• will publish a new Tweet." = "Po nastavení programu zviditeľňovania pre vysielanie na možnosť %@ sa publikuje nový Tweet.";
+
+"Settings (app)" = "Nastavenia";
+
+"Sexual Content (Report Option)" = "Sexuálny obsah";
+
+"Sexually Inappropriate \n Obscene or unwanted sexual remarks" = "Sexuálne nevhodné•|•\nVulgárne alebo nechcené sexuálne poznámky•|•";
+
+"Share Broadcast" = "Zdielať vysielanie";
+
+"Share From" = "Zdieľať od:";
+
+"Share From %@" = "Zdieľať od: %@";
+
+"Share From Beginning" = "Zdieľať od začiatku";
+
+"Share Live" = "Zdieľať naživo";
+
+"Share Twitter Tooltip (explaining that the feature is disabled while guests are enabled)" = "Vypnuté pre vysielania s hosťami";
+
+"Share precise location (accessibility label)" = "Zdieľať presnú polohu";
+
+"Share request sent. (chat message)" = "Požiadavka na zdieľanie bola odoslaná.";
+
+"Share screenshot and broadcast" = "Zdieľajte snímku obrazovky a vysielanie";
+
+"Share this broadcast so your followers don't miss it." = "Zdieľajte toto vysielanie, aby ho vaši sledujúci nezmeškali.";
+
+"Share via..." = "Zdieľať cez...";
+
+"Show Stats (cell)" = "Zobraziť štatistiky";
+
+"Skip" = "Preskočiť";
+
+"Sorry, that action could not be completed because you have been blocked." = "Ľutujeme, akciu sa nepodarilo dokončiť, pretože ste boli zablokovaní.";
+
+"Sorry, that action could not be completed because you have reached the block limit." = "Ľutujeme, akciu sa nepodarilo dokončiť, pretože ste dosiahli limit blokovania.";
+
+"Sorry, that action could not be completed because you have reached the follow limit." = "Ľutujeme, akciu sa nepodarilo dokončiť, pretože ste dosiahli limit sledovania.";
+
+"Sorry, the broadcast is too full..." = "Ľutujeme, vysielanie je príliš plné...";
+
+"Sorry, this broadcast is unavailable" = "Ľutujeme, toto vysielanie je nedostupné";
+
+"Sorry, we couldn't load the broadcast share URL. Please try again." = "Ľutujeme, nepodarilo sa nám načítať URL adresu na zdieľanie vášho vysielania. Skúste to znova.";
+
+"Sorry, we couldn't save your changes. Please try again." = "Ľutujeme, zmeny sa nám nepodarilo uložiť. Skúste to neskôr znova.";
+
+"Sorry, we encountered an error blocking some users. Please try again." = "Ľutujeme, pri zablokovávaní niektorých používateľov sa vyskytla chyba. Skúste to znova.";
+
+"Sorry, we encountered an error blocking that user. Please try again." = "Ľutujeme, pri zablokovávaní tohto používateľa sa vyskytla chyba. Skúste to znova.";
+
+"Sorry, we encountered an error loading user data. Please try again." = "Ľutujeme, pri načítavaní údajov používateľa sa vyskytla chyba. Skúste to znova.";
+
+"Sorry, we encountered an error loading your broadcasts. Please try again." = "Ľutujeme, pri načítavaní vašich vysielaní sa vyskytla chyba. Skúste to znova.";
+
+"Sorry, we encountered an error reporting this broadcast. Please try again." = "Ľutujeme, pri nahlasovaní tohto vysielania sa vyskytla chyba. Skúste to znova.";
+
+"Sorry, we encountered an error reporting this guest. Please try again." = "Ľutujeme, pri nahlasovaní tohto hosťa sa vyskytla chyba. Skúste to znova.";
+
+"Sorry, we've encountered a loading error. Please try again." = "Ľutujeme, vyskytla sa chyba pri načítavaní. Skúste to znova.";
+
+"Sorry, you've done that too many times. Try again in a few minutes." = "Ľutujeme, túto akciu ste vykonali príliš veľakrát. Skúste to znova o niekoľko minút.";
+
+"Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv" = "Ľutujeme, vyskytla sa chyba pri načítavaní (421 – selektor). Napíšte nám e-mail na adresu help@pscp.tv.";
+
+"Sorry, you've encountered a loading error (421). Please email help@pscp.tv" = "Ľutujeme, vyskytla sa chyba pri načítavaní (421). Napíšte nám e-mail na adresu help@pscp.tv.";
+
+"Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later." = "Ľutujeme, vaše internetové pripojenie nie je dostatočne silné na nahratie novej miniatúry vysielania. Skúste to neskôr znova.";
+
+"Spam" = "Spam";
+
+"Spam in Chat" = "Spam v chate";
+
+"Star & Cash Outs History (Stars Profile)" = "História hviezdičiek a vyplácania";
+
+"Star History (Stars Profile)" = "História hviezdičiek";
+
+"Star balance adjustment. Contact superhearts@pscp.tv if you have any questions. (History)" = "Úprava zostatku hviezdičiek. V prípade otázok sa obráťte na adresu superhearts@pscp.tv.";
+
+"Stars (profile view title)" = "Hviezdičky";
+
+"Stars (profile)" = "Hviezdičky";
+
+"Start Point" = "Počiatočný bod";
+
+"Start Sketching (action sheet)" = "Spustiť skicovanie";
+
+"Stop Broadcast" = "Zastaviť vysielanie";
+
+"Submit" = "Odoslať";
+
+"Success! You've unmuted @%@" = "Podarilo sa. Zrušili ste stíšenie používateľa @%@.";
+
+"Successfully set Amplify Program (title)" = "Program zviditeľňovania bol úspešne nastavený";
+
+"Suggested user is watching singlular" = "%@•|• teraz pozerá•|•";
+
+"Suggested users are watching plural" = "%ld priatelia•|• teraz pozerajú•|•";
+
+"Super Broadcaster (Stars Profile)" = "Supervysielateľ";
+
+"Super Broadcaster Program" = "Program pre supervysielateľov";
+
+"Super Heart Terms" = "Podmienky pre supersrdiečka";
+
+"Super Hearts" = "Supersrdiečka";
+
+"Super Hearts OFF" = "Supersrdiečka sú VYPNUTÉ";
+
+"Super Hearts ON" = "Supersrdiečka sú ZAPNUTÉ";
+
+"Swipe down to <bold>Stop</bold>" = "Potiahnutím prstom nadol vysielanie •|•zastavíte•|•";
+
+"Tap anyhwhere to <bold>Exit Theater Mode</bold>" = "Ťuknutím na ľubovoľné miesto •|•ukončíte režim divadla•|•";
+
+"Tap this icon to join Broadcaster's broadcast as a guest. (Viewer Prompt to Call-In)" = "Ťuknite na túto ikonu a pripojte sa k vysielaniu používateľa •|•%@•|• ako hosť.";
+
+"Thank You (Report Broadcast Confirmation Modal)" = "Ďakujeme";
+
+"Thank you for your report" = "Ďakujeme za vaše hlásenie";
+
+"Thank you for your report (Chat Prompt)" = "Ďakujeme za vaše hlásenie";
+
+"Thank you for your report." = "Ďakujeme za vaše hlásenie.";
+
+"Thank you. You won't see any more messages from •|•@%@•|• in this broadcast." = "Ďakujeme. V tomto vysielaní už neuvidíte žiadne ďalšie správy od používateľa •|•@%@•|•.";
+
+"Thanks %@!" = "%@, ďakujeme!";
+
+"Thanks for your feedback!" = "Ďakujeme za vaše pripomienky.";
+
+"The broadcaster blocked you in response to this message." = "Vysielateľ vás v rámci reakcie na túto správu zablokoval.";
+
+"The broadcaster has limited chat." = "Vysielateľ obmedzil možnosť chatovania.";
+
+"The broadcaster has the ability to remove people from their broadcasts." = "Vysielateľ má možnosť odobrať ľudí zo svojich vysielaní.";
+
+"The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•." = "Obchod s mincami bol zatvorený. Ak vám nejaké mince zostali, použite ich do •|•%@•|• na odoslanie supersrdiečok svojim obľúbeným vysielateľom.";
+
+"Theater Mode (action sheet)" = "Režim divadla";
+
+"Their name, bio, or profile image violates the Community Guidelines" = "Meno, informácie O mne alebo profilový obrázok používateľa porušuje pokyny pre komunitu";
+
+"There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat." = "Toto vysielanie práve pozerá množstvo ľudí! Aby sme obmedzili správy, ktoré vysielateľ dostáva, chatovať môžu iba používatelia, ktorí sa pripojili medzi prvými.";
+
+"There was an error adding @username as a guest. Please try again." = "Pri pridávaní používateľa @%@ ako hosťa sa vyskytla chyba. Skúste to znova.";
+
+"There was an error adding you as a guest. We've notified Broadcaster, and will alert you if we're able to try again." = "Pri vašom pridávaní v role hosťa sa vyskytla chyba. Vysielateľovi %@ sme odoslali notifikáciu a keď to budeme môcť skúsiť znova, upozorníme vás.";
+
+"There was an error allowing guests. Please try again." = "Pri povoľovaní hostí sa vyskytla chyba. Skúste to znova.";
+
+"There was an error cancelling your request. Please try again." = "Pri rušení vašej žiadosti sa vyskytla chyba. Skúste to znova.";
+
+"There was an error cancelling. Please try again." = "Pri rušení sa vyskytla chyba. Skúste to znova.";
+
+"There was an error disallowing guests. Please try again." = "Pri nepovoľovaní hostí sa vyskytla chyba. Skúste to znova.";
+
+"There was an error inviting guests. Please try again." = "Pri pozývaní hostí sa vyskytla chyba. Skúste to znova.";
+
+"There was an error muting or un-muting @username. Please try again." = "Pri stišovaní používateľa @%@ alebo rušení jeho stíšenia sa vyskytla chyba. Skúste to znova.";
+
+"There was an error muting or un-muting you. Please try again." = "Pri vašom stišovaní alebo rušení vášho stíšenia sa vyskytla chyba. Skúste to znova.";
+
+"There was an error removing your guest @username. Please try again." = "Pri odoberaní hosťa @%@ sa vyskytla chyba. Skúste to znova.";
+
+"There was an error sending your request to join as a guest. Please try again." = "Pri odosielaní vašej žiadosti o pripojenie v role hosťa sa vyskytla chyba. Skúste to znova.";
+
+"There was an error updating the settings (conversation controls and mentioned users). Please try again." = "Pri aktualizácii nastavení sa vyskytla chyba (ovládanie konverzácie a používatelia, o ktorých sa niekto zmienil). Skúste to znova.";
+
+"There was an error updating the settings (locked/unlocked). Please try again." = "Pri aktualizácii nastavení (zamknuté/odomknuté) sa vyskytla chyba. Skúste to znova.";
+
+"This broadcast is no longer available." = "Toto vysielanie už nie je dostupné.";
+
+"This broadcast isn’t available (Copyright Violation)" = "Toto vysielanie nie je k dispozícii";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}." = "Toto vysielanie sa zhoduje s dielom %1$@, na ktoré má autorské práva %2$@. •|•Viac informácií•|•";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}. Do you have all rights necessary to broadcast this video on Twitter?" = "Toto vysielanie sa zhoduje s dielom %1$@, na ktoré má autorské práva %2$@. Máte všetky práva potrebné na vysielania tohto videa na Twitteri?";
+
+"This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video." = "Toto vysielanie bolo nasnímané 360-stupňovou kamerou. Periscope už nepodporuje prehrávanie 360-stupňových videí.";
+
+"This broadcast’s title can’t be edited. Learn more (Copyright Violation)" = "Názov tohto vysielania sa nedá upraviť. •|•Viac informácií•|•";
+
+"This is optional" = "Toto pole je voliteľné";
+
+"This user doesn't have any followers yet" = "Tento používateľ zatiaľ nemá žiadnych sledujúcich";
+
+"This user has not broadcasted yet" = "Tento používateľ zatiaľ nevysielal";
+
+"This user isn't following anyone yet" = "Tento používateľ zatiaľ nikoho nesleduje";
+
+"Thousand Decimal Abbreviation" = "%.1f tis";
+
+"Thousand Integer Abbreviation" = "%d tis";
+
+"Thumbnail" = "Miniatúra";
+
+"Time Watched (CELL)" = "Čas pozerania";
+
+"Title (accessibility label)" = "Názov";
+
+"To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off." = "Ak chcete chatovať, zapnite v nastaveniach možnosť Pripojiť k Periscope. Ak máte vo svojom účte zapnutú možnosť Chrániť moje Tweety, budete si musieť stiahnuť apku Periscope a vytvoriť účet na Periscope alebo prepnúť na účet na Twitteri, v ktorom je možnosť Chrániť moje Tweety vypnutá.";
+
+"To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos." = "Na uloženie videa potrebuje Periscope povolenie na prístup k vašim fotkám. Ak chcete povoliť túto funkciu pre budúce vysielanie, ťuknite na položku Nastavenia a potom zapnite prepínač pre Fotky.";
+
+"To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account." = "Ak chcete odosielať pripomienky prostredníctvom e-mailu, musíte najprv vo svojom zariadení nastaviť e-mail. Otvorte apku Nastavenia. Potom prejdite na položku Mail, kontakty, kalendáre a vyberte možnosť Pridať účet.";
+
+"To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option." = "Na zdieľanie vašej polohy potrebuje Periscope povolenie na prístup k nej v zariadení. Kliknite na tlačidlo Nastavenia, potom prejdite na položku Poloha a vyberte možnosť Počas používania aplikácie.";
+
+"Top Contributor" = "Najlepší prispievateľ";
+
+"Total watch time per minute tooltip" = "Na každú minútu tohto vysielania diváci celkove strávili spolu %@ jeho pozeraním.";
+
+"Total watch time per minute tooltip (broadcaster)" = "Na každú minútu tohto vysielania diváci celkove strávili spolu %@ jeho pozeraním. Táto štatistika normalizuje čas pozerania v rámci vysielaní s rôznou dĺžkou trvania.";
+
+"Trying to reconnect" = "Prebieha pokus o opätovné pripojenie";
+
+"Twitter Post OFF" = "Uverejňovanie na Twitter je VYPNUTÉ";
+
+"Twitter Post ON" = "Uverejňovanie na Twitter je ZAPNUTÉ";
+
+"Unable to load broadcast." = "Nepodarilo sa načítať vysielanie.";
+
+"Unblock User" = "Odblokovať používateľa";
+
+"Unfollow User" = "Nesledovať používateľa";
+
+"Unhide Broadcast (menu button)" = "Odkryť vysielanie";
+
+"Unmute" = "Zrušiť stíšenie";
+
+"Unmute User" = "Zrušiť stíšenie používateľa";
+
+"Unmute User Notifications" = "Zrušiť stíšenie notifikácií používateľa";
+
+"Untitled" = "Bez názvu";
+
+"User has not provided a profile description." = "Používateľ nezadal popis profilu.";
+
+"Very bad" = "Veľmi zlé";
+
+"Very good" = "Veľmi dobré";
+
+"Video Issues" = "Problémy s videom";
+
+"Video Quality" = "Kvalita videa";
+
+"Video will resume if signal improves" = "Video bude pokračovať po zlepšení signálu";
+
+"View Broadcast Actions (accessibility label)" = "Zobraziť akcie týkajúce sa vysielania";
+
+"View Participants (accessibility label)" = "Zobraziť účastníkov";
+
+"View Profile" = "Zobraziť profil";
+
+"View Stats" = "Zobraziť štatistiky";
+
+"Viewers can give you Super Hearts.\n<link>Learn more.</link>" = "Diváci vám môžu udeľovať supersrdiečka.\n•|•Viac informácií.•|•";
+
+"Viewers cannot give you Super Hearts.\n<link>Learn more.</link>" = "Diváci vám nemôžu udeľovať supersrdiečka.\n•|•Viac informácií.•|•";
+
+"Violence (Report Option)" = "Násilie";
+
+"Waiting for other responses..." = "Čaká sa na ostatné odpovede...";
+
+"Waiting for you to <bold>login</bold>." = "Čaká sa, kým sa •|•prihlásite•|•.";
+
+"Watch %1$@'s broadcast: %2$@" = "Pozrite si vysielanie používateľa %1$@: %2$@";
+
+"Watch %@'s broadcast." = "Pozerajte vysielanie používateľa %@.";
+
+"Watch LIVE" = "Pozerať •|•NAŽIVO•|•";
+
+"Watch Live" = "Pozerať naživo";
+
+"Watch Replay" = "Pozrieť si prehranie";
+
+"Watch Stream (User Activity)" = "Pozeranie streamu";
+
+"Watch on #Periscope" = "Pozerať na #Periscope";
+
+"Watch on #Periscope: %@" = "Pozerajte na #Periscope: %@";
+
+"Watch what happened at %1$@ in %2$@'s broadcast." = "Pozrite si, čo sa stalo v čase %1$@ vo vysielaní používateľa %2$@.";
+
+"Watch what happened at %1$@ in %2$@'s broadcast: %3$@" = "Pozrite si, čo sa stalo v čase %1$@ vo vysielaní používateľa %2$@: %3$@";
+
+"We encountered an error deleting your broadcast. Please try again." = "Pri odstraňovaní vášho vysielania sa vyskytla chyba. Skúste to znova.";
+
+"We encountered an error updating your gift settings. Please try again." = "Pri aktualizácii nastavení darčekov sa vyskytla chyba. Skúste to znova.";
+
+"We have received your report. Thank you for helping keep the community safe! (Report Broadcast Confirmation Modal)" = "Dostali sme vaše hlásenie. Ďakujeme vám, že prispievate k bezpečnosti komunity.";
+
+"We're sorry, there was an error starting your broadcast. Please try starting it again." = "Ľutujeme, pri spúšťaní vášho vysielania sa vyskytla chyba. Skúste ho spustiť znova.";
+
+"Welcome <bold>%@</bold>" = "•|•%@•|•, vitajte";
+
+"We’ve let your followers know that you joined as a guest (Chat Prompt)" = "Informovali sme vašich sledujúcich, že ste sa pripojili ako hosť";
+
+"What are you seeing now?" = "Čo teraz vidíte?";
+
+"What do you want to talk about?" = "O čom chcete hovoriť?";
+
+"What went well?" = "Čo fungovalo dobre?";
+
+"When someone follows them, they'll be listed here." = "Keď ho niekto začne sledovať, bude uvedený tu.";
+
+"When someone follows you, they'll be listed here." = "Keď vás niekto začne sledovať, bude uvedený tu.";
+
+"When they do, it'll show up here." = "Keď bude mať, zobrazí sa to tu.";
+
+"When they do, they'll be listed here." = "Keď bude, osoby budú uvedené tu.";
+
+"When you do, it'll show up here" = "Keď budete mať, zobrazí sa to tu.";
+
+"When you do, they'll be listed here." = "Keď budete mať, osoby budú uvedené tu.";
+
+"Yes (Copyright Violation)" = "Áno";
+
+"You already have a linked Twitter account. Please use this in the future to broadcast from Twitter" = "Účet na Twitteri už máte pripojený. Použite ho v budúcnosti na vysielanie z Twitteru.";
+
+"You are now" = "Teraz vysielate";
+
+"You aren't following anyone yet" = "Zatiaľ nikoho nesledujete";
+
+"You aren't following anyone." = "Nikoho nesledujete.";
+
+"You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests. (Offensive Report Modal)" = "Používateľa, ktorého vysielania už nechcete vidieť, môžete zablokovať. Ak sa používatelia, ktorých máte zablokovaných, pripoja ako hostia, uvidíte ich aj naďalej.";
+
+"You can block a user whose broadcasts you no longer want to see. (Offensive Report Modal)" = "Používateľa, ktorého vysielania už nechcete vidieť, môžete zablokovať.";
+
+"You can give •|•%@•|• of these" = "Takýchto môžete udeliť •|•%@•|•";
+
+"You can't broadcast right now (Copyright Violation)" = "Momentálne nemôžete vysielať";
+
+"You can't watch a broadcast while you're still broadcasting." = "Kým vysielate, nemôžete pozerať iné vysielanie.";
+
+"You can’t watch this because it included a copyrighted work by {Full Name}. Learn more (Copyright Violation)" = "Toto nemôžete sledovať, pretože to obsahuje dielo, na ktoré má autorské práva %@. •|•Viac informácií•|•";
+
+"You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster." = "Keď vám fanúšikovia dajú •|•supersrdiečka•|•, zbierate hviezdičky. Hviezdičky si môžete zameniť za hotovosť, ak sa stanete supervysielateľom.";
+
+"You didn't vote... <link>Learn about Moderation</link>" = "Nehlasovali ste... •|•Viac informácií o moderovaní•|•";
+
+"You don't have any followers yet" = "Zatiaľ nemáte žiadnych sledujúcich";
+
+"You earn stars from Super Hearts" = "Za supersrdiečka dostávate hviezdičky";
+
+"You haven't broadcasted yet" = "Zatiaľ ste nevysielali";
+
+"You were <bold>blocked</bold> by the broadcaster" = "Vysielateľ vás •|•zablokoval•|•";
+
+"You will lose any unsaved changes. Are you sure you want to leave this view?" = "Prídete o všetky neuložené zmeny. Naozaj chcete odísť z tohto zobrazenia?";
+
+"You will lose the stars you received" = "Stratíte prijaté hviezdičky";
+
+"You're Waiting to Join (Guest Calling Menu)" = "Čakáte na pripojenie";
+
+"Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv" = "Váš účet bol deaktivovaný z dôvodu žiadosti o zastavenie šírenia obsahu chráneného autorskými právami. Kontaktujte help@pscp.tv.";
+
+"Your account has been disabled. Please contact help@pscp.tv" = "Váš účet bol deaktivovaný. Kontaktujte help@pscp.tv.";
+
+"Your broadcast has been disabled (Copyright Violation)" = "Vaše vysielanie bolo zakázané.";
+
+"Your broadcast matches a copyrighted work (Copyright Violation)" = "Vaše vysielanie sa zhoduje s dielom chráneným autorskými právami";
+
+"Your broadcast's thumbnail has been updated to the current screen." = "Miniatúra vášho vysielania bola aktualizovaná na aktuálnu obrazovku.";
+
+"Your dispute claim was submitted (Copyright Violation)" = "Podanie námietky proti nároku sa odoslalo";
+
+"Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•." = "Vaše pripomienky sú veľmi dôležité, pretože sa snažíme zlepšiť vysielanie. Z budúcich prieskumov sa môžete odhlásiť kedykoľvek v •|•nastaveniach•|•.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Vaša správa •|•\"%@\"•|• bola skrytá z dôvodu ZNEUŽITIA. Komentovanie je pre všetky vysielania vypnuté.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast." = "Vaša správa •|•\"%@\"•|• bola skrytá z dôvodu ZNEUŽITIA. Komentovanie je pre toto vysielanie vypnuté.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Vaša správa •|•\"%@\"•|• bola skrytá z dôvodu ZNEUŽITIA. Komentovanie je pre všetky vysielania dočasne obmedzené.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast." = "Vaša správa •|•\"%@\"•|• bola skrytá z dôvodu ZNEUŽITIA. Komentovanie je pre toto vysielanie dočasne obmedzené.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts." = "Vaša správa •|•\"%@\"•|• bola skrytá z dôvodu SPAMU. Komentovanie je pre všetky vysielania vypnuté.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast." = "Vaša správa •|•\"%@\"•|• bola skrytá z dôvodu SPAMU. Komentovanie je pre toto vysielanie vypnuté.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Vaša správa •|•\"%@\"•|• bola skrytá z dôvodu SPAMU. Komentovanie je pre všetky vysielania dočasne obmedzené.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast." = "Vaša správa •|•\"%@\"•|• bola skrytá z dôvodu SPAMU. Komentovanie je pre toto vysielanie dočasne obmedzené.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts." = "Vaša správa •|•\"%@\"•|• bola skrytá. Komentovanie je pre všetky vysielania vypnuté.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast." = "Vaša správa •|•\"%@\"•|• bola skrytá. Komentovanie je pre toto vysielanie vypnuté.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts." = "Vaša správa •|•\"%@\"•|• bola skrytá. Komentovanie je pre všetky vysielania dočasne obmedzené.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast." = "Vaša správa •|•\"%@\"•|• bola skrytá. Komentovanie je pre toto vysielanie dočasne obmedzené.";
+
+"Your settings are about to automatically delete this broadcast." = "Na základe vašich nastavení sa toto vysielanie automaticky odstráni.";
+
+"Your settings will automatically delete this broadcast in %@" = "Na základe vašich nastavení sa toto vysielanie automaticky odstráni o %@";
+
+"Your video will be available for replay after the event has ended. (Copyright Violation)" = "Vaše video sa bude dať opätovne prehrať po skončení udalosti.";
+
+"Your viewers have been invited to join (Local Chat Prompt)" = "Vaši diváci boli pozvaní, aby sa pripojili";
+
+"You’re enrolled in automatic monthly cash outs. (Stars Profile)" = "Zaregistrovali ste sa na automatické mesačné vyplácanie.";
+
+"You’ve blocked @username. Tap to report and share more details. (Should Report Guest User Chat Prompt)" = "Zablokovali ste používateľa •|•@%@•|•. Ťuknutím ho môžete nahlásiť a zdieľať ďalšie podrobnosti.";
+
+"[placeholder]" = "[placeholder]";
+
+"beta-feedback@pscp.tv" = "beta-feedback@pscp.tv";
+
+"coin bonus" = "%i %% navyše";
+
+"coin received (accessibility label)" = "prijatá minca";
+
+"coins received (accessibility label)" = "prijaté mince";
+
+"contact@pscp.tv" = "contact@pscp.tv";
+
+"current audience" = "aktuálne publikum";
+
+"failed" = "zlyhalo";
+
+"following (accessibility hint)" = "Dvojitým ťuknutím zrušíte sledovanie";
+
+"following (accessibility label)" = "Sleduje sa";
+
+"for fine control" = "na jemné ovládanie";
+
+"heart received (accessibility label)" = "prijaté srdiečko";
+
+"hearts received (accessibility label)" = "prijaté srdiečka";
+
+"https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119" = "https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119";
+
+"https://pscp.tv/i/super/terms" = "https://pscp.tv/i/super/terms";
+
+"iPad doesn’t support broadcasting from Split View." = "V iPade sa nepodporuje vysielanie z rozdeleného zobrazenia.";
+
+"invited" = "s pozvánkou";
+
+"invited followers" = "pozvaní sledujúci";
+
+"it's their first day on Periscope" = "je prvý deň na Periscope";
+
+"not following (accessibility hint)" = "Ťuknutím začnete sledovať";
+
+"not following (accessibility label)" = "Nesleduje sa";
+
+"people" = "ľudia";
+
+"per Broadcast Minute (CELL)" = "Na minútu vysielania";
+
+"per Viewer (CELL)" = "Na diváka";
+
+"person" = "osoba";
+
+"poor" = "slabé";
+
+"posting publicly on Periscope" = "uverejní sa verejne na Periscope";
+
+"posting publicly on Twitter" = "uverejní sa verejne na Twitteri";
+
+"selected Amplify Program" = "vybratý program zviditeľňovania";
+
+"star received (accessibility label)" = "prijatá hviezdička";
+
+"stars received (accessibility label)" = "prijaté hviezdičky";
+
+"tap to change Amplify Program" = "ťuknutím môžete zmeniť program zviditeľňovania";
+
+"tap to change Amplify program" = "ťuknutím môžete zmeniť program zviditeľňovania";
+
+"tap to change audience" = "ťuknutím môžete zmeniť publikum";
+
+"to seek" = "hľadať";
+
+"you hung up (Guest Caller Hung Up Chat Message Event)" = "položili ste";
+
+"you were added (New Guest Caller Chat Message Event)" = "boli ste pridaní";
+
+"you were removed (Guest Caller Was Removed Chat Message Event)" = "boli ste odobratí";
+
+"•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•." = "Používateľ •|•%1$@•|• aktualizoval svoje vysielanie, aby sa začínalo o •|•%2$@•|•.";
+
+"•|•%@•|• are guests (Broadcast Guests Social Proof)" = "Používatelia •|•%@•|• sú hosťami";
+
+"•|•%@•|• invited you (Broadcast Guest Invitation Social Proof)" = "•|•%@•|• vás pozýva";
+
+"•|•%@•|• is a guest (Broadcast Guest Social Proof)" = "Používateľ •|•%@•|• je hosťom";
+
+"•|•%@•|• shared (Broadcast Share Social Proof)" = "Používateľ •|•%@•|• zdieľal";
+
+"•|•%@•|• was a guest (Broadcast Guest Social Proof)" = "Používateľ •|•%@•|• bol hosťom";
+
+"•|•%@•|• were guests (Broadcast Guests Social Proof)" = "Používatelia •|•%@•|• boli hosťami";
+
+"•|•%@•|•\nBroadcasts" = "•|•%@•|•\nVysielania";
+
+"•|•%@•|•\nFollowers" = "•|•%@•|•\nSledujúci";
+
+"•|•%@•|•\nFollowing" = "•|•%@•|•\nSledovaní";
+
+"•|•@%1$@•|• was muted by •|•%2$@•|•" = "Používateľ •|•%2$@•|• stíšil diváka •|•@%1$@•|•";
+
+"•|•@%1$@•|• was unmuted by •|•%2$@•|•" = "Používateľ •|•%2$@•|• zrušil stíšenie diváka •|•@%1$@•|•";
+
+"•|•@%@•|• Retweeted on" = "Používateľ •|•@%@•|• retweetol na:";
+
+"•|•@%@•|• shared on" = "•|•@%@•|• zdieľa tu:";
+
+"•|•Muted•|• by %@" = "•|•Stíšil•|• moderátor %@";
+
+"•|•Not enough coins.•|• Get more coins to keep giving Super Hearts." = "•|•Nemáte dosť mincí.•|• Získajte viac mincí, aby ste mohli udeľovať supersrdiečka.";
+
+"•|•Press & Hold•|• the video to skip ahead" = "•|•Stlačením a podržaním•|• videa môžete preskočiť dopredu";
+
+"•|•Press & Hold•|• to skip back or ahead." = "•|•Stlačením a podržaním•|• môžete preskočiť dozadu alebo dopredu.";
+
+"•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one." = "•|•Supersrdiečka sú ZAPNUTÉ.•|• Keď ťuknete na vysielanie, môžete hneď prvé udeliť.";
+
+"•|•Support %@•|• by giving Super Hearts!" = "•|•Podporte vysielateľa %@•|• a udeľte mu supersrdiečka!";
+
+"•|•Unmuted•|• by %@" = "•|•Stíšenie zrušil•|• moderátor %@";
+
+"•|•You need more coins•|• to give Super Hearts" = "Ak chcete udeliť supersrdiečka, •|•potrebujete viac mincí•|•";
+
+"•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast." = "•|•Boli ste stíšení•|• jedným z moderátorov vysielania %1$@. Dôvodom bol váš komentár: •|•%2$@•|•. V tomto vysielaní už nemôžete chatovať.";
+
+"•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast." = "•|•Vaše stíšenie zrušil•|• jeden z moderátorov vysielania %@. Teraz môžete vo vysielaní četovať.";
+

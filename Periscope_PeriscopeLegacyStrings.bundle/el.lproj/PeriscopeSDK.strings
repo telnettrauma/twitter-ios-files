@@ -1,0 +1,1448 @@
+"%@ New Messages" = "%@ νέα μηνύματα";
+
+"%@ Viewer (Broadcast Info)" = "%@ θεατής";
+
+"%@ Viewers (Broadcast Info)" = "%@ θεατές";
+
+"%@ ago" = "%@ πριν";
+
+"%@ doesn't have any followers yet" = "Ο χρήστης %@ δεν έχει κανέναν ακόλουθο ακόμη";
+
+"%@ has not broadcasted yet" = "Ο χρήστης %@ δεν έχει καμία εκπομπή ακόμη";
+
+"%@ is LIVE (broadcast title)" = "Ο χρήστης %@ μεταδίδει ΖΩΝΤΑΝΑ";
+
+"%@ isn't following anyone yet" = "Ο χρήστης %@ δεν ακολουθεί κανέναν ακόμη";
+
+"%@ joined" = "συνδέθηκε";
+
+"%@ wants you to moderate comments. Tap on comments to mute them." = "Ο χρήστης %@ επιθυμεί να διαχειριστείτε σχόλια. Πατήστε στα σχόλια για να τα θέσετε σε σίγαση.";
+
+"%@ wants you to moderate comments. Tap or swipe left on comments to mute them." = "Ο χρήστης %@ επιθυμεί να διαχειριστείτε σχόλια. Πατήστε ή σύρετε αριστερά πάνω στα σχόλια για να τα θέσετε σε σίγαση.";
+
+"%@ was live  (broadcast title)" = "Ο χρήστης %@ μετέδωσε ζωντανά";
+
+"%d More Live Viewers" = "Περισσότεροι ζωντανοί θεατές";
+
+"%d More Replay Viewers" = "Περισσότεροι θεατές επανάληψης";
+
+"%d More Viewers" = "Περισσότεροι θεατές";
+
+"%ldd (days)" = "%ldη";
+
+"%ldh (hours)" = "%ldώ";
+
+"%ldm (minutes)" = "%ldλ";
+
+"%lds (seconds)" = "%ldδ";
+
+"%ldy (years)" = "%ldέ";
+
+"(EDITED)" = "(ΤΡΟΠΟΠΟΙΗΘΗΚΕ)";
+
+"(Skip to) LIVE" = "ΖΩΝΤΑΝΑ";
+
+"1 More Live Viewer" = "Περισσότερος ζωντανός θεατής";
+
+"1 More Replay Viewier" = "Περισσότερος θεατής επανάληψης";
+
+"1 More Viewer" = "Περισσότερος θεατής";
+
+"1 New Message" = "1 νέο μήνυμα";
+
+"@username \"Tap to cancel\" (Add Guest Caller Chat Message Event)" = "Πατήστε για ακύρωση";
+
+"@username \"canceled\" (Add Guest Caller Chat Message Event)" = "ακύρωσε";
+
+"@username \"has asked to join\" (Add Guest Caller Chat Message Event)" = "ζήτησε να συμμετάσχει";
+
+"@username \"hung up\" (Guest Caller Hung Up Chat Message Event)" = "Ο χρήστης •|•@%@•|• τερμάτισε την κλήση";
+
+"@username \"was added\" (Add Guest Caller Chat Message Event)" = "προστέθηκε";
+
+"@username \"was added\" (New Guest Caller Chat Message Event)" = "Προστέθηκε ο χρήστης •|•@%@•|•";
+
+"@username \"was removed\" (Add Guest Caller Chat Message Event)" = "αφαιρέθηκε";
+
+"@username \"was removed\" (Guest Caller Was Removed Chat Message Event)" = "Ο χρήστης •|•@%@•|• αφαιρέθηκε";
+
+"A Periscope account is required to edit a broadcast." = "Απαιτείται λογαριασμός Periscope για την επεξεργασία της εκπομπής.";
+
+"A Periscope account is required to share a broadcast." = "Απαιτείται λογαριασμός Periscope για να κοινοποιήσετε μία εκπομπή.";
+
+"A broadcast with a star balance was deleted. (History)" = "Μια εκπομπή με υπόλοιπο αστεριών διαγράφηκε.";
+
+"ACTIVE CONTRIBUTORS" = "ΕΝΕΡΓΟΙ ΣΥΝΕΡΓΑΤΕΣ";
+
+"Abuse" = "Κακή χρήση";
+
+"Abusive Behavior (Report Option)" = "Προσβλητική συμπεριφορά";
+
+"Accept Caller as Guest" = "Αποδοχή καλούντος ως επισκέπτη";
+
+"Accept Super Hearts (accessibility hint)" = "Πατήστε δύο φορές για αποδοχή Καρδιών επιβράβευσης για αυτήν την εκπομπή.";
+
+"Accept Super Hearts (accessibility label)" = "Αποδοχή Καρδιών επιβράβευσης";
+
+"Accept as Guest" = "Αποδοχή ως επισκέπτη";
+
+"Actions (accessibility label)" = "Ενέργειες";
+
+"Add Guest (Manage Guest Call-Ins Action Sheet)" = "Προσθήκη επισκέπτη";
+
+"Add guest \n viewer will become a guest broadcaster" = "Προσθήκη επισκέπτη•|•\nΟ θεατής θα γίνει επισκέπτης παρουσιαστής•|•";
+
+"All-Time Stars (Stars Profile)" = "Σύνολο αστεριών";
+
+"Allow Guests (Tooltip Selected)" = "Να επιτρέπονται επισκέπτες";
+
+"Allow guests / Don't allow guests (accessibility label)" = "Να επιτρέπονται / Να μην επιτρέπονται επισκέπτες";
+
+"Anything else you'd like to share?" = "Υπάρχει κάτι άλλο που θα θέλατε να μοιραστείτε;";
+
+"Are you sure you want to send this message?" = "Σίγουρα θέλετε να στείλετε αυτό το μήνυμα;";
+
+"Are you sure you want to unblock?" = "Σίγουρα επιθυμείτε άρση του αποκλεισμού;";
+
+"Are you sure? (title)" = "Είστε σίγουρος;";
+
+"Ask for Follow (action sheet)" = "Ζητήστε ακολούθηση";
+
+"Ask for Share (action sheet)" = "Ζητήστε κοινοποίηση";
+
+"Ask to join this broadcast as a guest. You'll be heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Ζητήστε να συμμετάσχετε σε αυτήν την εκπομπή ως επισκέπτης. Θα ακούγεστε από όλους, ενώ θα μπορείτε να σταματήσετε ανά πάσα στιγμή.";
+
+"Ask to join this broadcast as a guest. You'll be seen and heard by everyone, and you can stop at any time. (Guest Broadcasting Modal Viewer Subtitle)" = "Ζητήστε να συμμετάσχετε σε αυτήν την εκπομπή ως επισκέπτης. Θα είστε ορατός και θα ακούγεστε από όλους, ενώ θα μπορείτε να σταματήσετε ανά πάσα στιγμή.";
+
+"Asking to join... Broadcaster must accept you (Local Chat Prompt)" = "Υποβάλλεται αίτημα συμμετοχής...\nΟ παρουσιαστής •|•%@•|• πρέπει να σας αποδεχτεί";
+
+"Audio Only (accessibility label)" = "Εκπομπή μόνο ήχου";
+
+"Audio from: Headphones" = "Ήχος από: Ακουστικά";
+
+"Audio from: Phone" = "Ήχος από: Τηλέφωνο";
+
+"Back" = "Πίσω";
+
+"Back (action sheet)" = "Πίσω";
+
+"Back Camera (accessibility hint)" = "Πατήστε δυο φορές για να αλλάξετε στην μπροστινή κάμερα.";
+
+"Back Camera (accessiblity value)" = "Πίσω κάμερα";
+
+"Back to %@" = "Πίσω σε %@";
+
+"Back to Hearts" = "Επιστροφή στις καρδιές";
+
+"Because you've had multiple recent broadcasts that included copyrighted works, you won’t be able to broadcast temporarily. Learn more (Copyright violation)" = "Επειδή πολλές πρόσφατες εκπομπές σας περιείχαν έργα με πνευματικά δικαιώματα, δεν θα μπορείτε προσωρινά να μεταδώσετε. •|•Μάθετε περισσότερα•|•";
+
+"Betascope App Feedback" = "Σχόλια για εφαρμογή Betascope";
+
+"Billion Decimal Abbreviation" = "%.1f δις";
+
+"Billion Integer Abbreviation" = "%d δις";
+
+"Block @%@" = "Αποκλεισμός του χρήστη @%@";
+
+"Block @%@ (Offensive Report Modal)" = "Αποκλεισμός @%@";
+
+"Block And Hang Up (Manage Guest Call-Ins Action Sheet)" = "Αποκλεισμός και τερματισμός κλήσης";
+
+"Block User" = "Αποκλεισμός χρήστη";
+
+"Block Users (%@)" = "Αποκλεισμός χρηστών (%@)";
+
+"Block {Username}" = "Αποκλεισμός του χρήστη @%@";
+
+"Blocked (user modal)" = "Αποκλεισμένος";
+
+"Blocked by you" = "Σε αποκλεισμό από εσάς";
+
+"Blocking will dismiss the broadcast and not report to Periscope. (Offensive Report Modal)" = "Ο αποκλεισμός θα καταργήσει την εκπομπή, αλλά δεν θα γίνει αναφορά της στο Periscope.";
+
+"Broadcast Actions (accessibility hint)" = "Ανοίγει ένα μενού ενεργειών εκπομπής.";
+
+"Broadcast Details (action sheet)" = "Λεπτομέρειες εκπομπής";
+
+"Broadcast Super Heart Auto-Deletion Warning" = "•|•Αυτή η εκπομπή δεν θα διαγραφεί αυτόματα μετά από 24 ώρες•|• προκειμένου να αποτραπεί η απώλεια των αστεριών από τυχόν Καρδιές επιβράβευσης που μπορεί να λάβετε.\n\nΑν θέλετε, μπορείτε να αποκρύψετε την εκπομπή, αφού ολοκληρωθεί, για να περιορίσετε την εμφάνισή της σε άλλους χρήστες.";
+
+"Broadcast Title" = "Τίτλος εκπομπής";
+
+"Broadcast about to expire (Cell)" = "Η εκπομπή πρόκειται να λήξει";
+
+"Broadcast creation" = "Δημιουργία εκπομπής";
+
+"Broadcaster Has Disabled Call-Ins (Generic Error Message)" = "Ο παρουσιαστής έχει απενεργοποιήσει προς το παρόν τη λίστα εισερχόμενων κλήσεων.";
+
+"Broadcaster blocked •|•@%@•|•" = "Έγινε αποκλεισμός του παρουσιαστή •|•@%@•|•";
+
+"Broadcaster doesn’t accept Super Hearts" = "Ο παρουσιαστής δεν δέχεται Καρδιές επιβράβευσης";
+
+"Broadcaster has assigned chat moderators." = "Ο παρουσιαστής έχει ορίσει διαχειριστές συνομιλίας.";
+
+"Broadcaster has to accept your request before you can join as a guest. (Guest Call-In Instructions Subtitle)" = "Ο παρουσιαστής %@ πρέπει να αποδεχτεί το αίτημά σας προτού συμμετάσχετε ως επισκέπτης.";
+
+"Broadcaster is allowing guests to join (Local Chat Prompt)" = "Ο παρουσιαστής •|•%@•|• επιτρέπει τη συμμετοχή επισκεπτών";
+
+"Broadcaster is not allowing guests to join (Local Chat Prompt)" = "Ο παρουσιαστής •|•%@•|• δεν επιτρέπει τη συμμετοχή επισκεπτών";
+
+"Broadcasters earn stars from Super Hearts" = "Οι παρουσιαστές κερδίζουν αστέρια από τις Καρδιές επιβράβευσης";
+
+"Bummer (ReplayKit)" = "Κρίμα";
+
+"CONCATENTATION_ACCESSIBILITY_STRING" = ".";
+
+"CONTRIBUTORS WHO HAVE LEFT" = "ΣΥΝΕΡΓΑΤΕΣ ΠΟΥ ΑΠΟΧΩΡΗΣΑΝ";
+
+"COULDN'T LOAD REPLAY VIEWERS" = "ΔΕΝ ΗΤΑΝ ΔΥΝΑΤΗ Η ΦΟΡΤΩΣΗ ΘΕΑΤΩΝ ΕΠΑΝΑΛΗΨΗΣ";
+
+"COULDN'T LOAD VIEWERS" = "ΔΕΝ ΗΤΑΝ ΔΥΝΑΤΗ Η ΦΟΡΤΩΣΗ ΘΕΑΤΩΝ";
+
+"Camera Selection (accessibility label)" = "Επιλογή κάμερας";
+
+"Cancel" = "Ακύρωση";
+
+"Cancel (action sheet)" = "Ακύρωση";
+
+"Cancel Call In Button: \"Cancel Request to Join as a Guest\"" = "Ακύρωση του αιτήματος συμμετοχής ως επισκέπτης";
+
+"Cancel Guest Call-In Instructions Title: \"Waiting to join as a guest...\"" = "Αναμονή συμμετοχής ως επισκέπτης...";
+
+"Cannot be undone" = "Η ενέργεια δεν μπορεί να αναιρεθεί";
+
+"Capture Thumbnail (action sheet)" = "Δημιουργία μικρογραφίας";
+
+"Cash Outs (Stars Profile)" = "Εξαργυρώσεις";
+
+"Cash out your stars, and continue using live video on Twitter" = "Εξαργυρώστε τα αστέρια σας και συνεχίστε να χρησιμοποιείτε ζωντανά βίντεο στο Twitter";
+
+"Change Amplify Program" = "Αλλαγή του προγράμματος Amplify";
+
+"Change Expiration (Cell)" = "Μεταβολή λήξης";
+
+"Change Expiration Subtitle (Cell)" = "Αυτόματη διαγραφή σε %@";
+
+"Changing the Amplify Program to •|•%@•|• will delete your old Tweet and publish a new one with the new Program." = "Αν αλλάξετε το πρόγραμμα Amplify σε •|•%@•|•, θα διαγραφεί το παλιό Tweet σας και θα δημοσιευτεί ένα καινούργιο με το καινούργιο πρόγραμμα.";
+
+"Chatroom too full..." = "Το δωμάτιο συνομιλίας είναι πολύ γεμάτο...";
+
+"Child Safety (Report Option)" = "Ασφάλεια παιδιών";
+
+"Choose guests to add. You can remove them at any time. (Manage Guest Callers Page Subtitle)" = "Επιλέξτε επισκέπτες για προσθήκη. Μπορείτε να τους αφαιρέσετε ανά πάσα στιγμή.";
+
+"Close (accessibility label)" = "Κλείσιμο";
+
+"Comment Tip Option 1" = "Γράψτε ένα σχόλιο και ενημερώστε τον χρήστη •|•%@•|• ότι είστε εδώ!";
+
+"Comment Tip Option 2" = "Πείτε στον χρήστη •|•%@•|• από πού παρακολουθείτε!";
+
+"Comment Tip Option 3" = "Πείτε γεια, για να συνομιλήσετε με τον χρήστη •|•%@•|• και άλλους θεατές.";
+
+"Commenting is OFF" = "Ο σχολιασμός είναι ΑΝΕΝΕΡΓΟΣ";
+
+"Comments Received (CELL)" = "Σχόλια που λάβατε";
+
+"Comments Received Unavailable (CELL)" = "μ/δ";
+
+"Compose Direct Message (Accessibility Label)" = "Δημιουργία νέου Προσωπικού μηνύματος";
+
+"Compose New Tweet (Accessibility Label)" = "Δημιουργία νέου Tweet";
+
+"Confirm Call In Button: \"OK, Ask to Join\"" = "Εντάξει, αίτημα για συμμετοχή";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile and audio will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and hear you. This may include people you’ve blocked on either app.\"" = "•\tΤο προφίλ και ο ήχος σας θα γίνουν μέρη αυτής της εκπομπής και δεν θα μπορούν να διαγραφούν, εκτός αν ο παρουσιαστής %1$@ διαγράψει την επανάληψη.\n\n•\tΌλοι όσοι παρακολουθούν στο Periscope ή στο Twitter θα μπορούν να δουν ότι συμμετείχατε στην εκπομπή του παρουσιαστή %1$@ και να σας ακούν, συμπεριλαμβανομένων ατόμων που έχετε αποκλείσει σε οποιαδήποτε από τις δυο εφαρμογές.";
+
+"Confirm Guest Call-In Instructions Subtitle: \"Your profile, audio and video will become a part of this broadcast and cannot be removed unless Broadcaster deletes the replay. Everyone watching on Periscope or Twitter will see that you’ve joined Broadcaster’s broadcast and see you. This may include people you’ve blocked on either app.\"" = "•\tΤο προφίλ, ο ήχος και το βίντεό σας θα γίνουν μέρη αυτής της εκπομπής και δεν θα μπορούν να διαγραφούν εκτός κι αν ο παρουσιαστής %1$@ διαγράψει την επανάληψη.\n\n•\tΌλοι όσοι παρακολουθούν στο Periscope ή στο Twitter θα μπορούν να δουν ότι συμμετείχατε στην εκπομπή του παρουσιαστή %1$@ και να σας ακούν, συμπεριλαμβανομένων ατόμων που έχετε αποκλείσει σε οποιαδήποτε από τις δυο εφαρμογές.";
+
+"Confirm Guest Call-In Instructions Title: \"Good to know...\"" = "Πρέπει να ξέρετε...";
+
+"Connecting to chatroom" = "Σύνδεση στο δωμάτιο συνομιλίας";
+
+"Connection Error" = "Σφάλμα σύνδεσης";
+
+"Connection too" = "Επίσης σύνδεση";
+
+"Contact Us (action sheet)" = "Επικοινωνήστε μαζί μας";
+
+"Contributors" = "Συνεργάτες";
+
+"Copy Profile URL" = "Αντιγραφή URL προφίλ";
+
+"Current Star Balance (Stars Profile)" = "Τρέχον υπόλοιπο αστεριών";
+
+"Current Time (Accessibility Label)" = "Τρέχον λεπτό";
+
+"Dear Periscope Team," = "Αγαπητή ομάδα Periscope,";
+
+"Delete Broadcast" = "Διαγραφή εκπομπής";
+
+"Delete Broadcast (action sheet)" = "Διαγραφή εκπομπής";
+
+"Delete Broadcast Now" = "Διαγραφή εκπομπής τώρα";
+
+"Describe the issue (Report Option)" = "Περιγράψτε το πρόβλημα";
+
+"Describe the issue with %@ (Report Option)" = "Περιγράψτε το πρόβλημα με τον χρήστη @%@";
+
+"Describe the issue with @%1$@ at %2$@ (Report Option)" = "Περιγράψτε το πρόβλημα με τον χρήστη @%1$@ στις %2$@";
+
+"Describe the issue you are seeing at %@ (Report Option)" = "Περιγράψτε το πρόβλημα που παρατηρείτε στο σημείο %@";
+
+"Direct Message (Compose)" = "Προσωπικό μήνυμα";
+
+"Disable Audio Only Broadcast" = "Απενεργοποίηση εκπομπών μόνο ήχου";
+
+"Disabled for all broadcasts" = "Ανενεργό για όλες τις εκπομπές";
+
+"Disabled for this broadcast" = "Ανενεργό για αυτήν την εκπομπή";
+
+"Discard Changes" = "Απόρριψη αλλαγών";
+
+"Display Photo (action sheet)" = "Εμφάνιση φωτογραφίας";
+
+"Dispute Claim (Copyright Violation)" = "Αμφισβήτηση αξίωσης";
+
+"Do not notify my followers (Guest Call-In Notify Followers Option)" = "Να μην ειδοποιούνται οι ακόλουθοί μου";
+
+"Don't Allow Guests (Manage Guest Broadcasters Call-Ins List)" = "Να μην επιτρέπονται επισκέπτες";
+
+"Don't Allow Guests (Tooltip)" = "Να μην επιτρέπονται επισκέπτες";
+
+"Don't Auto-Delete" = "Να μην γίνεται αυτόματη διαγραφή";
+
+"Don't Send (Blocked Modal)" = "Να μην αποσταλεί";
+
+"Done" = "Τέλος";
+
+"Done (action sheet)" = "Τέλος";
+
+"Double Tap anywhere to Exit Theater Mode (accessibility label)" = "Πατήστε δύο φορές σε οποιοδήποτε σημείο για έξοδο από τη Λειτουργία κινηματογράφου";
+
+"Double Tap to <bold>Flip Camera</bold>" = "Πατήστε δυο φορές για •|•Αναστροφή κάμερας•|•";
+
+"Double tap to allow or disallow guests (accessibility hint)" = "Πατήστε δύο φορές για να επιτρέπετε ή για να μην επιτρέπετε επισκέπτες";
+
+"Duration (CELL)" = "Διάρκεια";
+
+"END (graph)" = "ΛΗΞΗ";
+
+"ENDED" = "ΕΛΗΞΕ";
+
+"Edit Broadcast" = "Επεξεργασία εκπομπής";
+
+"Edit Broadcast (action sheet)" = "Επεξεργασία εκπομπής";
+
+"Edit Broadcast Unavailable" = "Δεν διατίθεται η επεξεργασία εκπομπής";
+
+"Editing your broadcast changes the way it will look for people who see it. These changes will not affect any Tweets or Notifications that have already occured." = "Η επεξεργασία της εκπομπής θα αλλάξει τον τρόπο που εμφανίζεται στους θεατές. Αυτές οι αλλαγές δεν θα επηρεάσουν τα Tweet ή τις ειδοποιήσεις που έχουν ήδη πραγματοποιηθεί.";
+
+"Enable Audio Only Broadcast" = "Ενεργοποίηση εκπομπής μόνο ήχου";
+
+"Enable Email" = "Ενεργοποίηση email";
+
+"Enable camera (Permissions Screen)" = "Ενεργοποίηση κάμερας";
+
+"Enable microphone (Permissions Screen)" = "Ενεργοποίηση μικροφώνου";
+
+"Enable/Disable Audio Only Broadcast (accessibility hint)" = "Πατήστε δύο φορές για εναλλαγή μεταξύ ενεργοποίησης ή απενεργοποίησης της εκπομπής μόνο ήχου.";
+
+"Enable/Disable Audio Only Broadcast (accessibility label)" = "Ενεργοποίηση/απενεργοποίηση εκπομπής μόνο ήχου";
+
+"Ended" = "Έληξε";
+
+"Engaging Chat" = "Ενδιαφέρουσα συνομιλία";
+
+"Error (ReplayKit)" = "Σφάλμα";
+
+"Error accessing audio from microphone." = "Σφάλμα κατά την πρόσβαση στον ήχο από το μικρόφωνο.";
+
+"Error accessing history." = "Σφάλμα πρόσβασης στο ιστορικό.";
+
+"Error saving video to Camera Roll" = "Σφάλμα κατά την αποθήκευση στο άλμπουμ κάμερας";
+
+"Error setting Amplify Program (title)" = "Παρουσιάστηκε πρόβλημα στη ρύθμιση του προγράμματος Amplify";
+
+"Every heart you send will be a Super Heart" = "Κάθε καρδιά που αποστέλετε θα είναι Καρδιά επιβράβευσης";
+
+"Everybody can chat" = "Όλοι μπορούν να συνομιλήσουν";
+
+"FEATURED" = "ΠΡΟΤΕΙΝΟΜΕΝΑ";
+
+"FOLLOWERS (user profile modal)" = "ΑΚΟΛΟΥΘΟΙ";
+
+"FOLLOWING (user profile modal)" = "ΑΚΟΛΟΥΘΕΙΤΕ";
+
+"Final List separator" = ", &";
+
+"Fine Control" = "Καλός έλεγχος";
+
+"First Super Heart" = "Πρώτη Καρδιά επιβράβευσης";
+
+"Flip Camera (action sheet)" = "Αναστροφή κάμερας";
+
+"Follow (user modal)" = "Ακολουθήστε";
+
+"Follow request sent. (chat message)" = "Το αίτημα ακολούθησης εστάλη.";
+
+"Follow the broadcaster to catch their next broadcast." = "Ακολουθήστε τον παρουσιαστή για να μην χάσετε την επόμενη εκπομπή του.";
+
+"Follow •|•%@•|• to catch their next broadcast" = "Ακολουθήστε τον χρήστη •|•%@•|• για να μην χάσετε την επόμενη εκπομπή του";
+
+"Followed by %1$@ and %2$@" = "Ακολουθείται από τους χρήστες %1$@ και %2$@";
+
+"Followed by %1$@, %2$@, %3$@ and %4$i others" = "Ακολουθείται από τους χρήστες %1$@, %2$@, %3$@ και %4$i ακόμη";
+
+"Followed by %1$@, %2$@, and %3$@" = "Ακολουθείται από τους χρήστες %1$@, %2$@ και %3$@";
+
+"Followed by %@" = "Ακολουθείται από τον χρήστη %@";
+
+"Followers button (accessibility hint)" = "Πατήστε δυο φορές για να δείτε τους ακόλουθους.";
+
+"Following (user modal)" = "Ακολουθείτε";
+
+"Following button (accessibility hint)" = "Πατήστε δυο φορές για να δείτε τους χρήστες που ακολουθείτε.";
+
+"Front Camera (accessibility hint)" = "Πατήστε δυο φορές για να αλλάξετε στην πίσω κάμερα.";
+
+"Front Camera (accessiblity value)" = "Μπροστινή κάμερα";
+
+"Get Coins" = "Απόκτηση νομισμάτων";
+
+"Give Super Hearts (menu button)" = "Απονομή καρδιών επιβράβευσης";
+
+"Go LIVE" = "Μετάδοση ΖΩΝΤΑΝΑ";
+
+"Go LIVE to %@" = "Μεταδώστε ΖΩΝΤΑΝΑ στην ομάδα %@";
+
+"Go LIVE together (Guest Broadcasting Modal Title)" = "Μεταδώστε και εσείς ΖΩΝΤΑΝΑ";
+
+"Go to Twitter Profile" = "Μετάβαση σε προφίλ Twitter";
+
+"Good Viewer Count" = "Ικανοποιητικός αριθμός θεατών";
+
+"Got It (Button Title)" = "Κατάλαβα";
+
+"Got it (Copyright Violation)" = "Εντάξει";
+
+"Got it (ReplayKit)" = "Εντάξει";
+
+"Got it!" = "Εντάξει";
+
+"Guest Action Sheet Report Item" = "Αναφορά";
+
+"Guest Call In Choice Label: \"Camera and microphone\"" = "Κάμερα και μικρόφωνο";
+
+"Guest Call In Choice Label: \"Microphone only\"" = "Μόνο μικρόφωνο";
+
+"Guest Call-In Audio Only Permissions Subtitle beneath Title: \"Enable microphone to become a guest\"" = "Ενεργοποιήστε το μικρόφωνο για να γίνετε επισκέπτης";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request. Learn more\"" = "Θα συμμετάσχετε όταν ο παρουσιαστής αποδεχτεί το αίτημά σας. •|•Μάθετε περισσότερα•|•";
+
+"Guest Call-In Instructions Subtitle beneath Title: \"You'll join when the broadcaster accepts your request.\"" = "Θα συμμετάσχετε όταν ο παρουσιαστής αποδεχτεί το αίτημά σας.";
+
+"Guest Call-In Instructions Title: \"Ask to Join\"" = "Αίτημα για συμμετοχή";
+
+"Guest Call-In Instructions Title: \"Join as a guest\"" = "Συμμετοχή ως επισκέπτης";
+
+"Guest Call-In Permissions Subtitle beneath Title: \"Enable camera and microphone to become a guest\"" = "Ενεργοποιήστε την κάμερα και το μικρόφωνο για να γίνετε επισκέπτης";
+
+"Guest Call-In Permissions Title: \"Guest setup\"" = "Ρύθμιση επισκεπτών";
+
+"Guest List (Manage Guest Callers Page Title)" = "Λίστα επισκεπτών";
+
+"Guest Was Banned Chat Message (Periscope)" = "Υποβλήθηκε αναφορά για τον χρήστη •|•@%@•|•. Το Periscope εξέτασε την αναφορά, και διαπιστώθηκε ότι ο χρήστης παραβιάζει τις Κατευθυντήριες γραμμές της Κοινότητας.";
+
+"Guest Was Banned Chat Message (Twitter)" = "Υποβλήθηκε αναφορά για τον χρήστη •|•@%@•|•. Το Twitter εξέτασε την αναφορά, και διαπιστώθηκε ότι ο χρήστης παραβιάζει τους Κανόνες του Twitter.";
+
+"Guests Not Allowed (Manage Guest Broadcasters Call-Ins List)" = "Δεν επιτρέπονται επισκέπτες";
+
+"Guests can now ask to join. Use this icon to add or remove guests at any time. (Guest Broadcasting Enabled Prompt)" = "Οι επισκέπτες μπορούν τώρα να ζητήσουν να συμμετάσχουν. Χρησιμοποιήστε αυτό το εικονίδιο για να προσθέσετε ή να αφαιρέσετε επισκέπτες ανά πάσα στιγμή.";
+
+"HEART" = "ΚΑΡΔΙΑ";
+
+"HEARTS" = "ΚΑΡΔΙΕΣ";
+
+"Half-Speed" = "Μισή ταχύτητα";
+
+"Hang Up (Guest Calling Menu)" = "Τερματισμός κλήσης";
+
+"Hang Up (Manage Guest Call-Ins Action Sheet)" = "Τερματισμός κλήσης";
+
+"Hang Up Button Label: \"Hang Up\"" = "Τερματισμός κλήσης";
+
+"Hang Up Subtitle (Audio Only): \"Stop sharing microphone\"" = "Διακοπή κοινής χρήσης μικροφώνου";
+
+"Hang Up Subtitle (Camera + Microphone): \"Stop sharing camera and microphone\"" = "Διακοπή κοινής χρήσης κάμερας και μικροφώνου";
+
+"Hang Up on Guest or Cancel Guest From Joining" = "Τερματισμός κλήσης καλούντος ή ακύρωση συμμετοχής επισκέπτη";
+
+"Hang up" = "Τερματισμός κλήσης";
+
+"Harassment" = "Παρενόχληση";
+
+"Hateful Conduct (Report Option)" = "Συμπεριφορά μίσους";
+
+"Heart Sent (accessiblity announcement)" = "Η καρδιά εστάλη";
+
+"Hearts & Chats off" = "Οι Καρδιές και οι Συζητήσεις είναι απενεργοποιημένες";
+
+"Hearts & Chats on" = "Οι Καρδιές και οι Συζητήσεις είναι ενεργοποιημένες";
+
+"Help us moderate this comment..." = "Βοηθήστε μας στη διαχείριση αυτού του σχολίου...";
+
+"Help us understand the problem.\nWhat issue with @%@ are you reporting?" = "Βοηθήστε μας να κατανοήσουμε το πρόβλημα.\nΠοιο ζήτημα αναφέρετε σχετικά με τον λογαριασμό @%@;";
+
+"Hide Broadcast" = "Απόκρυψη εκπομπής";
+
+"Hide everything except video (action sheet)" = "Απόκρυψη όλου του περιεχομένου εκτός από το βίντεο";
+
+"History (profile view title)" = "Ιστορικό";
+
+"History button (accessibility hint)" = "Πατήστε δύο φορές για προβολή των πρόσφατων εκπομπών.";
+
+"How can we improve?" = "Πώς μπορούμε να βελτιωθούμε;";
+
+"How was your broadcasting experience?" = "Πώς ήταν η εμπειρία μετάδοσής σας;";
+
+"I'm Not Interested in @%@" = "Δεν με ενδιαφέρει ο λογαριασμός @%@";
+
+"If this broadcast depicts pornography or sexual acts, please tap below. (Report Sexual Content Modal)" = "Αν αυτή η εκπομπή περιέχει πορνογραφικές ή σεξουαλικές πράξεις, πατήστε παρακάτω.";
+
+"If you believe that this broadcast places a child at risk, please tap below. (Report Child Safety Modal)" = "Αν πιστεύετε ότι αυτή η εκπομπή θέτει σε κίνδυνο ένα παιδί, πατήστε παρακάτω.";
+
+"If you believe this broadcast contains violence or someone is being physically threatened, please tap below. (Report Violence Modal)" = "Αν πιστεύετε ότι αυτή η εκπομπή περιέχει βία ή τη φυσική απειλή κάποιου προσώπου, πατήστε παρακάτω.";
+
+"If you believe this broadcast directs hates against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Αν πιστεύετε ότι αυτή η εκπομπή εκφράζει μίσος για μια προστατευμένη κατηγορία (π.χ. φυλή, θρησκεία, φύλο, σεξουαλικό προσανατολισμό, αναπηρία), πατήστε παρακάτω.";
+
+"If you believe this broadcast exposes private information, please tap below. (Report Private Information Modal)" = "Αν πιστεύετε ότι αυτή η εκπομπή εκθέτει ιδιωτικές πληροφορίες, πατήστε παρακάτω.";
+
+"If you believe this broadcast harasses, intimidates, or uses fear to silence another person's voice, please tap below. (Report Harassment Modal)" = "Αν πιστεύετε ότι αυτή η εκπομπή παρενοχλεί, εκφοβίζει ή τρομοκρατεί προκειμένου να φιμώσει κάποιον, πατήστε παρακάτω.";
+
+"If you believe this guest is contemplating or encouraging suicide or self harm, please tap below. (Report Self Harm Modal)" = "Αν πιστεύετε ότι αυτός ο επισκέπτης σκέφτεται ή ενθαρρύνει την αυτοκτονία ή τον αυτοτραυματισμό, πατήστε παρακάτω.";
+
+"If you believe this guest is directing hate against a protected category (e.g., race, religion, gender, orientation, disability), please tap below. (Report Hateful Conduct Modal)" = "Αν πιστεύετε ότι αυτός ο επισκέπτης εκφράζει μίσος για μια προστατευμένη κατηγορία (π.χ. φυλή, θρησκεία, φύλο, σεξουαλικό προσανατολισμό, αναπηρία), πατήστε παρακάτω.";
+
+"If you believe this guest is exposing private information, please tap below. (Report Private Information Modal)" = "Αν πιστεύετε ότι αυτός ο επισκέπτης εκθέτει ιδιωτικές πληροφορίες, πατήστε παρακάτω.";
+
+"If you believe this guest is harassing, intimidating, or using fear to silence another person’s voice, please tap below. (Report Harassment Modal)" = "Αν πιστεύετε ότι αυτός ο επισκέπτης παρενοχλεί, εκφοβίζει ή τρομοκρατεί προκειμένου να φιμώσει κάποιον, πατήστε παρακάτω.";
+
+"If you believe this guest is making specific violent threats involving physical safety or well-being, please tap below. (Report Violence Modal)" = "Αν πιστεύετε ότι αυτός ο επισκέπτης διατυπώνει συγκεκριμένες απειλές βίας κατά της σωματικής ασφάλειας ή υγείας, πατήστε παρακάτω.";
+
+"If you believe this guest is sharing content that places a child at risk, please tap below. (Report Child Safety Modal)" = "Αν πιστεύετε ότι αυτός ο επισκέπτης κοινοποιεί περιεχόμενο που θέτει σε κίνδυνο ένα παιδί, πατήστε παρακάτω.";
+
+"If you believe this guest is sharing inappropriate sexual content such as pornography, please tap below. (Report Sexual Content Modal)" = "Αν πιστεύετε ότι αυτός ο επισκέπτης κοινοποιεί ανάρμοστο σεξουαλικό περιεχόμενο όπως πορνογραφία, πατήστε παρακάτω.";
+
+"If you believe this individual is contemplating suicide or self harm, please tap below. (Report Self Harm Modal)" = "Αν πιστεύετε ότι αυτό το άτομο σκέφτεται την αυτοκτονία ή να βλάψει τον εαυτό του, πατήστε παρακάτω.";
+
+"If you delete this broadcast, you will lose the stars that you received. This cannot be undone." = "Εάν διαγράψετε αυτή την εκπομπή, τα αστέρια που λάβατε θα χαθούν. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.";
+
+"Initializing video stream..." = "Έναρξη μετάδοσης βίντεο...";
+
+"Invite Guests (Manage Guest Broadcasters Call-Ins List)" = "Πρόσκληση επισκεπτών";
+
+"Invite viewers to be guests in your broadcasts. They'll be heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Προσκαλέστε θεατές να γίνουν επισκέπτες στις εκπομπές σας. Θα ακούγονται απ' όλους και θα μπορείτε να τους προσθέτετε ή να τους αφαιρείτε ανά πάσα στιγμή.";
+
+"Invite viewers to be guests in your broadcasts. They'll be seen and heard by everyone, and you can add or remove them at any time. (Guest Broadcasting Modal Broadcaster Subtitle)" = "Προσκαλέστε θεατές να γίνουν επισκέπτες στις εκπομπές σας. Θα είναι ορατοί και θα ακούγονται απ' όλους, και θα μπορείτε να τους προσθέτετε ή να τους αφαιρείτε ανά πάσα στιγμή.";
+
+"Join as a Guest (Guest Calling Menu)" = "Συμμετοχή ως επισκέπτης";
+
+"Joined %@" = "Έγινε μέλος: %@";
+
+"Joining as a guest... (Guest Call-In Countdown Screen Title)" = "Υποβάλλεται συμμετοχή ως επισκέπτης...";
+
+"Keep broadcasting to collect more stars!" = "Κάντε περισσότερες εκπομπές, για να συγκεντρώσετε περισσότερα αστέρια!";
+
+"Keep stars received" = "Τα αστέρια που λάβατε θα διατηρηθούν";
+
+"LIVE" = "ΖΩΝΤΑΝΑ";
+
+"LIVE VIEWER" = "ΖΩΝΤΑΝΟΣ ΘΕΑΤΗΣ";
+
+"LIVE VIEWERS" = "ΖΩΝΤΑΝΟΙ ΘΕΑΤΕΣ";
+
+"LIVE Video (Broadcast Audience)" = "ΖΩΝΤΑΝΟ βίντεο";
+
+"LIVE on #Periscope" = "ΖΩΝΤΑΝΑ στο #Periscope";
+
+"LIVE on #Periscope: %@" = "ΖΩΝΤΑΝΑ στο #Periscope: %@";
+
+"LOADING" = "ΦΟΡΤΩΣΗ";
+
+"LOST CONNECTION" = "Η ΣΥΝΔΕΣΗ ΔΙΑΚΟΠΗΚΕ";
+
+"Later (alert view)" = "Αργότερα";
+
+"Learn More" = "Μάθετε περισσότερα";
+
+"Learn More (Stars Profile)" = "Μάθετε περισσότερα";
+
+"Leave Broadcast" = "Αποχώρηση από την εκπομπή";
+
+"Limited by Broadcaster" = "Υπάρχει περιορισμός από τον παρουσιαστή";
+
+"Limited for %@" = "Περιορισμός για %@";
+
+"List separator" = ",";
+
+"Live Time Watched (CELL)" = "Χρόνος προβολής ζωντανής μετάδοσης";
+
+"Live watch time per minute tooltip" = "Για κάθε λεπτό ζωντανής μετάδοσης της εκπομπής, οι θεατές είχαν ένα συνδυαστικό σύνολο %@ παρακολούθησης.";
+
+"Loading History." = "Γίνεται φόρτωση ιστορικού.";
+
+"Loading followers" = "Φόρτωση ακόλουθων";
+
+"Loading following" = "Φόρτωση ατόμων που ακολουθείτε";
+
+"Loading history" = "Φόρτωση ιστορικού";
+
+"Loading your followers" = "Φόρτωση των ακόλουθών σας";
+
+"Loading your following" = "Φόρτωση ατόμων που ακολουθείτε";
+
+"Location Permissions Required" = "Χρειάζονται δικαιώματα τοποθεσίας";
+
+"Location Unknown" = "Άγνωστη τοποθεσία";
+
+"Logged Out" = "Αποσυνδεδεμένος/η";
+
+"Login Error (ReplayKit)" = "Απαιτείται είσοδος";
+
+"Login Error Instructions (ReplayKit)" = "Ανοίξτε την εφαρμογή Periscope για να συνδεθείτε. Έπειτα, επιστρέψτε εδώ για να ξεκινήσετε την εκπομπή.";
+
+"Looks OK" = "Μοιάζει εντάξει";
+
+"Looks like the connection was lost. Reconnecting... (Toast)" = "Φαίνεται ότι χάθηκε η σύνδεση. Γίνεται επανασύνδεση...";
+
+"Lose stars received" = "Τα αστέρια που λάβατε θα χαθούν";
+
+"Low Viewer Count" = "Χαμηλός αριθμός θεατών";
+
+"Low disk space. A portion of this broadcast will not be available for replay later." = "Μικρός χώρος στον δίσκο. Κάποιο τμήμα αυτής της εκπομπής δεν θα είναι διαθέσιμο για επανάληψη αργότερα.";
+
+"Majority voted <destructive emphasis> Abuse </destructive emphasis>\nThe commenter's chat has been limited." = "Η πλειονότητα ψήφισε •|• Κακή χρήση •|•\nΗ συνομιλία του σχολιαστή περιορίστηκε.";
+
+"Majority voted <destructive emphasis> Looks OK  </destructive emphasis>" = "Η πλειονότητα ψήφισε •|• Μοιάζει εντάξει •|•";
+
+"Majority voted <destructive emphasis> Not Sure </destructive emphasis>" = "Η πλειονότητα ψήφισε •|• Δεν γνωρίζω σίγουρα •|•";
+
+"Majority voted <destructive emphasis> Spam </destructive emphasis>\nThe commenter's chat has been limited." = "Η πλειονότητα ψήφισε •|• Ανεπιθύμητο •|•\nΗ συνομιλία του σχολιαστή περιορίστηκε.";
+
+"Makes broadcast visible to everyone" = "Η εκπομπή είναι ορατή σε όλους";
+
+"Makes broadcast visible to invited viewers" = "Η εκπομπή είναι ορατή σε προσκεκλημένους χρήστες";
+
+"Manage details about your Broadcast (menu subtitle)" = "Διαχείριση λεπτομερειών της εκπομπής σας";
+
+"Messages like this frequently get blocked. If you get blocked too many times your comments will no longer be seen." = "Μηνύματα όπως αυτά αποκλείονται συχνά. Αν αποκλειστείτε πολλές φορές, τα σχόλιά σας δεν θα εμφανίζονται.";
+
+"Million Decimal Abbreviation" = "%.1f εκ.";
+
+"Million Integer Abbreviation" = "%d εκ.";
+
+"Moderation Modal Button Label" = "Εντάξει, καταλαβαίνω";
+
+"Moderation Modal Example Label" = "ΠΑΡΑΔΕΙΓΜΑ";
+
+"Moderation Modal Example Message" = "Προσωπικό μήνυμα ερώτησης...";
+
+"Moderation Modal Settings Label" = "Μπορείτε να την απενεργοποιήσετε στις ρυθμίσεις.";
+
+"Moderation Modal Subtitle" = "Περιστασιακά, θα σας ζητάμε να διαχειρίζεστε σχόλια, καθορίζοντας γρήγορα αν πρόκειται για •|•ΚΑΚΗ ΧΡΗΣΗ•|• ή •|•ΑΝΕΠΙΘΥΜΗΤΟ•|•. Ο σχολιασμός είναι ανώνυμος.";
+
+"Moderation Modal Title" = "Διαχείριση";
+
+"Moderator Actions" = "Ενέργειες διαχειριστή";
+
+"Moderator Actions (%@)" = "Ενέργειες διαχειριστή (%@)";
+
+"Moderator •|•%@•|• joined" = "Ο διαχειριστής •|•%@•|• συνδέθηκε";
+
+"ModeratorName muted this message (Message Carousel)" = "Ο χρήστης •|•%@•|• έθεσε σε σίγαση αυτό το μήνυμα";
+
+"Monetize Broadcast" = "Δημιουργία εσόδων από εκπομπή";
+
+"Monetize Broadcast (expanded cell title)" = "Δημιουργία εσόδων από εκπομπή";
+
+"Monetize Broadcast (minimized cell title)" = "Δημιουργία εσόδων από εκπομπή ▾";
+
+"More (following/followers)" = "Περισσότερα";
+
+"Mute" = "Σίγαση";
+
+"Mute (accessibility label)" = "Σίγαση";
+
+"Mute User" = "Σίγαση χρήστη";
+
+"Mute User Notifications" = "Σίγαση ειδοποιήσεων χρήστη";
+
+"Muted by Moderator" = "Σε σίγαση από διαχειριστή";
+
+"NEW" = "ΝΕΟ";
+
+"NO LIVE VIEWERS" = "ΔΕΝ ΥΠΑΡΧΟΥΝ ΖΩΝΤΑΝΟΙ ΘΕΑΤΕΣ";
+
+"NO REPLAY VIEWERS" = "ΔΕΝ ΥΠΑΡΧΟΥΝ ΘΕΑΤΕΣ ΕΠΑΝΑΛΗΨΗΣ";
+
+"New Broadcaster Education: 3 Guest Limit" = "Μπορείτε να έχετε έως και 3 επισκέπτες ταυτόχρονα.";
+
+"New Tweet (Compose)" = "Νέο Tweet";
+
+"No history." = "Δεν υπάρχει ιστορικό.";
+
+"No one has asked to join yet. Tap to invite your viewers to join. (Empty Manage Guest Broadcasters Call-Ins List)" = "Κανείς δεν έχει ζητήσει να συμμετάσχει ακόμη.\n\nΠατήστε για να προσκαλέσετε θεατές να συμμετάσχουν.";
+
+"No one is following you." = "Κανένας δεν σας ακολουθεί.";
+
+"No, stop broadcasting (Copyright Violation)" = "Όχι, να διακοπεί η εκπομπή";
+
+"Not Sure" = "Δεν ξέρω σίγουρα";
+
+"Not followed by anyone you're following" = "Δεν ακολουθείται από άτομα που ακολουθείτε";
+
+"Notifications (accessiblity label)" = "Ειδοποιήσεις";
+
+"Notifications OFF" = "Ειδοποιήσεις ΑΝΕΝΕΡΓΕΣ";
+
+"Notifications ON" = "Ειδοποιήσεις ΕΝΕΡΓΕΣ";
+
+"Notifications Off (accessibility hint)" = "Πατήστε δυο φορές για να ενεργοποιήσετε τις ειδοποιήσεις από αυτόν τον χρήστη.";
+
+"Notifications Off (accessibility value)" = "Ανενεργό";
+
+"Notifications On (accessibility hint)" = "Πατήστε δυο φορές για να απενεργοποιήσετε τις ειδοποιήσεις από αυτόν τον χρήστη.";
+
+"Notifications On (accessibility value)" = "Ενεργό";
+
+"Notify my followers (Guest Call-In Notify Followers Option)" = "Να ειδοποιούνται οι ακόλουθοί μου";
+
+"OK, Got It" = "Εντάξει, το κατάλαβα";
+
+"Offensive Guest (Report Option)" = "Προσβλητικός επισκέπτης";
+
+"Okay (Report Broadcast Modal)" = "Εντάξει";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Έγινε απόκρυψη ενός ή περισσότερων από τα σχόλιά σας για ΚΑΚΗ ΧΡΗΣΗ. Ο σχολιασμός είναι ανενεργός για όλες τις εκπομπές.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is disabled for this broadcast." = "Έγινε απόκρυψη ενός ή περισσότερων από τα σχόλιά σας για ΚΑΚΗ ΧΡΗΣΗ. Ο σχολιασμός είναι περιορισμένος για αυτήν την εκπομπή.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Έγινε απόκρυψη ενός ή περισσότερων από τα σχόλιά σας για ΚΑΚΗ ΧΡΗΣΗ. Ο σχολιασμός είναι προς το παρόν περιορισμένος για όλες τις εκπομπές.";
+
+"One or more of your comments was hidden for ABUSE. Commenting is temporarily limited." = "Έγινε απόκρυψη ενός ή περισσότερων από τα σχόλιά σας για ΚΑΚΗ ΧΡΗΣΗ. Ο σχολιασμός είναι προς το παρόν περιορισμένος.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for all broadcasts." = "Έγινε απόκρυψη ενός ή περισσότερων από τα σχόλιά σας για ΑΝΕΠΙΘΥΜΗΤΟ. Ο σχολιασμός είναι περιορισμένος για όλες τις εκπομπές.";
+
+"One or more of your comments was hidden for SPAM. Commenting is disabled for this broadcast." = "Έγινε απόκρυψη ενός ή περισσότερων από τα σχόλιά σας για ΑΝΕΠΙΘΥΜΗΤΟ. Ο σχολιασμός είναι προς το παρόν περιορισμένος για αυτήν την εκπομπή.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Έγινε απόκρυψη ενός ή περισσότερων από τα σχόλιά σας για ΑΝΕΠΙΘΥΜΗΤΟ. Ο σχολιασμός είναι προς το παρόν περιορισμένος για όλες τις εκπομπές.";
+
+"One or more of your comments was hidden for SPAM. Commenting is temporarily limited." = "Έγινε απόκρυψη ενός ή περισσότερων από τα σχόλιά σας για ΑΝΕΠΙΘΥΜΗΤΟ. Ο σχολιασμός είναι προς το παρόν περιορισμένος.";
+
+"One or more of your comments was hidden. Commenting is disabled for all broadcasts." = "Έγινε απόκρυψη ενός ή περισσότερων από τα σχόλιά σας. Ο σχολιασμός είναι ανενεργός για όλες τις εκπομπές.";
+
+"One or more of your comments was hidden. Commenting is disabled for this broadcast." = "Έγινε απόκρυψη ενός ή περισσότερων από τα σχόλιά σας. Ο σχολιασμός είναι ανενεργός για αυτήν την εκπομπή.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited for all broadcasts." = "Έγινε απόκρυψη ενός ή περισσότερων από τα σχόλιά σας. Ο σχολιασμός είναι προς το παρόν περιορισμένος για όλες τις εκπομπές.";
+
+"One or more of your comments was hidden. Commenting is temporarily limited." = "Έγινε απόκρυψη ενός ή περισσότερων από τα σχόλιά σας. Ο σχολιασμός προς το παρόν είναι περιορισμένος.";
+
+"One or more of your comments was muted by a moderator. Commenting is disabled for this broadcast." = "Ένα ή περισσότερα από τα σχόλιά σας τέθηκαν σε σίγαση από έναν διαχειριστή. Η δυνατότητα σχολιασμού σας απενεργοποιήθηκε για αυτήν την εκπομπή.";
+
+"Only available in Periscope" = "Διατίθεται μόνο στο Periscope";
+
+"Only public broadcasts counted" = "Μόνο οι δημόσιες εκπομπές υπολογίζονται";
+
+"Only users you follow can chat" = "Μόνο οι χρήστες που ακολουθείτε μπορούν να συνομιλήσουν";
+
+"Only you can see your hidden broadcasts (menu subtitle)" = "Μόνο εσείς μπορείτε να δείτε τις κρυμμένες σας εκπομπές";
+
+"Other Reason (Report Option)" = "Άλλος λόγος";
+
+"Other Reason \n e.g. Foreign Language" = "Άλλος λόγος•|•\nπ.χ Ξένη γλώσσα•|•";
+
+"Our apologies for the inconvenience." = "Λυπούμαστε για την αναστάτωση.";
+
+"POOR CONNECTION" = "ΚΑΚΗ ΣΥΝΔΕΣΗ";
+
+"POSSIBLY NSFW (Interstitial)" = "ΠΙΘΑΝΩΣ ΑΚΑΤΑΛΛΗΛΟ ΠΕΡΙΕΧΟΜΕΝΟ";
+
+"Pause (accessibility label)" = "Παύση";
+
+"Peak (graph label)" = "Κορυφαία τιμή";
+
+"Periscope App Feedback" = "Σχόλια για εφαρμογή Periscope";
+
+"Periscope account is required." = "Απαιτείται λογαριασμός Periscope.";
+
+"Periscope is discontinuing on •|•%@•|•" = "Το Periscope καταργείται στις •|•%@•|•";
+
+"Play (accessibility label)" = "Αναπαραγωγή";
+
+"Please allow some time for all transactions to be posted." = "Θα χρειαστεί λίγη ώρα για την ανάρτηση όλων των συναλλαγών.";
+
+"Positive Community" = "Θετική κοινότητα";
+
+"Post to Twitter (accessibility hint)" = "Πατήστε δύο φορές για εναλλαγή.";
+
+"Post to Twitter (accessibility label)" = "Δημοσίευση στο Twitter";
+
+"Posting to Twitter OFF" = "Δημοσίευση στο Twitter ΑΝΕΝΕΡΓΗ";
+
+"Posting to Twitter as @%@" = "Δημοσίευση στο Twitter ως @%@";
+
+"Precise Location Sharing OFF" = "Κοινοποίηση ακριβούς τοποθεσίας ΑΝΕΝΕΡΓΗ";
+
+"Precise Location Sharing ON" = "Κοινοποίηση ακριβούς τοποθεσίας ΕΝΕΡΓΗ";
+
+"Private (Broadcast Audience)" = "Ιδιωτικό";
+
+"Private Information (Report Option)" = "Ιδιωτικές πληροφορίες";
+
+"Profile (accessibility label)" = "Προφίλ";
+
+"Profile URL copied" = "Αντιγράφηκε το URL του προφίλ";
+
+"Public (Broadcast Audience)" = "Δημόσιο";
+
+"Public Hidden (Broadcast Audience)" = "Δημόσια (Κρυφή)";
+
+"Quarter-Speed" = "1 τέταρτο ταχύτητας";
+
+"RECENT (user profile modal)" = "ΠΡΟΣΦΑΤΟ";
+
+"REPLAY VIEWER" = "ΘΕΑΤΗΣ ΕΠΑΝΑΛΗΨΗΣ";
+
+"REPLAY VIEWERS" = "ΘΕΑΤΕΣ ΕΠΑΝΑΛΗΨΗΣ";
+
+"Ready to give Super Hearts!" = "Έτοιμοι να απονείμετε Καρδιές επιβράβευσης!";
+
+"Received in: (History)" = "Λήψη: \"%@\"";
+
+"Received stars (History)" = "Έχετε λάβει αστέρια.";
+
+"Release to <bold>Leave</bold> (broadcasting)" = "Απελευθερώστε για •|•Αποχώρηση•|•";
+
+"Release to <bold>Leave</bold> (watching)" = "Απελευθερώστε για •|•Αποχώρηση•|•";
+
+"Release to Refresh" = "Απελευθερώστε για ανανέωση";
+
+"Remove" = "Αφαίρεση";
+
+"Remove Amplify Program" = "Κατάργηση προγράμματος Amplify";
+
+"Remove Amplify Program (cell title)" = "Κατάργηση προγράμματος Amplify";
+
+"Remove Location" = "Αφαίρεση τοποθεσίας";
+
+"Remove at least 1 character from your title to make room for #(example hashtag)" = "Διαγράψτε τουλάχιστον 1 χαρακτήρα από τον τίτλο για να υπάρξει χώρος για το %@";
+
+"Remove at least X characters from your title to make room for #(example hashtag)" = "Διαγράψτε τουλάχιστον %lu χαρακτήρες από τον τίτλο για να υπάρξει χώρος για το %@";
+
+"Replay Time Watched (CELL)" = "Χρόνος προβολής επανάληψης";
+
+"Replay Unavailable" = "Η επανάληψη δεν είναι διαθέσιμη";
+
+"Replay watch time per minute tooltip" = "Για κάθε λεπτό αυτής της επανάληψης εκπομπής, οι θεατές είχαν ένα συνδυαστικό σύνολο %@ παρακολούθησης.";
+
+"Reply" = "Απάντηση";
+
+"Report @<guest's username> (Report Guest Modal)" = "Αναφορά του χρήστη @%@";
+
+"Report Abusive Behavior (Report Abusive Behavior Modal)" = "Προσβλητική συμπεριφορά";
+
+"Report Abusive Profile" = "Αναφορά προσβλητικού προφίλ";
+
+"Report As Spam" = "Αναφορά στοιχείου ως ανεπιθύμητου";
+
+"Report Broadcast (Report Broadcast Modal)" = "Αναφορά εκπομπής";
+
+"Report Child Safety (Report Child Safety Modal)" = "Ασφάλεια παιδιών";
+
+"Report Comment" = "Αναφορά σχολίου";
+
+"Report Hateful Conduct (Report Hateful conduct Modal)" = "Συμπεριφορά μίσους";
+
+"Report Private Information (Report Private Information Modal)" = "Ιδιωτικές πληροφορίες";
+
+"Report Self-Harm (Report Self Harm Modal)" = "Προσωπικές βλάβες";
+
+"Report Sexual Content (Report Sexual Content Modal)" = "Σεξουαλικό περιεχόμενο";
+
+"Report User" = "Αναφορά χρήστη";
+
+"Report Violence (Report Violence Modal)" = "Βία";
+
+"Reporting is anonymous and will hide the user's comments (just for you)." = "Οι αναφορές είναι ανώνυμες και τα σχόλια των χρηστών αποκρύπτονται (μόνο για σας).";
+
+"Restrict Chat (accessibility hint)" = "Πατήστε δυο φορές για εναλλαγή του περιορισμού συνομιλίας στους χρήστες που ακολουθείτε.";
+
+"Restrict Chat (accessibility label)" = "Περιορισμός συνομιλίας";
+
+"Return to Summary (accessibility hint)" = "Πατήστε δυο φορές για να επιστρέψετε στη σύνοψη χρήστη.";
+
+"Retweet" = "Retweet";
+
+"Save Changes" = "Αποθήκευση αλλαγών";
+
+"Save To Camera Roll" = "Αποθήκευση στο άλμπουμ κάμερας";
+
+"Save To Camera Roll Unavailable" = "Η αποθήκευση στο άλμπουμ κάμερας δεν είναι διαθέσιμη";
+
+"Saved To Camera Roll" = "Έγινε αποθήκευση στο άλμπουμ κάμερας";
+
+"Saved!" = "Αποθηκεύτηκε!";
+
+"Saving..." = "Γίνεται αποθήκευση...";
+
+"Say something..." = "Πείτε κάτι...";
+
+"Scroll for Old Comments" = "Πραγματοποιήστε κύλιση για παλαιότερα σχόλια";
+
+"Scroll to Bottom" = "Κύλιση στο τέλος";
+
+"Self-Harm (Report Option)" = "Προσωπικές βλάβες";
+
+"Send (accessibility label)" = "Αποστολή";
+
+"Send Message (Blocked Modal)" = "Αποστολή προσωπικού μηνύματος";
+
+"Send people a notification to join this broadcast. Mutuals are people you follow that follow you back." = "Αποστολή ειδοποίησης στον κόσμο για σύνδεση σε αυτήν την εκπομπή. Κοινοί είναι τα άτομα που ακολουθείτε και σας ακολουθούν.";
+
+"Sent for payment processing (History)" = "Εστάλη για επεξεργασία πληρωμής.";
+
+"Separator between two names" = "&";
+
+"Set Amplify Program" = "Ρύθμιση προγράμματος Amplify";
+
+"Setting the broadcast Amplify Program to •|•%@•|• will publish a new Tweet." = "Αν ρυθμίσετε το πρόγραμμα Amplify σε %@, θα δημοσιεύσει ένα καινούργιο Tweet.";
+
+"Settings (app)" = "Ρυθμίσεις";
+
+"Sexual Content (Report Option)" = "Σεξουαλικό περιεχόμενο";
+
+"Sexually Inappropriate \n Obscene or unwanted sexual remarks" = "Ακατάλληλο σεξουαλικό περιεχόμενο•|•\nΧυδαία ή ανεπιθύμητα σεξουαλικά σχόλια•|•";
+
+"Share Broadcast" = "Κοινοποίηση μετάδοσης";
+
+"Share From" = "Κοινοποίηση από";
+
+"Share From %@" = "Κοινοποίηση από %@";
+
+"Share From Beginning" = "Κοινοποίηση από την αρχή";
+
+"Share Live" = "Κοινοποίηση ζωντανής μετάδοσης";
+
+"Share Twitter Tooltip (explaining that the feature is disabled while guests are enabled)" = "Ανενεργό για εκπομπές με επισκέπτες";
+
+"Share precise location (accessibility label)" = "Κοινοποίηση ακριβούς τοποθεσίας";
+
+"Share request sent. (chat message)" = "Το αίτημα κοινοποίησης απεστάλη";
+
+"Share screenshot and broadcast" = "Κοινοποίηση στιγμιότυπου οθόνης και εκπομπής";
+
+"Share this broadcast so your followers don't miss it." = "Κοινοποιήστε αυτήν την εκπομπή για να μην τη χάσουν οι ακόλουθοί σας.";
+
+"Share via..." = "Κοινοποίηση μέσω...";
+
+"Show Stats (cell)" = "Εμφάνιση στατιστικών";
+
+"Skip" = "Παράβλεψη";
+
+"Sorry, that action could not be completed because you have been blocked." = "Συγγνώμη, αυτή η ενέργεια δεν μπόρεσε να ολοκληρωθεί επειδή έχετε αποκλειστεί.";
+
+"Sorry, that action could not be completed because you have reached the block limit." = "Συγγνώμη, αυτή η ενέργεια δεν μπόρεσε να ολοκληρωθεί επειδή φτάσατε στο όριο των αποκλεισμάτων.";
+
+"Sorry, that action could not be completed because you have reached the follow limit." = "Συγγνώμη, αυτή η ενέργεια δεν μπόρεσε να ολοκληρωθεί επειδή φτάσατε στο όριο των ακολουθήσεων.";
+
+"Sorry, the broadcast is too full..." = "Συγγνώμη, αυτή η εκπομπή είναι πολύ γεμάτη...";
+
+"Sorry, this broadcast is unavailable" = "Συγγνώμη, αυτή η μετάδοση δεν είναι διαθέσιμη";
+
+"Sorry, we couldn't load the broadcast share URL. Please try again." = "Συγγνώμη, δεν μπορέσαμε να φορτώσουμε το URL κοινοποίησης της εκπομπής. Προσπαθήστε ξανά.";
+
+"Sorry, we couldn't save your changes. Please try again." = "Δυστυχώς, δεν ήταν δυνατή η αποθήκευση των αλλαγών σας. Προσπαθήστε ξανά.";
+
+"Sorry, we encountered an error blocking some users. Please try again." = "Δυστυχώς, προέκυψε σφάλμα κατά τον αποκλεισμό ορισμένων χρηστών. Προσπαθήστε ξανά.";
+
+"Sorry, we encountered an error blocking that user. Please try again." = "Συγγνώμη, αντιμετωπίσαμε ένα σφάλμα κατά τον αποκλεισμό αυτού του χρήστη. Προσπαθήστε ξανά.";
+
+"Sorry, we encountered an error loading user data. Please try again." = "Δυστυχώς, προέκυψε ένα σφάλμα κατά τη φόρτωση των δεδομένων χρήστη. Προσπαθήστε ξανά.";
+
+"Sorry, we encountered an error loading your broadcasts. Please try again." = "Λυπούμαστε, προέκυψε ένα σφάλμα κατά τη φόρτωση των εκπομπών σας. Προσπαθήστε ξανά.";
+
+"Sorry, we encountered an error reporting this broadcast. Please try again." = "Λυπούμαστε, προέκυψε ένα σφάλμα κατά την αναφορά αυτής της εκπομπής. Προσπαθήστε ξανά.";
+
+"Sorry, we encountered an error reporting this guest. Please try again." = "Δυστυχώς, παρουσιάστηκε σφάλμα κατά την υποβολή αναφοράς για αυτόν τον επισκέπτη. Προσπαθήστε ξανά.";
+
+"Sorry, we've encountered a loading error. Please try again." = "Λυπούμαστε, προέκυψε ένα σφάλμα φόρτωσης. Προσπαθήστε ξανά.";
+
+"Sorry, you've done that too many times. Try again in a few minutes." = "Λυπούμαστε αλλά κάνατε το ίδιο πολλές φορές. Δοκιμάστε ξανά σε λίγα λεπτά.";
+
+"Sorry, you've encountered a loading error (421 - selector). Please email help@pscp.tv" = "Δυστυχώς, προέκυψε ένα σφάλμα φόρτωσης (421 - επιλογέας). Στείλτε ένα email στη διεύθυνση help@pscp.tv";
+
+"Sorry, you've encountered a loading error (421). Please email help@pscp.tv" = "Δυστυχώς, προέκυψε ένα σφάλμα φόρτωσης (421). Στείλτε ένα email στη διεύθυνση help@pscp.tv";
+
+"Sorry, your internet connection is not strong enough to upload a new broadcast thumbnail. Please try again later." = "Λυπούμαστε, αλλά η σύνδεσή σας στο internet δεν είναι αρκετά ισχυρή για τη μεταφόρτωση μιας μικρογραφίας εκπομπής. Δοκιμάστε ξανά αργότερα.";
+
+"Spam" = "Ανεπιθύμητο";
+
+"Spam in Chat" = "Ανεπιθύμητο περιεχόμενο στη συνομιλία";
+
+"Star & Cash Outs History (Stars Profile)" = "Ιστορικό αστεριών και εξαργύρωσης";
+
+"Star History (Stars Profile)" = "Ιστορικό αστεριών";
+
+"Star balance adjustment. Contact superhearts@pscp.tv if you have any questions. (History)" = "Προσαρμογή υπολοίπου αστεριών. Αν έχετε ερωτήσεις, επικοινωνήστε με τη διεύθυνση superhearts@pscp.tv.";
+
+"Stars (profile view title)" = "Αστέρια";
+
+"Stars (profile)" = "Αστέρια";
+
+"Start Point" = "Σημείο έναρξης";
+
+"Start Sketching (action sheet)" = "Εναρξη σχεδίασης";
+
+"Stop Broadcast" = "Διακοπή εκπομπής";
+
+"Submit" = "Υποβολή";
+
+"Success! You've unmuted @%@" = "Καταργήσατε επιτυχώς τη σίγαση του χρήστη @%@";
+
+"Successfully set Amplify Program (title)" = "Επιτυχής ρύθμιση προγράμματος Amplify";
+
+"Suggested user is watching singlular" = "%@•|• παρακολουθεί αυτή τη στιγμή•|•";
+
+"Suggested users are watching plural" = "%ld φίλοι•|• παρακολουθούν αυτή τη στιγμή•|•";
+
+"Super Broadcaster (Stars Profile)" = "Αγαπημένος παρουσιαστής";
+
+"Super Broadcaster Program" = "Πρόγραμμα αγαπημένου παρουσιαστή";
+
+"Super Heart Terms" = "Όροι για τις Καρδιές επιβράβευσης";
+
+"Super Hearts" = "Καρδιές επιβράβευσης";
+
+"Super Hearts OFF" = "Οι καρδιές επιβράβευσης είναι ΑΠΕΝΕΡΓΟΠΟΙΗΜΕΝΕΣ";
+
+"Super Hearts ON" = "Οι Καρδιές επιβράβευσης είναι ΕΝΕΡΓΟΠΟΙΗΜΕΝΕΣ";
+
+"Swipe down to <bold>Stop</bold>" = "Σύρετε κάτω για •|•Διακοπή•|•";
+
+"Tap anyhwhere to <bold>Exit Theater Mode</bold>" = "Πατήστε σε οποιοδήποτε σημείο για •|•έξοδο από τη Λειτουργία κινηματογράφου•|•";
+
+"Tap this icon to join Broadcaster's broadcast as a guest. (Viewer Prompt to Call-In)" = "Πατήστε αυτό το εικονίδιο για να συμμετάσχετε στην εκπομπή του παρουσιαστή •|•%@•|• ως επισκέπτης.";
+
+"Thank You (Report Broadcast Confirmation Modal)" = "Ευχαριστούμε";
+
+"Thank you for your report" = "Ευχαριστούμε για την αναφορά σας.";
+
+"Thank you for your report (Chat Prompt)" = "Ευχαριστούμε για την αναφορά σας.";
+
+"Thank you for your report." = "Ευχαριστούμε για την αναφορά σας.";
+
+"Thank you. You won't see any more messages from •|•@%@•|• in this broadcast." = "Ευχαριστούμε. Δεν θα βλέπετε πλέον μηνύματα από τον χρήστη •|•@%@•|• σε αυτήν την εκπομπή.";
+
+"Thanks %@!" = "Ευχαριστώ %@!";
+
+"Thanks for your feedback!" = "Ευχαριστούμε για τα σχόλιά σας!";
+
+"The broadcaster blocked you in response to this message." = "Ο παρουσιαστής σάς απέκλεισε ως απάντηση σε αυτό το μήνυμα.";
+
+"The broadcaster has limited chat." = "Ο παρουσιαστής έχει περιορίσει τη συνομιλία.";
+
+"The broadcaster has the ability to remove people from their broadcasts." = "Ο παρουσιαστής έχει τη δυνατότητα να αφαιρέσει άτομα από τις εκπομπές του.";
+
+"The coin store has closed. If you have any remaining coins, use them to send Super Hearts to your favorite broadcasters before •|•%@•|•." = "Το κατάστημα νομισμάτων έχει κλείσει. Αν σας έχουν απομείνει νομίσματα, χρησιμοποιήστε τα για να στείλετε Καρδιές επιβράβευσης στους αγαπημένους σας παρουσιαστές πριν από τις •|•%@•|•.";
+
+"Theater Mode (action sheet)" = "Λειτουργία κινηματογράφου";
+
+"Their name, bio, or profile image violates the Community Guidelines" = "Το όνομα, το βιογραφικό ή η εικόνα προφίλ παραβιάζει τις Κατευθυντήριες γραμμές της Κοινότητας.";
+
+"There are a lot of people watching this right now! To limit messages for the broadcaster, only early joiners can chat." = "Υπάρχει πολύς κόσμος που παρακολουθεί αυτήν τη στιγμή! Για να περιοριστούν τα μηνύματα του παρουσιαστή, μόνο όσοι συνδέθηκαν νωρίς μπορούν να συνομιλούν.";
+
+"There was an error adding @username as a guest. Please try again." = "Παρουσιάστηκε σφάλμα κατά την προσθήκη του θεατή @%@ ως επισκέπτη. Προσπαθήστε ξανά.";
+
+"There was an error adding you as a guest. We've notified Broadcaster, and will alert you if we're able to try again." = "Παρουσιάστηκε σφάλμα κατά την προσθήκη σας ως επισκέπτη. Ενημερώσαμε τον παρουσιαστή %@ και θα σας ειδοποιήσουμε εάν μπορέσουμε να προσπαθήσουμε ξανά.";
+
+"There was an error allowing guests. Please try again." = "Παρουσιάστηκε σφάλμα κατά την ενεργοποίηση των επισκεπτών. Προσπαθήστε ξανά.";
+
+"There was an error cancelling your request. Please try again." = "Παρουσιάστηκε σφάλμα κατά την ακύρωση του αιτήματός σας. Προσπαθήστε ξανά.";
+
+"There was an error cancelling. Please try again." = "Παρουσιάστηκε σφάλμα κατά την ακύρωση. Προσπαθήστε ξανά.";
+
+"There was an error disallowing guests. Please try again." = "Παρουσιάστηκε κάποιο σφάλμα κατά την απαγόρευση επισκεπτών. Προσπαθήστε ξανά.";
+
+"There was an error inviting guests. Please try again." = "Παρουσιάστηκε σφάλμα κατά την πρόσκληση επισκεπτών. Προσπαθήστε ξανά.";
+
+"There was an error muting or un-muting @username. Please try again." = "Παρουσιάστηκε σφάλμα κατά τη σίγαση ή την άρση σίγασης του χρήστη @%@. Προσπαθήστε ξανά.";
+
+"There was an error muting or un-muting you. Please try again." = "Παρουσιάστηκε σφάλμα κατά τη σίγαση ή την άρση σίγασής σας. Προσπαθήστε ξανά.";
+
+"There was an error removing your guest @username. Please try again." = "Παρουσιάστηκε σφάλμα κατά την αφαίρεση του επισκέπτη σας @%@. Προσπαθήστε ξανά.";
+
+"There was an error sending your request to join as a guest. Please try again." = "Παρουσιάστηκε σφάλμα κατά την αποστολή του αιτήματός σας για συμμετοχή ως επισκέπτης. Προσπαθήστε ξανά.";
+
+"There was an error updating the settings (conversation controls and mentioned users). Please try again." = "Παρουσιάστηκε κάποιο σφάλμα κατά την ενημέρωση των ρυθμίσεων (στοιχεία ελέγχου συζητήσεων και επισημασμένοι χρήστες). Δοκιμάστε ξανά.";
+
+"There was an error updating the settings (locked/unlocked). Please try again." = "Παρουσιάστηκε ένα σφάλμα κατά την ενημέρωση των ρυθμίσεων (κλείδωμα/ξεκλείδωμα). Δοκιμάστε ξανά.";
+
+"This broadcast is no longer available." = "Αυτή η εκπομπή δεν είναι πλέον διαθέσιμη.";
+
+"This broadcast isn’t available (Copyright Violation)" = "Αυτή η εκπομπή δεν είναι διαθέσιμη";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}." = "Αυτή η εκπομπή αντιστοιχίστηκε με το έργο “%1$@,” ένα έργο με πνευματικά δικαιώματα του χρήστη %2$@. •|•Μάθετε περισσότερα•|•";
+
+"This broadcast matches “{Title},” a copyrighted work by {Full Name}. Do you have all rights necessary to broadcast this video on Twitter?" = "Αυτή η εκπομπή αντιστοιχίζεται με το έργο “%1$@,” ένα έργο με πνευματικά δικαιώματα του χρήστη %2$@. Έχετε όλα τα απαραίτητα δικαιώματα για την μετάδοση αυτού του βίντεο στο Twitter;";
+
+"This broadcast was shot with a 360 camera. Periscope no longer supports playing 360 video." = "Αυτή η εκπομπή εγγράφηκε με κάμερα 360. Το Periscope δεν υποστηρίζει πλέον την αναπαραγωγή βίντεο 360.";
+
+"This broadcast’s title can’t be edited. Learn more (Copyright Violation)" = "Δεν μπορείτε να επεξεργαστείτε αυτόν το τίτλο εκπομπής. •|•Μάθετε περισσότερα•|•";
+
+"This is optional" = "Αυτό είναι προαιρετικό";
+
+"This user doesn't have any followers yet" = "Αυτός ο χρήστης δεν έχει κανέναν ακόλουθο ακόμη";
+
+"This user has not broadcasted yet" = "Αυτός ο χρήστης δεν έχει καμία εκπομπή ακόμη";
+
+"This user isn't following anyone yet" = "Αυτός ο χρήστης δεν ακολουθεί κανέναν ακόμη";
+
+"Thousand Decimal Abbreviation" = "%.1f χιλ";
+
+"Thousand Integer Abbreviation" = "%d χιλ";
+
+"Thumbnail" = "Μικρογραφία";
+
+"Time Watched (CELL)" = "Χρόνος προβολής";
+
+"Title (accessibility label)" = "Τίτλος";
+
+"To chat, please turn on \"Connect to Periscope\" in your settings. If your account has \"Protect my Tweets\" on, you'll need to download the Periscope app and create a Periscope account or switch to a Twitter account that has \"Protect my Tweets\" off." = "Για συνομιλία, ενεργοποιήστε την επιλογή \"Συνδεθείτε στο Periscope\" στις ρυθμίσεις. Αν στον λογαριασμό σας είναι ενεργοποιημένη η επιλογή \"Προστασία των Tweet μου\", χρειάζεται να κάνετε λήψη της εφαρμογής Periscope και να δημιουργήσετε έναν λογαριασμό Periscope ή να αλλάξετε σε έναν λογαριασμό Twitter που έχει την επιλογή \"Προστασία των Tweet μου\" απενεργοποιημένη.";
+
+"To save your video, Periscope needs permission to access your Photos. To enable this feature for a future broadcast, tap Settings, then toggle on the switch for Photos." = "Για να αποθηκεύσει το βίντεο, το Periscope χρειάζεται δικαιώματα πρόσβασης στις φωτογραφίες σας. Για να ενεργοποιήσετε αυτό το χαρακτηριστικό για μια μελλοντική εκπομπή, πατήστε Ρυθμίσεις και έπειτα ενεργοποιήστε το διακόπτη για τις Φωτογραφίες.";
+
+"To send feedback via email, you'll first need to setup email on your device. First, open the Settings app. Then go to Mail, Contacts, Calendars and select Add Account." = "Για να αποστείλετε σχόλια μέσω email, χρειάζεται πρώτα να ρυθμίσετε το ηλεκτρονικό ταχυδρομείο στη συσκευή σας. Ανοίξτε πρώτα την εφαρμογή ρυθμίσεων. Μεταβείτε στο Ταχυδρομείο, Επαφές, Ημερολόγια και επιλέξτε Προσθήκη λογαριασμού.";
+
+"To share your location, Periscope needs permission to access it on your device. Click the Settings button, then go to Location and select the While Using the App option." = "Για να κοινοποιείτε την τοποθεσία σας, το Periscope χρειάζεται δικαιώματα προσπέλασής της στη συσκευή σας. Κάντε κλικ στο κουμπί ρυθμίσεων, μεταβείτε στην Τοποθεσία και επιλέξτε την επιλογή Κατά τη διάρκεια χρήσης της εφαρμογής.";
+
+"Top Contributor" = "Κορυφαίος συνεργάτης";
+
+"Total watch time per minute tooltip" = "Για κάθε λεπτό αυτής της εκπομπής, οι θεατές είχαν ένα συνδυαστικό σύνολο %@ παρακολούθησης.";
+
+"Total watch time per minute tooltip (broadcaster)" = "Για κάθε λεπτό αυτής της εκπομπής, οι θεατές είχαν συνδυαστικό σύνολο %@ παρακολούθησης. Αυτό το στατιστικό στοιχείο εξισορροπεί τον χρόνο προβολής για όλες τις εκπομπές διαφορετικής διάρκειας.";
+
+"Trying to reconnect" = "Απόπειρα επανασύνδεσης";
+
+"Twitter Post OFF" = "Ανάρτηση Twitter ΑΝΕΝΕΡΓΗ";
+
+"Twitter Post ON" = "Ανάρτηση Twitter ΕΝΕΡΓΗ";
+
+"Unable to load broadcast." = "Δεν είναι δυνατή η φόρτωση της εκπομπής.";
+
+"Unblock User" = "Άρση αποκλεισμού χρήστη";
+
+"Unfollow User" = "Αρση ακολούθησης χρήστη";
+
+"Unhide Broadcast (menu button)" = "Εμφάνιση εκπομπής";
+
+"Unmute" = "Άρση σίγασης";
+
+"Unmute User" = "Άρση σίγασης χρήστη";
+
+"Unmute User Notifications" = "Αρση σίγασης ειδοποιήσεων χρήστη";
+
+"Untitled" = "Χωρίς τίτλο";
+
+"User has not provided a profile description." = "Ο χρήστης δεν έχει καταχωρίσει περιγραφή προφίλ.";
+
+"Very bad" = "Πολύ κακό";
+
+"Very good" = "Πολύ καλό";
+
+"Video Issues" = "Προβλήματα βίντεο";
+
+"Video Quality" = "Ποιότητα βίντεο";
+
+"Video will resume if signal improves" = "Το βίντεο θα συνεχιστεί όταν βελτιωθεί το σήμα";
+
+"View Broadcast Actions (accessibility label)" = "Προβολή ενεργειών εκπομπής";
+
+"View Participants (accessibility label)" = "Προβολή συμμετεχόντων";
+
+"View Profile" = "Προβολή προφίλ";
+
+"View Stats" = "Προβολή στατιστικών";
+
+"Viewers can give you Super Hearts.\n<link>Learn more.</link>" = "Οι θεατές μπορούν να σας απονέμουν Καρδιές επιβράβευσης.\n•|•Μάθετε περισσότερα.•|•";
+
+"Viewers cannot give you Super Hearts.\n<link>Learn more.</link>" = "Οι θεατές δεν μπορούν να σας απονείμουν Καρδιές επιβράβευσης.\n•|•Μάθετε περισσότερα.•|•";
+
+"Violence (Report Option)" = "Βία";
+
+"Waiting for other responses..." = "Σε αναμονή για άλλες απαντήσεις...";
+
+"Waiting for you to <bold>login</bold>." = "Σε αναμονή για τη •|•σύνδεσή•|• σας.";
+
+"Watch %1$@'s broadcast: %2$@" = "Παρακολουθήστε την εκπομπή του χρήστη %1$@: %2$@";
+
+"Watch %@'s broadcast." = "Παρακολουθήστε την εκπομπή του χρήστη %@.";
+
+"Watch LIVE" = "Παρακολουθήστε •|•ΖΩΝΤΑΝΑ•|•";
+
+"Watch Live" = "Παρακολούθηση ζωντανά";
+
+"Watch Replay" = "Παρακολούθηση επανάληψης";
+
+"Watch Stream (User Activity)" = "Παρακολούθηση μετάδοσης";
+
+"Watch on #Periscope" = "Παρακολουθήστε στο #Periscope";
+
+"Watch on #Periscope: %@" = "Παρακολουθήστε στο #Periscope: %@";
+
+"Watch what happened at %1$@ in %2$@'s broadcast." = "Δείτε τι συνέβη στο σημείο %1$@ της εκπομπής του χρήστη %2$@.";
+
+"Watch what happened at %1$@ in %2$@'s broadcast: %3$@" = "Δείτε τι συνέβη στο σημείο %1$@ της εκπομπής του χρήστη %2$@: %3$@";
+
+"We encountered an error deleting your broadcast. Please try again." = "Παρουσιάστηκε ένα σφάλμα κατά τη διαγραφή της εκπομπής σας. Προσπαθήστε ξανά.";
+
+"We encountered an error updating your gift settings. Please try again." = "Προέκυψε ένα σφάλμα κατά την ενημέρωση των ρυθμίσεων δώρων. Προσπαθήστε ξανά.";
+
+"We have received your report. Thank you for helping keep the community safe! (Report Broadcast Confirmation Modal)" = "Λάβαμε την αναφορά σας. Σας ευχαριστούμε που βοηθάτε να διατηρηθεί η κοινότητα ασφαλής!";
+
+"We're sorry, there was an error starting your broadcast. Please try starting it again." = "Λυπούμαστε, προέκυψε ένα σφάλμα κατά την έναρξη της εκπομπής σας. Προσπαθήστε να την ξεκινήσετε ξανά.";
+
+"Welcome <bold>%@</bold>" = "Καλώς ορίσατε •|•%@•|•";
+
+"We’ve let your followers know that you joined as a guest (Chat Prompt)" = "Ενημερώσαμε τους ακόλουθούς σας ότι συμμετέχετε ως επισκέπτης";
+
+"What are you seeing now?" = "Τι βλέπετε τώρα;";
+
+"What do you want to talk about?" = "Ποιο θα είναι το θέμα της συζήτησης;";
+
+"What went well?" = "Τι πήγε καλά;";
+
+"When someone follows them, they'll be listed here." = "Όταν κάποιος τον ακολουθήσει, θα εμφανιστεί εδώ.";
+
+"When someone follows you, they'll be listed here." = "Όταν κάποιος σας ακολουθήσει, θα εμφανιστεί εδώ.";
+
+"When they do, it'll show up here." = "Όταν δημιουργήσει, θα εμφανιστεί εδώ.";
+
+"When they do, they'll be listed here." = "Όταν το κάνει, θα εμφανιστεί εδώ.";
+
+"When you do, it'll show up here" = "Όταν δημιουργήσετε, θα εμφανιστεί εδώ";
+
+"When you do, they'll be listed here." = "Όταν ακολουθήσετε κάποιον, θα εμφανιστεί εδώ.";
+
+"Yes (Copyright Violation)" = "Ναι";
+
+"You already have a linked Twitter account. Please use this in the future to broadcast from Twitter" = "Έχετε ήδη έναν συνδεδεμένο λογαριασμό Twitter. Χρησιμοποιήστε τον στο μέλλον για να μεταδώσετε από το Twitter";
+
+"You are now" = "Είστε τώρα";
+
+"You aren't following anyone yet" = "Δεν ακολουθείτε κανέναν ακόμη";
+
+"You aren't following anyone." = "Δεν ακολουθείτε κανέναν.";
+
+"You can block a user whose broadcasts you do not want to see. You will continue to see users you’ve blocked when they are guests. (Offensive Report Modal)" = "Μπορείτε να αποκλείσετε έναν χρήστη του οποίου δεν θέλετε να βλέπετε πλέον τις εκπομπές. Θα συνεχίσετε να βλέπετε τους χρήστες που έχετε αποκλείσει όταν είναι επισκέπτες.";
+
+"You can block a user whose broadcasts you no longer want to see. (Offensive Report Modal)" = "Μπορείτε να αποκλείσετε κάποιον χρήστη, του οποίου δεν θέλετε να βλέπετε πλέον τις εκπομπές.";
+
+"You can give •|•%@•|• of these" = "Μπορείτε να απονείμετε •|•%@•|• από αυτές";
+
+"You can't broadcast right now (Copyright Violation)" = "Δεν μπορείτε να μεταδώσετε αυτήν τη στιγμή";
+
+"You can't watch a broadcast while you're still broadcasting." = "Δεν μπορείτε να δείτε μια εκπομπή ενώ μεταδίδετε.";
+
+"You can’t watch this because it included a copyrighted work by {Full Name}. Learn more (Copyright Violation)" = "Δεν μπορείτε να παρακολουθήσετε αυτήν την εκπομπή καθώς περιείχε έργο με πνευματικά δικαιώματα του %@. •|•Μάθετε περισσότερα•|•";
+
+"You collect stars when fans give you •|•Super Hearts•|•. Turn your stars into cash by becoming a Super Broadcaster." = "Συγκεντρώνετε αστέρια όταν οι θαυμαστές σάς απονέμουν •|•Καρδιές επιβράβευσης•|•. Μετατρέψτε τα αστέρια σας σε χρήματα συμμετέχοντας στο Πρόγραμμα αγαπημένου παρουσιαστή.";
+
+"You didn't vote... <link>Learn about Moderation</link>" = "Δεν ψηφίσατε... •|•Μάθετε σχετικά με τη Διαχείριση•|•";
+
+"You don't have any followers yet" = "Δεν έχετε κανέναν ακόλουθο ακόμη";
+
+"You earn stars from Super Hearts" = "Κερδίζετε αστέρια από τις Καρδιές επιβράβευσης";
+
+"You haven't broadcasted yet" = "Δεν έχετε καμία εκπομπή ακόμη";
+
+"You were <bold>blocked</bold> by the broadcaster" = "Ο παρουσιαστής σάς •|•απέκλεισε•|•";
+
+"You will lose any unsaved changes. Are you sure you want to leave this view?" = "Θα χάσετε όσες αλλαγές δεν έχουν αποθηκευτεί. Σίγουρα θέλετε να εγκαταλείψετε αυτήν την προβολή;";
+
+"You will lose the stars you received" = "Τα αστέρια που λάβατε θα χαθούν";
+
+"You're Waiting to Join (Guest Calling Menu)" = "Σε αναμονή για συμμετοχή";
+
+"Your account has been disabled due to a copyright takedown request. Please contact help@pscp.tv" = "Ο λογαριασμός σας απενεργοποιήθηκε εξαιτίας ενός αιτήματος απόσυρσης λόγω πνευματικών δικαιωμάτων. Επικοινωνήστε με τη διεύθυνση help@pscp.tv";
+
+"Your account has been disabled. Please contact help@pscp.tv" = "Ο λογαριασμός σας απενεργοποιήθηκε. Επικοινωνήστε με τη διεύθυνση help@pscp.tv";
+
+"Your broadcast has been disabled (Copyright Violation)" = "Η εκπομπή σας απενεργοποιήθηκε.";
+
+"Your broadcast matches a copyrighted work (Copyright Violation)" = "Η εκπομπή σας αντιστοιχίστηκε σε ένα έργο με πνευματικά δικαιώματα";
+
+"Your broadcast's thumbnail has been updated to the current screen." = "Η μικρογραφία της εκπομπής σας ενημερώθηκε με την τρέχουσα οθόνη.";
+
+"Your dispute claim was submitted (Copyright Violation)" = "Η αμφισβήτηση της αξίωσης υποβλήθηκε";
+
+"Your feedback is important as we build a better broadcasting experience. You can opt out of future surveys anytime by visiting your •|•Settings•|•." = "Τα σχόλιά σας είναι σημαντικά για τη βελτίωση της εμπειρίας εκπομπών. Μπορείτε ανά πάσα στιγμή να εξαιρεθείτε από μελλοντικές έρευνες μεταβαίνοντας στις •|•Ρυθμίσεις•|• της εφαρμογής.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for all broadcasts." = "Έγινε απόκρυψη του μηνύματός σας •|•\"%@\"•|• για ΚΑΚΗ ΧΡΗΣΗ. Ο σχολιασμός είναι ανενεργός για όλες τις εκπομπές.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is disabled for this broadcast." = "Έγινε απόκρυψη του μηνύματός σας •|•\"%@\"•|• για ΚΑΚΗ ΧΡΗΣΗ. Ο σχολιασμός είναι ανενεργός για αυτήν την εκπομπή.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for all broadcasts." = "Έγινε απόκρυψη του μηνύματός σας •|•\"%@\"•|• για ΚΑΚΗ ΧΡΗΣΗ. Ο σχολιασμός είναι προς το παρόν περιορισμένος για όλες τις εκπομπές.";
+
+"Your message •|•\"%@\"•|• was hidden for ABUSE. Commenting is temporarily limited for this broadcast." = "Έγινε απόκρυψη του μηνύματός σας •|•\"%@\"•|• για ΚΑΚΗ ΧΡΗΣΗ. Ο σχολιασμός είναι προς το παρόν ανενεργός για αυτήν την εκπομπή.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for all broadcasts." = "Έγινε απόκρυψη του μηνύματός σας •|•\"%@\"•|• για ΑΝΕΠΙΘΥΜΗΤΟ. Ο σχολιασμός είναι ανενεργός για όλες τις εκπομπές.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is disabled for this broadcast." = "Έγινε απόκρυψη του μηνύματός σας •|•\"%@\"•|• για ΑΝΕΠΙΘΥΜΗΤΟ. Ο σχολιασμός είναι ανενεργός για αυτήν την εκπομπή.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for all broadcasts." = "Έγινε απόκρυψη του μηνύματός σας •|•\"%@\"•|• για ΑΝΕΠΙΘΥΜΗΤΟ. Ο σχολιασμός είναι προς το παρόν ανενεργός για όλες τις εκπομπές.";
+
+"Your message •|•\"%@\"•|• was hidden for SPAM. Commenting is temporarily limited for this broadcast." = "Έγινε απόκρυψη του μηνύματός σας •|•\"%@\"•|• για ΑΝΕΠΙΘΥΜΗΤΟ. Ο σχολιασμός είναι προς το παρόν περιορισμένος για αυτήν την εκπομπή.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for all broadcasts." = "Έγινε απόκρυψη του μηνύματός σας •|•\"%@\"•|•. Ο σχολιασμός είναι ανενεργός για όλες τις εκπομπές.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is disabled for this broadcast." = "Έγινε απόκρυψη του μηνύματός σας •|•\"%@\"•|•. Ο σχολιασμός είναι ανενεργός για αυτήν την εκπομπή.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for all broadcasts." = "Έγινε απόκρυψη του μηνύματός σας •|•\"%@\"•|•. Ο σχολιασμός είναι προς το παρόν περιορισμένος για όλες τις εκπομπές.";
+
+"Your message •|•\"%@\"•|• was hidden. Commenting is temporarily limited for this broadcast." = "Έγινε απόκρυψη του μηνύματός σας •|•\"%@\"•|•. Ο σχολιασμός είναι προς το παρόν περιορισμένος για αυτήν την εκπομπή.";
+
+"Your settings are about to automatically delete this broadcast." = "Οι ρυθμίσεις σας πρόκειται να διαγράψουν αυτόματα αυτήν την εκπομπή.";
+
+"Your settings will automatically delete this broadcast in %@" = "Οι ρυθμίσεις σας θα διαγράψουν αυτόματα αυτήν την εκπομπή σε %@";
+
+"Your video will be available for replay after the event has ended. (Copyright Violation)" = "Το βίντεό σας θα είναι έτοιμο για επανάληψη αφού λήξει η εκδήλωση.";
+
+"Your viewers have been invited to join (Local Chat Prompt)" = "Οι θεατές σας έχουν προσκληθεί να συμμετάσχουν";
+
+"You’re enrolled in automatic monthly cash outs. (Stars Profile)" = "Έχετε εγγραφεί στην αυτόματη μηνιαία εξαργύρωση.";
+
+"You’ve blocked @username. Tap to report and share more details. (Should Report Guest User Chat Prompt)" = "Έχετε αποκλείσει τον χρήστη •|•@%@•|•. Πατήστε για να υποβάλετε αναφορά και να μας δώσετε περισσότερες λεπτομέρειες.";
+
+"[placeholder]" = "[σύμβολο κράτησης θέσης]";
+
+"beta-feedback@pscp.tv" = "beta-feedback@pscp.tv";
+
+"coin bonus" = "%i%% περισσότερα";
+
+"coin received (accessibility label)" = "νόμισμα έχει ληφθεί";
+
+"coins received (accessibility label)" = "νομίσματα έχουν ληφθεί";
+
+"contact@pscp.tv" = "contact@pscp.tv";
+
+"current audience" = "τρέχον κοινό";
+
+"failed" = "απέτυχε";
+
+"following (accessibility hint)" = "Πατήστε δύο φορές για άρση ακολούθησης";
+
+"following (accessibility label)" = "Ακολουθείτε";
+
+"for fine control" = "για καλό έλεγχο";
+
+"heart received (accessibility label)" = "καρδιές που ελήφθησαν";
+
+"hearts received (accessibility label)" = "καρδιές που ελήφθησαν";
+
+"https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119" = "https://help.pscp.tv/customer/portal/articles/2820488--what-are-super-hearts-and-how-do-i-give-them-?b_id=16119";
+
+"https://pscp.tv/i/super/terms" = "https://pscp.tv/i/super/terms";
+
+"iPad doesn’t support broadcasting from Split View." = "Το iPad δεν υποστηρίζει τη μετάδοση εκπομπής από τη λειτουργία Split View.";
+
+"invited" = "προσκάλεσε";
+
+"invited followers" = "προσκεκλημένοι ακόλουθοι";
+
+"it's their first day on Periscope" = "είναι η πρώτη μέρα του στο Periscope";
+
+"not following (accessibility hint)" = "Πατήστε δυο φορές για να ακολουθήσετε.";
+
+"not following (accessibility label)" = "Δεν ακολουθείτε";
+
+"people" = "άτομα";
+
+"per Broadcast Minute (CELL)" = "ανά λεπτό εκπομπής";
+
+"per Viewer (CELL)" = "ανά θεατή";
+
+"person" = "άτομο";
+
+"poor" = "κακή";
+
+"posting publicly on Periscope" = "δημόσια δημοσίευση στο Periscope";
+
+"posting publicly on Twitter" = "δημόσια δημοσίευση στο Twitter";
+
+"selected Amplify Program" = "επιλεγμένο πρόγραμμα Amplify";
+
+"star received (accessibility label)" = "αστέρι έχει ληφθεί";
+
+"stars received (accessibility label)" = "αστέρια έχουν ληφθεί";
+
+"tap to change Amplify Program" = "πατήστε για αλλαγή του προγράμματος Amplify";
+
+"tap to change Amplify program" = "πατήστε για αλλαγή του προγράμματος Amplify";
+
+"tap to change audience" = "πατήστε για αλλαγή κοινού";
+
+"to seek" = "για αναζήτηση";
+
+"you hung up (Guest Caller Hung Up Chat Message Event)" = "τερματίσατε την κλήση";
+
+"you were added (New Guest Caller Chat Message Event)" = "προστεθήκατε";
+
+"you were removed (Guest Caller Was Removed Chat Message Event)" = "αφαιρεθήκατε";
+
+"•|•%1$@•|• updated their broadcast to start at •|•%2$@•|•." = "Ο παρουσιαστής •|•%1$@•|• άλλαξε την ώρα έναρξης της εκπομπής σε •|•%2$@•|•.";
+
+"•|•%@•|• are guests (Broadcast Guests Social Proof)" = "Οι χρήστες •|•%@•|• είναι επισκέπτες";
+
+"•|•%@•|• invited you (Broadcast Guest Invitation Social Proof)" = "Σας προσκάλεσε ο χρήστης •|•%@•|•";
+
+"•|•%@•|• is a guest (Broadcast Guest Social Proof)" = "Ο χρήστης •|•%@•|• είναι επισκέπτης";
+
+"•|•%@•|• shared (Broadcast Share Social Proof)" = "Ο χρήστης •|•%@•|• κοινοποίησε";
+
+"•|•%@•|• was a guest (Broadcast Guest Social Proof)" = "Ο χρήστης •|•%@•|• ήταν επισκέπτης";
+
+"•|•%@•|• were guests (Broadcast Guests Social Proof)" = "Οι χρήστες •|•%@•|• ήταν επισκέπτες";
+
+"•|•%@•|•\nBroadcasts" = "•|•%@•|•\nΕκπομπές";
+
+"•|•%@•|•\nFollowers" = "•|•%@•|•\nΑκόλουθοι";
+
+"•|•%@•|•\nFollowing" = "•|•%@•|•\nΑκολουθεί";
+
+"•|•@%1$@•|• was muted by •|•%2$@•|•" = "Ο χρήστης •|•@%1$@•|• τέθηκε σε σίγαση από τον διαχειριστή •|•%2$@•|•";
+
+"•|•@%1$@•|• was unmuted by •|•%2$@•|•" = "Η σίγαση του χρήστη •|•@%1$@•|• καταργήθηκε από τον διαχειριστή •|•%2$@•|•";
+
+"•|•@%@•|• Retweeted on" = "Ο χρήστης •|•@%@•|• έκανε Retweet στο";
+
+"•|•@%@•|• shared on" = "Ο χρήστης •|•@%@•|• κοινοποίησε στο";
+
+"•|•Muted•|• by %@" = "•|•Σε σίγαση•|• από τον διαχειριστή %@";
+
+"•|•Not enough coins.•|• Get more coins to keep giving Super Hearts." = "•|•Δεν έχετε αρκετά νομίσματα.•|• Αποκτήστε περισσότερα νομίσματα, για να συνεχίσετε να απονέμετε Καρδιές επιβράβευσης.";
+
+"•|•Press & Hold•|• the video to skip ahead" = "•|•Κρατήστε πατημένο •|• το βίντεο για να γίνει παράβλεψη";
+
+"•|•Press & Hold•|• to skip back or ahead." = "•|•Κρατήστε πατημένο •|• για μετάβαση προς τα πίσω ή προς τα εμπρός.";
+
+"•|•Super Hearts are ON.•|• Tap on the broadcast to give your first one." = "•|•Οι Καρδιές επιβράβευσης ΕΝΕΡΓΟΠΟΙΗΘΗΚΑΝ.•|• Πατήστε στην εκπομπή, για να απονείμετε την πρώτη σας καρδιά.";
+
+"•|•Support %@•|• by giving Super Hearts!" = "•|•Υποστηρίξτε τον χρήστη %@•|• με την απονομή Καρδιών επιβράβευσης!";
+
+"•|•Unmuted•|• by %@" = "•|•Έγινε άρση σίγασης•|• από τον διαχειριστή %@";
+
+"•|•You need more coins•|• to give Super Hearts" = "•|•Χρειάζεστε περισσότερα νομίσματα•|• για την απονομή Καρδιών επιβράβευσης";
+
+"•|•You've been muted•|• by one of %1$@'s moderators because of your comment •|•\"%2$@\"•|•. You can no longer chat in this broadcast." = "•|•Έχετε τεθεί σε σίγαση•|• από κάποιον διαχειριστή της εκπομπής %1$@ λόγω του σχολίου σας •|•\"%2$@\"•|•. Δεν μπορείτε πλέον να συμμετέχετε στη συζήτηση αυτής της εκπομπής.";
+
+"•|•You've been unmuted•|• by one of %@'s moderators. You can now chat in this broadcast." = "•|•Η σίγασή σας έχει καταργηθεί•|• από κάποιον διαχειριστή της εκπομπής %@. Πλέον μπορείτε να συμμετέχετε στη συζήτηση αυτής της εκπομπής.";
+
