@@ -10117,6 +10117,9 @@ eg. "Super Following Jack" */
 /* Title for inline media video end screen watch again button */
 "VIDEO_END_SCREEN_WATCH_AGAIN_LABEL" = "Watch again";
 
+/* Title for button to open casting and airplay menu*/
+"VIDEO_SETTINGS_AIRPLAY_AND_CASTING" = "Airplay, Casting & Bluetooth";
+
 /* Title for a screen that lets you toggle whether to auto-advance next video or not */
 "VIDEO_SETTINGS_AUTO_ADVANCE_TITLE" = "Auto-advance";
 
@@ -11724,6 +11727,9 @@ eg. "Super Following Jack" */
 
 /* Text for the action to present the Subscription upsell for Quick Promote title */
 "SUBSCRIPTION_UPSELL_QUICK_PROMOTE_UPSELL_ACTION_TEXT" = "Promote your posts";
+
+/* Text for the header of the Subscription upsell for Richtext feature name */
+"SUBSCRIPTION_UPSELL_RICHTEXT_FEATURE_NAME" = "Rich Text";
 
 /* Subscription tier name title for both Basic and Premium tiers*/
 "SUBSCRIPTION_UPSELL_X_PREMIUM_TIER_NAME" = "X Premium";
