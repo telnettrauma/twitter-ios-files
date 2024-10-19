@@ -741,6 +741,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* The list of blocked users is empty, i.e., the current user is not blocking any accounts */
 "BLOCK_LIST_EMPTY_STREAM_MESSAGE_SUBTEXT" = "When you block someone, they won’t be able to follow or message you, and you won’t see notifications from them. %@";
 
+/* The list of blocked users is empty, i.e., the current user is not blocking any accounts */
+"BLOCK_LIST_EMPTY_STREAM_MESSAGE_SUBTEXT_V2" = "They will be able to see your public posts, but will no longer be able to engage with them. They will also not be able to follow or message you, and you will not see notifications from them. %@";
+
 /* The imported list of blocked users is empty, so we are telling the user to visit a supporting page to learn more about how to import block lists. */
 "BLOCK_LIST_IMPORTED_EMPTY_STREAM_MESSAGE_FORMAT" = "When you block someone, they won’t be able to follow or message you, and you won’t see notifications from them. You can import a list of accounts you want to block on X. %@";
 
@@ -757,7 +760,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "BLOCK_MESSAGE_LIST_EMPTY_STREAM_MESSAGE_SUBTEXT" = "When you block someone from messaging, they won’t be able to message you. %@";
 
 /* Title of the list of users that are blocked from messaging the current account */
-"BLOCK_MESSAGE_LIST_TITLE" = "DM Blocking";
+"BLOCK_MESSAGE_LIST_TITLE" = "DM";
 
 /* The toast notification label when blocking messaging from a user */
 "BLOCK_MESSAGE_USER_TOAST_NOTIFICATION_LABEL_FORMAT" = "%@ has been blocked from messaging you";
@@ -3917,6 +3920,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Description for an alert view that asks if user wants to block the author of the reply that just got moderated. */
 "HIDE_REPLY_BLOCK_ALERT_DESCRIPTION_LABEL" = "They won’t be able to follow you, view your posts, or reply to this conversation, and you won’t see posts or notifications from them.";
 
+/* Description for an alert view that asks if user wants to block the author of the reply that just got moderated. */
+"HIDE_REPLY_BLOCK_ALERT_DESCRIPTION_LABEL_V2" = "They will be able to see your public posts, but will no longer be able to engage with them. They will also not be able to follow or message you, and you will not see notifications from them.";
+
 /* Title for an alert view that asks if user wants to block the author of the reply that just got moderated. Reply's author's display name at the end.*/
 "HIDE_REPLY_BLOCK_ALERT_TITLE_FORMAT" = "Also block %@?";
 
@@ -5434,6 +5440,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "NUDGES_AMR_BLOCK_SUBTITLE_LONG" = "Don’t let them contact you, see your posts, or follow you. Others can still see this reply.";
 
 /* Subtitle label shown beneath the “Block @handle” button, which appears in the caret menu accessible from any post written by someone other than the logged in user.*/
+"NUDGES_AMR_BLOCK_SUBTITLE_LONG_V2" = "Don’t let them contact you or follow you. Others can still see this reply.";
+
+/* Subtitle label shown beneath the “Block @handle” button, which appears in the caret menu accessible from any post written by someone other than the logged in user.*/
 "NUDGES_AMR_BLOCK_SUBTITLE_SHORT" = "Others can still see this reply.";
 
 /* Subtitle label shown beneath the “Hide reply” button, which appears in the caret menu accessible from a post written by someone in reply to the logged in user.*/
@@ -6562,8 +6571,14 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Warning for the blocker when going to block somebody for the block flow. @username is substituted into both strings */
 "PROFILE_BLOCKED_BY_VIEWER_ALERT_TITLE" = "%1$@ will no longer be able to follow or message you, and you will not see notifications from %2$@.";
 
+/* Warning for the blocker when going to block somebody for the block flow. @username is substituted into both strings */
+"PROFILE_BLOCKED_BY_VIEWER_ALERT_TITLE_V2" = "They will be able to see your public posts, but will no longer be able to engage with them. They will also not be able to follow or message you, and you will not see notifications from them.";
+
 /* Warning for the blocker when going to block a usernameless advertiser for the block flow. */
 "PROFILE_BLOCKED_BY_VIEWER_USERNAMELESS_ALERT_TITLE" = "%1$@ will no longer be able to follow or message you, and you will not see notifications from %2$@.";
+
+/* Warning for the blocker when going to block a usernameless advertiser for the block flow. */
+"PROFILE_BLOCKED_BY_VIEWER_USERNAMELESS_ALERT_TITLE_V2" = "They will be able to see your public posts, but will no longer be able to engage with them. They will also not be able to follow or message you, and you will not see notifications from them.";
 
 /* Warning for the blocker when going to block messages from somebody for the block message flow. @username is substituted into both strings */
 "PROFILE_BLOCKED_MESSAGE_BY_VIEWER_ALERT_TITLE" = "%@ will no longer be able to message you.";
@@ -7489,6 +7504,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Detail text for prompt confirming the removal of a user from the flagged or autoblocked account list */
 "SAFETY_MODE_REMOVE_ACCOUNT_PROMPT_DETAILS" = "They’ll be able to see your posts, follow you, and send you Direct Messages.";
 
+/* Detail text for prompt confirming the removal of a user from the flagged or autoblocked account list */
+"SAFETY_MODE_REMOVE_ACCOUNT_PROMPT_DETAILS_V2" = "They’ll be able to engage with your public posts, follow you, and send you Direct Messages.";
+
 /* Button label for confirming to remove user from autoblock */
 "SAFETY_MODE_REMOVE_ACTION_LABEL" = "Remove";
 
@@ -7921,9 +7939,6 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Title of the blocked accounts list in settings menu */
 "SETTINGS_BLOCKED_LIST_LABEL" = "Blocked accounts";
 
-/* Title of the DM blocked accounts list in settings menu */
-"SETTINGS_BLOCKED_MESSAGE_LIST_LABEL" = "Blocked accounts from messaging";
-
 /* Descriptive text that describes the change password option on the Settings Page */
 "SETTINGS_CHANGE_PASSWORD_ITEM_DETAIL" = "Change your password at any time.";
 
@@ -8124,6 +8139,12 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* Title text that describes the notifications filter section on the Settings Page */
 "SETTINGS_FILTERS_ITEM_TITLE" = "Filters";
+
+/* Details format for For You timeline recommendations setting. */
+"SETTINGS_FOR_YOU_RECOMMENDATIONS_DETAIL" = "When this setting is enabled, X may personalize your For You content based on your X activity. %@";
+
+/* Title for For You timeline recommendations setting. */
+"SETTINGS_FOR_YOU_RECOMMENDATIONS_TITLE" = "Show recommended content in the For you timeline";
 
 /* Description for Grok in the data sharing settings page */
 "SETTINGS_GROK_DATA_DETAILS" = "Allow your posts as well as your interactions, inputs, and results with Grok to be used for training and fine-tuning.";
@@ -10267,6 +10288,9 @@ eg. "Super Following Jack" */
 /* Message displayed in the confirmation pop-up when the Admin of an Audio Space wants to block someone. It will block (on X) and remove (kick out) the user from the Audio Space. %1$@ and %2$@ will be replaced by the name of the user, ex: "Martin". */
 "VOICE_ROOM_BLOCK_AND_REMOVE_MESSAGE" = "%1$@ will be removed from this Space, and will no longer be able to follow or message you. You will also not see notifications from %2$@.";
 
+/* Message displayed in the confirmation pop-up when the Admin of an Audio Space wants to block someone. It will block (on X) and remove (kick out) the user from the Audio Space. %1$@ and %2$@ will be replaced by the name of the user, ex: "Martin". */
+"VOICE_ROOM_BLOCK_AND_REMOVE_MESSAGE_V2" = "%@ will be removed from this Space. They will be able to see your public posts, but will no longer be able to engage with them. They will also not be able to follow or message you, and you will not see notifications from them.";
+
 /* Format of the fourth view that will be displayed on the Audio Spaces card, when more than 3 participants avatars are visible. The %@ will be replaced either by a short number (eg. "3") or a abbreviation, already localized (eg. "3K"). */
 "VOICE_ROOM_CARD_OVERFLOW_FORMAT" = "+%@";
 
@@ -12091,6 +12115,27 @@ eg. "Super Following Jack" */
 
 // Section: Frameworks/DMV2/Sources/DMV2Strings/en.lproj/Localizable.strings
 
+/* DM Inbox Empty start a conversation action */
+"DM_INBOX_EMPTY_ACTION_START_A_CONVERSATION" = "Write a message";
+
+/* DM Inbox Empty message */
+"DM_INBOX_EMPTY_MESSAGE" = "Drop a line, share posts and more with private conversations between you and others on X.";
+
+/* DM Inbox Empty title */
+"DM_INBOX_EMPTY_TITLE" = "Welcome to your inbox!";
+
+/* DM Inbox new message button accessibility label */
+"DM_INBOX_NEW_MESSAGE_ACCESSIBILITY_LABEL" = "Compose New Message";
+
+/* Status appearing underneath message when edited with timestamp */
+"DM_MESSAGE_STATUS_EDITED_AND_TIMESTAMP" = "Edited %@";
+
+/* Status appearing underneath message when edited */
+"DM_MESSAGE_STATUS_EDITED_ONLY" = "Edited";
+
+/* Suggestions list group cell subtitle when multiple users. The %@ is replaced by the number of participants. */
+"DM_MULTIPLE_PEOPLE_GROUP_SUBTITLE" = "%@ people";
+
 /* DM network error title */
 "DM_NETWORK_ERROR_TITLE" = "Something went wrong. Check your connection and try again.";
 
@@ -12105,6 +12150,9 @@ eg. "Super Following Jack" */
 
 /* DM New Conversation navigation bar new message title */
 "DM_NEW_CONVERSATION_NAVIGATION_BAR_NEW_MESSAGE_TITLE" = "New message";
+
+/* Suggestions list group cell subtitle when single user. */
+"DM_ONE_PERSON_GROUP_SUBTITLE" = "1 person";
 
 /* DM PIN Entry Create Error: Mismatched PINs */
 "DM_PIN_ENTRY_ERROR_CREATE_MISMATCHED_PINS" = "The PIN codes did not match. Please start over.";
