@@ -753,12 +753,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* The list of blocked users is empty, i.e., the current user is not blocking any accounts */
 "BLOCK_LIST_EMPTY_STREAM_MESSAGE_SUBTEXT_V2" = "They will be able to see your public posts, but will no longer be able to engage with them. They will also not be able to follow or message you, and you will not see notifications from them. %@";
 
-/* The imported list of blocked users is empty, so we are telling the user to visit a supporting page to learn more about how to import block lists. */
-"BLOCK_LIST_IMPORTED_EMPTY_STREAM_MESSAGE_FORMAT" = "When you block someone, they won’t be able to follow or message you, and you won’t see notifications from them. You can import a list of accounts you want to block on X. %@";
-
-/* Title of the imported list of users that are blocked by the current account */
-"BLOCK_LIST_IMPORTED_TITLE" = "Imported";
-
 /* Title of the list of users that are auto blocked by the current account */
 "BLOCK_LIST_SMART_TITLE" = "Autoblocked";
 
@@ -4082,8 +4076,8 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Accessibility label for immersive explore used as the name of the Switch Control action to get to the previous post. */
 "IMMERSIVE_EXPLORE_PREVIOUS_TWEET_ACCESSIBILITY_LABEL" = "Previous post";
 
-/* Label for a button to switch to landcsape/fullscreen mode. */
-"IMMERSIVE_EXPLORE_SWITCH_TO_FULLSCREEN_BUTTON" = "Switch to fullscreen";
+/* Label for a button to switch to landscape/fullscreen mode. */
+"IMMERSIVE_EXPLORE_SWITCH_TO_FULLSCREEN_BUTTON" = "Fullscreen";
 
 /* Label of the personalized option in the menu sheet that appears when tapping the personalized option inside Trending, in Immersive Explore. */
 "IMMERSIVE_EXPLORE_TRENDING_PERSONALIZED_MENU_PERSONALIZED_OPTION" = "Personalized";
@@ -8665,6 +8659,34 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Title for the list entry that describes the full hd video (1080p) upload feature." */
 "SUBSCRIPTION_FULL_HD_VIDEO_UPLOAD_TITLE" = "1080p Video";
 
+/* Title for the screen where an user received an error when trying to gift premium to another user */
+"SUBSCRIPTION_GIFTING_ALERT_FAIL_TEXT" = "Purchase failed. Please try again later.";
+
+/* Title for the alert when an user finishes successfully gifting premium */
+"SUBSCRIPTION_GIFTING_ALERT_SUCCESS_TEXT" = "Your gift has been sent.";
+
+/* Button title to gift and pay the tier price for the screen where an user wants to gift premium to another user */
+"SUBSCRIPTION_GIFTING_BUTTON_TITLE" = "Gift & Pay %@";
+
+/* Title for the screen where an user wants to gift premium to another user */
+"SUBSCRIPTION_GIFTING_PURCHASER_TERMS" = "Purchaser Terms";
+
+/* Title for the screen where an user wants to gift premium to another user
+ %1$@ will be substituted with a product name like "Premium"
+ %2$@ will be substituted with an @handle like @jack
+ %3$@ will be substituted with a price like US$12
+ */
+"SUBSCRIPTION_GIFTING_SUBTITLE" = "Gift one year of %1$@ to %2$@ for %3$@. Once you complete payment, they will be notified that you sent them the gift.";
+
+/* Terms for the screen where an user wants to gift premium to another user */
+"SUBSCRIPTION_GIFTING_TERMS_LABEL" = "The gift subscription price is charged at purchase and is nonrefundable. It is one-time use, non-replaceable, non-combinable, and has no cash value. It starts after X’s review and assignment to the recipient, who must acknowledge our Purchaser Terms and policies. If the recipient fails to meet any eligibility requirements, cancels the subscription or rejects our terms and policies, the gift is non-redeemable and nonrefundable. Taxes may apply. Terms may change. Learn more.";
+
+/* The label where we show the premium tier to gift for the screen where an user wants to gift premium to another user */
+"SUBSCRIPTION_GIFTING_TIER" = "Tier";
+
+/* Title for the screen where an user wants to gift premium to another user */
+"SUBSCRIPTION_GIFTING_TITLE" = "Gift Premium";
+
 /* Subtitle in the Manage subscriptions page explaining that the certain tier is granted and managed by Verified Organisation. */
 "SUBSCRIPTION_MANAGE_SUBSCRIPTION_BUSINESS_SUBTITLE_WITH_TIER" = "You are receiving %@ because your organization is a Verified Organizations subscriber. Contact your organization for more details.";
 
@@ -10179,6 +10201,12 @@ eg. "Super Following Jack" */
 
 /* Title for a screen that lets you change the captions (on/off) of a video*/
 "VIDEO_SETTINGS_CAPTIONS_TITLE" = "Captions";
+
+/* Subtitle that indicates whether off caption is auto generated or not */
+"VIDEO_SETTINGS_CAPTION_AUTO_GENERATED_OFF_LABEL" = "Off (Auto-generated)";
+
+/* Subtitle that indicates whether on caption is auto generated or not */
+"VIDEO_SETTINGS_CAPTION_AUTO_GENERATED_ON_LABEL" = "On (Auto-generated)";
 
 /* Settings menu that allows you to download a video (this specific copy is displayed when the video is currently downloading) */
 "VIDEO_SETTINGS_DOWNLOADING_VIDEO" = "Downloading video";
@@ -20532,6 +20560,9 @@ eg. "- @jack" */
 
 /* Title of a button which removes all items from offline tab */
 "OFFLINE_REMOVE_ALL" = "Remove All";
+
+/* Title of a switch which enables download button on inline video card */
+"OFFLINE_SETTINGS_SHOW_DOWNLOAD_BUTTON_INLINE" = "Display a download button on timelines";
 
 /* Title of a toast which is show on an event of completion of a video download */
 "OFFLINE_TASK_COMPLETION_TOAST_TEXT" = "Video downloaded to your offline videos";
