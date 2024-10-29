@@ -439,6 +439,15 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Accessibility label of White X on green background app icon that is read to users with VoiceOver enabled.*/
 "APP_ICON_GREEN_DESCRIPTION" = "White X on green background";
 
+/* Accessibility label of White X on halloween themed background icon that is read to users with VoiceOver enabled.*/
+"APP_ICON_HALLOWEEN_1_DESCRIPTION" = "White X on halloween themed background";
+
+/* Accessibility label of Black X on halloween themed background icon that is read to users with VoiceOver enabled.*/
+"APP_ICON_HALLOWEEN_2_DESCRIPTION" = "Black X on halloween themed background with a pumpkin";
+
+/* Accessibility label of White X on halloween themed background icon that is read to users with VoiceOver enabled.*/
+"APP_ICON_HALLOWEEN_3_DESCRIPTION" = "White X on halloween themed background with 3 pumpkins";
+
 /* Accessibility label of White X on magenta background app icon that is read to users with VoiceOver enabled.*/
 "APP_ICON_MAGENTA_DESCRIPTION" = "White X on magenta background";
 
@@ -936,6 +945,9 @@ e.g. Removed from MyRecipes.
 
 /* Hint used for the label of the broadcast card. */
 "BROADCAST_CARD_ACCESSIBILITY_HINT" = "Opens the broadcast";
+
+/* Text above live chat message for reply, %1$@ - username, %2$@ - message text*/
+"BROADCAST_CHAT_REPLYING_TO_FORMAT" = "Replying to %1$@: %2$@";
 
 /* Generic copyright violation notice presented instead of a broadcast that included a copyrighted work. */
 "BROADCAST_COPYRIGHT_VIOLATION_NOTICE" = "Broadcast not available due to a copyright claim.";
@@ -1478,6 +1490,12 @@ e.g. Removed from MyRecipes.
 
 /* Accessibility label for compose screen gallery button */
 "COMPOSE_VIEW_GALLERY_ACCESSIBILITY_LABEL" = "Photo library";
+
+/* Label for  for start a Space button in the composer */
+"COMPOSE_VIEW_LIVE_MENU_SHEET_START_A_SPACE" = "Start a Space";
+
+/* Label for start a "Start a live stream" button in the composer */
+"COMPOSE_VIEW_LIVE_MENU_SHEET_START_A_VIDEO_BROADCAST" = "Start a live stream";
 
 /* Accessibility hint for the button that opens the autocompletion hashtag picker from the post Composer toolbar. */
 "COMPOSE_VIEW_OPEN_HASHTAG_PICKER_ACCESSIBILITY_HINT" = "Choose a hashtag from a list";
@@ -4064,6 +4082,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Accessibility label for immersive explore used as the name of the Switch Control action to get to the previous post. */
 "IMMERSIVE_EXPLORE_PREVIOUS_TWEET_ACCESSIBILITY_LABEL" = "Previous post";
 
+/* Label for a button to switch to landcsape/fullscreen mode. */
+"IMMERSIVE_EXPLORE_SWITCH_TO_FULLSCREEN_BUTTON" = "Switch to fullscreen";
+
 /* Label of the personalized option in the menu sheet that appears when tapping the personalized option inside Trending, in Immersive Explore. */
 "IMMERSIVE_EXPLORE_TRENDING_PERSONALIZED_MENU_PERSONALIZED_OPTION" = "Personalized";
 
@@ -6539,6 +6560,15 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* Title text for the Professional Home dashboard button on the side menu of the home timeline and Professional Home webview. This text only occurs once the user has converted to a professional */
 "PROFESSIONAL_HOME_TITLE" = "Professional Home";
+
+/* Label shown on the analytics section indicated how many people have seen this users posts */
+"PROFILE_ANALYTICS_UPSELL_IMPRESSIONS" = "%1$@ impressions on your posts in the last %2$@ days";
+
+/* Label shown on the analytics section when looking at your own profile */
+"PROFILE_ANALYTICS_UPSELL_PRIVATE_TO_YOU" = "Private to you";
+
+/* Label shown on the analytics section to purchase access to analytics */
+"PROFILE_ANALYTICS_UPSELL_UNLOCK_ANALYTICS" = "Unlock analytics";
 
 /* Accessibility label format announcement for another user's profile */
 "PROFILE_ANNOUNCEMENT_OTHER_ACCOUNT_ACCESSIBILITY_LABEL_FORMAT" = "%@’s profile.";
@@ -12115,6 +12145,12 @@ eg. "Super Following Jack" */
 
 // Section: Frameworks/DMV2/Sources/DMV2Strings/en.lproj/Localizable.strings
 
+/* DM connecting connection status title */
+"DM_CONNECTION_STATUS_CONNECTING_TITLE" = "Connecting";
+
+/* DM disconnected connection status title */
+"DM_CONNECTION_STATUS_DISCONNECTED_TITLE" = "Disconnected";
+
 /* DM Inbox Empty start a conversation action */
 "DM_INBOX_EMPTY_ACTION_START_A_CONVERSATION" = "Write a message";
 
@@ -12126,6 +12162,18 @@ eg. "Super Following Jack" */
 
 /* DM Inbox new message button accessibility label */
 "DM_INBOX_NEW_MESSAGE_ACCESSIBILITY_LABEL" = "Compose New Message";
+
+/* DM Manage Conversation Add people action title */
+"DM_MANAGE_CONVERSATION_ACTION_ADD_PEOPLE_TITLE" = "Add people";
+
+/* DM Manage Conversation Remove from conversation action title */
+"DM_MANAGE_CONVERSATION_ACTION_REMOVE_FROM_CONVERSATION_TITLE" = "Remove from conversation";
+
+/* DM Manage Conversation navigation bar conversation info title */
+"DM_MANAGE_CONVERSATION_NAVIGATION_BAR_CONVERSATION_INFO_TITLE" = "Conversation info";
+
+/* DM Manage Conversation navigation bar group info title */
+"DM_MANAGE_CONVERSATION_NAVIGATION_BAR_GROUP_INFO_TITLE" = "Group info";
 
 /* Status appearing underneath message when edited with timestamp */
 "DM_MESSAGE_STATUS_EDITED_AND_TIMESTAMP" = "Edited %@";
@@ -12219,6 +12267,9 @@ eg. "Super Following Jack" */
 
 /* Send message hint on text entry. */
 "DM_SEND_MESSAGE_ENTRY_HINT" = "Send Message";
+
+/* DM Tab navigation bar messages title */
+"DM_TAB_NAVIGATION_BAR_MESSAGES_TITLE" = "Messages";
 
 // Section: Frameworks/InAppPurchases/Sources/InAppPurchasesStrings/en.lproj/Localizable.strings
 
@@ -16858,9 +16909,6 @@ eg. "Super Following Jack" */
 
 // Section: Frameworks/PremiumHub/Sources/PremiumHubStrings/en.lproj/Localizable.strings
 
-// New pill for new features shown in Premium hub
-"PREMIUM_HUB_NEW_LABEL" = "New";
-
 // Button title of offer in Premium Hub
 "PREMIUM_HUB_OFFERS_BUTTON_TITLE" = "Claim limited-time offer";
 
@@ -18279,20 +18327,38 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* The error message for a post that is unavailable */
 "THIS_TWEET_IS_UNAVAILABLE_LABEL" = "This post is unavailable.";
 
-/* Title for setting to control whether inline actions should be visible */
-"TIMELINE_SETTINGS_DISPLAY_INLINE_ACTIONS" = "Display engagement controls";
-
 /* Description for setting to control whether inline actions should be visible */
-"TIMELINE_SETTINGS_DISPLAY_INLINE_ACTIONS_DESCRIPTION" = "Display engagement controls and counts in timelines";
+"TIMELINE_SETTINGS_DISPLAY_INLINE_ACTIONS_DESCRIPTION" = "Display engagement controls and numbers for posts";
 
-/* A section title about home scree tabs (pinned timelines) */
-"TIMELINE_SETTINGS_HOME_SCREEN_TABS" = "Home screen tabs";
+/* Title for setting to control whether inline actions should be visible */
+"TIMELINE_SETTINGS_DISPLAY_INLINE_ACTIONS_TITLE" = "Display engagement controls";
+
+/* Description for Timeline Settings home screen tabs menu item */
+"TIMELINE_SETTINGS_HOME_SCREEN_TABS_DESCRIPTION" = "Reorder your list and community tabs on the home screen";
+
+/* Title for Timeline Settings home screen tabs menu item */
+"TIMELINE_SETTINGS_HOME_SCREEN_TABS_TITLE" = "Home screen tabs";
 
 /* Description for Timeline Settings setting menu item */
-"TIMELINE_SETTINGS_MENU_DESCRIPTION" = "Configure timeline settings, reorder home screen tabs";
+"TIMELINE_SETTINGS_MENU_DESCRIPTION" = "Configure your timeline appearance";
 
 /* Title for Timeline Settings setting menu item */
-"TIMELINE_SETTINGS_MENU_TITLE" = "Timeline settings";
+"TIMELINE_SETTINGS_MENU_TITLE" = "Timeline";
+
+/* Description for Timeline Settings post swipe gesture menu item */
+"TIMELINE_SETTINGS_POST_SWIPE_GESTURE_DESCRIPTION" = "Configure your left and right swipe gestures for a post on your timeline";
+
+/* Label for Timeline Settings post swipe gesture toggle */
+"TIMELINE_SETTINGS_POST_SWIPE_GESTURE_LABEL" = "Enable post swipe gestures";
+
+/* Label for Timeline Settings post swipe left display */
+"TIMELINE_SETTINGS_POST_SWIPE_GESTURE_LEFT_DISPLAY_LABEL" = "Left swipe";
+
+/* Label for Timeline Settings post swipe right display */
+"TIMELINE_SETTINGS_POST_SWIPE_GESTURE_RIGHT_DISPLAY_LABEL" = "Right swipe";
+
+/* Title for Timeline Settings post swipe gesture menu item */
+"TIMELINE_SETTINGS_POST_SWIPE_GESTURE_TITLE" = "Post swipe gestures";
 
 /* Title for timelines sort menu sheet option to sort by most liked */
 "TIMELINE_SORT_BY_LIKED" = "Most liked";
@@ -20356,6 +20422,9 @@ eg. "- @jack" */
 /* Text on button to launch an app open. */
 "OPEN_APP_ACTION_LABEL" = "Open app";
 
+/* Title of the "radar" feature */
+"RADAR_WEBVIEW_TITLE" = "Radar";
+
 /* Label used as title for the followup reporting web view shown in the NTab */
 "REPORTING_FOLLOWUP_WEBVIEW_TITLE" = "Report";
 
@@ -20671,9 +20740,6 @@ eg. "- @jack" */
 
 /* Description for Edit Pinned Timelines screen prompt to pin more timelines */
 "PINNED_TIMELINES_PIN_MORE_DESCRIPTION" = "Pin more Lists and Communities to have easier access to your favorite content.";
-
-/* Title for Pinned Timelines Settings screen */
-"PINNED_TIMELINES_REORDER_TITLE" = "Timeline settings";
 
 /* Title for navigating to Pinned Timeline Settings screen */
 "PINNED_TIMELINES_SETTINGS" = "Tab settings";

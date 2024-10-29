@@ -980,6 +980,14 @@
 		<data>
 		gB7M9raG2M25CDC8dmcih7APXv0=
 		</data>
+		<key>VectorImages/main/live_pill.svg</key>
+		<data>
+		AgCWkmdcY9u3RLwTwvikP9KZuRU=
+		</data>
+		<key>VectorImages/main/live_pill_stroke.svg</key>
+		<data>
+		pfGtHo9dJK26Xy+Q4AatDHs11XY=
+		</data>
 		<key>VectorImages/main/location.svg</key>
 		<data>
 		uSnDGKHbrYT7YCQxSWFFd2oR8LA=
@@ -1571,6 +1579,14 @@
 		<key>VectorImages/main/quote_stroke.svg</key>
 		<data>
 		RK8qZnfgrzpKle11zH/2oNgeCmg=
+		</data>
+		<key>VectorImages/main/radar_fill.svg</key>
+		<data>
+		TyiI62ScILkWYHcbEFdZmA5ni5Y=
+		</data>
+		<key>VectorImages/main/radar_stroke.svg</key>
+		<data>
+		SDZ8rvcqwiWvYrydYw/pv1OMl8k=
 		</data>
 		<key>VectorImages/main/rating_half_nomargin.svg</key>
 		<data>
@@ -5239,6 +5255,28 @@
 			Sy6B9yWZEn/HxOPe0pbb8fP67zG23cVrr4UFzM5/KcA=
 			</data>
 		</dict>
+		<key>VectorImages/main/live_pill.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AgCWkmdcY9u3RLwTwvikP9KZuRU=
+			</data>
+			<key>hash2</key>
+			<data>
+			9qoRpGVdza1pu3Ur8KzpJltyWKK9HAb0C17oZRdG4Ww=
+			</data>
+		</dict>
+		<key>VectorImages/main/live_pill_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pfGtHo9dJK26Xy+Q4AatDHs11XY=
+			</data>
+			<key>hash2</key>
+			<data>
+			r9XlTNdXJ+/H3lb2bfUfeOUMYlKymE+U3A/sPppZiXY=
+			</data>
+		</dict>
 		<key>VectorImages/main/location.svg</key>
 		<dict>
 			<key>hash</key>
@@ -6865,6 +6903,28 @@
 			<key>hash2</key>
 			<data>
 			B8kCTPC3F2KqO/y5n968S2jhosnkRGkjA0djX+5xaig=
+			</data>
+		</dict>
+		<key>VectorImages/main/radar_fill.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TyiI62ScILkWYHcbEFdZmA5ni5Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			vAVC1ttk+u6KEbS/GtI8Jx/dvwUxU+bRavR+0z8z7ec=
+			</data>
+		</dict>
+		<key>VectorImages/main/radar_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SDZ8rvcqwiWvYrydYw/pv1OMl8k=
+			</data>
+			<key>hash2</key>
+			<data>
+			UMGuxSG/UpCfF/CTEiBjbjh2mItxcX5kSvtFDw0iGF8=
 			</data>
 		</dict>
 		<key>VectorImages/main/rating_half_nomargin.svg</key>
