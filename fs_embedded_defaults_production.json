@@ -1,6 +1,6 @@
 {
   "default" : {
-    "feature_set_token" : "0313625a82a5539af0cdbd1c66c735c303e92b77",
+    "feature_set_token" : "5364ee71b1d0501c5cdb82eb674eb4f06a4a95a5",
     "config" : {
       "2fa_temporary_password_enabled" : {
         "value" : false
@@ -1593,7 +1593,7 @@
         "value" : false
       },
       "grok_ios_image_upload_enabled" : {
-        "value" : false
+        "value" : true
       },
       "grok_ios_new_history_enabled" : {
         "value" : true
@@ -3893,6 +3893,9 @@
       "ssp_ads_google_dsp_immersive_ad_unit_id" : {
         "value" : "\/22849053685\/twitter_native_ad"
       },
+      "ssp_ads_google_dsp_immersive_client_only_ad_unit_id" : {
+        "value" : "\/22849053685\/twitter_native_ad"
+      },
       "ssp_ads_google_dsp_profile_ad_unit_id" : {
         "value" : "\/22849053685\/twitter_native_ad"
       },
@@ -3908,7 +3911,13 @@
       "ssp_ads_google_native_ad_s2s_migration_enabled" : {
         "value" : true
       },
+      "ssp_ads_google_native_ad_string_migration_enabled" : {
+        "value" : true
+      },
       "ssp_ads_immersive" : {
+        "value" : false
+      },
+      "ssp_ads_immersive_client_only_integration" : {
         "value" : false
       },
       "ssp_ads_immersive_configuration" : {
@@ -4821,7 +4830,7 @@
   "requires_restart" : [ ],
   "supports_accessibility" : [ ],
   "versions" : {
-    "feature_switches" : "312b1e570297b2374e6001c62c262279698e82cf",
-    "experiments" : "312b1e570297b2374e6001c62c262279698e82cf"
+    "feature_switches" : "da777f8e0e6e22906ddc780e574539f1a4096ccf",
+    "experiments" : "da777f8e0e6e22906ddc780e574539f1a4096ccf"
   }
 }
