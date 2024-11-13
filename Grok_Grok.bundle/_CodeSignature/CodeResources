@@ -16,6 +16,10 @@
 		<data>
 		Lu9q/wIqYzlWclwebP8OS8TOh/E=
 		</data>
+		<key>bird.png</key>
+		<data>
+		GkcTBWPER+9c5BzvLRTZngv25Bc=
+		</data>
 		<key>fantasy.png</key>
 		<data>
 		FcCtj+uBZuW5VWnEl0VQBWSNuUM=
@@ -27,6 +31,10 @@
 		<key>fuji.png</key>
 		<data>
 		1vRr/ciHGWOPrUIWGme1Pf9lfi4=
+		</data>
+		<key>galaxy.png</key>
+		<data>
+		80fdrTAOl2+dZIXdf6Cz/6sMzTI=
 		</data>
 		<key>grid.png</key>
 		<data>
@@ -88,6 +96,17 @@
 			LGiMyW3WT9jCiREIV7qL6DEdb70LBzCX2jDbuLbRNek=
 			</data>
 		</dict>
+		<key>bird.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GkcTBWPER+9c5BzvLRTZngv25Bc=
+			</data>
+			<key>hash2</key>
+			<data>
+			La/G+Ff14OuUy/4nb44pfvmKQZtu6QmHxe6J5M6rhT4=
+			</data>
+		</dict>
 		<key>fantasy.png</key>
 		<dict>
 			<key>hash</key>
@@ -119,6 +138,17 @@
 			<key>hash2</key>
 			<data>
 			2AFdio45fN+rq0fBbgMkvsyWgKbZjncwm3DZ56lO0cc=
+			</data>
+		</dict>
+		<key>galaxy.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			80fdrTAOl2+dZIXdf6Cz/6sMzTI=
+			</data>
+			<key>hash2</key>
+			<data>
+			heLzSdGX3dv/EsoZaGItvnk3Uw89lqY054M1oOpKAog=
 			</data>
 		</dict>
 		<key>grid.png</key>

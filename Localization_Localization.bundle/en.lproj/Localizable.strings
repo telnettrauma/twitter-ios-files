@@ -56,10 +56,644 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 // Section: Frameworks/Payments/Sources/PaymentsStrings/en.lproj/Localizable.strings
 
-// We need at least one "public" string for the scripts to work. This `Settings` one is generic enough.
-// Please add other copy in `Localizable.dev.strings` for now to avoid leaks.
-/* Title of the Settings screen */
+/* Payments: Title of the button that allows a user to accept a money transfer. */
+"PAYMENTS_ACCEPT_TRANSFER_ACTION" = "Accept";
+
+/* Payments: Title of the section that contains actions the user can do (ex: Verify identity, Pay, ...). */
+"PAYMENTS_ACTION_NEEDED_TITLE" = "Action needed";
+
+/* Payments: Title of the button shown on a flow where the user doesn’t have enough money in their account. This button opens the "deposit" flow. */
+"PAYMENTS_ADD_MONEY_ACTION" = "Add Money";
+
+/* Payments: This disclaimer is shown at the bottom of the screen that allows a user to link a bank account with their X Payments account. */
+"PAYMENTS_ADD_PAYMENT_METHOD_DISCLAIMER" = "By clicking “Continue”, you agree to the X Payments Terms & Conditions";
+
+/* Payments: This text is the highlighted part of `PAYMENTS_ADD_PAYMENT_METHOD_DISCLAIMER`, that serves as a link to the Terms of Service. */
+"PAYMENTS_ADD_PAYMENT_METHOD_DISCLAIMER_LINK" = "X Payments Terms & Conditions";
+
+/* Payments: Subtitle of the screen that allows a user to link a bank account with their X Payments account. */
+"PAYMENTS_ADD_PAYMENT_METHOD_SUBTITLE" = "You need to link your bank account before you can continue.";
+
+/* Payments: Title of the screen that allows a user to link a bank account with their X Payments account. */
+"PAYMENTS_ADD_PAYMENT_METHOD_TITLE" = "Link a bank account";
+
+/* Payments: Error shown if the user tries to pay someone but their balance is insufficient. Shown right below the amount text field. */
+"PAYMENTS_AVAILABLE_BALANCE_INSUFFICIENT_ERROR" = "Your balance is insufficient for this transfer.";
+
+/* Payments: Subtitle shown under the name of the user’s X account, on deposit/withdraw screens. %@ is replaced by the (already formatted) current balance of the account, for example "$100". */
+"PAYMENTS_AVAILABLE_BALANCE_TITLE" = "Available balance: %@";
+
+/* Payments: Title of the screen that allows a user to send or request money to another user. %@ is replaced by the (already formatted) current balance of the user’s account, for example "$100". */
+"PAYMENTS_BALANCE_TITLE" = "Balance %@";
+
+/* Payments: Title of the button that allows a user to cancel a money transfer request */
+"PAYMENTS_CANCEL_TRANSFER_ACTION" = "Cancel";
+
+/* Payments: Title of a button that allows a user to contact the support. */
+"PAYMENTS_CONTACT_SUPPORT_ACTION" = "Contact support";
+
+/* Payments: Title of a button that allows a user to contact the support. Shown where space is reduced, so should be kept very short. Abbreviated if necessary. */
+"PAYMENTS_CONTACT_SUPPORT_ACTION_SHORT" = "Contact";
+
+/* Payments: Title of a button that allows the user to continue a flow. Should be kept generic. */
+"PAYMENTS_CONTINUE_ACTION" = "Continue";
+
+/* Payments: Title of the button that opens the flow that allows a user to request or send money to someone else on the platform. */
+"PAYMENTS_CREATE_OR_REQUEST_TRANSFER_ACTION" = "Pay or Request";
+
+/* Payments: Headline shown above the current balance of the user’s account, on the Payments home. */
+"PAYMENTS_CURRENT_BALANCE_TITLE" = "Current Balance";
+
+/* Payments: Title of the button that allows a user to decline a money transfer request */
+"PAYMENTS_DECLINE_TRANSFER_ACTION" = "Decline";
+
+/* Payments: Confirmation message shown when a user attempts to remove a linked bank account from their X Payments account. */
+"PAYMENTS_DELETE_PAYMENT_METHOD_MESSAGE" = "Please confirm that you want to remove this bank from your account.";
+
+/* Payments: Title of the dialog box shown when a user attempts to remove a linked bank account from their X Payments account. */
+"PAYMENTS_DELETE_PAYMENT_METHOD_TITLE" = "Remove bank";
+
+/* Payments: Title of the button that initiates a deposit into the user’s X Payments account. */
+"PAYMENTS_DEPOSIT_ACTION" = "Deposit";
+
+/* Payments: Toast detail text shown when the user tries to do an unauthorized action */
+"PAYMENTS_ERROR_ACCESS_DENIED_DETAIL_TEXT" = "You are not allowed to perform this action at this time.";
+
+/* Payments: Toast text shown when the user tries to do an unauthorized action */
+"PAYMENTS_ERROR_ACCESS_DENIED_MESSAGE" = "Access denied";
+
+/* Payments: Generic error message shown when additional identity verification is required to continue using X Payments. */
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED" = "We need to verify your identify to continue";
+
+/* Payments: Additional message shown when additional KYC (Know Your Customer) information is required due to exceeding a limit. */
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_LIMIT_MESSAGE" = "It should only take a few minutes and helps keep X Payments and your account safe.";
+
+/* Payments: Message shown when additional KYC (Know Your Customer) information is required to continue using X Payments. */
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_MESSAGE" = "We need to make sure you are really you. It should only take a few minutes and helps keep Payments and your account safe.";
+
+/* Payments: Error message shown when a user has exceeded their monthly transaction limits and needs to verify their identity to continue. */
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_MONTHLY_LIMIT" = "You’ve exceeded your monthly limits, and we need to verify your identify to continue";
+
+/* Payments: Error message shown when a user has exceeded their total transaction limits and needs to verify their identity to continue. */
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_TOTAL_LIMIT" = "You’ve exceeded your limits, and we need to verify your identify to continue";
+
+/* Payments: Error message shown when a user has exceeded their weekly transaction limits and needs to verify their identity to continue. */
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_WEEKLY_LIMIT" = "You’ve exceeded your weekly limits, and we need to verify your identify to continue";
+
+/* Payments: Error message shown when there’s an issue with the user’s bank while processing a transfer. */
+"PAYMENTS_ERROR_BANK_ISSUE" = "There was an issue with your bank while processing your transfer.";
+
+/* Payments: Additional message shown when there’s an issue with the user’s bank while processing a transfer. */
+"PAYMENTS_ERROR_BANK_ISSUE_MESSAGE" = "Please try again.";
+
+/* Payments: Generic error message shown when an unexpected issue occurs in X Payments. */
+"PAYMENTS_ERROR_GENERIC_MESSAGE" = "Please try again later or contact support team.";
+
+/* Payments: Title of the generic error message shown when an unexpected issue occurs in X Payments. */
+"PAYMENTS_ERROR_GENERIC_TITLE" = "Something went wrong";
+
+/* Payments: Error message shown when the system is unable to load the user’s X Payments account information. */
+"PAYMENTS_ERROR_GET_CUSTOMER_TITLE" = "We are unable to load your account";
+
+/* Payments: Error message shown when a potential duplicate payment is detected. */
+"PAYMENTS_ERROR_IDEMPOTENCY_KEY_CONFLICT" = "You might be attempting a duplicate payment.";
+
+/* Payments: Additional message shown when a potential duplicate payment is detected. */
+"PAYMENTS_ERROR_IDEMPOTENCY_KEY_CONFLICT_MESSAGE" = "Please check before trying again!";
+
+/* Payments: Error message shown when the user’s bank account balance is insufficient for a deposit. */
+"PAYMENTS_ERROR_INSUFFICIENT_BALANCE_FOR_DEPOSIT" = "Your bank account balance is insufficient.";
+
+/* Payments: Additional message shown when the user’s bank account balance is insufficient for a deposit. */
+"PAYMENTS_ERROR_INSUFFICIENT_BALANCE_FOR_DEPOSIT_MESSAGE" = "Please check your balance and try again.";
+
+/* Payments: Error message shown when the user’s X Payments account balance is insufficient for a transfer. */
+"PAYMENTS_ERROR_INSUFFICIENT_FUNDS_FOR_TRANSFER" = "Your account balance is insufficient to make this transfer.";
+
+/* Payments: Additional message shown when the user’s X Payments account balance is insufficient for a transfer. */
+"PAYMENTS_ERROR_INSUFFICIENT_FUNDS_FOR_TRANSFER_MESSAGE" = "Please fund your account and then try again.";
+
+/* Payments: Error message shown when a transfer to a specific account is not possible at the moment. */
+"PAYMENTS_ERROR_INVALID_RECEIVER" = "You cannot transfer to this account at this time.";
+
+/* Payments: Additional message shown when a transfer to a specific account is not possible at the moment. */
+"PAYMENTS_ERROR_INVALID_RECEIVER_MESSAGE" = "Please try again later.";
+
+/* Payments: Error message shown when a request from a specific account is not possible at the moment. */
+"PAYMENTS_ERROR_INVALID_SENDER" = "You cannot request from this account at this time.";
+
+/* Payments: Additional message shown when a request from a specific account is not possible at the moment. */
+"PAYMENTS_ERROR_INVALID_SENDER_MESSAGE" = "Please try again later.";
+
+/* Payments: Error message shown when two-factor authentication needs to be set up before proceeding with X Payments. */
+"PAYMENTS_ERROR_TWO_FACTOR_AUTH_REQUIRED" = "You need to setup two-factor authentication before you can proceed.";
+
+/* Payments: Error message shown when the system is unable to verify the user’s identity for X Payments. */
+"PAYMENTS_ERROR_VERIFY_IDENTITY" = "We were unable to verify your identity";
+
+/* Payments: Title of the confirmation screen for depositing money into the user’s X Payments account. %@ is replaced by the deposit amount. */
+"PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_AMOUNT_CONFIRMATION_TITLE" = "Confirm %@ deposit?";
+
+/* Payments: Title of the screen where the user enters the amount they want to deposit into their X Payments account. */
+"PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_AMOUNT_TITLE" = "How much would you like to deposit?";
+
+/* Payments: Disclaimer shown on the deposit screen, explaining the typical timeline and potential variations for fund transfers. */
+"PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_DISCLAIMER" = "Transfers typically take 3 business days but may vary due to factors like confirmations from your external bank. Funds will be available in your Payments account once the transfer is complete.";
+
+/* Payments: Subtitle shown on the success screen after scheduling a deposit, explaining the transfer timeline and fund availability. */
+"PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_SUCCESS_SUBTITLE" = "Transfers may take up to 3 business days to complete.\n\nFunds may not be available in your bank until the transfer is complete.";
+
+/* Payments: Title of the success screen after scheduling a deposit. %@ is replaced by the deposit amount. */
+"PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_SUCCESS_TITLE" = "%@ deposit successfully scheduled";
+
+/* Payments: Title of the deposit screen in X Payments. */
+"PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_TITLE" = "Deposit";
+
+/* Payments: Title of the confirmation screen for withdrawing money from the user’s X Payments account. %@ is replaced by the withdrawal amount. */
+"PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_AMOUNT_CONFIRMATION_TITLE" = "Confirm %@ withdrawal?";
+
+/* Payments: Title of the screen where the user enters the amount they want to withdraw from their X Payments account. */
+"PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_AMOUNT_TITLE" = "How much would you like to withdraw?";
+
+/* Payments: Disclaimer shown on the withdrawal screen, explaining the typical timeline and potential variations for fund transfers. */
+"PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_DISCLAIMER" = "Transfers typically take 3 business days but may vary due to factors like confirmations from your external bank. Funds will be available in your external bank once the transfer is complete.";
+
+/* Payments: Subtitle shown on the success screen after scheduling a withdrawal, explaining the transfer timeline and fund availability. */
+"PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_SUCCESS_SUBTITLE" = "Transfers may take up to 3 business days to complete.\n\nFunds may not be available in your bank until the transfer is complete.";
+
+/* Payments: Title of the success screen after scheduling a withdrawal. %@ is replaced by the withdrawal amount. */
+"PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_SUCCESS_TITLE" = "%@ withdraw successfully scheduled";
+
+/* Payments: Title of the withdrawal screen in X Payments. */
+"PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_TITLE" = "Withdraw";
+
+/* Payments: Confirmation button text used in various dialogs throughout X Payments. */
+"PAYMENTS_GOT_IT_ACTION" = "Got it";
+
+/* Payments: Subtitle shown on the screen indicating that identity verification is pending review, explaining the typical timeline and notification process. */
+"PAYMENTS_IDENTITY_VERIFICATION_PENDING_REVIEW_SUBTITLE" = "It usually takes about 15 to 30 min to complete the verification. We will keep you posted through notifications!";
+
+/* Payments: Title of the screen indicating that the user has completed all necessary steps for identity verification and it’s now pending review. */
+"PAYMENTS_IDENTITY_VERIFICATION_PENDING_REVIEW_TITLE" = "You are all set!";
+
+/* Payments: Title shown when a user has unclaimed funds in their X Payments account. %@ is replaced by the unclaimed amount. */
+"PAYMENTS_INVITE_AUTOCLAIM_TITLE" = "You have %@ waiting for you";
+
+/* Payments: Subtitle shown on the invite screen, indicating the total amount of unclaimed funds. %@ is replaced by the total unclaimed amount. */
+"PAYMENTS_INVITE_SUBTITLE_BALANCE_DETAILS" = "You have a total of %@ waiting for you.";
+
+/* Payments: Subtitle shown on the invite screen when there are multiple unclaimed payments, urging the user to set up their account before the payments expire. */
+"PAYMENTS_INVITE_SUBTITLE_MULTIPLE" = "Setup your account before the payments expire.";
+
+/* Payments: Subtitle shown on the invite screen when there is a single unclaimed payment, urging the user to set up their account before the payment expires. */
+"PAYMENTS_INVITE_SUBTITLE_SINGLE" = "Setup your account before the payment expires.";
+
+/* Payments: Title of the invite screen, showing who sent money and how much. %1$@ is replaced by the sender’s name, and %2$@ is replaced by the amount sent. */
+"PAYMENTS_INVITE_TITLE" = "%1$@ sent you %2$@";
+
+/* Payments: Text for a button or link that provides more information about a feature or process in X Payments. */
+"PAYMENTS_LEARN_MORE_ACTION" = "Learn more";
+
+/* Payments: Title for the deposit limit section in X Payments. */
+"PAYMENTS_LIMITS_DEPOSIT_TITLE" = "Deposit";
+
+/* Payments: Format string for displaying monthly limits in X Payments. %@ is replaced by the limit amount. */
+"PAYMENTS_LIMITS_PER_MONTH_FORMAT" = "%@ per month";
+
+/* Payments: Format string for displaying weekly limits in X Payments. %@ is replaced by the limit amount. */
+"PAYMENTS_LIMITS_PER_WEEK_FORMAT" = "%@ per week";
+
+/* Payments: Title for the receive limit section in X Payments. */
+"PAYMENTS_LIMITS_RECEIVE_TITLE" = "Receive";
+
+/* Payments: Title for the send limit section in X Payments. */
+"PAYMENTS_LIMITS_SEND_TITLE" = "Send";
+
+/* Payments: Text displayed when a particular limit in X Payments is unlimited. */
+"PAYMENTS_LIMITS_UNLIMITED_VALUE" = "Unlimited";
+
+/* Payments: Title for the withdraw limit section in X Payments. */
+"PAYMENTS_LIMITS_WITHDRAW_TITLE" = "Withdraw";
+
+/* Payments: Additional message shown when a user has exceeded their transaction limits, advising them to try again later. */
+"PAYMENTS_LIMIT_EXCEEDED_ERROR_MESSAGE" = "Please try again later.";
+
+/* Payments: Error message shown when a user has exceeded their monthly transaction limits in X Payments. */
+"PAYMENTS_LIMIT_EXCEEDED_ERROR_MONTHLY_TITLE" = "You’ve exceeded your monthly limits.";
+
+/* Payments: Error message shown when a user has exceeded their weekly transaction limits in X Payments. */
+"PAYMENTS_LIMIT_EXCEEDED_ERROR_WEEKLY_TITLE" = "You’ve exceeded your weekly limits.";
+
+/* Payments: Option in the More menu to access customer support for X Payments. */
+"PAYMENTS_MORE_MENU_GET_SUPPORT" = "Get support";
+
+/* Payments: Option in the More menu to access the help center for X Payments. */
+"PAYMENTS_MORE_MENU_HELP_CENTER" = "Help center";
+
+/* Payments: Option in the More menu to report an issue with a payment in X Payments. */
+"PAYMENTS_MORE_MENU_REPORT_PAYMENT" = "Report payment";
+
+/* Payments: Option in the More menu to access settings for X Payments. */
+"PAYMENTS_MORE_MENU_SETTINGS" = "Settings";
+
+/* Payments: Message displayed when a user is not eligible to use X Payments. */
+"PAYMENTS_NOT_ELIGIBLE" = "Not eligible for Payments";
+
+/* Payments: Label for the address field in the X Payments onboarding process. */
+"PAYMENTS_ONBOARDING_ADDRESS_FIELD_NAME" = "Address";
+
+/* Payments: Title of the screen where users enter their current address during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_ADDRESS_TITLE" = "Please enter your current address";
+
+/* Payments: Label for the date of birth field in the X Payments onboarding process. */
+"PAYMENTS_ONBOARDING_BIRTH_DATE_FIELD_NAME" = "Date of birth";
+
+/* Payments: Title of the screen where users enter their date of birth during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_BIRTH_DATE_TITLE" = "What’s your date of birth?";
+
+/* Payments: Disclaimer text shown during X Payments onboarding. %@ is replaced by the action text (e.g., "Continue"). */
+"PAYMENTS_ONBOARDING_DISCLAIMER" = "By clicking “%@”, you agree to X Payments Terms & Conditions.";
+
+/* Payments: Text for the link to X Payments Terms & Conditions in the onboarding disclaimer. */
+"PAYMENTS_ONBOARDING_DISCLAIMER_LINK" = "X Payments Terms & Conditions";
+
+/* Payments: Label for the first name field in the X Payments onboarding process. */
+"PAYMENTS_ONBOARDING_FIRST_NAME_FIELD_NAME" = "First name";
+
+/* Payments: Label for the last name field in the X Payments onboarding process. */
+"PAYMENTS_ONBOARDING_LAST_NAME_FIELD_NAME" = "Last name";
+
+/* Payments: Label for the legal name field in the X Payments onboarding process. */
+"PAYMENTS_ONBOARDING_LEGAL_NAME_FIELD_NAME" = "Legal name";
+
+/* Payments: Subtitle explaining the importance of providing the legal name that matches government-issued ID during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_LEGAL_NAME_SUBTITLE" = "Please ensure this matches the name on your government-issued ID.";
+
+/* Payments: Title of the screen where users enter their legal name during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_LEGAL_NAME_TITLE" = "What’s your legal name?";
+
+/* Payments: Message displayed while loading during the X Payments onboarding process. */
+"PAYMENTS_ONBOARDING_LOADING_MESSAGE" = "This may take a few seconds.";
+
+/* Payments: Message displayed while setting up the user’s X Payments account during onboarding. */
+"PAYMENTS_ONBOARDING_LOADING_SETTING_UP_ACCOUNT" = "Setting up your Payments account";
+
+/* Payments: Message displayed while verifying the user’s identity during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_LOADING_VERIFYING_IDENTITY" = "Verifying your identity";
+
+/* Payments: Subtitle shown when a user is not eligible for X Payments, with a link to learn more. */
+"PAYMENTS_ONBOARDING_NOT_ELIGIBLE_SUBTITLE" = "Unfortunately, you are not eligible for Payments at this time. Learn more";
+
+/* Payments: Text for the "Learn more" link shown when a user is not eligible for X Payments. */
+"PAYMENTS_ONBOARDING_NOT_ELIGIBLE_SUBTITLE_LINK" = "Learn more";
+
+/* Payments: Title of the screen shown when a user is not eligible for X Payments. */
+"PAYMENTS_ONBOARDING_NOT_ELIGIBLE_TITLE" = "You’re not yet eligible for Payments";
+
+/* Payments: Message indicating that transactions are still being processed during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_PENDING_TRANSACTIONS_STILL_PROCESSING" = "We’re still processing your transactions. We’ll notify you once they are complete.";
+
+/* Payments: Subtitle explaining the potential timeline for transaction settlement during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_PENDING_TRANSACTIONS_SUBTITLE" = "It may take up to 3 business days for the funds to be settled";
+
+/* Payments: Title of the screen showing pending transactions during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_PENDING_TRANSACTIONS_TITLE" = "Processing your transactions";
+
+/* Payments: Title of the screen where users confirm their phone number during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_PHONE_NUMBER_CONFIRM_TITLE" = "Confirm your phone number";
+
+/* Payments: Label for the phone number field in the X Payments onboarding process. */
+"PAYMENTS_ONBOARDING_PHONE_NUMBER_FIELD_NAME" = "Phone number";
+
+/* Payments: Text asking if the user has a new phone number during X Payments onboarding, with a link to update it. */
+"PAYMENTS_ONBOARDING_PHONE_NUMBER_FIELD_UPDATE_TEXT" = "Have a new phone number? Update here";
+
+/* Payments: Text for the link to update the phone number during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_PHONE_NUMBER_FIELD_UPDATE_TEXT_LINK" = "Update here";
+
+/* Payments: Error message shown when the entered PIN and its confirmation do not match during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_PIN_CONFIRMATION_ERROR" = "The pin and confirmation are not equal";
+
+/* Payments: Title of the screen where users confirm their PIN during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_PIN_CONFIRMATION_TITLE" = "Confirm your PIN";
+
+/* Payments: Title of the screen where users create a PIN for use with FaceID during X Payments onboarding. %@ is replaced by the number of digits required for the PIN. */
+"PAYMENTS_ONBOARDING_PIN_FACE_ID_TITLE" = "Create a %@-digit PIN to secure your account. This can be used with FaceID";
+
+/* Payments: Title of the screen where users create a PIN during X Payments onboarding. %@ is replaced by the number of digits required for the PIN. */
+"PAYMENTS_ONBOARDING_PIN_TITLE" = "Create a %@-digit PIN to secure your account";
+
+/* Payments: Title of the screen where users create a PIN for use with TouchID during X Payments onboarding. %@ is replaced by the number of digits required for the PIN. */
+"PAYMENTS_ONBOARDING_PIN_TOUCH_ID_TITLE" = "Create a %@-digit PIN to secure your account. This can be used with TouchID";
+
+/* Payments: Requirement for X Payments eligibility stating the minimum age. */
+"PAYMENTS_ONBOARDING_REQUIREMENT_AGE" = "Be at least 18 years old";
+
+/* Payments: Requirement for X Payments eligibility stating the fact that the user needs to be allowed. */
+"PAYMENTS_ONBOARDING_REQUIREMENT_ALLOWLIST" = "Your account is allowed to use X Payments";
+
+/* Payments: Requirement for X Payments eligibility stating the geographical restriction. */
+"PAYMENTS_ONBOARDING_REQUIREMENT_GEOGRAPHY" = "Be a resident of the United States of America";
+
+/* Payments: Requirement for X Payments eligibility stating the need for a verified phone number. */
+"PAYMENTS_ONBOARDING_REQUIREMENT_PHONE_NUMBER" = "Have a verified phone number";
+
+/* Payments: Requirement for X Payments eligibility stating the need for a Premium or Verified Organization account. */
+"PAYMENTS_ONBOARDING_REQUIREMENT_PREMIUM_OR_VERIFIED_ORGANIZATION" = "Premium or Verified Organization";
+
+/* Payments: Requirement for X Payments eligibility stating the need for the X account to be in good standing. */
+"PAYMENTS_ONBOARDING_REQUIREMENT_SAFETY" = "Your X account is in good standing";
+
+/* Payments: Requirement for X Payments eligibility stating the need for two-factor authentication. */
+"PAYMENTS_ONBOARDING_REQUIREMENT_TWO_FACTOR_AUTH" = "Security key or authentication app enabled";
+
+/* Payments: Label for the Social Security Number (SSN) field in the X Payments onboarding process. */
+"PAYMENTS_ONBOARDING_SSN_FIELD_NAME" = "SSN";
+
+/* Payments: Label for the last 4 digits of the Social Security Number (SSN) field in the X Payments onboarding process. */
+"PAYMENTS_ONBOARDING_SSN_LAST_DIGITS_FIELD_NAME" = "Last 4 of SSN";
+
+/* Payments: Subtitle explaining the legal requirement and purpose of collecting the last 4 digits of SSN during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_SSN_LAST_DIGITS_SUBTITLE" = "We’re legally required to collect this to confirm you’re really you. We won’t check your credit.";
+
+/* Payments: Title of the screen where users enter the last 4 digits of their SSN during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_SSN_LAST_DIGITS_TITLE" = "What are the last 4 digits of your social security number?";
+
+/* Payments: Subtitle explaining the need for full SSN verification during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_SSN_SUBTITLE" = "This additional step ensures we have all the information necessary to confirm your identity securely. We won’t check your credit.";
+
+/* Payments: Title of the screen where users enter their full SSN during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_SSN_TITLE" = "We need to verify your full social security number";
+
+/* Payments: Subtitle for the X Payments onboarding process, indicating the current geographical restriction. */
+"PAYMENTS_ONBOARDING_SUBTITLE" = "Payments is currently exclusive to users in the United States.";
+
+/* Payments: Title of the screen where users confirm their information during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_TIER_ONE_CONFIRM_TITLE" = "Does this information look good to you?";
+
+/* Payments: Title of the X Payments onboarding welcome screen. %@ is replaced by the user’s name. */
+"PAYMENTS_ONBOARDING_TITLE" = "Hi %@,\nWelcome to Payments";
+
+/* Payments: Disclaimer text for identity verification using ID and selfie during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_VERIFY_IDENTITY_DISCLAIMER" = "I consent to X and Socure using images of my ID and my selfie, including extracted biometric data, to confirm my identity and for X’s related safety and security purposes.";
+
+/* Payments: Subtitle explaining the privacy measures for identity verification photos during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_VERIFY_IDENTITY_SUBTITLE" = "All photos are encrypted so your information stays private.";
+
+/* Payments: Title of the screen where users verify their identity with a photo ID and selfie during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_VERIFY_IDENTITY_TITLE" = "Verify your identify with a photo of your ID and face to continue";
+
+/* Payments: Label for the zip code field in the X Payments onboarding process. */
+"PAYMENTS_ONBOARDING_ZIP_CODE_FIELD_NAME" = "Zip code";
+
+/* Payments: Title of the screen where users enter their zip code during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_ZIP_CODE_TITLE" = "What’s your zip code?";
+
+/* Payments: Status displayed next to a bank account when we weren't able to access it (via Plaid). */
+"PAYMENTS_PAYMENT_METHOD_STATUS_INVALID_OR_REVOKED" = "Access denied";
+
+/* Payments: Status displayed next to a bank account when the connection needs a reset (via Plaid). */
+"PAYMENTS_PAYMENT_METHOD_STATUS_LOGIN_OR_SCA_REQUIRED" = "Login required";
+
+/* Payments: Status displayed next to a bank account when the connection is pending (via Plaid). */
+"PAYMENTS_PAYMENT_METHOD_STATUS_PENDING" = "Pending";
+
+/* Payments: Title of the button to initiate a payment in X Payments. */
+"PAYMENTS_PAY_ACTION" = "Pay";
+
+/* Payments: Title of the button to confirm and execute a payment transfer in X Payments. */
+"PAYMENTS_PAY_TRANSFER_ACTION" = "Pay";
+
+/* Payments: Subtitle explaining that the user’s X Payments account is under review. */
+"PAYMENTS_PENDING_REVIEW_SUBTITLE" = "We are reviewing your account. Please check back later.";
+
+/* Payments: Title of the screen indicating that the user’s Payments account is under review */
+"PAYMENTS_PENDING_REVIEW_TITLE" = "Your Payments account is under review";
+
+/* Payments: Title for entering the current PIN, where %@ is replaced by the number of digits */
+"PAYMENTS_PIN_UPDATE_CURRENT_PIN_TITLE" = "Enter your current %@-digit PIN";
+
+/* Payments: Error message when the entered PIN confirmation doesn’t match */
+"PAYMENTS_PIN_UPDATE_ERROR_CONFIRMATION_MISMATCH" = "Pin does not match.";
+
+/* Payments: Error message when the user tries to set the same PIN */
+"PAYMENTS_PIN_UPDATE_ERROR_SAME_PIN" = "Pin already in use.";
+
+/* Payments: Generic error message when PIN update fails */
+"PAYMENTS_PIN_UPDATE_ERROR_UNKNOWN" = "Unable to change the PIN. Please retry later.";
+
+/* Payments: Error message when the entered current PIN is incorrect */
+"PAYMENTS_PIN_UPDATE_ERROR_WRONG_PIN" = "Incorrect pin, Please try again.";
+
+/* Payments: Title for confirming the new PIN */
+"PAYMENTS_PIN_UPDATE_NEW_PIN_CONFIRMATION_TITLE" = "Confirm your new PIN";
+
+/* Payments: Title for creating a new PIN, where %@ is replaced by the number of digits */
+"PAYMENTS_PIN_UPDATE_NEW_PIN_TITLE" = "Create a new %@-digit PIN to secure your account";
+
+/* Payments: Success message after changing the PIN */
+"PAYMENTS_PIN_UPDATE_SUCCESS" = "PIN changed.";
+
+/* Payments: Title of the button to request money */
+"PAYMENTS_REQUEST_ACTION" = "Request";
+
+/* Payments: Description of PIN settings in Security and Privacy */
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_DESCRIPTION" = "Require a PIN for enhanced security";
+
+/* Payments: Error toast message when updating PIN settings fails */
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_ERROR_TOAST" = "Something went wrong. Please try again later.";
+
+/* Payments: Option to require PIN for transfers */
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_CREATE_TRANSACTIONS" = "For transfers";
+
+/* Payments: Option to require PIN to unlock X Payments */
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_UNLOCK" = "To unlock X Payments";
+
+/* Payments: Success toast message after updating PIN settings */
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_SUCCESS_TOAST" = "Your setting has been successfully updated!";
+
+/* Payments: Title for PIN settings screen */
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_TITLE" = "PIN settings";
+
+/* Payments: Action to view all transactions */
+"PAYMENTS_SEE_ALL_TRANSACTIONS_ACTION" = "See all";
+
+/* Payments: Title for the limits section in settings */
+"PAYMENTS_SETTINGS_LIMITS_TITLE" = "Limits";
+
+/* Payments: Action to add a new payment method */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_METHOD_ACTION" = "Add account";
+
+/* Payments: Title for the linked banks section in settings */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_TITLE" = "Linked banks";
+
+/* Payments: Title for the basic information section in personal information settings */
+"PAYMENTS_SETTINGS_PERSONAL_INFORMATION_BASIC_SECTION" = "Basic information";
+
+/* Payments: Status indicating that ID verification is complete */
+"PAYMENTS_SETTINGS_PERSONAL_INFORMATION_ID_VERIFICATION_DONE_STATUS" = "Verified";
+
+/* Payments: Label for the ID verification item in settings */
+"PAYMENTS_SETTINGS_PERSONAL_INFORMATION_ID_VERIFICATION_ITEM" = "ID Verification";
+
+/* Payments: Title for the identity verification section in personal information settings */
+"PAYMENTS_SETTINGS_PERSONAL_INFORMATION_ID_VERIFICATION_SECTION" = "Identity verification";
+
+/* Payments: Title for the personal information settings screen */
+"PAYMENTS_SETTINGS_PERSONAL_INFORMATION_TITLE" = "Personal information";
+
+/* Payments: Title for the security and privacy settings screen */
+"PAYMENTS_SETTINGS_SECURITY_AND_PRIVACY_TITLE" = "Security & Privacy";
+
+/* Payments: Title for the settings screen */
 "PAYMENTS_SETTINGS_TITLE" = "Settings";
+
+/* Payments: Action to set up the user’s account */
+"PAYMENTS_SETUP_ACCOUNT_ACTION" = "Setup my account";
+
+/* Payments: Action to set up two-factor authentication */
+"PAYMENTS_SETUP_TWO_FACTOR_AUTH_ACTION" = "Setup";
+
+/* Payments: Title for the Payments feature */
+"PAYMENTS_TITLE" = "Payments";
+
+/* Payments: Title for the transactions list screen */
+"PAYMENTS_TRANSACTIONS_TITLE" = "Transactions";
+
+/* Payments: Label for the recipient of a transaction */
+"PAYMENTS_TRANSACTION_ATTRIBUTE_RECIPIENT" = "To";
+
+/* Payments: Label for the sender of a transaction */
+"PAYMENTS_TRANSACTION_ATTRIBUTE_SENDER" = "From";
+
+/* Payments: Label for the type of transaction */
+"PAYMENTS_TRANSACTION_ATTRIBUTE_TYPE" = "Transaction type";
+
+/* Payments: Message indicating that a transaction request is waiting to be approved by the recipient */
+"PAYMENTS_TRANSACTION_AWAITING_REQUEST_ACCEPTANCE_MESSAGE" = "This request is pending until its approved by the recipient.";
+
+/* Payments: Title for the transaction details screen */
+"PAYMENTS_TRANSACTION_DETAILS_TITLE" = "Transaction details";
+
+/* Payments: Message indicating that a transaction is under review */
+"PAYMENTS_TRANSACTION_IN_REVIEW_MESSAGE" = "This transaction is currently under review as part of our routine security checks. During this time, the transaction is paused. We aim to complete reviews quickly and will update you once it’s resolved.";
+
+/* Payments: Description of a pending payment with amount only, where %@ is replaced by the amount */
+"PAYMENTS_TRANSACTION_PENDING_PAID_WITHOUT_DESCRIPTION" = "Paid %@";
+
+/* Payments: Description of a pending payment with amount and reason, where %1$@ is replaced by the amount and %2$@ by the reason/note */
+"PAYMENTS_TRANSACTION_PENDING_PAID_WITH_DESCRIPTION" = "Paid %1$@ for %2$@";
+
+/* Payments: Message indicating that a transaction is pending, waiting for the recipient acceptance */
+"PAYMENTS_TRANSACTION_PENDING_RECIPIENT_ACCEPTANCE_MESSAGE" = "This transaction is pending until the recipient accepts it.";
+
+/* Payments: Description of a pending request with amount only, where %@ is replaced by the amount */
+"PAYMENTS_TRANSACTION_PENDING_REQUESTED_WITHOUT_DESCRIPTION" = "Requested %@";
+
+/* Payments: Description of a pending request with amount and reason, where %1$@ is replaced by the amount and %2$@ by the reason/note */
+"PAYMENTS_TRANSACTION_PENDING_REQUESTED_WITH_DESCRIPTION" = "Requested %1$@ for %2$@";
+
+/* Payments: Error message when too many failed PIN verification attempts occur */
+"PAYMENTS_TRANSACTION_PIN_VERIFICATION_ERROR_COOLDOWN_ACTIVE" = "Too many failed attempts. Please try again after some time.";
+
+/* Payments: Generic error message when PIN verification fails */
+"PAYMENTS_TRANSACTION_PIN_VERIFICATION_ERROR_UNKNOWN" = "Unable to verify the PIN. Please retry later.";
+
+/* Payments: Error message when the entered PIN is incorrect */
+"PAYMENTS_TRANSACTION_PIN_VERIFICATION_ERROR_WRONG_PIN" = "Wrong PIN.";
+
+/* Payments: Title for the PIN verification screen, where %@ is replaced by the number of digits */
+"PAYMENTS_TRANSACTION_PIN_VERIFICATION_TITLE" = "Enter your %@-digit PIN";
+
+/* Payments: Message indicating that a transaction has been rejected by the recipient */
+"PAYMENTS_TRANSACTION_REJECTED_BY_RECEIVER_MESSAGE" = "This transaction has been rejected by the recipient.";
+
+/* Payments: Message indicating that a transaction has been rejected after review */
+"PAYMENTS_TRANSACTION_REJECTED_MESSAGE" = "This transaction has been rejected after review.";
+
+/* Payments: Message indicating that a transaction request has been rejected by the recipient */
+"PAYMENTS_TRANSACTION_REQUEST_REJECTED_MESSAGE" = "This request has been rejected by the recipient.";
+
+/* Payments: Status label for a cancelled transaction */
+"PAYMENTS_TRANSACTION_STATUS_CANCELLED" = "Cancelled";
+
+/* Payments: Status label for an expired transaction */
+"PAYMENTS_TRANSACTION_STATUS_EXPIRED" = "Expired";
+
+/* Payments: Status label for a failed transaction */
+"PAYMENTS_TRANSACTION_STATUS_FAILED" = "Failed";
+
+/* Payments: Status label for a pending transaction */
+"PAYMENTS_TRANSACTION_STATUS_PENDING" = "Pending";
+
+/* Payments: Status label for a rejected transaction */
+"PAYMENTS_TRANSACTION_STATUS_REJECTED" = "Rejected";
+
+/* Payments: Status label for a settled transaction */
+"PAYMENTS_TRANSACTION_STATUS_SETTLED" = "Settled";
+
+/* Payments: Status label for a transaction with unspecified status */
+"PAYMENTS_TRANSACTION_STATUS_UNSPECIFIED" = "Unspecified";
+
+/* Payments: URL for the support link in transaction details */
+"PAYMENTS_TRANSACTION_SUPPORT_LINK" = "here";
+
+/* Payments: Label for the support link in transaction details */
+"PAYMENTS_TRANSACTION_SUPPORT_LINK_LABEL" = "here";
+
+/* Payments: Label for a deposit transaction type */
+"PAYMENTS_TRANSACTION_TYPE_DEPOSIT" = "Deposit to wallet";
+
+/* Payments: Label for a withdraw transaction type */
+"PAYMENTS_TRANSACTION_TYPE_WITHDRAW" = "Withdraw to bank";
+
+/* Payments: Placeholder text for adding a note to a transfer */
+"PAYMENTS_TRANSFER_ADD_A_NOTE" = "Add a note";
+
+/* Payments: Success message after sending money, where %1$@ is replaced by the amount and %2$@ by the recipient’s username. Keep the @ in front of the %2$@. */
+"PAYMENTS_TRANSFER_CREATION_SUCCESS" = "You sent %1$@ to @%2$@.";
+
+/* Payments: Error message when a transfer fails, where %@ is replaced by the amount */
+"PAYMENTS_TRANSFER_ERROR" = "We were unable to transfer %@";
+
+/* Payments: Error message when a money request fails, where %@ is replaced by the amount */
+"PAYMENTS_TRANSFER_REQUEST_ERROR" = "We were unable to request %@";
+
+/* Payments: Success message after requesting money, where %1$@ is replaced by the amount and %2$@ by the recipient’s username. Keep the @ in front of the %2$@. */
+"PAYMENTS_TRANSFER_REQUEST_SUCCESS" = "You requested %1$@ from @%2$@.";
+
+/* Payments: Placeholder text for the search field when transferring money */
+"PAYMENTS_TRANSFER_SEARCH_PLACEHOLDER" = "Search for someone";
+
+/* Payments: Error message when updating a transfer fails */
+"PAYMENTS_TRANSFER_UPDATE_ERROR" = "We were unable to update this transfer";
+
+/* Payments: Action to change the user’s PIN */
+"PAYMENTS_UPDATE_PIN_ACTION" = "Change PIN";
+
+/* Payments: Action to verify the user’s identity */
+"PAYMENTS_VERIFY_IDENTITY_ACTION" = "Verify your identity";
+
+/* Payments: Action to verify the user’s identity. Should be kept short or abbreviated. */
+"PAYMENTS_VERIFY_IDENTITY_ACTION_SHORT" = "Verify";
+
+/* Payments: Action to verify the user’s phone number */
+"PAYMENTS_VERIFY_PHONE_NUMBER_ACTION" = "Verify phone number";
+
+/* Payments: Action to view the user’s account */
+"PAYMENTS_VIEW_ACCOUNT_ACTION" = "View account";
+
+/* Payments: Action to view the user’s balance */
+"PAYMENTS_VIEW_BALANCE_ACTION" = "View balance";
+
+/* Payments: Name of the Payments wallet */
+"PAYMENTS_WALLET_NAME" = "Payments wallet";
+
+/* Payments: Action to view the web receipt of a transaction */
+"PAYMENTS_WEB_RECEIPT_ACTION" = "Web receipt";
+
+/* Payments: Action to withdraw money from the Payments wallet */
+"PAYMENTS_WITHDRAW_ACTION" = "Withdraw";
 
 // Section: Frameworks/T1Strings/Sources/T1Strings/en.lproj/Localizable.strings
 
@@ -2874,6 +3508,9 @@ This text is the accessibility hint for the button that lets the user change the
 
 /* Accessibility hint account choices in account switcher in Dash user menu */
 "DASH_ACCOUNT_SWITCH_ACCESSIBILITY_HINT" = "Switches to this account.";
+
+/* Label of Analytics dash item */
+"DASH_ANALYTICS_TITLE" = "Analytics";
 
 /* Title of the Dash folder containing professional tools */
 "DASH_FOLDER_PROFESSIONAL_TOOLS" = "Professional Tools";
@@ -8165,7 +8802,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "SETTINGS_FILTERS_ITEM_TITLE" = "Filters";
 
 /* Details format for For You timeline recommendations setting. */
-"SETTINGS_FOR_YOU_RECOMMENDATIONS_DETAIL" = "When this setting is enabled, X may personalize your For You content based on your X activity. %@";
+"SETTINGS_FOR_YOU_RECOMMENDATIONS_DETAIL" = "When this setting is enabled, X may personalize your For you content based on your X activity. %@";
 
 /* Title for For You timeline recommendations setting. */
 "SETTINGS_FOR_YOU_RECOMMENDATIONS_TITLE" = "Show recommended content in the For you timeline";
@@ -8764,6 +9401,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* Premium product name to be used in upsells that promotes Grok 2 */
 "SUBSCRIPTION_PREMIUM_UPSELL_GROK2_TRY" = "Try Grok 2";
+
+/* Premium product name to be used in upsells that promotes a discount */
+"SUBSCRIPTION_PREMIUM_UPSELL_PERCENTAGE_OFF" = "🎁 %d%% off";
 
 /* Description for page of settings related to your Premium subscription */
 "SUBSCRIPTION_SETTINGS_DESCRIPTION" = "Manage your subscription features including Undo post timing.";
@@ -11765,6 +12405,12 @@ eg. "Super Following Jack" */
 /* Text for subscription upsell text for full hd uploads */
 "SUBSCRIPTION_UPSELL_ACTION_TEXT_FULL_HD_UPLOAD" = "Upload with Premium Basic";
 
+/* Text for the header of the Subscription upsell for Advanced search feature name */
+"SUBSCRIPTION_UPSELL_ADVANCED_SEARCH_FEATURE_EXTRA_INFO" = "(iOS Only)";
+
+/* Text for the header of the Subscription upsell for Advanced search feature name */
+"SUBSCRIPTION_UPSELL_ADVANCED_SEARCH_FEATURE_NAME" = "Advanced search";
+
 /* Text for the header of the Subscription upsell for Audio and Video calling feature name */
 "SUBSCRIPTION_UPSELL_AUDIO_VIDEO_CALLING_FEATURE_NAME" = "audio and video calling";
 
@@ -12179,6 +12825,18 @@ eg. "Super Following Jack" */
 /* DM disconnected connection status title */
 "DM_CONNECTION_STATUS_DISCONNECTED_TITLE" = "Disconnected";
 
+/* DM delete conversation alert leave action */
+"DM_DELETE_CONVERSATION_ALERT_ACTION_LEAVE" = "Leave";
+
+/* DM delete conversation alert message */
+"DM_DELETE_CONVERSATION_ALERT_MESSAGE" = "This conversation will be deleted from your inbox. Other people in the conversation will still be able to see it.";
+
+/* DM delete conversation alert group title */
+"DM_DELETE_CONVERSATION_ALERT_TITLE_GROUP" = "Leave conversation?";
+
+/* DM delete conversation alert one on one title */
+"DM_DELETE_CONVERSATION_ALERT_TITLE_ONE_ON_ONE" = "Delete conversation?";
+
 /* DM Inbox Empty start a conversation action */
 "DM_INBOX_EMPTY_ACTION_START_A_CONVERSATION" = "Write a message";
 
@@ -12194,14 +12852,44 @@ eg. "Super Following Jack" */
 /* DM Manage Conversation Add people action title */
 "DM_MANAGE_CONVERSATION_ACTION_ADD_PEOPLE_TITLE" = "Add people";
 
-/* DM Manage Conversation Remove from conversation action title */
-"DM_MANAGE_CONVERSATION_ACTION_REMOVE_FROM_CONVERSATION_TITLE" = "Remove from conversation";
+/* DM Manage Conversation Leave conversation action title */
+"DM_MANAGE_CONVERSATION_ACTION_LEAVE_CONVERSATION_TITLE" = "Leave conversation";
+
+/* DM Manage Conversation Resign as admin action title */
+"DM_MANAGE_CONVERSATION_ACTION_RESIGN_AS_ADMIN_TITLE" = "Resign as admin";
 
 /* DM Manage Conversation navigation bar conversation info title */
 "DM_MANAGE_CONVERSATION_NAVIGATION_BAR_CONVERSATION_INFO_TITLE" = "Conversation info";
 
 /* DM Manage Conversation navigation bar group info title */
 "DM_MANAGE_CONVERSATION_NAVIGATION_BAR_GROUP_INFO_TITLE" = "Group info";
+
+/* DM Manage Conversation user action add as admin title */
+"DM_MANAGE_CONVERSATION_USER_ACTION_ADD_AS_ADMIN_TITLE" = "Add as admin";
+
+/* DM Manage Conversation user action remove as admin title */
+"DM_MANAGE_CONVERSATION_USER_ACTION_REMOVE_AS_ADMIN_TITLE" = "Remove as admin";
+
+/* DM Manage Conversation user action remove from group title */
+"DM_MANAGE_CONVERSATION_USER_ACTION_REMOVE_FROM_GROUP_TITLE" = "Remove from group";
+
+/* DM message action Copy title */
+"DM_MESSAGE_ACTION_COPY_ACCESSIBILITY_ANNOUNCEMENT" = "Copied";
+
+/* DM message action Copy title */
+"DM_MESSAGE_ACTION_COPY_TITLE" = "Copy";
+
+/* DM message action Delete for all title */
+"DM_MESSAGE_ACTION_DELETE_FOR_ALL_TITLE" = "Delete for all";
+
+/* DM message action Delete for me title */
+"DM_MESSAGE_ACTION_DELETE_FOR_ME_TITLE" = "Delete for me";
+
+/* DM message action Edit title */
+"DM_MESSAGE_ACTION_EDIT_TITLE" = "Edit message";
+
+/* DM message action Reply title */
+"DM_MESSAGE_ACTION_REPLY_TITLE" = "Reply";
 
 /* Status appearing underneath message when edited with timestamp */
 "DM_MESSAGE_STATUS_EDITED_AND_TIMESTAMP" = "Edited %@";
@@ -12217,6 +12905,9 @@ eg. "Super Following Jack" */
 
 /* DM New Conversation create group action */
 "DM_NEW_CONVERSATION_ACTION_CREATE_GROUP" = "Create a group";
+
+/* DM New Conversation navigation bar add people title */
+"DM_NEW_CONVERSATION_NAVIGATION_BAR_ADD_PEOPLE_TITLE" = "Add people";
 
 /* DM New Conversation navigation bar create group subtitle */
 "DM_NEW_CONVERSATION_NAVIGATION_BAR_CREATE_GROUP_SUBTITLE" = "Add people";
@@ -12292,6 +12983,18 @@ eg. "Super Following Jack" */
 
 /* DM PIN Entry Type Six Digit Numeric */
 "DM_PIN_ENTRY_TYPE_SIX_DIGIT_NUMERIC" = "6-Digit Numeric";
+
+/* DM Emoji picker Add reaction accessibility hint */
+"DM_REACTIONS_ADD_REACTION_ACCESSIBILITY_HINT" = "Adds reaction";
+
+/* DM Emoji picker Recently used section */
+"DM_REACTIONS_RECENTLY_USED_SECTION" = "Recently used";
+
+/* DM Emoji picker Remove reaction accessibility hint */
+"DM_REACTIONS_REMOVE_REACTION_ACCESSIBILITY_HINT" = "Removes reaction";
+
+/* DM Emoji picker search emojis placeholder */
+"DM_REACTIONS_SEARCH_PLACEHOLDER" = "Search emojis";
 
 /* Send message hint on text entry. */
 "DM_SEND_MESSAGE_ENTRY_HINT" = "Send Message";
@@ -16569,6 +17272,33 @@ eg. "Super Following Jack" */
 /* Advanced search - search account for tweet author filter */
 "ADVANCED_SEARCH_AUTHOR_SEARCH_ACCOUNTS" = "Search accounts";
 
+/* Advanced search - upsell date posted filter subtitle */
+"ADVANCED_SEARCH_UPSELL_DATE_POSTED_SUBTITLE" = "All time";
+
+/* Advanced search - upsell date posted filter title */
+"ADVANCED_SEARCH_UPSELL_DATE_POSTED_TITLE" = "Date posted";
+
+/* Advanced search - upsell from filter subtitle */
+"ADVANCED_SEARCH_UPSELL_FROM_SUBTITLE" = "Choose account";
+
+/* Advanced search - upsell from filter title */
+"ADVANCED_SEARCH_UPSELL_FROM_TITLE" = "From";
+
+/* Advanced search - upsell language filter subtitle */
+"ADVANCED_SEARCH_UPSELL_LANGUAGE_SUBTITLE" = "Any";
+
+/* Advanced search - upsell language filter title */
+"ADVANCED_SEARCH_UPSELL_LANGUAGE_TITLE" = "Date posted";
+
+/* Advanced search - upsell post activity filter subtitle */
+"ADVANCED_SEARCH_UPSELL_POST_ACTIVITY_SUBTITLE" = "Any";
+
+/* Advanced search - upsell post activity filter title */
+"ADVANCED_SEARCH_UPSELL_POST_ACTIVITY_TITLE" = "Post activity";
+
+/* Advanced search - upsell title */
+"ADVANCED_SEARCH_UPSELL_TITLE" = "Advanced search";
+
 /* Used in composer typeahead to indicate that a user is already mentioned in a post */
 "COMPOSE_INCLUDED_IN_THIS_REPLY" = "In this conversation";
 
@@ -16661,11 +17391,35 @@ eg. "Super Following Jack" */
 /* Button to edit the text */
 "GROK_EDIT_TEXT" = "Edit prompt";
 
+/* Title for Grok eligibility banner  */
+"GROK_ELIGIBILITY_NEW_COPY" = "Your account is too new to use Grok. Please try again later.";
+
+/* Copy for Grok eligibility banner  */
+"GROK_ELIGIBILITY_NEW_TITLE" = "Check back later";
+
+/* Title for Grok eligibility banner  */
+"GROK_ELIGIBILITY_PHONE_COPY" = "To start using Grok, add a phone number to your account.";
+
+/* Title for Grok eligibility cta  */
+"GROK_ELIGIBILITY_PHONE_CTA" = "Add number";
+
+/* Copy for Grok eligibility banner  */
+"GROK_ELIGIBILITY_PHONE_TITLE" = "Add a phone number";
+
 /* Couldn't fetch share link due to server error */
 "GROK_FETCH_SHARE_LINK_ERROR" = "Error fetching share link";
 
 /* A label for Grok Fun mode */
 "GROK_FUN_LABEL" = "Fun";
+
+/* Copy for Grok free banner */
+"GROK_HOME_FREE_BANNER_COPY" = "A free tier of Grok is now available in your region. Chat, generate images, and analyze photos. Limits apply.";
+
+/* Copy for Grok free banner image */
+"GROK_HOME_FREE_BANNER_IMAGE_COPY" = "Draw a galaxy";
+
+/* A title for Grok free banner */
+"GROK_HOME_FREE_BANNER_TITLE" = "Try Grok for free now";
 
 /* A label for Grok image prompt suggestion */
 "GROK_HOME_PROMPT_IMAGE_ASTRO" = "Make a portrait of an astronaut on Mars";
@@ -16801,6 +17555,33 @@ eg. "Super Following Jack" */
 
 /* Button label to fetch prompts again */
 "GROK_PROMPTS_RELOAD_BUTTON_LABEL" = "Retry";
+
+/* Days duration for Grok rate limits */
+"GROK_RATE_LIMIT_DAY" = "day";
+
+/* Hour duration for Grok rate limits */
+"GROK_RATE_LIMIT_HOUR" = "hour";
+
+/* Copy for Grok rate limit banner */
+"GROK_RATE_LIMIT_IMAGE_GEN_COPY" = "Free accounts can generate up to %1$@ images every %2$@. Upgrade today to generate more.";
+
+/* A title for Grok rate limit banner */
+"GROK_RATE_LIMIT_IMAGE_GEN_TITLE" = "Generate more images with Premium";
+
+/* Copy for Grok rate limit banner */
+"GROK_RATE_LIMIT_IMAGE_UPLOAD_COPY" = "Free accounts can analyze up to %1$@ images every %2$@. Upgrade today to analyze more.";
+
+/* A title for Grok rate limit banner */
+"GROK_RATE_LIMIT_IMAGE_UPLOAD_TITLE" = "Analyze more images with Premium";
+
+/* Copy for Grok rate limit banner */
+"GROK_RATE_LIMIT_QUESTION_COPY" = "Free accounts can send up to %1$@ messages every %2$@. Upgrade now to send more.";
+
+/* A title for Grok rate limit banner */
+"GROK_RATE_LIMIT_QUESTION_TITLE" = "Send more messages with Premium";
+
+/* A title for Grok upgrade button */
+"GROK_RATE_LIMIT_UPGRADE_BUTTON" = "Upgrade";
 
 /* Button label for the user regenerate response action */
 "GROK_REGENERATE_ACTION" = "Regenerate";
@@ -17972,6 +18753,12 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* Accessibility label for a media asset in portrait orientation. */
 "PHOTO_PORTRAIT_ORIENTATION_ACCESSIBILITY_LABEL" = "Portrait";
 
+/* Subtitle which appears on NUX prompt announcing pinch to zoom feature is available */
+"PINCH_TO_ZOOM_NUX_SUBTITLE" = "You can now pinch to zoom in!";
+
+/* Title which appears on NUX prompt announcing pinch to zoom feature is available. Note the phrase consists of two lines: "Introducing", then "\n" (new line) then "Video Zoom". Add "\n" into translations. */
+"PINCH_TO_ZOOM_NUX_TITLE" = "Introducing\nVideo Zoom";
+
 /* Generic label to show on a prompt to retry when previous action was unsuccessful. */
 "PLEASE_TRY_AGAIN_LABEL" = "Please try again.";
 
@@ -18356,10 +19143,10 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 "THIS_TWEET_IS_UNAVAILABLE_LABEL" = "This post is unavailable.";
 
 /* Description for setting to control whether inline actions should be visible */
-"TIMELINE_SETTINGS_DISPLAY_INLINE_ACTIONS_DESCRIPTION" = "Display engagement controls and numbers for posts";
+"TIMELINE_SETTINGS_DISPLAY_INLINE_ACTIONS_DESCRIPTION" = "Display engagement buttons and numbers on posts";
 
 /* Title for setting to control whether inline actions should be visible */
-"TIMELINE_SETTINGS_DISPLAY_INLINE_ACTIONS_TITLE" = "Display engagement controls";
+"TIMELINE_SETTINGS_DISPLAY_INLINE_ACTIONS_TITLE" = "Display engagement";
 
 /* Description for Timeline Settings home screen tabs menu item */
 "TIMELINE_SETTINGS_HOME_SCREEN_TABS_DESCRIPTION" = "Reorder your list and community tabs on the home screen";
@@ -18368,13 +19155,19 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 "TIMELINE_SETTINGS_HOME_SCREEN_TABS_TITLE" = "Home screen tabs";
 
 /* Description for Timeline Settings setting menu item */
-"TIMELINE_SETTINGS_MENU_DESCRIPTION" = "Configure your timeline appearance";
+"TIMELINE_SETTINGS_MENU_DESCRIPTION" = "Configure your timeline appearance and interactions";
 
 /* Title for Timeline Settings setting menu item */
 "TIMELINE_SETTINGS_MENU_TITLE" = "Timeline";
 
-/* Description for Timeline Settings post swipe gesture menu item */
-"TIMELINE_SETTINGS_POST_SWIPE_GESTURE_DESCRIPTION" = "Configure your left and right swipe gestures for a post on your timeline";
+/* Title for Timeline Settings post interaction menu item */
+"TIMELINE_SETTINGS_POST_INTERACTION_DESCRIPTION" = "Customize how you interact with posts";
+
+/* Title for Timeline Settings post interaction menu item */
+"TIMELINE_SETTINGS_POST_INTERACTION_TITLE" = "Post interaction";
+
+/* Description for Timeline Settings post swipe gesture toggle */
+"TIMELINE_SETTINGS_POST_SWIPE_GESTURE_DESCRIPTION" = "Add left and right swipe gestures to interact with posts";
 
 /* Label for Timeline Settings post swipe gesture toggle */
 "TIMELINE_SETTINGS_POST_SWIPE_GESTURE_LABEL" = "Enable post swipe gestures";
@@ -18382,11 +19175,14 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* Label for Timeline Settings post swipe left display */
 "TIMELINE_SETTINGS_POST_SWIPE_GESTURE_LEFT_DISPLAY_LABEL" = "Left swipe";
 
+/* Warning for post swipe gesture "Not interested" only being available in the For you timeline */
+"TIMELINE_SETTINGS_POST_SWIPE_GESTURE_NOT_INTERESTED_FOR_YOU" = "This action is only available on the home For you timeline";
+
+/* Option None for Timeline Settings post swipe gesture */
+"TIMELINE_SETTINGS_POST_SWIPE_GESTURE_OPTION_NONE" = "None";
+
 /* Label for Timeline Settings post swipe right display */
 "TIMELINE_SETTINGS_POST_SWIPE_GESTURE_RIGHT_DISPLAY_LABEL" = "Right swipe";
-
-/* Title for Timeline Settings post swipe gesture menu item */
-"TIMELINE_SETTINGS_POST_SWIPE_GESTURE_TITLE" = "Post swipe gestures";
 
 /* Title for timelines sort menu sheet option to sort by most liked */
 "TIMELINE_SORT_BY_LIKED" = "Most liked";

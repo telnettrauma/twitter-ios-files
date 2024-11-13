@@ -1,0 +1,81 @@
+[
+  {
+    "metadataOutputVersion" : "3.0",
+    "storagePrecision" : "Float16",
+    "outputSchema" : [
+      {
+        "hasShapeFlexibility" : "0",
+        "isOptional" : "0",
+        "dataType" : "Float32",
+        "formattedType" : "MultiArray (Float32)",
+        "shortDescription" : "",
+        "shape" : "[]",
+        "name" : "output_0",
+        "type" : "MultiArray"
+      },
+      {
+        "hasShapeFlexibility" : "0",
+        "isOptional" : "0",
+        "dataType" : "Float32",
+        "formattedType" : "MultiArray (Float32)",
+        "shortDescription" : "",
+        "shape" : "[]",
+        "name" : "output_1",
+        "type" : "MultiArray"
+      }
+    ],
+    "modelParameters" : [
+
+    ],
+    "specificationVersion" : 4,
+    "computePrecision" : "Float16",
+    "isUpdatable" : "0",
+    "availability" : {
+      "macOS" : "10.15",
+      "tvOS" : "13.0",
+      "visionOS" : "1.0",
+      "watchOS" : "6.0",
+      "iOS" : "13.0",
+      "macCatalyst" : "13.0"
+    },
+    "neuralNetworkLayerTypeHistogram" : {
+      "DivideBroadcastable" : 1,
+      "InnerProduct" : 8,
+      "ReduceMin" : 1,
+      "Convolution" : 20,
+      "Clip" : 12,
+      "ActivationSigmoid" : 1,
+      "ReshapeStatic" : 10,
+      "ReduceMax" : 1,
+      "Squeeze" : 1,
+      "Add" : 17,
+      "Multiply" : 25,
+      "ActivationLinear" : 2,
+      "ActivationReLU" : 9,
+      "PoolingAverage" : 5
+    },
+    "modelType" : {
+      "name" : "MLModelType_neuralNetwork"
+    },
+    "userDefinedMetadata" : {
+      "com.github.apple.coremltools.version" : "5.0b3",
+      "com.github.apple.coremltools.source" : "torch==1.8.1"
+    },
+    "generatedClassName" : "GlareClassify",
+    "inputSchema" : [
+      {
+        "height" : "112",
+        "colorspace" : "RGB",
+        "isOptional" : "0",
+        "width" : "112",
+        "isColor" : "1",
+        "formattedType" : "Image (Color 112 × 112)",
+        "hasSizeFlexibility" : "0",
+        "type" : "Image",
+        "shortDescription" : "",
+        "name" : "input_0"
+      }
+    ],
+    "method" : "predict"
+  }
+]

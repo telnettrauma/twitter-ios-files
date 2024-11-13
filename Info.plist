@@ -163,6 +163,13 @@
     <array>
       <string>twitter</string>
       <string>whatsapp</string>
+      <string>snapchat</string>
+      <string>spotify</string>
+      <string>barcelona</string>
+      <string>tesla</string>
+      <string>twitch</string>
+      <string>youtube</string>
+      <string>bluesky</string>
       <string>anchorfm</string>
       <string>arcmobile2</string>
       <string>cashme</string>
@@ -187,7 +194,6 @@
       <string>googlemaps</string>
       <string>googletranslate</string>
       <string>googlevoice</string>
-      <string>hbonow</string>
       <string>hulu</string>
       <string>instagram</string>
       <string>instagram-stories</string>
@@ -199,18 +205,12 @@
       <string>paypal</string>
       <string>perplexity-app</string>
       <string>pinterest</string>
-      <string>snapchat</string>
       <string>soundcloud</string>
-      <string>spotify</string>
       <string>tg</string>
       <string>ai.character.app</string>
-      <string>barcelona</string>
-      <string>tesla</string>
-      <string>twitch</string>
       <string>viber</string>
       <string>vimeo</string>
       <string>yelp</string>
-      <string>youtube</string>
     </array>
     <key>CFBundleSignature</key>
     <string>????</string>
@@ -321,7 +321,7 @@
     <key>MinimumOSVersion</key>
     <string>15.0</string>
     <key>TWBuildNumber</key>
-    <string>2</string>
+    <string>14</string>
     <key>NSPhotoLibraryAddUsageDescription</key>
     <string>This lets you download photos and videos to your Photos.</string>
     <key>SKAdNetworkItems</key>
@@ -538,9 +538,9 @@
     <key>CFBundleName</key>
     <string>Twitter</string>
     <key>CFBundleShortVersionString</key>
-    <string>10.65.1</string>
+    <string>10.67</string>
     <key>TWBuildTime</key>
-    <string>2024-10-29T05:05:43Z</string>
+    <string>2024-11-12T21:22:56Z</string>
     <key>UIBackgroundModes</key>
     <array>
       <string>audio</string>
@@ -596,7 +596,7 @@
     <key>FirebaseScreenReportingEnabled</key>
     <false/>
     <key>BuildMachineOSBuild</key>
-    <string>23E214</string>
+    <string>23D60</string>
     <key>NSLocationUsageDescription</key>
     <string>Enjoy the X experience tailored to your location.</string>
     <key>TWSharedApplicationGroupIdentifier</key>
@@ -612,7 +612,7 @@
     <key>TWPushEnvironment</key>
     <string>3</string>
     <key>CFBundleVersion</key>
-    <string>2</string>
+    <string>14</string>
     <key>CFBundleDevelopmentRegion</key>
     <string>English</string>
     <key>DTCompiler</key>
