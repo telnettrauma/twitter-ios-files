@@ -1,6 +1,6 @@
 {
   "default" : {
-    "feature_set_token" : "bee0d06178ad74eef880f2eb839f2f9bce5234b2",
+    "feature_set_token" : "21a7a07c26b5441449c41c15b00c14a32458486e",
     "config" : {
       "2fa_temporary_password_enabled" : {
         "value" : false
@@ -1473,9 +1473,15 @@
         "value" : 5.0
       },
       "explore_relaunch_broadcast_chat_history_error_ignore_enabled" : {
-        "value" : false
+        "value" : true
+      },
+      "explore_relaunch_broadcast_chat_history_error_ignore_for_live_enabled" : {
+        "value" : true
       },
       "explore_relaunch_broadcast_is_live_messages_threshold_date_fix_enabled" : {
+        "value" : true
+      },
+      "explore_relaunch_broadcast_live_chat_annotated_and_highlighted_replies_enabled" : {
         "value" : true
       },
       "explore_relaunch_broadcast_live_chat_usernames_only_enabled" : {
@@ -1485,7 +1491,7 @@
         "value" : true
       },
       "explore_relaunch_broadcast_muted_live_messages_placeholder_enabled" : {
-        "value" : false
+        "value" : true
       },
       "explore_relaunch_broadcast_support_enabled" : {
         "value" : true
@@ -1968,12 +1974,6 @@
         "value" : 2.0
       },
       "immersive_ios_v2_ui_enabled" : {
-        "value" : false
-      },
-      "immersive_ios_v2_ui_preload_replies_after_seconds" : {
-        "value" : 1.0
-      },
-      "immersive_ios_v2_ui_preload_replies_enabled" : {
         "value" : false
       },
       "immersive_ios_v2_ui_with_tab_bar_enabled" : {
@@ -4860,7 +4860,7 @@
   "requires_restart" : [ ],
   "supports_accessibility" : [ ],
   "versions" : {
-    "feature_switches" : "3cd231526fab9c0cdc2ede8c5d9b9bad67967761",
-    "experiments" : "3cd231526fab9c0cdc2ede8c5d9b9bad67967761"
+    "feature_switches" : "9aaa8459b08584f418cabdd7fa5f5929b4db262a",
+    "experiments" : "9aaa8459b08584f418cabdd7fa5f5929b4db262a"
   }
 }
