@@ -1,6 +1,6 @@
 {
   "default" : {
-    "feature_set_token" : "738e310d004a62899b5857e39ce48f383023d508",
+    "feature_set_token" : "1eb848ec5a81173081e0e17f323296d8718a6c89",
     "config" : {
       "2fa_temporary_password_enabled" : {
         "value" : false
@@ -2661,16 +2661,16 @@
         "value" : 1.0
       },
       "ios_tav_pauses_video_after_interactive_pop_enabled" : {
-        "value" : false
+        "value" : true
       },
       "ios_tav_pinch_to_zoom_enabled" : {
-        "value" : false
+        "value" : true
       },
       "ios_tav_pinch_to_zoom_nux_enabled" : {
         "value" : false
       },
       "ios_tav_pinch_to_zoom_nux_tooltip_enabled" : {
-        "value" : false
+        "value" : true
       },
       "ios_tav_playback_start_forward_buffer" : {
         "value" : 2.0
@@ -2958,7 +2958,7 @@
         "value" : "\u3044\u3064\u3082\u304a\u4ed5\u4e8b\u304a\u75b2\u308c\u69d8\u3067\u3059\u3002\u305f\u307e\u306b\u306f\u3086\u3063\u304f\u308a\u3057\u3066\u4e0b\u3055\u3044\u306d\u2615 \ud835\udd4f\u306e\u3054\u5229\u7528\u3082\u3044\u3064\u3082\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\ud83e\udef6 #\u52e4\u52b4\u611f\u8b1d\u306e\u65e5"
       },
       "japan_holidays_labor_thanks_giving_message_trigger" : {
-        "value" : [ "#\u52e4\u52b4\u611f\u8b1d", "#\u52e4\u52b4\u611f\u8b1d\u306e\u65e5" ]
+        "value" : [ "\u52e4\u52b4\u611f\u8b1d", "\u4ed5\u4e8b", "\u52b4\u50cd", "\u50cd\u304f" ]
       },
       "jiminy_team_holdback_enabled" : {
         "value" : false
@@ -3124,6 +3124,9 @@
       },
       "login_verification_totp_generator_enabled" : {
         "value" : true
+      },
+      "longform_notetweets_characters_overflow_highlight_enabled" : {
+        "value" : false
       },
       "longform_notetweets_composer_upsell_enabled" : {
         "value" : true
@@ -4857,7 +4860,7 @@
         "value" : true
       },
       "xprofile_jetfuel_enabled" : {
-        "value" : false
+        "value" : true
       },
       "xprofile_private_likes" : {
         "value" : true
@@ -4890,7 +4893,7 @@
   "requires_restart" : [ ],
   "supports_accessibility" : [ ],
   "versions" : {
-    "feature_switches" : "57d3d206fa33615014664ff57471467b9a7e9876",
-    "experiments" : "57d3d206fa33615014664ff57471467b9a7e9876"
+    "feature_switches" : "29604accfdc43d549ebee6a4c8e99d8b72018560",
+    "experiments" : "29604accfdc43d549ebee6a4c8e99d8b72018560"
   }
 }
