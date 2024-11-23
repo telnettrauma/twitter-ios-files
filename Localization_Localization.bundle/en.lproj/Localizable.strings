@@ -86,8 +86,11 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the screen that allows a user to send or request money to another user. %@ is replaced by the (already formatted) current balance of the user’s account, for example "$100". */
 "PAYMENTS_BALANCE_TITLE" = "Balance %@";
 
-/* Payments: Title of the button that allows a user to cancel a money transfer request */
+/* Payments: Title of the button that allows a user to cancel a money transfer */
 "PAYMENTS_CANCEL_TRANSFER_ACTION" = "Cancel";
+
+/* Payments: Title of the button that allows a user to cancel a money transfer request */
+"PAYMENTS_CANCEL_TRANSFER_REQUEST_ACTION" = "Cancel request";
 
 /* Payments: Title of a button that allows a user to contact the support. */
 "PAYMENTS_CONTACT_SUPPORT_ACTION" = "Contact support";
@@ -448,6 +451,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Title of the screen where users enter their zip code during X Payments onboarding. */
 "PAYMENTS_ONBOARDING_ZIP_CODE_TITLE" = "What’s your zip code?";
+
+/* Payments: Error shown when the user attemps to create a transaction, but their bank account needs to be verified/linked again. */
+"PAYMENTS_PAYMENT_METHOD_LINK_REQUIRED_ERROR_TITLE" = "You need to login to verify your bank account before you can proceed.";
 
 /* Payments: Status displayed next to a bank account when we weren't able to access it (via Plaid). */
 "PAYMENTS_PAYMENT_METHOD_STATUS_INVALID_OR_REVOKED" = "Access denied";
@@ -1108,6 +1114,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Accessibility label of White X on space stars background app icon that is read to users with VoiceOver enabled.*/
 "APP_ICON_STARS_DESCRIPTION" = "White X on space stars background";
+
+/* Accessibility label of one of the Thanksgiving icons for users with VoiceOver enabled.*/
+"APP_ICON_THANKSGIVING_DESCRIPTION" = "A Thanksgiving and Fall themed Fall icon.";
 
 /* App install card free format. */
 "APP_INSTALL_CARD_FREE_LABEL" = "iTunes · FREE";
@@ -9165,7 +9174,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "STICKER_CATEGORY_RECENT_TITLE" = "Recent";
 
 /* Text for toast message that informs the user their X app icon will be reverting to the default X app icon. This alert shows when the custom icons feature switch is turned off. */
-"SUBSCRIPTION_APP_ICON_FORCE_REVERT_ICON_FEATURE_SWITCH_OFF_TEXT" = "Looks like that birdie flew away, but we’re working on something new for you.";
+"SUBSCRIPTION_APP_ICON_FORCE_REVERT_ICON_FEATURE_SWITCH_OFF_TEXT" = "An app icon you were using has been discontinued. Please choose a new one in Premium Hub.";
 
 /* Text for toast message that informs the user their X app icon will be reverting to the default X app icon. This alert shows when the user loggs out of the application. */
 "SUBSCRIPTION_APP_ICON_FORCE_REVERT_ICON_LOGGED_OUT_TEXT" = "Log back into your Premium-subscribed  account to pick a new custom app icon.";
@@ -9324,6 +9333,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Title for the screen where an user wants to gift premium to another user */
 "SUBSCRIPTION_GIFTING_TITLE" = "Gift Premium";
 
+/* Title for the screen where an user wants to gift premium to another user - with a discount */
+"SUBSCRIPTION_GIFTING_TITLE_WITH_INTRO" = "Gift Premium at a 40% discount for a limited time.";
+
 /* Subtitle in the Manage subscriptions page explaining that the certain tier is granted and managed by Verified Organisation. */
 "SUBSCRIPTION_MANAGE_SUBSCRIPTION_BUSINESS_SUBTITLE_WITH_TIER" = "You are receiving %@ because your organization is a Verified Organizations subscriber. Contact your organization for more details.";
 
@@ -9404,6 +9416,18 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* Premium product name to be used in upsells that promotes a discount */
 "SUBSCRIPTION_PREMIUM_UPSELL_PERCENTAGE_OFF" = "🎁 %d%% off";
+
+/* Premium product name to be used in upsells that promotes a discount - precent off */
+"SUBSCRIPTION_PREMIUM_UPSELL_PERCENTAGE_OFF_DASH" = "%d%% off";
+
+/* Premium product name to be used in upsells that promotes a discount - ends tonight */
+"SUBSCRIPTION_PREMIUM_UPSELL_PERCENTAGE_OFF_DASH_ENDS_TONIGHT" = "Ends tonight";
+
+/* Premium product name to be used in upsells that promotes a discount - expiring soon */
+"SUBSCRIPTION_PREMIUM_UPSELL_PERCENTAGE_OFF_EXPIRING_SOON" = "⏰ Expiring soon";
+
+/* Premium product name to be used in upsells that promotes a discount - last chance */
+"SUBSCRIPTION_PREMIUM_UPSELL_PERCENTAGE_OFF_LAST_CHANCE" = "🔥 Last chance";
 
 /* Description for page of settings related to your Premium subscription */
 "SUBSCRIPTION_SETTINGS_DESCRIPTION" = "Manage your subscription features including Undo post timing.";
@@ -12880,10 +12904,10 @@ eg. "Super Following Jack" */
 "DM_MESSAGE_ACTION_COPY_TITLE" = "Copy";
 
 /* DM message action Delete for all title */
-"DM_MESSAGE_ACTION_DELETE_FOR_ALL_TITLE" = "Delete for all";
+"DM_MESSAGE_ACTION_DELETE_FOR_ALL_TITLE" = "Delete message for all";
 
-/* DM message action Delete for me title */
-"DM_MESSAGE_ACTION_DELETE_FOR_ME_TITLE" = "Delete for me";
+/* DM message action Delete for you title */
+"DM_MESSAGE_ACTION_DELETE_FOR_YOU_TITLE" = "Delete message for you";
 
 /* DM message action Edit title */
 "DM_MESSAGE_ACTION_EDIT_TITLE" = "Edit message";
@@ -17592,6 +17616,9 @@ eg. "Super Following Jack" */
 /* Label to rename a grok conversation */
 "GROK_RENAME_CONVERSATION_TITLE" = "Enter new title:";
 
+/* A title for Grok request timeout banner */
+"GROK_REQUEST_TIMEOUT_MESSAGE" = "Request timed out, tap to try again";
+
 /* Label for when waiting for grok response */
 "GROK_RESEARCHING_LABEL" = "Researching";
 
@@ -17715,6 +17742,12 @@ eg. "Super Following Jack" */
 
 /* Label for grok paywall sub header */
 "GROK_UPSELL_SUB_HEADLINE" = "Our newest AI assistant, powered by X";
+
+/* Grok web results label */
+"GROK_WEB_RESULTS_LABEL" = "%d% Relevant Web Pages";
+
+/* Grok web results title */
+"GROK_WEB_RESULTS_TITLE" = "Relevant Web Pages";
 
 // Section: Frameworks/PremiumHub/Sources/PremiumHubStrings/en.lproj/Localizable.strings
 
