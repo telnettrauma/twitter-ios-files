@@ -6465,7 +6465,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "PERSONALIZATION_SETTINGS_PERSONALIZATION_HEADER" = "Personalization";
 
 /* Details format for sharing data with grok personalization setting. */
-"PERSONALIZATION_SETTINGS_SHARING_DATA_WITH_GROK_PERSONALIZATION_DETAILS_FORMAT" = "To continuously improve your experience, we may utilize your X posts as well as your user interactions, inputs and results with Grok for training and fine-tuning purposes. This also means that your interactions, inputs, and results may also be shared with our service provider xAI for these purposes. %@";
+"PERSONALIZATION_SETTINGS_SHARING_DATA_WITH_GROK_PERSONALIZATION_DETAILS_FORMAT" = "X may share with xAI your X public data as well as your user interactions, inputs and results with Grok on X to train and fine-tune Grok and other AI models developed by xAI. This helps us continuously improve your user experience. %@";
 
 /* Details format for sharing data with partners personalization setting. */
 "PERSONALIZATION_SETTINGS_SHARING_DATA_WITH_PARTNERS_PERSONALIZATION_DETAILS_FORMAT" = "X always shares information with business partners as a way to run and improve its products. When enabled, this allows X to share additional information with those partners to help support running X’s business, including making X’s marketing activities on other sites and apps more relevant for you. %@";
@@ -6739,6 +6739,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* Accessibility label for the unmute button used to turn on the volume */
 "PLAYER_CONTROL_BAR_UNMUTE_ACCESSIBILITY_LABEL" = "Unmute";
+
+/* Accessibility video timeline slider */
+"PLAYER_CONTROL_VIDEO_TIMELINE_ACCESSIBILITY_LABEL" = "Video progress control";
 
 /* Play next video button label in multi video carousel for accessibility */
 "PLAY_NEXT_VIDEO_ACCESSIBILITY_LABEL" = "Play next video";
@@ -8817,10 +8820,10 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "SETTINGS_FOR_YOU_RECOMMENDATIONS_TITLE" = "Show recommended content in the For you timeline";
 
 /* Description for Grok in the data sharing settings page */
-"SETTINGS_GROK_DATA_DETAILS" = "Allow your posts as well as your interactions, inputs, and results with Grok to be used for training and fine-tuning.";
+"SETTINGS_GROK_DATA_DETAILS" = "Allow your public data as well as your interactions, inputs, and results with Grok and xAI to be used for training and fine-tuning.";
 
 /* Header for Grok in the data sharing settings page */
-"SETTINGS_GROK_DATA_TITLE" = "Grok";
+"SETTINGS_GROK_DATA_TITLE" = "Grok & Third-party Collaborators";
 
 /* Header for interaction section of accessibility settings page */
 "SETTINGS_HEADER_INTERACTION" = "Interaction";
@@ -12915,6 +12918,12 @@ eg. "Super Following Jack" */
 /* DM message action Reply title */
 "DM_MESSAGE_ACTION_REPLY_TITLE" = "Reply";
 
+/* DM Message composer reply header title for edit message */
+"DM_MESSAGE_COMPOSER_EDIT_MESSAGE_HEADER_TITLE" = "Edit message";
+
+/* DM Message composer reply header title for messages sent by logged in user */
+"DM_MESSAGE_COMPOSER_REPLY_HEADER_SENT_TITLE" = "You";
+
 /* Status appearing underneath message when edited with timestamp */
 "DM_MESSAGE_STATUS_EDITED_AND_TIMESTAMP" = "Edited %@";
 
@@ -13773,6 +13782,9 @@ eg. "Super Following Jack" */
 
 /* The label for the action to remove a moderator of a Community. ex: "Remove from Community mod team" (Where "mod" is short for "moderation")*/
 "COMMUNITY_MEMBER_VIEW_REMOVE_MODERATOR_ACTION_LABEL" = "Remove from mod team";
+
+/* Title of the community moderation log tab */
+"COMMUNITY_MODERATION_LOG_TITLE" = "Moderation log";
 
 /* Title of the confirm button on the moderator education prompt. Shown after a member is promoted to moderator. */
 "COMMUNITY_MODERATOR_EDUCATION_PROMPT_CONFIRM_BUTTON" = "Got it";
@@ -17580,14 +17592,14 @@ eg. "Super Following Jack" */
 /* Button label to fetch prompts again */
 "GROK_PROMPTS_RELOAD_BUTTON_LABEL" = "Retry";
 
-/* Days duration for Grok rate limits */
-"GROK_RATE_LIMIT_DAY" = "day";
-
-/* Hour duration for Grok rate limits */
-"GROK_RATE_LIMIT_HOUR" = "hour";
-
 /* Copy for Grok rate limit banner */
 "GROK_RATE_LIMIT_IMAGE_GEN_COPY" = "Free accounts can generate up to %1$@ images every %2$@. Upgrade today to generate more.";
+
+/* Copy for Grok rate limit banner */
+"GROK_RATE_LIMIT_IMAGE_GEN_COPY_DAY" = "Free accounts can generate up to %1$@ images every day. Upgrade today to generate more.";
+
+/* Copy for Grok rate limit banner */
+"GROK_RATE_LIMIT_IMAGE_GEN_COPY_HOUR" = "Free accounts can generate up to %1$@ images every hour. Upgrade today to generate more.";
 
 /* A title for Grok rate limit banner */
 "GROK_RATE_LIMIT_IMAGE_GEN_TITLE" = "Generate more images with Premium";
@@ -17595,11 +17607,23 @@ eg. "Super Following Jack" */
 /* Copy for Grok rate limit banner */
 "GROK_RATE_LIMIT_IMAGE_UPLOAD_COPY" = "Free accounts can analyze up to %1$@ images every %2$@. Upgrade today to analyze more.";
 
+/* Copy for Grok rate limit banner */
+"GROK_RATE_LIMIT_IMAGE_UPLOAD_COPY_DAY" = "Free accounts can analyze up to %1$@ images every day. Upgrade today to analyze more.";
+
+/* Copy for Grok rate limit banner */
+"GROK_RATE_LIMIT_IMAGE_UPLOAD_COPY_HOUR" = "Free accounts can analyze up to %1$@ images every hour. Upgrade today to analyze more.";
+
 /* A title for Grok rate limit banner */
 "GROK_RATE_LIMIT_IMAGE_UPLOAD_TITLE" = "Analyze more images with Premium";
 
 /* Copy for Grok rate limit banner */
 "GROK_RATE_LIMIT_QUESTION_COPY" = "Free accounts can send up to %1$@ messages every %2$@. Upgrade now to send more.";
+
+/* Copy for Grok rate limit banner */
+"GROK_RATE_LIMIT_QUESTION_COPY_DAY" = "Free accounts can send up to %1$@ messages every day. Upgrade now to send more.";
+
+/* Copy for Grok rate limit banner */
+"GROK_RATE_LIMIT_QUESTION_COPY_HOUR" = "Free accounts can send up to %1$@ messages every hour. Upgrade now to send more.";
 
 /* A title for Grok rate limit banner */
 "GROK_RATE_LIMIT_QUESTION_TITLE" = "Send more messages with Premium";
@@ -17742,6 +17766,9 @@ eg. "Super Following Jack" */
 
 /* Label for grok paywall sub header */
 "GROK_UPSELL_SUB_HEADLINE" = "Our newest AI assistant, powered by X";
+
+/* Label to view a conversation */
+"GROK_VIEW_CONVERSATION" = "View conversation";
 
 /* Grok web results label */
 "GROK_WEB_RESULTS_LABEL" = "%d% Relevant Web Pages";
@@ -21212,6 +21239,9 @@ eg. "- @jack" */
 
 /* Label used as title for the Community Feedback web view */
 "COMMUNITY_FEEDBACK_WEBVIEW_TITLE" = "Community Feedback";
+
+/* Title of the Community Moderation Log Webview */
+"COMMUNITY_MODERATION_LOG_WEBVIEW_TITLE" = "Moderation log";
 
 /* Added to the end of a post when it is sent using a web intent. (eg. "I like clouds via X Web") */
 "COMPOSE_TWEET_VIA_SUFFIX_TEXT_FORMAT" = "via %@";
