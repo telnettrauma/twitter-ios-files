@@ -936,6 +936,10 @@
 		<data>
 		MeubcFqM1ZOU3QsnKvAHw3qAAAY=
 		</data>
+		<key>VectorImages/main/jesters_hat.svg</key>
+		<data>
+		WRPd39axPgAPp7csFA285hrVdyg=
+		</data>
 		<key>VectorImages/main/key_stroke.svg</key>
 		<data>
 		lxBYByOo+3wKo3QzYTx09wRZRX0=
@@ -5136,6 +5140,17 @@
 			<key>hash2</key>
 			<data>
 			7GXHkcZMDZphBRCJceIL9gTaH6KdI5FkiA3xBHf2jGA=
+			</data>
+		</dict>
+		<key>VectorImages/main/jesters_hat.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WRPd39axPgAPp7csFA285hrVdyg=
+			</data>
+			<key>hash2</key>
+			<data>
+			+G3m9rklxdBuqIHFOCGbnOmQss0XMmZ7eRLZA0dETMo=
 			</data>
 		</dict>
 		<key>VectorImages/main/key_stroke.svg</key>

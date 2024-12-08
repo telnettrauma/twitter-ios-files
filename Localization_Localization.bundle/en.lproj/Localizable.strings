@@ -126,7 +126,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ERROR_ACCESS_DENIED_MESSAGE" = "Access denied";
 
 /* Payments: Generic error message shown when additional identity verification is required to continue using X Payments. */
-"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED" = "We need to verify your identify to continue";
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED" = "We need to verify your identity to continue";
 
 /* Payments: Additional message shown when additional KYC (Know Your Customer) information is required due to exceeding a limit. */
 "PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_LIMIT_MESSAGE" = "It should only take a few minutes and helps keep X Payments and your account safe.";
@@ -135,13 +135,13 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_MESSAGE" = "We need to make sure you are really you. It should only take a few minutes and helps keep Payments and your account safe.";
 
 /* Payments: Error message shown when a user has exceeded their monthly transaction limits and needs to verify their identity to continue. */
-"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_MONTHLY_LIMIT" = "You’ve exceeded your monthly limits, and we need to verify your identify to continue";
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_MONTHLY_LIMIT" = "You’ve exceeded your monthly limits, and we need to verify your identity to continue";
 
 /* Payments: Error message shown when a user has exceeded their total transaction limits and needs to verify their identity to continue. */
-"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_TOTAL_LIMIT" = "You’ve exceeded your limits, and we need to verify your identify to continue";
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_TOTAL_LIMIT" = "You’ve exceeded your limits, and we need to verify your identity to continue";
 
 /* Payments: Error message shown when a user has exceeded their weekly transaction limits and needs to verify their identity to continue. */
-"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_WEEKLY_LIMIT" = "You’ve exceeded your weekly limits, and we need to verify your identify to continue";
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_WEEKLY_LIMIT" = "You’ve exceeded your weekly limits, and we need to verify your identity to continue";
 
 /* Payments: Error message shown when there’s an issue with the user’s bank while processing a transfer. */
 "PAYMENTS_ERROR_BANK_ISSUE" = "There was an issue with your bank while processing your transfer.";
@@ -353,14 +353,8 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the screen shown when a user is not eligible for X Payments. */
 "PAYMENTS_ONBOARDING_NOT_ELIGIBLE_TITLE" = "You’re not yet eligible for Payments";
 
-/* Payments: Message indicating that transactions are still being processed during X Payments onboarding. */
-"PAYMENTS_ONBOARDING_PENDING_TRANSACTIONS_STILL_PROCESSING" = "We’re still processing your transactions. We’ll notify you once they are complete.";
-
-/* Payments: Subtitle explaining the potential timeline for transaction settlement during X Payments onboarding. */
-"PAYMENTS_ONBOARDING_PENDING_TRANSACTIONS_SUBTITLE" = "It may take up to 3 business days for the funds to be settled";
-
-/* Payments: Title of the screen showing pending transactions during X Payments onboarding. */
-"PAYMENTS_ONBOARDING_PENDING_TRANSACTIONS_TITLE" = "Processing your transactions";
+/* Payments: Message indicating that transactions are being processed during X Payments onboarding. */
+"PAYMENTS_ONBOARDING_PENDING_TRANSACTIONS_PROCESSING" = "We’re processing your transactions. We’ll notify you once they are complete.";
 
 /* Payments: Title of the screen where users confirm their phone number during X Payments onboarding. */
 "PAYMENTS_ONBOARDING_PHONE_NUMBER_CONFIRM_TITLE" = "Confirm your phone number";
@@ -444,7 +438,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ONBOARDING_VERIFY_IDENTITY_SUBTITLE" = "All photos are encrypted so your information stays private.";
 
 /* Payments: Title of the screen where users verify their identity with a photo ID and selfie during X Payments onboarding. */
-"PAYMENTS_ONBOARDING_VERIFY_IDENTITY_TITLE" = "Verify your identify with a photo of your ID and face to continue";
+"PAYMENTS_ONBOARDING_VERIFY_IDENTITY_TITLE" = "Verify your identity with a photo of your ID and face to continue";
 
 /* Payments: Label for the zip code field in the X Payments onboarding process. */
 "PAYMENTS_ONBOARDING_ZIP_CODE_FIELD_NAME" = "Zip code";
@@ -12852,17 +12846,8 @@ eg. "Super Following Jack" */
 /* DM disconnected connection status title */
 "DM_CONNECTION_STATUS_DISCONNECTED_TITLE" = "Disconnected";
 
-/* DM delete conversation alert leave action */
-"DM_DELETE_CONVERSATION_ALERT_ACTION_LEAVE" = "Leave";
-
-/* DM delete conversation alert message */
-"DM_DELETE_CONVERSATION_ALERT_MESSAGE" = "This conversation will be deleted from your inbox. Other people in the conversation will still be able to see it.";
-
-/* DM delete conversation alert group title */
-"DM_DELETE_CONVERSATION_ALERT_TITLE_GROUP" = "Leave conversation?";
-
-/* DM delete conversation alert one on one title */
-"DM_DELETE_CONVERSATION_ALERT_TITLE_ONE_ON_ONE" = "Delete conversation?";
+/* DM try again error message */
+"DM_ERROR_MESSAGE_TRY_AGAIN" = "Please try again later";
 
 /* DM Inbox Empty start a conversation action */
 "DM_INBOX_EMPTY_ACTION_START_A_CONVERSATION" = "Write a message";
@@ -12876,11 +12861,53 @@ eg. "Super Following Jack" */
 /* DM Inbox new message button accessibility label */
 "DM_INBOX_NEW_MESSAGE_ACCESSIBILITY_LABEL" = "Compose New Message";
 
+/* DM Manage Conversation Add as admin action error title */
+"DM_MANAGE_CONVERSATION_ACTION_ADD_AS_ADMIN_ERROR_TITLE" = "Unable to add as admin";
+
+/* DM Manage Conversation Add as admin action title */
+"DM_MANAGE_CONVERSATION_ACTION_ADD_AS_ADMIN_TITLE" = "Add as admin";
+
 /* DM Manage Conversation Add people action title */
 "DM_MANAGE_CONVERSATION_ACTION_ADD_PEOPLE_TITLE" = "Add people";
 
+/* DM Manage Conversation Delete conversation action alert delete action */
+"DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_ACTION_DELETE" = "Delete";
+
+/* DM Manage Conversation Delete conversation action alert leave action */
+"DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_ACTION_LEAVE" = "Leave";
+
+/* DM Manage Conversation Delete conversation action alert message */
+"DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_MESSAGE" = "This conversation will be deleted from your inbox. Other people in the conversation will still be able to see it.";
+
+/* DM Manage Conversation Delete conversation action alert group title */
+"DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_TITLE_GROUP" = "Leave conversation?";
+
+/* DM Manage Conversation delete conversation action alert one on one title */
+"DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_TITLE_ONE_ON_ONE" = "Delete conversation?";
+
+/* DM Manage Conversation Delete conversation action error title */
+"DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_ERROR_TITLE" = "Unable to delete conversation";
+
+/* DM Manage Conversation Delete conversation action title */
+"DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_TITLE" = "Delete conversation";
+
+/* DM Manage Conversation Leave conversation action error title */
+"DM_MANAGE_CONVERSATION_ACTION_LEAVE_CONVERSATION_ERROR_TITLE" = "Unable to leave conversation";
+
 /* DM Manage Conversation Leave conversation action title */
 "DM_MANAGE_CONVERSATION_ACTION_LEAVE_CONVERSATION_TITLE" = "Leave conversation";
+
+/* DM Manage Conversation Remove as admin action error title */
+"DM_MANAGE_CONVERSATION_ACTION_REMOVE_AS_ADMIN_ERROR_TITLE" = "Unable to remove as admin";
+
+/* DM Manage Conversation Remove as admin action title */
+"DM_MANAGE_CONVERSATION_ACTION_REMOVE_AS_ADMIN_TITLE" = "Remove as admin";
+
+/* DM Manage Conversation Remove from group action error title */
+"DM_MANAGE_CONVERSATION_ACTION_REMOVE_FROM_GROUP_ERROR_TITLE" = "Unable to remove from conversation";
+
+/* DM Manage Conversation Remove from group action  title */
+"DM_MANAGE_CONVERSATION_ACTION_REMOVE_FROM_GROUP_TITLE" = "Remove from group";
 
 /* DM Manage Conversation Resign as admin action title */
 "DM_MANAGE_CONVERSATION_ACTION_RESIGN_AS_ADMIN_TITLE" = "Resign as admin";
@@ -12891,20 +12918,20 @@ eg. "Super Following Jack" */
 /* DM Manage Conversation navigation bar group info title */
 "DM_MANAGE_CONVERSATION_NAVIGATION_BAR_GROUP_INFO_TITLE" = "Group info";
 
-/* DM Manage Conversation user action add as admin title */
-"DM_MANAGE_CONVERSATION_USER_ACTION_ADD_AS_ADMIN_TITLE" = "Add as admin";
-
-/* DM Manage Conversation user action remove as admin title */
-"DM_MANAGE_CONVERSATION_USER_ACTION_REMOVE_AS_ADMIN_TITLE" = "Remove as admin";
-
-/* DM Manage Conversation user action remove from group title */
-"DM_MANAGE_CONVERSATION_USER_ACTION_REMOVE_FROM_GROUP_TITLE" = "Remove from group";
-
 /* DM message action Copy title */
 "DM_MESSAGE_ACTION_COPY_ACCESSIBILITY_ANNOUNCEMENT" = "Copied";
 
+/* DM message action Copy GIF title */
+"DM_MESSAGE_ACTION_COPY_GIF_TITLE" = "Copy GIF";
+
+/* DM message action Copy photo title */
+"DM_MESSAGE_ACTION_COPY_PHOTO_TITLE" = "Copy photo";
+
 /* DM message action Copy title */
 "DM_MESSAGE_ACTION_COPY_TITLE" = "Copy";
+
+/* DM message action Copy video title */
+"DM_MESSAGE_ACTION_COPY_VIDEO_TITLE" = "Copy video";
 
 /* DM message action Delete for all title */
 "DM_MESSAGE_ACTION_DELETE_FOR_ALL_TITLE" = "Delete message for all";
@@ -12917,6 +12944,15 @@ eg. "Super Following Jack" */
 
 /* DM message action Reply title */
 "DM_MESSAGE_ACTION_REPLY_TITLE" = "Reply";
+
+/* DM message action Share GIF title */
+"DM_MESSAGE_ACTION_SHARE_GIF_TITLE" = "Share GIF";
+
+/* DM message action Share photo title */
+"DM_MESSAGE_ACTION_SHARE_PHOTO_TITLE" = "Share photo";
+
+/* DM message action Share video title */
+"DM_MESSAGE_ACTION_SHARE_VIDEO_TITLE" = "Share video";
 
 /* DM Message composer reply header title for edit message */
 "DM_MESSAGE_COMPOSER_EDIT_MESSAGE_HEADER_TITLE" = "Edit message";
@@ -17424,6 +17460,9 @@ eg. "Super Following Jack" */
 /* A disclaimer message to show on the Grok screen */
 "GROK_DISCLAIMER" = "Grok is an early feature and can make mistakes. Verify its outputs.";
 
+/* Button to like the chat response */
+"GROK_DISLIKE" = "Dislike";
+
 /* Button to edit the text */
 "GROK_EDIT_TEXT" = "Edit prompt";
 
@@ -17441,6 +17480,69 @@ eg. "Super Following Jack" */
 
 /* Copy for Grok eligibility banner  */
 "GROK_ELIGIBILITY_PHONE_TITLE" = "Add a phone number";
+
+/* Prompt that is automatically sent to Grok when the user enters textual feedback about the last response. %@ is replaced with the feedback the user entered. */
+"GROK_FEEDBACK_AUTO_RESPONSE_PROMPT" = "Please revise your response to incorporate my feedback: %@";
+
+/* Copy for Grok thumbs-down feedback menu */
+"GROK_FEEDBACK_BAD_POST_RESULTS" = "Bad post results";
+
+/* Copy for Grok thumbs-down feedback menu */
+"GROK_FEEDBACK_BAD_STYLE_TONE" = "Bad style/tone";
+
+/* Copy for Grok thumbs-down feedback menu */
+"GROK_FEEDBACK_BIASED_ANSWER" = "Biased answer";
+
+/* Copy for Grok thumbs-down feedback menu */
+"GROK_FEEDBACK_CODE_INCORRECT" = "Code is incorrect";
+
+/* Text placeholder for input alert that allows a user to specify why they submitted thumbs-down feedback */
+"GROK_FEEDBACK_COMMENT_INPUT_PLACEHOLDER" = "Describe what went wrong";
+
+/* Title for input alert that allows a user to specify why they submitted thumbs-down feedback */
+"GROK_FEEDBACK_COMMENT_INPUT_TITLE" = "What can Grok do better?";
+
+/* Title of "Submit" button of input alert that allows a user to specify why they submitted thumbs-down feedback */
+"GROK_FEEDBACK_COMMENT_SUBMIT_ACTION_LABEL" = "Submit";
+
+/* Copy for Grok thumbs-down feedback menu */
+"GROK_FEEDBACK_DIDNT_WANT_CODE" = "Didn’t want code";
+
+/* Copy for Grok thumbs-down feedback menu */
+"GROK_FEEDBACK_DIDNT_WANT_IMAGE" = "Didn’t want image";
+
+/* Copy for Grok thumbs-down feedback menu */
+"GROK_FEEDBACK_DIDNT_WANT_MATH" = "Didn’t want math";
+
+/* Copy for Grok thumbs-down feedback menu */
+"GROK_FEEDBACK_DIDNT_WANT_POSTS" = "Didn’t want posts";
+
+/* Copy for Grok thumbs-down feedback menu */
+"GROK_FEEDBACK_DOESNT_UNDERSTAND_IMAGE" = "Doesn’t understand image";
+
+/* Copy for Grok thumbs-down feedback menu */
+"GROK_FEEDBACK_INCORRECT_ANSWER" = "Incorrect answer";
+
+/* Copy for Grok thumbs-down feedback menu */
+"GROK_FEEDBACK_MATH_INCORRECT" = "Math is incorrect";
+
+/* Copy for Grok thumbs-down feedback menu */
+"GROK_FEEDBACK_TELL_US_MORE" = "Tell us more";
+
+/* Copy for Grok thumbs-down feedback menu */
+"GROK_FEEDBACK_WANTED_DIFFERENT_CODE" = "Wanted different code";
+
+/* Copy for Grok thumbs-down feedback menu */
+"GROK_FEEDBACK_WANTED_DIFFERENT_IMAGE" = "Wanted different image";
+
+/* Copy for Grok thumbs-down feedback menu */
+"GROK_FEEDBACK_WANTED_IMAGE" = "Wanted image";
+
+/* Copy for Grok thumbs-down feedback menu */
+"GROK_FEEDBACK_WANTED_POST_SEARCH" = "Wanted post search";
+
+/* Copy for Grok thumbs-down feedback menu */
+"GROK_FEEDBACK_WANTED_SOMETHING_ELSE" = "Wanted something else";
 
 /* Couldn't fetch share link due to server error */
 "GROK_FETCH_SHARE_LINK_ERROR" = "Error fetching share link";
@@ -17529,6 +17631,9 @@ eg. "Super Following Jack" */
 /* Label for Grok image source */
 "GROK_IMAGE_SOURCE" = "Image generated with FLUX.1 by Black Forest Labs";
 
+/* Button to like the chat response */
+"GROK_LIKE" = "Like";
+
 /** Label displaying the current mode: Fun */
 "GROK_MODE_FUN" = "Fun Mode";
 
@@ -17593,37 +17698,43 @@ eg. "Super Following Jack" */
 "GROK_PROMPTS_RELOAD_BUTTON_LABEL" = "Retry";
 
 /* Copy for Grok rate limit banner */
-"GROK_RATE_LIMIT_IMAGE_GEN_COPY" = "Free accounts can generate up to %1$@ images every %2$@. Upgrade today to generate more.";
+"GROK_RATE_LIMIT_IMAGE_GEN_COPY" = "Your account can generate up to %1$@ images every %2$@. Upgrade today to generate more.";
 
 /* Copy for Grok rate limit banner */
-"GROK_RATE_LIMIT_IMAGE_GEN_COPY_DAY" = "Free accounts can generate up to %1$@ images every day. Upgrade today to generate more.";
+"GROK_RATE_LIMIT_IMAGE_GEN_COPY_DAY" = "Your account can generate up to %1$@ images every day. Upgrade today to generate more.";
 
 /* Copy for Grok rate limit banner */
-"GROK_RATE_LIMIT_IMAGE_GEN_COPY_HOUR" = "Free accounts can generate up to %1$@ images every hour. Upgrade today to generate more.";
+"GROK_RATE_LIMIT_IMAGE_GEN_COPY_HOUR" = "Your account can generate up to %1$@ images every hour. Upgrade today to generate more.";
+
+/* A title for Grok rate limit banner */
+"GROK_RATE_LIMIT_IMAGE_GEN_PREMIUM_TITLE" = "Generate more images with Premium+";
 
 /* A title for Grok rate limit banner */
 "GROK_RATE_LIMIT_IMAGE_GEN_TITLE" = "Generate more images with Premium";
 
 /* Copy for Grok rate limit banner */
-"GROK_RATE_LIMIT_IMAGE_UPLOAD_COPY" = "Free accounts can analyze up to %1$@ images every %2$@. Upgrade today to analyze more.";
+"GROK_RATE_LIMIT_IMAGE_UPLOAD_COPY" = "Your account can analyze up to %1$@ images every %2$@. Upgrade today to analyze more.";
 
 /* Copy for Grok rate limit banner */
-"GROK_RATE_LIMIT_IMAGE_UPLOAD_COPY_DAY" = "Free accounts can analyze up to %1$@ images every day. Upgrade today to analyze more.";
+"GROK_RATE_LIMIT_IMAGE_UPLOAD_COPY_DAY" = "Your account can analyze up to %1$@ images every day. Upgrade today to analyze more.";
 
 /* Copy for Grok rate limit banner */
-"GROK_RATE_LIMIT_IMAGE_UPLOAD_COPY_HOUR" = "Free accounts can analyze up to %1$@ images every hour. Upgrade today to analyze more.";
+"GROK_RATE_LIMIT_IMAGE_UPLOAD_COPY_HOUR" = "Your account can analyze up to %1$@ images every hour. Upgrade today to analyze more.";
 
 /* A title for Grok rate limit banner */
 "GROK_RATE_LIMIT_IMAGE_UPLOAD_TITLE" = "Analyze more images with Premium";
 
 /* Copy for Grok rate limit banner */
-"GROK_RATE_LIMIT_QUESTION_COPY" = "Free accounts can send up to %1$@ messages every %2$@. Upgrade now to send more.";
+"GROK_RATE_LIMIT_QUESTION_COPY" = "Your account can send up to %1$@ messages every %2$@. Upgrade now to send more.";
 
 /* Copy for Grok rate limit banner */
-"GROK_RATE_LIMIT_QUESTION_COPY_DAY" = "Free accounts can send up to %1$@ messages every day. Upgrade now to send more.";
+"GROK_RATE_LIMIT_QUESTION_COPY_DAY" = "Your account can send up to %1$@ messages every day. Upgrade now to send more.";
 
 /* Copy for Grok rate limit banner */
-"GROK_RATE_LIMIT_QUESTION_COPY_HOUR" = "Free accounts can send up to %1$@ messages every hour. Upgrade now to send more.";
+"GROK_RATE_LIMIT_QUESTION_COPY_HOUR" = "Your account can send up to %1$@ messages every hour. Upgrade now to send more.";
+
+/* A title for Grok rate limit banner */
+"GROK_RATE_LIMIT_QUESTION_PREMIUM_TITLE" = "Send more messages with Premium+";
 
 /* A title for Grok rate limit banner */
 "GROK_RATE_LIMIT_QUESTION_TITLE" = "Send more messages with Premium";
@@ -18801,6 +18912,12 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* Label indicating form field is optional. */
 "OPTIONAL_FORM_FIELD_LABEL" = "Optional";
 
+/* Description of the alert confirming to TURN OFF Parody, fan and commentary account settings */
+"PARODY_COMMENTARY_FAN_ACCOUNT_DISABLE_CONFIRMATION_ALERT_DESCRIPTION" = "Turning off this label will remove it from your profile and all past posts. Please check you are compliant with the authenticity policy (%@).";
+
+/* Title of the alert confirming to TURN OFF Parody, fan and commentary account settings */
+"PARODY_COMMENTARY_FAN_ACCOUNT_DISABLE_CONFIRMATION_ALERT_TITLE" = "Remove parody label?";
+
 /* A message in an alert displayed to the user when a transaction to purchase an item is pending an approval */
 "PAYMENTS_TRANSACTION_PENDING_MESSAGE" = "Your purchase is pending approval";
 
@@ -19098,6 +19215,9 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* Button label to share a post via Direct Message */
 "SHARE_VIA_DIRECT_MESSAGE_ACTION_LABEL" = "Send via Direct Message";
+
+/* Button label to share a post via Direct Message */
+"SHARE_VIA_DIRECT_MESSAGE_SHORT_ACTION_LABEL" = "Message";
 
 /* How many seconds in a video user skipped ahead by tapping a skip button.  */
 "SKIPPED_AHEAD_SECONDS" = "+%@ Seconds";
