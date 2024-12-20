@@ -128,6 +128,10 @@
 		<data>
 		3HD3ofWpke6r4Mjev6nQbKp58IE=
 		</data>
+		<key>VectorImages/main/award.svg</key>
+		<data>
+		KOzTYsX3FDfgb+Ot9F95bp3IlbA=
+		</data>
 		<key>VectorImages/main/background_bar_circle_nomargin.svg</key>
 		<data>
 		Yy4aMxE4ojxx7N5x2Pz41ORdaEE=
@@ -243,6 +247,10 @@
 		<key>VectorImages/main/browser_chrome.svg</key>
 		<data>
 		IhShnlxqw5a4qWRQyINVqmsQiBo=
+		</data>
+		<key>VectorImages/main/browser_globe.svg</key>
+		<data>
+		KW3jg5lU3dO5avsRjw5VJPU6ziQ=
 		</data>
 		<key>VectorImages/main/browser_safari.svg</key>
 		<data>
@@ -524,6 +532,10 @@
 		<data>
 		IzP1MtRHWBzDLbx5ZsMDvUJH084=
 		</data>
+		<key>VectorImages/main/cookies.svg</key>
+		<data>
+		NCrLqvMEq3TDEgVSxAkqFNgkezM=
+		</data>
 		<key>VectorImages/main/creditcard_back.svg</key>
 		<data>
 		h24XrR1mloO5ncgwKV1b8fqj+Ls=
@@ -796,6 +808,10 @@
 		<data>
 		u3igs3A4A12uF5HzXT09EV6kji8=
 		</data>
+		<key>VectorImages/main/grok_mode_fun.svg</key>
+		<data>
+		uVPTbB1ANSinx8Z3Y+PWVrOIZJA=
+		</data>
 		<key>VectorImages/main/grok_new_chat.svg</key>
 		<data>
 		+VmwDQwPPvA6PWosw5cGfBI5F6w=
@@ -935,10 +951,6 @@
 		<key>VectorImages/main/italics.svg</key>
 		<data>
 		MeubcFqM1ZOU3QsnKvAHw3qAAAY=
-		</data>
-		<key>VectorImages/main/jesters_hat.svg</key>
-		<data>
-		WRPd39axPgAPp7csFA285hrVdyg=
 		</data>
 		<key>VectorImages/main/key_stroke.svg</key>
 		<data>
@@ -1095,6 +1107,10 @@
 		<key>VectorImages/main/logo_youtube.svg</key>
 		<data>
 		ftOcDGFcOpT9Y+ri2pb2w9teCc0=
+		</data>
+		<key>VectorImages/main/mask.svg</key>
+		<data>
+		DqHZ3hMmQC6Byws5rQgGjSD8cv4=
 		</data>
 		<key>VectorImages/main/media_cast_connected.svg</key>
 		<data>
@@ -1660,6 +1676,10 @@
 		<data>
 		dr4Yj17bgfb8aSS0K7uSPVHhj8o=
 		</data>
+		<key>VectorImages/main/rocket.svg</key>
+		<data>
+		0Rg/bhcmS1mQlHM0kQlruVWtJ4Q=
+		</data>
 		<key>VectorImages/main/rocket_stroke.svg</key>
 		<data>
 		Vl9cPVNXfxJv/LHNP01tfdQY8fo=
@@ -2031,6 +2051,10 @@
 		<key>VectorImages/main/ticket_stroke.svg</key>
 		<data>
 		lhjp9wQUKLTmI0hl8uPVUO7AGPs=
+		</data>
+		<key>VectorImages/main/timeline_alt_stroke.svg</key>
+		<data>
+		tCbS8WrZBs0hLgrEJGUJpfyYjqc=
 		</data>
 		<key>VectorImages/main/timeline_stroke.svg</key>
 		<data>
@@ -2920,6 +2944,17 @@
 			Cx6Nzb2C1FXXRUBmedgZyl8GFoOMlBTzfb20tu9kBXo=
 			</data>
 		</dict>
+		<key>VectorImages/main/award.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KOzTYsX3FDfgb+Ot9F95bp3IlbA=
+			</data>
+			<key>hash2</key>
+			<data>
+			/E0IEQiJS9j0MK8ixaX4nIiY6rLODoFSCavdqwj2mI0=
+			</data>
+		</dict>
 		<key>VectorImages/main/background_bar_circle_nomargin.svg</key>
 		<dict>
 			<key>hash</key>
@@ -3237,6 +3272,17 @@
 			<key>hash2</key>
 			<data>
 			bhU2oDySmQs6p8g9gSUpT/peXZQzCaBoihx8dxkNxCQ=
+			</data>
+		</dict>
+		<key>VectorImages/main/browser_globe.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KW3jg5lU3dO5avsRjw5VJPU6ziQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			ipx6R9ehPAvqdZHKd22jpOSKLohumOsrbOrfs8T3UAE=
 			</data>
 		</dict>
 		<key>VectorImages/main/browser_safari.svg</key>
@@ -4009,6 +4055,17 @@
 			oCbtuZotB5mfPveyBsAlB/elepkL3ymidffOzTvJECY=
 			</data>
 		</dict>
+		<key>VectorImages/main/cookies.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NCrLqvMEq3TDEgVSxAkqFNgkezM=
+			</data>
+			<key>hash2</key>
+			<data>
+			y/Q9+nL8oL82pKkkWToVuI0/9OMSBc5iCrVI6kM3nEc=
+			</data>
+		</dict>
 		<key>VectorImages/main/creditcard_back.svg</key>
 		<dict>
 			<key>hash</key>
@@ -4757,6 +4814,17 @@
 			jDXAFUAqVj0ir/4+5mVS8dWrGFiLj4XRoDh+p9pETOc=
 			</data>
 		</dict>
+		<key>VectorImages/main/grok_mode_fun.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uVPTbB1ANSinx8Z3Y+PWVrOIZJA=
+			</data>
+			<key>hash2</key>
+			<data>
+			a4QWlfgz7pXt9qSnsl4pl0A0ctzwAwVhAsOe77lK14U=
+			</data>
+		</dict>
 		<key>VectorImages/main/grok_new_chat.svg</key>
 		<dict>
 			<key>hash</key>
@@ -5140,17 +5208,6 @@
 			<key>hash2</key>
 			<data>
 			7GXHkcZMDZphBRCJceIL9gTaH6KdI5FkiA3xBHf2jGA=
-			</data>
-		</dict>
-		<key>VectorImages/main/jesters_hat.svg</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WRPd39axPgAPp7csFA285hrVdyg=
-			</data>
-			<key>hash2</key>
-			<data>
-			+G3m9rklxdBuqIHFOCGbnOmQss0XMmZ7eRLZA0dETMo=
 			</data>
 		</dict>
 		<key>VectorImages/main/key_stroke.svg</key>
@@ -5580,6 +5637,17 @@
 			<key>hash2</key>
 			<data>
 			eQvW9+53MgIF5cOw60bvCEc1G8M+lEE6sC6lzKNIOQk=
+			</data>
+		</dict>
+		<key>VectorImages/main/mask.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DqHZ3hMmQC6Byws5rQgGjSD8cv4=
+			</data>
+			<key>hash2</key>
+			<data>
+			Z8sNqU8wNuhmSjaqRqMoXdVFnt46KdOIFGGDqRDztyM=
 			</data>
 		</dict>
 		<key>VectorImages/main/media_cast_connected.svg</key>
@@ -7133,6 +7201,17 @@
 			ze9qNRtVY5+q7P4QeCKXQkYjC4d3Kxg4rwilvEkvKCw=
 			</data>
 		</dict>
+		<key>VectorImages/main/rocket.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0Rg/bhcmS1mQlHM0kQlruVWtJ4Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			wtoO4LayONgKY9cQ4pL0g+UX3PRXhWWP3jRSZ/JINSw=
+			</data>
+		</dict>
 		<key>VectorImages/main/rocket_stroke.svg</key>
 		<dict>
 			<key>hash</key>
@@ -8154,6 +8233,17 @@
 			<key>hash2</key>
 			<data>
 			3BJEzkoEoXdIxKx5xeTQgKOROQnGjvJtPd5W8GQpa9o=
+			</data>
+		</dict>
+		<key>VectorImages/main/timeline_alt_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tCbS8WrZBs0hLgrEJGUJpfyYjqc=
+			</data>
+			<key>hash2</key>
+			<data>
+			a8roBKlDxPqsCip2GV8O2zBv1U4ka8H608ST2Iic3ek=
 			</data>
 		</dict>
 		<key>VectorImages/main/timeline_stroke.svg</key>

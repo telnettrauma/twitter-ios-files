@@ -12846,6 +12846,9 @@ eg. "Super Following Jack" */
 /* DM disconnected connection status title */
 "DM_CONNECTION_STATUS_DISCONNECTED_TITLE" = "Disconnected";
 
+/* DM Conversation navigation bar vanishing mode subtitle */
+"DM_CONVERSATION_NAVIGATION_BAR_VANISHING_MODE_SUBTITLE" = "Vanishing mode";
+
 /* DM try again error message */
 "DM_ERROR_MESSAGE_TRY_AGAIN" = "Please try again later";
 
@@ -12921,6 +12924,9 @@ eg. "Super Following Jack" */
 /* DM message action Copy title */
 "DM_MESSAGE_ACTION_COPY_ACCESSIBILITY_ANNOUNCEMENT" = "Copied";
 
+/* DM message action Copy file title */
+"DM_MESSAGE_ACTION_COPY_FILE_TITLE" = "Copy file";
+
 /* DM message action Copy GIF title */
 "DM_MESSAGE_ACTION_COPY_GIF_TITLE" = "Copy GIF";
 
@@ -12944,6 +12950,9 @@ eg. "Super Following Jack" */
 
 /* DM message action Reply title */
 "DM_MESSAGE_ACTION_REPLY_TITLE" = "Reply";
+
+/* DM message action Share file title */
+"DM_MESSAGE_ACTION_SHARE_FILE_TITLE" = "Share file";
 
 /* DM message action Share GIF title */
 "DM_MESSAGE_ACTION_SHARE_GIF_TITLE" = "Share GIF";
@@ -17433,11 +17442,17 @@ eg. "Super Following Jack" */
 /** Label under posts to open the grok analyze timeline and analyze the post */
 "GROK_ANALYZE_BUTTON_LABEL" = "Grok, analysis!";
 
+/* Label for grok analysis response message */
+"GROK_ANALYZE_LABEL" = "Analysis";
+
 /* Label for grok response messages */
 "GROK_ANSWER_LABEL" = "Answer";
 
 /* Message Grok says after uses cancels the chat */
 "GROK_CANCELLED_REQUEST" = "Okay I’ve cancelled your request.";
+
+/* A prompt for the Grok input field */
+"GROK_CONTINUE_THIS_CONVERSATION" = "Continue this conversation";
 
 /* title for Grok conversations history page */
 "GROK_CONVO_HISTORY" = "Chat History";
@@ -17450,6 +17465,9 @@ eg. "Super Following Jack" */
 
 /** Label for images in history view */
 "GROK_CONVO_HISTORY_IMAGES_LABEL" = "Images";
+
+/* Label to inform user that responding to a shared conversation will create a copy in their own history */
+"GROK_COPY_ON_RESPONSE_WARNING" = "Sending a message will copy this conversation into your history";
 
 /** Button to copy the text */
 "GROK_COPY_TEXT" = "Copy text";
@@ -17625,6 +17643,24 @@ eg. "Super Following Jack" */
 /* A label for Grok prompt suggestion */
 "GROK_HOME_PROMPT_SUGGESTION_TRIP" = "Plan a trip to Tokyo";
 
+/* A label for Grok home sheet suggestion */
+"GROK_HOME_SHEET_ANSWER_LABEL" = "Answer a question";
+
+/* A label for Grok home sheet suggestion */
+"GROK_HOME_SHEET_DRAW_ME_LABEL" = "Draw me";
+
+/* A label for Grok home sheet suggestion */
+"GROK_HOME_SHEET_LATEST_NEWS_LABEL" = "Tell me the latest news";
+
+/* A subtitle for Grok home sheet suggestion */
+"GROK_HOME_SHEET_SUBTITLE" = "Get answers to your questions, search X, and generate images.";
+
+/* A title for Grok home sheet suggestion */
+"GROK_HOME_SHEET_TITLE" = "Talk to Grok, our AI Assistant";
+
+/* Label for Grok images messages */
+"GROK_IMAGES_LABEL" = "Images";
+
 /* Label for Grok image messages */
 "GROK_IMAGE_LABEL" = "Image";
 
@@ -17646,35 +17682,41 @@ eg. "Super Following Jack" */
 /** Label when grok conversations history is empty */
 "GROK_NO_CONVERSATIONS" = "No conversations yet";
 
-/* Grok new user experience popup - Early access description */
-"GROK_NUX_EARLY_ACCESS_DESCRIPTION" = "This is an early version of Grok. It may confidently provide factually incorrect information, mis-summarize, or miss some content. We encourage you to independently verify any information.";
+/* Grok new user experience popup - Facts description */
+"GROK_NUX_FACTS_DESCRIPTION" = "Grok may confidently provide factually incorrect information, mis-summarize, or miss some content. You should independently verify any information.";
 
-/* Grok new user experience popup - Early access title */
-"GROK_NUX_EARLY_ACCESS_TITLE" = "Early Access";
+/* Grok new user experience popup - Check the Facts title */
+"GROK_NUX_FACTS_TITLE" = "Check the Facts";
 
 /* Grok new user experience popup - Done button */
 "GROK_NUX_GOT_IT" = "Got it";
 
-/* Grok new user experience popup - Sharing description */
-"GROK_NUX_SHARING_DESCRIPTION" = "You are responsible for the conversations you share publicly. Avoid sharing sensitive and confidential information about yourself or others in your conversations with Grok.";
+/* Grok new user experience popup - Sharing description for EU/UK/EEA/Australia */
+"GROK_NUX_SHARING_DESCRIPTION_FULL" = "You are responsible for the conversations you share publicly. Avoid sharing sensitive and confidential information about yourself or others in your conversations with Grok (see our Help Center).";
+
+/* Grok new user experience popup - Sharing description for non-EU/UK/EEA/Australia */
+"GROK_NUX_SHARING_DESCRIPTION_PARTIAL" = "Avoid sharing sensitive and confidential information about yourself or others in your conversations with Grok (see our Help Center).";
+
+/* Grok new user experience popup - Sharing Help Center */
+"GROK_NUX_SHARING_HELP_CENTER" = "Help Center";
 
 /* Grok new user experience popup - Sharing title */
 "GROK_NUX_SHARING_TITLE" = "Sharing";
 
 /* Grok new user experience popup description */
-"GROK_NUX_SUBTITLE" = "Grok is a new enhanced search feature and chatbot available to X Premium subscribers.";
+"GROK_NUX_SUBTITLE_NEW" = "Grok, Your Humorous AI Assistant on X";
 
 /* Grok new user experience popup title*/
 "GROK_NUX_TITLE" = "Grok";
 
-/* Grok new user experience popup - Usage description */
-"GROK_NUX_USAGE_DESCRIPTION" = "To continuously improve your experience, we may utilize your interactions with Grok for model training and fine-tuning. You can control your privacy settings by (i) adjusting your settings in “Data Sharing and Personalization” or (ii) making your account private to prevent data use. To learn more, visit our Help Centre.";
+/* Grok new user experience popup - AI Training and Personalization description */
+"GROK_NUX_TRAINING_DESCRIPTION" = "We may utilize your X data, as well as your interactions, inputs and results with Grok for model training, fine-tuning and to personalize your Grok experience. You can opt-out using your X settings. To learn more, visit our Help Center.";
 
 /* Grok new user experience popup - Help center */
-"GROK_NUX_USAGE_HELP_CENTER" = "Help Centre";
+"GROK_NUX_TRAINING_HELP_CENTER" = "Help Center";
 
-/* Grok new user experience popup - Usage title */
-"GROK_NUX_USAGE_TITLE" = "Usage";
+/* Grok new user experience popup - AI Training and Personalization title */
+"GROK_NUX_TRAINING_TITLE" = "AI Training and Personalization";
 
 /* Grok paywall headline */
 "GROK_PAYWALL_HEADLINE" = "Grok something";
@@ -17757,6 +17799,9 @@ eg. "Super Following Jack" */
 /* Label for when waiting for grok response */
 "GROK_RESEARCHING_LABEL" = "Researching";
 
+/* Text that is displayed while the app is waiting on a response from Grok while it's searching the web and X */
+"GROK_SEARCHING" = "Searching";
+
 /** Button to select the text */
 "GROK_SELECT_TEXT" = "Select text";
 
@@ -17766,11 +17811,20 @@ eg. "Super Following Jack" */
 /** Menu action title to set Grok Mode to Normal/Regular */
 "GROK_SET_MODE_NORMAL" = "Regular mode";
 
+/* Grok share card on X post: Button label for the user to create their own conversation with the same prompt */
+"GROK_SHARE_CARD_ASK_GROK_YOURSELF" = "Ask Grok yourself";
+
+/* Grok share card on X post: Button label for the user to create their own image with the same prompt */
+"GROK_SHARE_CARD_CREATE_YOUR_OWN_VERSION" = "Create your version with Grok";
+
 /* Label on Grok share card indicating it was using fun mode*/
 "GROK_SHARE_FUN_MODE_LABEL" = "Answer by Grok in Fun Mode";
 
 /* Label on Grok share card indicating it was using fun mode*/
 "GROK_SHARE_REGULAR_MODE_LABEL" = "Answer by Grok";
+
+/* Label on Grok share sheet indicating that the full history up until this point will be shared */
+"GROK_SHARE_SHEET_MESSAGE_SHARE_HISTORY_DISCLAIMER" = "The share page will include messages up until this point";
 
 /* Headline for Grok paywall */
 /* Button label for the user to share the grok response */
@@ -18184,6 +18238,60 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* Text that appears in a menu option to text the business's phone number. */
 "ABOUT_PROFILE_MODULE_TEXT_MESSAGE_ACTION_TEXT" = "Text %@";
 
+/* Accessibility label for the bookmark button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_BOOKMARK_BUTTON" = "Bookmark";
+
+/* Accessibility label for the cast button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_CAST_BUTTON" = "Cast";
+
+/* Accessibility label for the dock button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_DOCK_BUTTON" = "Dock";
+
+/* Accessibility label for the downvote button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_DOWNVOTE_BUTTON" = "Downvote";
+
+/* Accessibility label for the favorite button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_FAVORITE_BUTTON" = "Favorite";
+
+/* Accessibility label for the fullscreen button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_FULLSCREEN_BUTTON" = "Fullscreen";
+
+/* Accessibility label for the more button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_MORE_BUTTON" = "More";
+
+/* Accessibility label for the mute button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_MUTE_BUTTON" = "Mute";
+
+/* Accessibility label for the playback speed button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_PLAYBACK_SPEED_BUTTON" = "Playback Speed";
+
+/* Accessibility label for the playback speed inline toggle button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_PLAYBACK_SPEED_INLINE_TOGGLE_BUTTON" = "Playback Speed Inline Toggle";
+
+/* Accessibility label for the playback speed label button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_PLAYBACK_SPEED_LABEL_BUTTON" = "Playback Speed Label";
+
+/* Accessibility label for the play/pause button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_PLAY_PAUSE_BUTTON" = "Play/Pause";
+
+/* Accessibility label for the reply button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_REPLY_BUTTON" = "Reply";
+
+/* Accessibility label for the route picker button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_ROUTE_PICKER_BUTTON" = "Route Picker";
+
+/* Accessibility label for the settings button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_SETTINGS_BUTTON" = "Settings";
+
+/* Accessibility label for the share button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_SHARE_BUTTON" = "Share";
+
+/* Accessibility label for the skip button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_SKIP_BUTTON" = "Skip";
+
+/* Accessibility label for the views button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_VIEWS_BUTTON" = "Views";
+
 /* Accessibility label for generic navigation actions button label. */
 "ACTIONS_ACTION_ACCESSIBILITY_LABEL" = "Actions";
 
@@ -18394,23 +18502,11 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* Label for the view where the user can add a post to Bookmarks (shortened for carousel icon) */
 "BOOKMARKS_ADD_TO_BOOKMARKS_CAROUSEL_LABEL" = "Bookmark";
 
-/* Label for the call to action where the user can delete a bookmarked post */
-"BOOKMARKS_DELETE_LABEL" = "Delete Bookmark";
-
 /* Label for the view where the user can remove a post from Bookmarks (shortened for carousel icon) */
 "BOOKMARKS_REMOVE_FROM_BOOKMARKS_CAROUSEL_LABEL" = "Remove Bookmark";
 
 /* Label of the call-to-action to add a recently bookmarked post to a Folder */
 "BOOKMARK_FOLDERS_ADD_TO_FOLDER_LABEL" = "Add to Folder";
-
-/* Label for confirming that yes you want to delete a bookmark */
-"BOOKMARK_FOLDERS_DELETE_BOOKMARK_CONFIRMATION_LABEL" = "Yes, delete";
-
-/* Warning indicating that deleting a bookmark will remove it from all bookmark folders */
-"BOOKMARK_FOLDERS_DELETE_BOOKMARK_MESSAGE_LABEL" = "This post will also be removed from your Folders";
-
-/* Label asking to confirm if user wants to delete a Bookmarked post */
-"BOOKMARK_FOLDERS_DELETE_BOOKMARK_TITLE_LABEL" = "Delete Bookmark?";
 
 /* A link to display the file browser to open a new animation file. */
 "BRANDED_LIKES_PREVIEW_OPEN_LINK" = "Open";
@@ -21537,11 +21633,17 @@ eg. "- @jack" */
 /* Title of a toast which is show on an event of error during a video download */
 "OFFLINE_COULD_NO_DOWNLOAD_ERROR_TOAST_TEXT" = "Couldn’t download to offline cache, please try again later";
 
+/* Title of a placeholder shown if there is no video in the list */
+"OFFLINE_EMPTY_LIST_PLACEHOLDER" = "Nothing downloaded yet";
+
+/* Title of a placeholder details shown if there is no video in the list */
+"OFFLINE_EMPTY_LIST_PLACEHOLDER_DETAILS" = "You don’t have any offline videos";
+
 /* Title of a button which removes all items from offline tab */
 "OFFLINE_REMOVE_ALL" = "Remove All";
 
 /* Title of a switch which enables download button on inline video card */
-"OFFLINE_SETTINGS_SHOW_DOWNLOAD_BUTTON_INLINE" = "Display a download button on timelines";
+"OFFLINE_SETTINGS_SHOW_DOWNLOAD_BUTTON_INLINE" = "Display download button on timelines";
 
 /* Title of a toast which is show on an event of completion of a video download */
 "OFFLINE_TASK_COMPLETION_TOAST_TEXT" = "Video downloaded to your offline videos";

@@ -5,16 +5,20 @@
 	<key>base</key>
 	<array>
 		<string>CopyLink</string>
+		<string>SystemShareSheet</string>
+		<string>Repost</string>
 		<string>Bookmark</string>
 		<string>BookmarkFolder</string>
-		<string>SystemShareSheet</string>
+		<string>Community</string>
 	</array>
 	<key>us</key>
 	<array>
 		<string>CopyLink</string>
+		<string>SystemShareSheet</string>
+		<string>Repost</string>
 		<string>Bookmark</string>
 		<string>BookmarkFolder</string>
-		<string>SystemShareSheet</string>
+		<string>Community</string>
 	</array>
 </dict>
 </plist>
