@@ -59,6 +59,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the button that allows a user to accept a money transfer. */
 "PAYMENTS_ACCEPT_TRANSFER_ACTION" = "Accept";
 
+/* Payments: Subtitle the of 'Account' details screen. "Card" meaning the (debit or credit) card associated with the account, and "Routing" meaning the account/routing numbers. */
+"PAYMENTS_ACCOUNT_DETAILS_SUBTITLE" = "Card & Routing";
+
+/* Payments: Title the of 'Account' details screen */
+"PAYMENTS_ACCOUNT_DETAILS_TITLE" = "Account";
+
 /* Payments: Title of the section that contains actions the user can do (ex: Verify identity, Pay, ...). */
 "PAYMENTS_ACTION_NEEDED_TITLE" = "Action needed";
 
@@ -66,10 +72,10 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ADD_MONEY_ACTION" = "Add Money";
 
 /* Payments: This disclaimer is shown at the bottom of the screen that allows a user to link a bank account with their X Payments account. */
-"PAYMENTS_ADD_PAYMENT_METHOD_DISCLAIMER" = "By clicking “Continue”, you agree to the X Payments Terms & Conditions";
+"PAYMENTS_ADD_PAYMENT_METHOD_DISCLAIMER" = "By clicking “Continue”, you agree to the Terms & Conditions";
 
 /* Payments: This text is the highlighted part of `PAYMENTS_ADD_PAYMENT_METHOD_DISCLAIMER`, that serves as a link to the Terms of Service. */
-"PAYMENTS_ADD_PAYMENT_METHOD_DISCLAIMER_LINK" = "X Payments Terms & Conditions";
+"PAYMENTS_ADD_PAYMENT_METHOD_DISCLAIMER_LINK" = "Terms & Conditions";
 
 /* Payments: Subtitle of the screen that allows a user to link a bank account with their X Payments account. */
 "PAYMENTS_ADD_PAYMENT_METHOD_SUBTITLE" = "You need to link your bank account before you can continue.";
@@ -92,6 +98,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the button that allows a user to cancel a money transfer request */
 "PAYMENTS_CANCEL_TRANSFER_REQUEST_ACTION" = "Cancel request";
 
+/* Payments: Title of a button that allows the user to consent to something (ex: verifying their ID). Should be kept generic. */
+"PAYMENTS_CONSENT_ACTION" = "Consent";
+
 /* Payments: Title of a button that allows a user to contact the support. */
 "PAYMENTS_CONTACT_SUPPORT_ACTION" = "Contact support";
 
@@ -107,8 +116,8 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Headline shown above the current balance of the user’s account, on the Payments home. */
 "PAYMENTS_CURRENT_BALANCE_TITLE" = "Current Balance";
 
-/* Payments: Title of the button that allows a user to decline a money transfer request */
-"PAYMENTS_DECLINE_TRANSFER_ACTION" = "Decline";
+/* Payments: Title of a button that allows the user to decline something (ex: verifying their ID). Should be kept generic. */
+"PAYMENTS_DECLINE_ACTION" = "Decline";
 
 /* Payments: Confirmation message shown when a user attempts to remove a linked bank account from their X Payments account. */
 "PAYMENTS_DELETE_PAYMENT_METHOD_MESSAGE" = "Please confirm that you want to remove this bank from your account.";
@@ -129,10 +138,10 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED" = "We need to verify your identity to continue";
 
 /* Payments: Additional message shown when additional KYC (Know Your Customer) information is required due to exceeding a limit. */
-"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_LIMIT_MESSAGE" = "It should only take a few minutes and helps keep X Payments and your account safe.";
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_LIMIT_MESSAGE" = "It should only take a few minutes and helps keep X and your account safe.";
 
 /* Payments: Message shown when additional KYC (Know Your Customer) information is required to continue using X Payments. */
-"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_MESSAGE" = "We need to make sure you are really you. It should only take a few minutes and helps keep Payments and your account safe.";
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_MESSAGE" = "We need to make sure you are really you. It should only take a few minutes and helps keep X and your account safe.";
 
 /* Payments: Error message shown when a user has exceeded their monthly transaction limits and needs to verify their identity to continue. */
 "PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_MONTHLY_LIMIT" = "You’ve exceeded your monthly limits, and we need to verify your identity to continue";
@@ -239,6 +248,27 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the screen indicating that the user has completed all necessary steps for identity verification and it’s now pending review. */
 "PAYMENTS_IDENTITY_VERIFICATION_PENDING_REVIEW_TITLE" = "You are all set!";
 
+/* Payments: Shows the APY (annual percentage yield) of the account, on the interest screen. */
+"PAYMENTS_INTEREST_APY" = "%@ APY";
+
+/* Payments: Label shown next to the current APY for interests */
+"PAYMENTS_INTEREST_CURRENT_APY" = "Current APY";
+
+/* Payments: Header of the section that encourages the customer to deposit more money in their account */
+"PAYMENTS_INTEREST_DEPOSIT_SECTION_TITLE" = "Deposit more, earn more";
+
+/* Payments: Header shown on the interest page, above the total amount earned by the customer */
+"PAYMENTS_INTEREST_EARNED" = "Total interest earned";
+
+/* Payments: Header of the section containing the different interest payments into the customer's account */
+"PAYMENTS_INTEREST_PAYMENTS_SECTION_TITLE" = "Interest Payments";
+
+/* Payments: Label shown next to the amount of interest that the customer is set to earn in the next cycle */
+"PAYMENTS_INTEREST_PENDING" = "Pending interest";
+
+/* Payments: Title the of 'Interest' screen */
+"PAYMENTS_INTEREST_TITLE" = "Interest";
+
 /* Payments: Title shown when a user has unclaimed funds in their X Payments account. %@ is replaced by the unclaimed amount. */
 "PAYMENTS_INVITE_AUTOCLAIM_TITLE" = "You have %@ waiting for you";
 
@@ -246,10 +276,10 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_INVITE_SUBTITLE_BALANCE_DETAILS" = "You have a total of %@ waiting for you.";
 
 /* Payments: Subtitle shown on the invite screen when there are multiple unclaimed payments, urging the user to set up their account before the payments expire. */
-"PAYMENTS_INVITE_SUBTITLE_MULTIPLE" = "Setup your account before the payments expire.";
+"PAYMENTS_INVITE_SUBTITLE_MULTIPLE" = "Continue before the payments expire.";
 
 /* Payments: Subtitle shown on the invite screen when there is a single unclaimed payment, urging the user to set up their account before the payment expires. */
-"PAYMENTS_INVITE_SUBTITLE_SINGLE" = "Setup your account before the payment expires.";
+"PAYMENTS_INVITE_SUBTITLE_SINGLE" = "Continue before the payment expires.";
 
 /* Payments: Title of the invite screen, showing who sent money and how much. %1$@ is replaced by the sender’s name, and %2$@ is replaced by the amount sent. */
 "PAYMENTS_INVITE_TITLE" = "%1$@ sent you %2$@";
@@ -300,7 +330,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_MORE_MENU_SETTINGS" = "Settings";
 
 /* Payments: Message displayed when a user is not eligible to use X Payments. */
-"PAYMENTS_NOT_ELIGIBLE" = "Not eligible for Payments";
+"PAYMENTS_NOT_ELIGIBLE" = "Not eligible";
 
 /* Payments: Label for the address field in the X Payments onboarding process. */
 "PAYMENTS_ONBOARDING_ADDRESS_FIELD_NAME" = "Address";
@@ -315,10 +345,10 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ONBOARDING_BIRTH_DATE_TITLE" = "What’s your date of birth?";
 
 /* Payments: Disclaimer text shown during X Payments onboarding. %@ is replaced by the action text (e.g., "Continue"). */
-"PAYMENTS_ONBOARDING_DISCLAIMER" = "By clicking “%@”, you agree to X Payments Terms & Conditions.";
+"PAYMENTS_ONBOARDING_DISCLAIMER" = "By clicking “%@”, you agree to the Terms & Conditions.";
 
 /* Payments: Text for the link to X Payments Terms & Conditions in the onboarding disclaimer. */
-"PAYMENTS_ONBOARDING_DISCLAIMER_LINK" = "X Payments Terms & Conditions";
+"PAYMENTS_ONBOARDING_DISCLAIMER_LINK" = "Terms & Conditions";
 
 /* Payments: Label for the first name field in the X Payments onboarding process. */
 "PAYMENTS_ONBOARDING_FIRST_NAME_FIELD_NAME" = "First name";
@@ -335,23 +365,14 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the screen where users enter their legal name during X Payments onboarding. */
 "PAYMENTS_ONBOARDING_LEGAL_NAME_TITLE" = "What’s your legal name?";
 
-/* Payments: Message displayed while loading during the X Payments onboarding process. */
-"PAYMENTS_ONBOARDING_LOADING_MESSAGE" = "This may take a few seconds.";
-
-/* Payments: Message displayed while setting up the user’s X Payments account during onboarding. */
-"PAYMENTS_ONBOARDING_LOADING_SETTING_UP_ACCOUNT" = "Setting up your Payments account";
-
-/* Payments: Message displayed while verifying the user’s identity during X Payments onboarding. */
-"PAYMENTS_ONBOARDING_LOADING_VERIFYING_IDENTITY" = "Verifying your identity";
-
 /* Payments: Subtitle shown when a user is not eligible for X Payments, with a link to learn more. */
-"PAYMENTS_ONBOARDING_NOT_ELIGIBLE_SUBTITLE" = "Unfortunately, you are not eligible for Payments at this time. Learn more";
+"PAYMENTS_ONBOARDING_NOT_ELIGIBLE_SUBTITLE" = "Unfortunately, you are not eligible at this time. Learn more";
 
 /* Payments: Text for the "Learn more" link shown when a user is not eligible for X Payments. */
 "PAYMENTS_ONBOARDING_NOT_ELIGIBLE_SUBTITLE_LINK" = "Learn more";
 
 /* Payments: Title of the screen shown when a user is not eligible for X Payments. */
-"PAYMENTS_ONBOARDING_NOT_ELIGIBLE_TITLE" = "You’re not yet eligible for Payments";
+"PAYMENTS_ONBOARDING_NOT_ELIGIBLE_TITLE" = "You’re not yet eligible";
 
 /* Payments: Message indicating that transactions are being processed during X Payments onboarding. */
 "PAYMENTS_ONBOARDING_PENDING_TRANSACTIONS_PROCESSING" = "We’re processing your transactions. We’ll notify you once they are complete.";
@@ -387,7 +408,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ONBOARDING_REQUIREMENT_AGE" = "Be at least 18 years old";
 
 /* Payments: Requirement for X Payments eligibility stating the fact that the user needs to be allowed. */
-"PAYMENTS_ONBOARDING_REQUIREMENT_ALLOWLIST" = "Your account is allowed to use X Payments";
+"PAYMENTS_ONBOARDING_REQUIREMENT_ALLOWLIST" = "Your account is allowed";
 
 /* Payments: Requirement for X Payments eligibility stating the geographical restriction. */
 "PAYMENTS_ONBOARDING_REQUIREMENT_GEOGRAPHY" = "Be a resident of the United States of America";
@@ -423,13 +444,16 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ONBOARDING_SSN_TITLE" = "We need to verify your full social security number";
 
 /* Payments: Subtitle for the X Payments onboarding process, indicating the current geographical restriction. */
-"PAYMENTS_ONBOARDING_SUBTITLE" = "Payments is currently exclusive to users in the United States.";
+"PAYMENTS_ONBOARDING_SUBTITLE" = "Money is currently exclusive to users in the United States.";
 
 /* Payments: Title of the screen where users confirm their information during X Payments onboarding. */
 "PAYMENTS_ONBOARDING_TIER_ONE_CONFIRM_TITLE" = "Does this information look good to you?";
 
 /* Payments: Title of the X Payments onboarding welcome screen. %@ is replaced by the user’s name. */
-"PAYMENTS_ONBOARDING_TITLE" = "Hi %@,\nWelcome to Payments";
+"PAYMENTS_ONBOARDING_TITLE" = "Hi %@,\nWelcome.";
+
+/* Payments: Title of the screen where users enter their US State (California, ...). */
+"PAYMENTS_ONBOARDING_US_STATE_TITLE" = "What’s your state?";
 
 /* Payments: Disclaimer text for identity verification using ID and selfie during X Payments onboarding. */
 "PAYMENTS_ONBOARDING_VERIFY_IDENTITY_DISCLAIMER" = "I consent to X and Socure using images of my ID and my selfie, including extracted biometric data, to confirm my identity and for X’s related safety and security purposes.";
@@ -461,14 +485,11 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the button to initiate a payment in X Payments. */
 "PAYMENTS_PAY_ACTION" = "Pay";
 
-/* Payments: Title of the button to confirm and execute a payment transfer in X Payments. */
-"PAYMENTS_PAY_TRANSFER_ACTION" = "Pay";
-
 /* Payments: Subtitle explaining that the user’s X Payments account is under review. */
 "PAYMENTS_PENDING_REVIEW_SUBTITLE" = "We are reviewing your account. Please check back later.";
 
 /* Payments: Title of the screen indicating that the user’s Payments account is under review */
-"PAYMENTS_PENDING_REVIEW_TITLE" = "Your Payments account is under review";
+"PAYMENTS_PENDING_REVIEW_TITLE" = "Your account is under review";
 
 /* Payments: Title for entering the current PIN, where %@ is replaced by the number of digits */
 "PAYMENTS_PIN_UPDATE_CURRENT_PIN_TITLE" = "Enter your current %@-digit PIN";
@@ -507,7 +528,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_CREATE_TRANSACTIONS" = "For transfers";
 
 /* Payments: Option to require PIN to unlock X Payments */
-"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_UNLOCK" = "To unlock X Payments";
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_UNLOCK" = "To access Money";
 
 /* Payments: Success toast message after updating PIN settings */
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_SUCCESS_TOAST" = "Your setting has been successfully updated!";
@@ -549,13 +570,13 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_SETTINGS_TITLE" = "Settings";
 
 /* Payments: Action to set up the user’s account */
-"PAYMENTS_SETUP_ACCOUNT_ACTION" = "Setup my account";
+"PAYMENTS_SETUP_ACCOUNT_ACTION" = "Continue";
 
 /* Payments: Action to set up two-factor authentication */
 "PAYMENTS_SETUP_TWO_FACTOR_AUTH_ACTION" = "Setup";
 
-/* Payments: Title for the Payments feature */
-"PAYMENTS_TITLE" = "Payments";
+/* Payments: Title for the Money feature */
+"PAYMENTS_TITLE" = "Money";
 
 /* Payments: Title for the transactions list screen */
 "PAYMENTS_TRANSACTIONS_TITLE" = "Transactions";
@@ -642,7 +663,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_TRANSACTION_SUPPORT_LINK_LABEL" = "here";
 
 /* Payments: Label for a deposit transaction type */
-"PAYMENTS_TRANSACTION_TYPE_DEPOSIT" = "Deposit to wallet";
+"PAYMENTS_TRANSACTION_TYPE_DEPOSIT" = "Deposit to X account";
 
 /* Payments: Label for a withdraw transaction type */
 "PAYMENTS_TRANSACTION_TYPE_WITHDRAW" = "Withdraw to bank";
@@ -686,8 +707,8 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Action to view the user’s balance */
 "PAYMENTS_VIEW_BALANCE_ACTION" = "View balance";
 
-/* Payments: Name of the Payments wallet */
-"PAYMENTS_WALLET_NAME" = "Payments wallet";
+/* Payments: Name of the Payments wallet during a deposit/withdrawal */
+"PAYMENTS_WALLET_NAME" = "X account";
 
 /* Payments: Action to view the web receipt of a transaction */
 "PAYMENTS_WEB_RECEIPT_ACTION" = "Web receipt";
@@ -1082,6 +1103,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Accessibility label of White X on halloween themed background icon that is read to users with VoiceOver enabled.*/
 "APP_ICON_HALLOWEEN_3_DESCRIPTION" = "White X on halloween themed background with 3 pumpkins";
 
+/* Accessibility label of White X on traditional Japanese themed Daruma doll background icon that is read to users with VoiceOver enabled.*/
+"APP_ICON_JAPANESE_NEW_YEAR_1_DESCRIPTION" = "White X on traditional Japanese themed Daruma doll background";
+
+/* Accessibility label of Black X on traditional Japanese themed Daruma doll and bamboo ornament background icon that is read to users with VoiceOver enabled.*/
+"APP_ICON_JAPANESE_NEW_YEAR_2_DESCRIPTION" = "Black X on traditional Japanese themed Daruma doll and bamboo ornament background";
+
 /* Accessibility label of White X on magenta background app icon that is read to users with VoiceOver enabled.*/
 "APP_ICON_MAGENTA_DESCRIPTION" = "White X on magenta background";
 
@@ -1197,12 +1224,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Accessibility for attached voice recording. Action to remove voice recording */
 "ATTACHMENT_VOICE_REMOVE_ACTION_ACCESSIBILITY_LABEL" = "Delete voice recording";
-
-/* Label for the number of times an audio clip has been listened to. It will be displayed right under the audio card attachment, on the post itself. %@ will be replaced by a numeric value, possibility shortened. Examples: 5 listens, 10K listens. */
-"AUDIO_LISTEN_COUNT_PLURAL_FORMAT" = "%@ listens";
-
-/* Label for an audio clip that has been listened to one time. It will be displayed right under the audio card attachment, on the post itself. */
-"AUDIO_LISTEN_COUNT_SINGULAR" = "1 listen";
 
 /* Message displayed after authorizing or declining an authorization permission request */
 "AUTHORIZATION_ACTION_TAKEN_MESSAGE" = "Action taken.";
@@ -6309,7 +6330,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_LANDING_PAGE_SECTION_PCF_HOW_TO_TITLE" = "How do I label my PCF account?";
 
 /* Longer description of the setting that allows users to display a parody commentary fan label on their account profile. */
-"PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_DETAIL" = "This label ensures people on X are not confused by your account, informing them that your account is not affiliated with the subject of the profile.";
+"PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_DETAIL_2" = "This label ensures people on X are not confused by your account, informing them that your account is not affiliated with the subject of the profile. %@";
 
 /* Description text that identifies the toggle to enable/disable the parody account profile label. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_PARODY_DESCRIPTION_LABEL" = "Parody";
@@ -9180,7 +9201,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "SUBSCRIPTION_APP_ICON_FORCE_REVERT_ICON_NO_SUBSCRIPTION_TOAST_TEXT" = "Since you’ve unsubscribed from Premium, your app icon will return to the default one.";
 
 /* Text for toast message that informs the user their X app icon will be reverting to the default X app icon. This alert shows when the custom icons selected by the user is no longer available. */
-"SUBSCRIPTION_APP_ICON_FORCE_REVERT_ICON_UNAVAILABLE_TEXT" = "Looks like that birdie flew away, but you can pick a new one at any time.";
+"SUBSCRIPTION_APP_ICON_FORCE_REVERT_ICON_UNAVAILABLE_TEXT" = "An app icon you were using has been discontinued. Please choose a new one in Premium Hub.";
 
 /* Detail for a page where a user can pick which app icon they want to use */
 "SUBSCRIPTION_APP_ICON_SETTINGS_DETAIL" = "Choose a custom app icon for your device’s home screen. Change it any time.";
@@ -12846,9 +12867,6 @@ eg. "Super Following Jack" */
 /* DM disconnected connection status title */
 "DM_CONNECTION_STATUS_DISCONNECTED_TITLE" = "Disconnected";
 
-/* DM Conversation navigation bar vanishing mode subtitle */
-"DM_CONVERSATION_NAVIGATION_BAR_VANISHING_MODE_SUBTITLE" = "Vanishing mode";
-
 /* DM try again error message */
 "DM_ERROR_MESSAGE_TRY_AGAIN" = "Please try again later";
 
@@ -12915,6 +12933,9 @@ eg. "Super Following Jack" */
 /* DM Manage Conversation Resign as admin action title */
 "DM_MANAGE_CONVERSATION_ACTION_RESIGN_AS_ADMIN_TITLE" = "Resign as admin";
 
+/* DM Manage Conversation Vanishing mode action title */
+"DM_MANAGE_CONVERSATION_ACTION_VANISHING_MODE_TITLE" = "Vanishing mode";
+
 /* DM Manage Conversation navigation bar conversation info title */
 "DM_MANAGE_CONVERSATION_NAVIGATION_BAR_CONVERSATION_INFO_TITLE" = "Conversation info";
 
@@ -12974,6 +12995,9 @@ eg. "Super Following Jack" */
 
 /* Status appearing underneath message when edited */
 "DM_MESSAGE_STATUS_EDITED_ONLY" = "Edited";
+
+/* Status appearing underneath message when read with timestamp */
+"DM_MESSAGE_STATUS_READ_AND_TIMESTAMP" = "Read %@";
 
 /* Suggestions list group cell subtitle when multiple users. The %@ is replaced by the number of participants. */
 "DM_MULTIPLE_PEOPLE_GROUP_SUBTITLE" = "%@ people";
@@ -14980,33 +15004,6 @@ eg. "Super Following Jack" */
 
 /* Menu option to cancel a currently-sending direct message. */
 "DIRECT_MESSAGE_CANCEL_MESSAGE_ACTION_LABEL" = "Cancel message";
-
-/* The Argentina specific educational string for explaining DM conversation voice messaging. */
-"DIRECT_MESSAGE_CONVERSATION_AUDIO_EDUCATION_MODAL_DESCRIPTION_ARGENTINA_SUFFIX" = "Note that this feature is only currently available in select countries, including Argentina.";
-
-/* The Brazil specific educational string for explaining DM conversation voice messaging. */
-"DIRECT_MESSAGE_CONVERSATION_AUDIO_EDUCATION_MODAL_DESCRIPTION_BRAZIL_SUFFIX" = "Note that this feature is only currently available in select countries, including Brazil.";
-
-/* The description for the educational modal explaining DM conversation voice messaging with the ability to append a location specific string at the end. */
-"DIRECT_MESSAGE_CONVERSATION_AUDIO_EDUCATION_MODAL_DESCRIPTION_FORMAT" = "Try sending a voice message. Just tap once to start recording and tap again to stop and review your message before you send. You can also tap and hold to record, then swipe up to send automatically. %@";
-
-/* The India specific educational string for explaining DM conversation voice messaging. */
-"DIRECT_MESSAGE_CONVERSATION_AUDIO_EDUCATION_MODAL_DESCRIPTION_INDIA_SUFFIX" = "Note that this feature is only currently available in select countries, including India.";
-
-/* The Japan specific educational string for explaining DM conversation voice messaging. */
-"DIRECT_MESSAGE_CONVERSATION_AUDIO_EDUCATION_MODAL_DESCRIPTION_JAPAN_SUFFIX" = "Note that this feature is only currently available in select countries, including Japan.";
-
-/* The Nigeria specific educational string for explaining DM conversation voice messaging. */
-"DIRECT_MESSAGE_CONVERSATION_AUDIO_EDUCATION_MODAL_DESCRIPTION_NIGERIA_SUFFIX" = "Note that this feature is only currently available in select countries, including Nigeria.";
-
-/* The Turkey specific educational string for explaining DM conversation voice messaging. */
-"DIRECT_MESSAGE_CONVERSATION_AUDIO_EDUCATION_MODAL_DESCRIPTION_TURKEY_SUFFIX" = "Note that this feature is only currently available in select countries, including Turkey.";
-
-/* The title for the educational modal explaining DM conversation voice messaging */
-"DIRECT_MESSAGE_CONVERSATION_AUDIO_EDUCATION_MODAL_TITLE" = "Introducing voice messages";
-
-/* The label for the educational tooltip that appears after the modal is dismissed that explains the voice button in the toolbar*/
-"DIRECT_MESSAGE_CONVERSATION_AUDIO_EDUCATION_TOOLTIP_LABEL" = "Tap to start recording";
 
 /* The label for the action that lets the user remove the current group photo for the conversation */
 "DIRECT_MESSAGE_CONVERSATION_EDIT_GROUP_PHOTO_REMOVE_CURRENT_PHOTO_ACTION" = "Remove current photo";
@@ -17718,17 +17715,11 @@ eg. "Super Following Jack" */
 /* Grok new user experience popup - AI Training and Personalization title */
 "GROK_NUX_TRAINING_TITLE" = "AI Training and Personalization";
 
-/* Grok paywall headline */
-"GROK_PAYWALL_HEADLINE" = "Grok something";
-
 /* Grok paywall subscribe button */
 "GROK_PAYWALL_SUBSCRIBE_BUTTON" = "Subscribe now";
 
 /* Grok paywall on shared chat */
 "GROK_PAYWALL_SUBSCRIBE_CONTINUE_BUTTON" = "Subscribe to continue";
-
-/* Subtitle for Grok paywall */
-"GROK_PAYWALL_SUBTITLE" = "Premium subscribers can now use our most advanced AI, Grok, on X.";
 
 /* Button label for the user to create a new post with a link to their grok response */
 "GROK_POST_LINK" = "Post link";
@@ -17793,8 +17784,8 @@ eg. "Super Following Jack" */
 /* Label to rename a grok conversation */
 "GROK_RENAME_CONVERSATION_TITLE" = "Enter new title:";
 
-/* A title for Grok request timeout banner */
-"GROK_REQUEST_TIMEOUT_MESSAGE" = "Request timed out, tap to try again";
+/* A title for Grok request failed banner */
+"GROK_REQUEST_ERROR_MESSAGE" = "Request failed, tap to try again";
 
 /* Label for when waiting for grok response */
 "GROK_RESEARCHING_LABEL" = "Researching";
@@ -18199,6 +18190,156 @@ eg. "Super Following Jack" */
 
 /* Really short abbreviation for year (singular). 1 year would be '1y' */
 "TIME_SHORT_YEAR_FORMAT" = "%@y";
+
+/* United States - Alaska */
+"US_STATE_AK" = "Alaska";
+
+/* United States - Alabama */
+"US_STATE_AL" = "Alabama";
+
+/* United States - Arkansas */
+"US_STATE_AR" = "Arkansas";
+
+/* United States - Arizona */
+"US_STATE_AZ" = "Arizona";
+
+/* United States - California */
+"US_STATE_CA" = "California";
+
+/* United States - Colorado */
+"US_STATE_CO" = "Colorado";
+
+/* United States - Connecticut */
+"US_STATE_CT" = "Connecticut";
+
+/* United States - Delaware */
+"US_STATE_DE" = "Delaware";
+
+/* United States - Florida */
+"US_STATE_FL" = "Florida";
+
+/* United States - Georgia */
+"US_STATE_GA" = "Georgia";
+
+/* United States - Hawaii */
+"US_STATE_HI" = "Hawaii";
+
+/* United States - Iowa */
+"US_STATE_IA" = "Iowa";
+
+/* United States - Idaho */
+"US_STATE_ID" = "Idaho";
+
+/* United States - Illinois */
+"US_STATE_IL" = "Illinois";
+
+/* United States - Indiana */
+"US_STATE_IN" = "Indiana";
+
+/* United States - Kansas */
+"US_STATE_KS" = "Kansas";
+
+/* United States - Kentucky */
+"US_STATE_KY" = "Kentucky";
+
+/* United States - Louisiana */
+"US_STATE_LA" = "Louisiana";
+
+/* United States - Massachusetts */
+"US_STATE_MA" = "Massachusetts";
+
+/* United States - Maryland */
+"US_STATE_MD" = "Maryland";
+
+/* United States - Maine */
+"US_STATE_ME" = "Maine";
+
+/* United States - Michigan */
+"US_STATE_MI" = "Michigan";
+
+/* United States - Minnesota */
+"US_STATE_MN" = "Minnesota";
+
+/* United States - Missouri */
+"US_STATE_MO" = "Missouri";
+
+/* United States - Mississippi */
+"US_STATE_MS" = "Mississippi";
+
+/* United States - Montana */
+"US_STATE_MT" = "Montana";
+
+/* United States - North Carolina */
+"US_STATE_NC" = "North Carolina";
+
+/* United States - North Dakota */
+"US_STATE_ND" = "North Dakota";
+
+/* United States - Nebraska */
+"US_STATE_NE" = "Nebraska";
+
+/* United States - New Hampshire */
+"US_STATE_NH" = "New Hampshire";
+
+/* United States - New Jersey */
+"US_STATE_NJ" = "New Jersey";
+
+/* United States - New Mexico */
+"US_STATE_NM" = "New Mexico";
+
+/* United States - Nevada */
+"US_STATE_NV" = "Nevada";
+
+/* United States - New York */
+"US_STATE_NY" = "New York";
+
+/* United States - Ohio */
+"US_STATE_OH" = "Ohio";
+
+/* United States - Oklahoma */
+"US_STATE_OK" = "Oklahoma";
+
+/* United States - Oregon */
+"US_STATE_OR" = "Oregon";
+
+/* United States - Pennsylvania */
+"US_STATE_PA" = "Pennsylvania";
+
+/* United States - Rhode Island */
+"US_STATE_RI" = "Rhode Island";
+
+/* United States - South Carolina */
+"US_STATE_SC" = "South Carolina";
+
+/* United States - South Dakota */
+"US_STATE_SD" = "South Dakota";
+
+/* United States - Tennessee */
+"US_STATE_TN" = "Tennessee";
+
+/* United States - Texas */
+"US_STATE_TX" = "Texas";
+
+/* United States - Utah */
+"US_STATE_UT" = "Utah";
+
+/* United States - Virginia */
+"US_STATE_VA" = "Virginia";
+
+/* United States - Vermont */
+"US_STATE_VT" = "Vermont";
+
+/* United States - Washington */
+"US_STATE_WA" = "Washington";
+
+/* United States - Wisconsin */
+"US_STATE_WI" = "Wisconsin";
+
+/* United States - West Virginia */
+"US_STATE_WV" = "West Virginia";
+
+/* United States - Wyoming */
+"US_STATE_WY" = "Wyoming";
 
 // Section: Frameworks/TwitterSharedStrings/Sources/TwitterSharedStrings/en.lproj/Localizable.strings
 
@@ -19009,7 +19150,7 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 "OPTIONAL_FORM_FIELD_LABEL" = "Optional";
 
 /* Description of the alert confirming to TURN OFF Parody, fan and commentary account settings */
-"PARODY_COMMENTARY_FAN_ACCOUNT_DISABLE_CONFIRMATION_ALERT_DESCRIPTION" = "Turning off this label will remove it from your profile and all past posts. Please check you are compliant with the authenticity policy (%@).";
+"PARODY_COMMENTARY_FAN_ACCOUNT_DISABLE_CONFIRMATION_ALERT_DESCRIPTION_2" = "Turning off this label will remove it from your profile and all past posts. Please check you are compliant with the authenticity policy.";
 
 /* Title of the alert confirming to TURN OFF Parody, fan and commentary account settings */
 "PARODY_COMMENTARY_FAN_ACCOUNT_DISABLE_CONFIRMATION_ALERT_TITLE" = "Remove parody label?";
@@ -19025,12 +19166,6 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* Accessibility label for a media asset in portrait orientation. */
 "PHOTO_PORTRAIT_ORIENTATION_ACCESSIBILITY_LABEL" = "Portrait";
-
-/* Subtitle which appears on NUX prompt announcing pinch to zoom feature is available */
-"PINCH_TO_ZOOM_NUX_SUBTITLE" = "You can now pinch to zoom in!";
-
-/* Title which appears on NUX prompt announcing pinch to zoom feature is available. Note the phrase consists of two lines: "Introducing", then "\n" (new line) then "Video Zoom". Add "\n" into translations. */
-"PINCH_TO_ZOOM_NUX_TITLE" = "Introducing\nVideo Zoom";
 
 /* Generic label to show on a prompt to retry when previous action was unsuccessful. */
 "PLEASE_TRY_AGAIN_LABEL" = "Please try again.";
@@ -19452,7 +19587,7 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 "TIMELINE_SETTINGS_POST_SWIPE_GESTURE_LEFT_DISPLAY_LABEL" = "Left swipe";
 
 /* Warning for post swipe gesture "Not interested" only being available in the For you timeline */
-"TIMELINE_SETTINGS_POST_SWIPE_GESTURE_NOT_INTERESTED_FOR_YOU" = "This action is only available on the home For you timeline";
+"TIMELINE_SETTINGS_POST_SWIPE_GESTURE_NOT_INTERESTED_FOR_YOU" = "This action is only available on ads and the home For you timeline";
 
 /* Option None for Timeline Settings post swipe gesture */
 "TIMELINE_SETTINGS_POST_SWIPE_GESTURE_OPTION_NONE" = "None";
