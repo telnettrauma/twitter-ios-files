@@ -2143,6 +2143,12 @@ e.g. Removed from MyRecipes.
 /* Accessibility label for compose screen gallery button */
 "COMPOSE_VIEW_GALLERY_ACCESSIBILITY_LABEL" = "Photo library";
 
+/* Accessibility hint for Grok button on the composer */
+"COMPOSE_VIEW_GROK_ACCESSIBILITY_HINT" = "Opens Grok compose helper";
+
+/* Accessibility hint for Live button on the composer */
+"COMPOSE_VIEW_LIVE_MENU_SHEET_ACCESSIBILITY_HINT" = "Opens options for live streaming";
+
 /* Label for  for start a Space button in the composer */
 "COMPOSE_VIEW_LIVE_MENU_SHEET_START_A_SPACE" = "Start a Space";
 
@@ -9421,16 +9427,16 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "SUBSCRIPTION_PREMIUM_UPGRADE_TEXT" = "Upgrade";
 
 /* Premium product name to be used in upsells that promotes Grok 2 */
-"SUBSCRIPTION_PREMIUM_UPSELL_GROK2" = "Grok 2";
+"SUBSCRIPTION_PREMIUM_UPSELL_GROK" = "Grok";
+
+/* Premium product name to be used in upsells that promotes Grok */
+"SUBSCRIPTION_PREMIUM_UPSELL_GROK_CREATE" = "Create";
+
+/* Premium product name to be used in upsells that promotes Grok */
+"SUBSCRIPTION_PREMIUM_UPSELL_GROK_GET" = "Get Grok";
 
 /* Premium product name to be used in upsells that promotes Grok 2 */
-"SUBSCRIPTION_PREMIUM_UPSELL_GROK2_CREATE" = "Create";
-
-/* Premium product name to be used in upsells that promotes Grok 2 */
-"SUBSCRIPTION_PREMIUM_UPSELL_GROK2_GET" = "Get Grok 2";
-
-/* Premium product name to be used in upsells that promotes Grok 2 */
-"SUBSCRIPTION_PREMIUM_UPSELL_GROK2_TRY" = "Try Grok 2";
+"SUBSCRIPTION_PREMIUM_UPSELL_GROK_TRY" = "Try Grok";
 
 /* Premium product name to be used in upsells that promotes a discount */
 "SUBSCRIPTION_PREMIUM_UPSELL_PERCENTAGE_OFF" = "🎁 %d%% off";
@@ -17721,6 +17727,15 @@ eg. "Super Following Jack" */
 /* Grok paywall on shared chat */
 "GROK_PAYWALL_SUBSCRIBE_CONTINUE_BUTTON" = "Subscribe to continue";
 
+/* Heading on grok generate image page */
+"GROK_POST_COMPOSER_CREATE_AN_IMAGE" = "Create an image with Grok";
+
+/* Text input label to generate an image */
+"GROK_POST_COMPOSER_DESCRIBE_IMAGE" = "Describe the image to generate";
+
+/* Button to create an image with Grok */
+"GROK_POST_COMPOSER_GENERATE_IMAGE" = "Generate image";
+
 /* Button label for the user to create a new post with a link to their grok response */
 "GROK_POST_LINK" = "Post link";
 
@@ -17808,10 +17823,7 @@ eg. "Super Following Jack" */
 /* Grok share card on X post: Button label for the user to create their own image with the same prompt */
 "GROK_SHARE_CARD_CREATE_YOUR_OWN_VERSION" = "Create your version with Grok";
 
-/* Label on Grok share card indicating it was using fun mode*/
-"GROK_SHARE_FUN_MODE_LABEL" = "Answer by Grok in Fun Mode";
-
-/* Label on Grok share card indicating it was using fun mode*/
+/* Label on Grok share card if backend does not provide custom metadata text */
 "GROK_SHARE_REGULAR_MODE_LABEL" = "Answer by Grok";
 
 /* Label on Grok share sheet indicating that the full history up until this point will be shared */
@@ -18975,6 +18987,9 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /** Menu action to navigate to a destination (has one parameter) */
 "GO_TO" = "Go to %@";
+
+/* Accessibility label for generic navigation Grok action. */
+"GROK_ACTION_ACCESSIBILITY_LABEL" = "Grok";
 
 /** Title of a page for Grok tab */
 "GROK_PAGE_TITLE" = "Grok";
