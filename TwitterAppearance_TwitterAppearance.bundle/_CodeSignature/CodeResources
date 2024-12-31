@@ -2160,6 +2160,10 @@
 		<data>
 		vL9LkFauHpSgSSTlh8OYkpn6JEE=
 		</data>
+		<key>VectorImages/main/xai.svg</key>
+		<data>
+		tE+P9xQjQnRzTFBcoZ3Rr2vXftQ=
+		</data>
 		<key>VectorImages/main/xai_grok.svg</key>
 		<data>
 		3aA87PcpatfZtirUXbreMJzdygw=
@@ -2167,6 +2171,10 @@
 		<key>VectorImages/main/xai_grok_stroke.svg</key>
 		<data>
 		Xo+KnEUJY/0zMFy+yjcsosu5/uE=
+		</data>
+		<key>VectorImages/main/xai_stroke.svg</key>
+		<data>
+		o7C1OCw0KZt7h/HsrCUIsCaViRY=
 		</data>
 		<key>VectorImages/main/xpremium.svg</key>
 		<data>
@@ -8548,6 +8556,17 @@
 			ffn/HrgF4Bj9PiPWZG7mldiwjVxq1VwtrowM5kMZUP8=
 			</data>
 		</dict>
+		<key>VectorImages/main/xai.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tE+P9xQjQnRzTFBcoZ3Rr2vXftQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			WH7th0uAuVPVQpiccPaY2eyll89V2XyjT6iuTf6eVRo=
+			</data>
+		</dict>
 		<key>VectorImages/main/xai_grok.svg</key>
 		<dict>
 			<key>hash</key>
@@ -8568,6 +8587,17 @@
 			<key>hash2</key>
 			<data>
 			ENhL8mJ+Xv4kZXLLOlmtfMwhyr3q3pHlkvdBWB1Oil0=
+			</data>
+		</dict>
+		<key>VectorImages/main/xai_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o7C1OCw0KZt7h/HsrCUIsCaViRY=
+			</data>
+			<key>hash2</key>
+			<data>
+			ydJMWRMTXH+Xhlq7FLIHAfinYkw3ONVoZA8Ms04t1zo=
 			</data>
 		</dict>
 		<key>VectorImages/main/xpremium.svg</key>
