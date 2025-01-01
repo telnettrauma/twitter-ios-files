@@ -1,6 +1,6 @@
 This is a repository that I created to make it easier to analyze the files from the iOS version of the Twitter app. This project is created not necessarily as an archive, but rather as a way to keep track of changes between different versions.
 
-Files are from the [IPA Archive](https://ipaarchive.com/app/usa/333903271), so they may contain extra things added by that. However, it should still have everything.
+Files are from [IPA Filezone](https://ipafilezone.com/app/usa/333903271), so they may contain extra things added by that. However, it should still have everything.
 
 # Interesting Files
 
