@@ -1048,6 +1048,10 @@
 		<data>
 		kDwZ5L/tE9PHljKNfim9TsJZ6ac=
 		</data>
+		<key>VectorImages/main/logo_mastercard.svg</key>
+		<data>
+		CzuB9AlzqJI6LxvidmBQJXXboT0=
+		</data>
 		<key>VectorImages/main/logo_small_bandcamp.svg</key>
 		<data>
 		wTo/hYxjhZmqz0Bpom0jTjJf6F8=
@@ -1111,6 +1115,10 @@
 		<key>VectorImages/main/logo_small_wealthsimple.svg</key>
 		<data>
 		lngjVYYuXOqta6+8G7IJBYbeDCc=
+		</data>
+		<key>VectorImages/main/logo_visa.svg</key>
+		<data>
+		6TDo4Q/t+njq5h352TAqvSBsC9A=
 		</data>
 		<key>VectorImages/main/logo_youtube.svg</key>
 		<data>
@@ -1459,6 +1467,14 @@
 		<key>VectorImages/main/person_circle_fill.svg</key>
 		<data>
 		unkXzIql5uPpyRMyRDM4Tq2BG40=
+		</data>
+		<key>VectorImages/main/person_close.svg</key>
+		<data>
+		WpPkmcHBxT7ULX4IQJDXqx0hEas=
+		</data>
+		<key>VectorImages/main/person_close_stroke.svg</key>
+		<data>
+		W9KAqGKgK0OJ2fe9PgdOpaLC06g=
 		</data>
 		<key>VectorImages/main/person_heart.svg</key>
 		<data>
@@ -5506,6 +5522,17 @@
 			AjdqfThRzpNPA6abK/0H/sr7EoXngJMVMWlRKu2jjNE=
 			</data>
 		</dict>
+		<key>VectorImages/main/logo_mastercard.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CzuB9AlzqJI6LxvidmBQJXXboT0=
+			</data>
+			<key>hash2</key>
+			<data>
+			zx93RsNq/GjF9l2/SH4byaLO/v8xcjSmWNqEury3iZE=
+			</data>
+		</dict>
 		<key>VectorImages/main/logo_small_bandcamp.svg</key>
 		<dict>
 			<key>hash</key>
@@ -5680,6 +5707,17 @@
 			<key>hash2</key>
 			<data>
 			n0IuSrjdqCX9RgHVWBDf+8n3FS0x2eT+VH8Rp8qvgU8=
+			</data>
+		</dict>
+		<key>VectorImages/main/logo_visa.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6TDo4Q/t+njq5h352TAqvSBsC9A=
+			</data>
+			<key>hash2</key>
+			<data>
+			u36J8eTkh36fdRvWue1viXVzeXnJzKwGh1KURGZ0ORs=
 			</data>
 		</dict>
 		<key>VectorImages/main/logo_youtube.svg</key>
@@ -6637,6 +6675,28 @@
 			<key>hash2</key>
 			<data>
 			LKirMwtff1jObZaFaOUR5iqN64OuT/4yHgp2DsLXpTk=
+			</data>
+		</dict>
+		<key>VectorImages/main/person_close.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WpPkmcHBxT7ULX4IQJDXqx0hEas=
+			</data>
+			<key>hash2</key>
+			<data>
+			Hwzzrmp+qPKt0/2hP47XnRTvJpgV21gtgzGlRhUZz4k=
+			</data>
+		</dict>
+		<key>VectorImages/main/person_close_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			W9KAqGKgK0OJ2fe9PgdOpaLC06g=
+			</data>
+			<key>hash2</key>
+			<data>
+			04NAux3TIJp4pGREuwFuXl6c7vaHOGyqIkE69lHLr/8=
 			</data>
 		</dict>
 		<key>VectorImages/main/person_heart.svg</key>

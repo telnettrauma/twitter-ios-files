@@ -311,6 +311,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the action that allows a user to reset their PIN if they forgot it. */
 "PAYMENTS_FORGOT_PIN_TITLE" = "Forgot PIN";
 
+/* Payments: Button title to subscribe to X Premium from Payments. Must be short. */
+"PAYMENTS_GET_PREMIUM_ACTION" = "Get Premium";
+
 /* Payments: Confirmation button text used in various dialogs throughout X Payments. */
 "PAYMENTS_GOT_IT_ACTION" = "Got it";
 
@@ -6447,6 +6450,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_LANDING_PAGE_SECTION_PCF_HOW_TO_TITLE" = "How do I label my PCF account?";
 
 /* Longer description of the setting that allows users to display a parody commentary fan label on their account profile. */
+"PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_DETAIL" = "This label ensures people on X are not confused by your account, informing them that your account is not affiliated with the subject of the profile.";
+
+/* Longer description of the setting that allows users to display a parody commentary fan label on their account profile with argument for `Learn more` link */
 "PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_DETAIL_2" = "This label ensures people on X are not confused by your account, informing them that your account is not affiliated with the subject of the profile. %@";
 
 /* Description text that identifies the toggle to enable/disable the parody account profile label. */
@@ -6596,8 +6602,11 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Header for the grouping of personalization settings */
 "PERSONALIZATION_SETTINGS_PERSONALIZATION_HEADER" = "Personalization";
 
-/* Details format for sharing data with grok personalization setting. */
-"PERSONALIZATION_SETTINGS_SHARING_DATA_WITH_GROK_PERSONALIZATION_DETAILS_FORMAT" = "X may share with xAI your X public data as well as your user interactions, inputs and results with Grok on X to train and fine-tune Grok and other AI models developed by xAI. This helps us continuously improve your user experience. %@";
+/* Details format for sharing data with grok setting. */
+"PERSONALIZATION_SETTINGS_SHARING_DATA_WITH_GROK_DETAILS_FORMAT" = "X may share with xAI your X public data as well as your user interactions, inputs and results with Grok on X to train and fine-tune Grok and other AI models developed by xAI. This helps us continuously improve your user experience. %@";
+
+/* Details format for sharing data with grok for personalization setting. */
+"PERSONALIZATION_SETTINGS_SHARING_DATA_WITH_GROK_PERSONALIZATION_DETAILS_FORMAT" = "Allow your X data as well as your interactions, inputs, and results with Grok to be used for personalizing your Grok experience X may share with xAI your X data as well as your user interactions, inputs and results with Grok to personalize your experience with Grok and other AI models developed by xAI. This helps us continuously improve your user experience. %@";
 
 /* Details format for sharing data with partners personalization setting. */
 "PERSONALIZATION_SETTINGS_SHARING_DATA_WITH_PARTNERS_PERSONALIZATION_DETAILS_FORMAT" = "X always shares information with business partners as a way to run and improve its products. When enabled, this allows X to share additional information with those partners to help support running X’s business, including making X’s marketing activities on other sites and apps more relevant for you. %@";
@@ -7579,6 +7588,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* Accessibility announcement as new profile is scrolled. Example: "Items 5 to 10 of 25" */
 "PROFILE_SCROLLING_ACCESSIBILITY_ANNOUNCEMENT_FORMAT" = "Items %1$d to %2$d of %3$d";
+
+/* button label on profile summary actions menu */
+"PROFILE_SUMMARY_LABEL" = "Profile summary";
 
 /* Label for button initiating flow to financially support a user. Shown in stack after pressing "Tip" button on profile */
 "PROFILE_SUPPORT_BANDCAMP_ACTION_LABEL" = "Send via Bandcamp";
@@ -8959,6 +8971,12 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* Header for Grok in the data sharing settings page */
 "SETTINGS_GROK_DATA_TITLE" = "Grok & Third-party Collaborators";
+
+/* Description for Grok Personalization in the data sharing settings page */
+"SETTINGS_GROK_PERSONALIZATION_DETAIL" = "Allow X to personalize your experience with Grok";
+
+/* Header for Grok Personalization in the data sharing settings page */
+"SETTINGS_GROK_PERSONALIZATION_TITLE" = "Grok Personalization";
 
 /* Header for interaction section of accessibility settings page */
 "SETTINGS_HEADER_INTERACTION" = "Interaction";
@@ -19448,6 +19466,9 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* Title of the alert confirming to TURN OFF Parody, fan and commentary account settings */
 "PARODY_COMMENTARY_FAN_ACCOUNT_DISABLE_CONFIRMATION_ALERT_TITLE" = "Remove parody label?";
+
+/* Detail of the picker option(NONE) to TURN OFF Parody, fan and commentary account settings */
+"PARODY_COMMENTARY_FAN_ACCOUNT_DISABLE_OPTION_DETAIL" = "Choosing this option will remove the label from your profile and all past posts. Please check you are compliant with the authenticity policy.";
 
 /* A message in an alert displayed to the user when a transaction to purchase an item is pending an approval */
 "PAYMENTS_TRANSACTION_PENDING_MESSAGE" = "Your purchase is pending approval";
