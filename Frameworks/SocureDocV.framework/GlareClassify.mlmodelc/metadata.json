@@ -30,6 +30,9 @@
     "specificationVersion" : 4,
     "computePrecision" : "Float16",
     "isUpdatable" : "0",
+    "stateSchema" : [
+
+    ],
     "availability" : {
       "macOS" : "10.15",
       "tvOS" : "13.0",
@@ -38,22 +41,6 @@
       "iOS" : "13.0",
       "macCatalyst" : "13.0"
     },
-    "neuralNetworkLayerTypeHistogram" : {
-      "DivideBroadcastable" : 1,
-      "InnerProduct" : 8,
-      "ReduceMin" : 1,
-      "Convolution" : 20,
-      "Clip" : 12,
-      "ActivationSigmoid" : 1,
-      "ReshapeStatic" : 10,
-      "ReduceMax" : 1,
-      "Squeeze" : 1,
-      "Add" : 17,
-      "Multiply" : 25,
-      "ActivationLinear" : 2,
-      "ActivationReLU" : 9,
-      "PoolingAverage" : 5
-    },
     "modelType" : {
       "name" : "MLModelType_neuralNetwork"
     },
@@ -61,7 +48,6 @@
       "com.github.apple.coremltools.version" : "5.0b3",
       "com.github.apple.coremltools.source" : "torch==1.8.1"
     },
-    "generatedClassName" : "GlareClassify",
     "inputSchema" : [
       {
         "height" : "112",
@@ -76,6 +62,23 @@
         "name" : "input_0"
       }
     ],
+    "generatedClassName" : "GlareClassify",
+    "neuralNetworkLayerTypeHistogram" : {
+      "DivideBroadcastable" : 1,
+      "ReduceMin" : 1,
+      "InnerProduct" : 8,
+      "Convolution" : 20,
+      "Clip" : 12,
+      "ActivationSigmoid" : 1,
+      "ReshapeStatic" : 10,
+      "ReduceMax" : 1,
+      "Squeeze" : 1,
+      "Multiply" : 25,
+      "Add" : 17,
+      "ActivationLinear" : 2,
+      "ActivationReLU" : 9,
+      "PoolingAverage" : 5
+    },
     "method" : "predict"
   }
 ]

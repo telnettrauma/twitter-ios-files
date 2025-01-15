@@ -224,6 +224,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Additional message shown when there’s an issue with the user’s bank while processing a transfer. */
 "PAYMENTS_ERROR_BANK_ISSUE_MESSAGE" = "Please try again.";
 
+/* Payments: Error message shown when we cannot open an account for the customer (KYC failed, ineligible, ...) */
+"PAYMENTS_ERROR_CANNOT_OPEN_ACCOUNT_MESSAGE" = "Please reach out to Customer Support for further assistance.";
+
+/* Payments: Title of the generic error message shown when we cannot open an account for the customer (KYC failed, ineligible, ...) */
+"PAYMENTS_ERROR_CANNOT_OPEN_ACCOUNT_TITLE" = "We cannot open your account at this time";
+
 /* Payments: Generic error message shown when an unexpected issue occurs in X Payments. */
 "PAYMENTS_ERROR_GENERIC_MESSAGE" = "Please try again later or contact support team.";
 
@@ -571,6 +577,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Error message when the entered PIN confirmation doesn’t match */
 "PAYMENTS_PIN_UPDATE_ERROR_CONFIRMATION_MISMATCH" = "Pin does not match.";
+
+/* Payments: Error message when too many failed PIN updates attempts occur */
+"PAYMENTS_PIN_UPDATE_ERROR_COOLDOWN_ACTIVE" = "Too many failed attempts. Please try again after some time.";
 
 /* Payments: Error message when the user tries to set the same PIN */
 "PAYMENTS_PIN_UPDATE_ERROR_SAME_PIN" = "Pin already in use.";
@@ -1989,7 +1998,7 @@ e.g. Removed from MyRecipes.
 "COMMUNITY_REPLY_SENT_TOAST_TEMPLATE" = "Reply sent in {{COMMUNITY}}";
 
 /* Post action menu item title to remove a member from a Community. This is shown from the Reported post's view. */
-"COMMUNITY_REVIEW_REMOVE_MEMBER_MENU_ITEM_TITLE" = "Remove poster from Community";
+"COMMUNITY_REVIEW_REMOVE_MEMBER_MENU_ITEM_TITLE" = "Ban poster from Community";
 
 /* View the account of the reported poster's author (poster). */
 "COMMUNITY_REVIEW_VIEW_USER_PROFILE_MENU_ITEM_TITLE" = "View poster’s profile";
@@ -2037,10 +2046,10 @@ e.g. Removed from MyRecipes.
 "COMMUNITY_TWEET_PIN_TO_COMMUNITY_TIMELINE" = "Pin to Community Timeline";
 
 /* Title for page where one specifies the details for removing a member from a Community. */
-"COMMUNITY_TWEET_REMOVE_MEMBER_REPORT_SCREEN_TITLE" = "Remove Member";
+"COMMUNITY_TWEET_REMOVE_MEMBER_REPORT_SCREEN_TITLE" = "Ban from Community";
 
-/* Post action format to remove a member from a Community. Where '%@'  is the username of the user to remove. */
-"COMMUNITY_TWEET_REMOVE_MEMBER_TITLE_FORMAT" = "Remove %@ from Community";
+/* Post action format to ban a user from a Community */
+"COMMUNITY_TWEET_REMOVE_MEMBER_TITLE" = "Ban author from Community";
 
 /* Post action to unpin a post from a Community timeline*/
 "COMMUNITY_TWEET_UNPIN_FROM_COMMUNITY_TIMELINE" = "Unpin from Community Timeline";
@@ -5956,9 +5965,6 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Camera composer capture button accessibility label indicating that it can stop a broadcast */
 "NEWSCAMERA_CAPTURE_BUTTON_LIVE_STOP_ACCESSIBILITY_LABEL" = "Stop broadcasting";
 
-/* Accessibility hint for the video record button in the camera (when not yet recording), indicating it starts video recording and mentioning the maximum record time. */
-"NEWSCAMERA_CAPTURE_BUTTON_TOGGLE_ACCESSIBILITY_HINT" = "Records up to %d seconds";
-
 /* Accessibility label for the video record button in the camera (when not yet recording), indicating it starts video recording */
 "NEWSCAMERA_CAPTURE_BUTTON_TOGGLE_ACCESSIBILITY_LABEL" = "Record video";
 
@@ -8398,6 +8404,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* When game is in final state, we display the winning team in the following format ex "AUS won". */
 "SCORE_CARD_WON_FORMAT" = "%@ won";
+
+/* When game was yesterday . */
+"SCORE_CARD_YESTERDAY" = "Yesterday";
 
 /* Accessibility label for the scribe overlay view.  Part of dev tools. */
 "SCRIBE_DEBUG_OVERLAY_ACCESSIBILITY_LABEL" = "Scribe Overlay";
@@ -13137,6 +13146,21 @@ eg. "Super Following Jack" */
 /* DM try again error message */
 "DM_ERROR_MESSAGE_TRY_AGAIN" = "Please try again later";
 
+/* DM Inbox conversation text when someone sent audio */
+"DM_INBOX_CONVERSATION_SENT_AUDIO" = "Sent audio";
+
+/* DM Inbox conversation text when someone sent a file */
+"DM_INBOX_CONVERSATION_SENT_FILE" = "Sent a file";
+
+/* DM Inbox conversation text when someone sent a GIF */
+"DM_INBOX_CONVERSATION_SENT_GIF" = "Sent a GIF";
+
+/* DM Inbox conversation text when someone sent a image */
+"DM_INBOX_CONVERSATION_SENT_IMAGE" = "Sent an image";
+
+/* DM Inbox conversation text when someone sent a video */
+"DM_INBOX_CONVERSATION_SENT_VIDEO" = "Sent a video";
+
 /* DM Inbox Empty start a conversation action */
 "DM_INBOX_EMPTY_ACTION_START_A_CONVERSATION" = "Write a message";
 
@@ -13145,6 +13169,9 @@ eg. "Super Following Jack" */
 
 /* DM Inbox Empty title */
 "DM_INBOX_EMPTY_TITLE" = "Welcome to your inbox!";
+
+/* DM Inbox conversation mark as unread button title */
+"DM_INBOX_MARK_UNREAD_TITLE" = "Mark as unread";
 
 /* DM Inbox new message button accessibility label */
 "DM_INBOX_NEW_MESSAGE_ACCESSIBILITY_LABEL" = "Compose New Message";
@@ -13281,11 +13308,11 @@ eg. "Super Following Jack" */
 /* DM Message reply subtitle when replying to a video message with no text */
 "DM_MESSAGE_REPLY_SUBTITLE_VIDEO" = "Video";
 
-/* Status appearing underneath message when edited with timestamp */
-"DM_MESSAGE_STATUS_EDITED_AND_TIMESTAMP" = "Edited %@";
-
 /* Status appearing underneath message when edited */
 "DM_MESSAGE_STATUS_EDITED_ONLY" = "Edited";
+
+/* Status appearing underneath message when failed to send */
+"DM_MESSAGE_STATUS_FAILED" = "Failed";
 
 /* Status appearing underneath message when read with timestamp */
 "DM_MESSAGE_STATUS_READ_AND_TIMESTAMP" = "Read %@";
@@ -14553,7 +14580,7 @@ eg. "Super Following Jack" */
 "COMMUNITY_TWEET_UNPIN_TWEET_PROMPT_UNPIN_BUTTON_TITLE" = "Unpin";
 
 /* Content of a prompt shown in the composer informing users who will be able to see their Community posts. */
-"COMMUNITY_TWEET_VISIBILITY_PROMPT_MESSAGE" = "While Communities are public and can be seen by anyone, this post will only be shared with others in the Community — not your followers.";
+"COMMUNITY_TWEET_VISIBILITY_PROMPT_MESSAGE" = "Communities are public, so anyone can view them. When you post, your content is shared with both Community members and your followers.";
 
 /* Title of a prompt shown in the composer informing users who will be able to see their Community posts. */
 "COMMUNITY_TWEET_VISIBILITY_PROMPT_TITLE" = "Posting within a Community";
@@ -14637,7 +14664,7 @@ eg. "Super Following Jack" */
 "COMMUNITY_WELCOME_PROMPT_ACTION_TITLE" = "Check it out";
 
 /* Subtitle of the first item in the "Welcome to Communities" prompt. Shown below COMMUNITY_WELCOME_PROMPT_ITEM_ONE_TITLE. */
-"COMMUNITY_WELCOME_PROMPT_ITEM_ONE_SUBTITLE" = "Talk to people who care about the same things you do.";
+"COMMUNITY_WELCOME_PROMPT_ITEM_ONE_SUBTITLE" = "Join Communities to connect with people who share your interests.";
 
 /* Title of the first item in the "Welcome to Communities" prompt. Shown above COMMUNITY_WELCOME_PROMPT_ITEM_ONE_SUBTITLE. */
 "COMMUNITY_WELCOME_PROMPT_ITEM_ONE_TITLE" = "Meet others with your interests";
@@ -14649,7 +14676,7 @@ eg. "Super Following Jack" */
 "COMMUNITY_WELCOME_PROMPT_ITEM_THREE_TITLE" = "Get backup when you need it";
 
 /* Subtitle of the second item in the "Welcome to Communities" prompt. Shown below COMMUNITY_WELCOME_PROMPT_ITEM_TWO_TITLE. */
-"COMMUNITY_WELCOME_PROMPT_ITEM_TWO_SUBTITLE" = "Your posts are shared with other Community members — not your followers.";
+"COMMUNITY_WELCOME_PROMPT_ITEM_TWO_SUBTITLE" = "Your posts are shared with Community members and your followers.";
 
 /* Title of the second item in the "Welcome to Communities" prompt. Shown above COMMUNITY_WELCOME_PROMPT_ITEM_TWO_SUBTITLE. */
 "COMMUNITY_WELCOME_PROMPT_ITEM_TWO_TITLE" = "Post directly to a Community";
@@ -17400,6 +17427,9 @@ eg. "Super Following Jack" */
 /* Text label/badge shown next to a user's name when they are an Admin of a Community. This text may appear in a tight area so using an abbreviation to make it shorter would be preferred. For example, we choose to use "Admin" instead of "Administrator" */
 "COMMUNITY_TWEET_ADMIN_BADGE_LABEL" = "Admin";
 
+/* Text label/badge shown next to a user's name when they are a Member of a Community. */
+"COMMUNITY_TWEET_MEMBER_BADGE_LABEL" = "Member";
+
 /* Text label/badge shown next to a user's name when they are a Moderator of a Community. This text may appear in a tight area so using an abbreviation to make it shorter would be preferred. For example, we choose to use "Mod" instead of "Moderator" */
 "COMMUNITY_TWEET_MODERATOR_BADGE_LABEL" = "Mod";
 
@@ -18174,6 +18204,30 @@ eg. "Super Following Jack" */
 
 /* Subheader for speech recognition permission */
 "GROK_SPEECH_PERMISSION_SUB_HEADLINE" = "Chat with Grok using your voice";
+
+/* Title for the sports "Career" section in a Grok response. */
+"GROK_SPORTS_CARD_CAREER" = "Career";
+
+/* Title for the sports "Games" tab in a Grok response. */
+"GROK_SPORTS_CARD_GAMES" = "Games";
+
+/* Title for the sports "Matches" tab in a Grok response. */
+"GROK_SPORTS_CARD_MATCHES" = "Matches";
+
+/* Title for the sports "Overview" tab in a Grok response. */
+"GROK_SPORTS_CARD_OVERVIEW" = "Overview";
+
+/* Title for the sports "Splits" tab in a Grok response. Splits refers to sports stats broken down by some filter (For example, Day game vs Nighttime game)  */
+"GROK_SPORTS_CARD_SPLITS" = "Splits";
+
+/* Title for the sports "Standings" section in a Grok response. */
+"GROK_SPORTS_CARD_STANDINGS" = "Standings";
+
+/* Title for the sports "Stats" tab in a Grok response.Short for Statistics. */
+"GROK_SPORTS_CARD_STATS" = "Stats";
+
+/* Title for the sports "Upcoming" games section in a Grok response. */
+"GROK_SPORTS_CARD_UPCOMING" = "Upcoming";
 
 /* Label for Grok summary messages */
 "GROK_SUMMARY_LABEL" = "Summary";
@@ -20448,6 +20502,10 @@ eg. "- @jack" */
 "EXPANDED_BIO_SHOW_LESS_LABEL" = "Show less";
 
 "EXPANDED_BIO_SHOW_MORE_LABEL" = "Show more";
+
+"EXPANDED_BIO_VISIBILITY_PRIVATE" = "Hidden";
+
+"EXPANDED_BIO_VISIBILITY_PUBLIC" = "Everyone";
 
 "EXPANDED_BIO_WORK_HISTORY_LABEL" = "Work History";
 

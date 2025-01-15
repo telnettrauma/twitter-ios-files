@@ -20,6 +20,9 @@
     "specificationVersion" : 4,
     "computePrecision" : "Float16",
     "isUpdatable" : "0",
+    "stateSchema" : [
+
+    ],
     "availability" : {
       "macOS" : "10.15",
       "tvOS" : "13.0",
@@ -28,17 +31,6 @@
       "iOS" : "13.0",
       "macCatalyst" : "13.0"
     },
-    "neuralNetworkLayerTypeHistogram" : {
-      "Concat" : 1,
-      "PoolingMax" : 3,
-      "Multiply" : 1,
-      "ActivationReLU" : 4,
-      "ReshapeStatic" : 1,
-      "PoolingAverage" : 1,
-      "Convolution" : 4,
-      "ActivationSigmoid" : 1,
-      "InnerProduct" : 2
-    },
     "modelType" : {
       "name" : "MLModelType_neuralNetwork"
     },
@@ -46,7 +38,6 @@
       "com.github.apple.coremltools.version" : "5.0b4",
       "com.github.apple.coremltools.source" : "torch==1.8.1"
     },
-    "generatedClassName" : "BlurDetection",
     "inputSchema" : [
       {
         "height" : "180",
@@ -61,6 +52,18 @@
         "name" : "input_0"
       }
     ],
+    "generatedClassName" : "BlurDetection",
+    "neuralNetworkLayerTypeHistogram" : {
+      "Concat" : 1,
+      "Multiply" : 1,
+      "ActivationReLU" : 4,
+      "ReshapeStatic" : 1,
+      "PoolingAverage" : 1,
+      "PoolingINVALID" : 3,
+      "Convolution" : 4,
+      "InnerProduct" : 2,
+      "ActivationSigmoid" : 1
+    },
     "method" : "predict"
   }
 ]

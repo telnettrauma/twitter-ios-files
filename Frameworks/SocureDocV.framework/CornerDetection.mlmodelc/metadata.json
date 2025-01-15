@@ -30,6 +30,9 @@
     "specificationVersion" : 4,
     "computePrecision" : "Float16",
     "isUpdatable" : "0",
+    "stateSchema" : [
+
+    ],
     "availability" : {
       "macOS" : "10.15",
       "tvOS" : "13.0",
@@ -38,19 +41,6 @@
       "iOS" : "13.0",
       "macCatalyst" : "13.0"
     },
-    "neuralNetworkLayerTypeHistogram" : {
-      "Slice" : 3,
-      "ActivationLeakyReLU" : 27,
-      "Multiply" : 1,
-      "ReshapeStatic" : 2,
-      "PoolingAverage" : 1,
-      "SliceStatic" : 1,
-      "ExpandDims" : 1,
-      "ConcatND" : 1,
-      "Convolution" : 27,
-      "ActivationSigmoid" : 2,
-      "InnerProduct" : 1
-    },
     "modelType" : {
       "name" : "MLModelType_neuralNetwork"
     },
@@ -58,7 +48,6 @@
       "com.github.apple.coremltools.version" : "6.3.0",
       "com.github.apple.coremltools.source" : "torch==1.11.0"
     },
-    "generatedClassName" : "CornerDetection",
     "inputSchema" : [
       {
         "height" : "256",
@@ -73,6 +62,20 @@
         "name" : "input_0"
       }
     ],
+    "generatedClassName" : "CornerDetection",
+    "neuralNetworkLayerTypeHistogram" : {
+      "ConcatND" : 1,
+      "Multiply" : 1,
+      "ActivationLeakyReLU" : 27,
+      "ReshapeStatic" : 2,
+      "PoolingAverage" : 1,
+      "SliceStatic" : 1,
+      "ExpandDims" : 1,
+      "Slice" : 3,
+      "Convolution" : 27,
+      "InnerProduct" : 1,
+      "ActivationSigmoid" : 2
+    },
     "method" : "predict"
   }
 ]

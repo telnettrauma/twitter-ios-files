@@ -64,6 +64,10 @@
 		<data>
 		dlpaDfl2NdW2Q1leeLP+ozmivD4=
 		</data>
+		<key>statsMuseTeamData.json</key>
+		<data>
+		zP7CHryAJXjqbAjuk8dNl9QckHk=
+		</data>
 		<key>stokes.png</key>
 		<data>
 		tOg/eNq0ewmQ7J/CR574xwkw4Cc=
@@ -238,6 +242,17 @@
 			<key>hash2</key>
 			<data>
 			AzzliM+TZZbjqg0Z/aVJmccqCI9gZKNI/bFr4a+SpSg=
+			</data>
+		</dict>
+		<key>statsMuseTeamData.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zP7CHryAJXjqbAjuk8dNl9QckHk=
+			</data>
+			<key>hash2</key>
+			<data>
+			KgzKB/do9CsYlB73/yr57/MQ7DucO4ZMzhC2f8vy3+E=
 			</data>
 		</dict>
 		<key>stokes.png</key>
