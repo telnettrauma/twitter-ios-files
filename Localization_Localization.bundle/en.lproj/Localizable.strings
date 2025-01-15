@@ -56,6 +56,42 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 // Section: Frameworks/Payments/Sources/PaymentsStrings/en.lproj/Localizable.strings
 
+/* Payments: Label for the backup code input field */
+"PAYMENTS_2FA_BACKUP_CODE_FIELD_NAME" = "Code";
+
+/* Payments: Title shown when asking for a backup authentication code */
+"PAYMENTS_2FA_BACKUP_CODE_TITLE" = "Enter your backup code";
+
+/* Payments: Message shown when the authentication process was canceled by the user */
+"PAYMENTS_2FA_ERROR_MESSAGE_CANCELED" = "The operation was canceled.";
+
+/* Payments: Message shown on the 2FA error screen when we were not able to send a SMS to a carrier */
+"PAYMENTS_2FA_ERROR_MESSAGE_CARRIER_DISABLED" = "We were not able to send a SMS to this carrier.";
+
+/* Payments: Error message shown when the authentication request has expired */
+"PAYMENTS_2FA_ERROR_MESSAGE_EXPIRED" = "The request expired, try again.";
+
+/* Payments: Error message shown when there is an issue with the 2FA method configuration */
+"PAYMENTS_2FA_ERROR_MESSAGE_METHOD_ISSUE" = "The 2FA method on your account has an issue. Go to the app Settings, verify it, and try again.";
+
+/* Payments: Error message shown when too many authentication attempts have been made */
+"PAYMENTS_2FA_ERROR_MESSAGE_RATE_LIMIT" = "Too many attempts, try again later.";
+
+/* Payments: Title of the 2FA error screen when a request fails at the end of the flow */
+"PAYMENTS_2FA_ERROR_TITLE_FINISH" = "Unable to verify your authentication";
+
+/* Payments: Title of the 2FA error screen when a request fails at the beginning of the flow */
+"PAYMENTS_2FA_ERROR_TITLE_START" = "Unable to authenticate you";
+
+/* Payments: Label for the OTP input field */
+"PAYMENTS_2FA_OTP_FIELD_NAME" = "Code";
+
+/* Payments: Title shown when an SMS code has been sent to the user */
+"PAYMENTS_2FA_OTP_SMS_TITLE" = "We sent you a code";
+
+/* Payments: Title prompting user to enter their authenticator app code */
+"PAYMENTS_2FA_OTP_TOTP_TITLE" = "Enter the code from your Authenticator app";
+
 /* Payments: Title of the button that allows a user to accept a money transfer. */
 "PAYMENTS_ACCEPT_TRANSFER_ACTION" = "Accept";
 
@@ -97,6 +133,36 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Title of the button that allows a user to cancel a money transfer request */
 "PAYMENTS_CANCEL_TRANSFER_REQUEST_ACTION" = "Cancel request";
+
+/* Payments: Generic error message shown when 2FA verification fails */
+"PAYMENTS_CHALLENGE_ERROR_MESSAGE_2FA_INVALID" = "Try again later.";
+
+/* Payments: Error message shown when the OTP code has expired */
+"PAYMENTS_CHALLENGE_ERROR_MESSAGE_OTP_EXPIRED" = "This code expired, try again.";
+
+/* Payments: Error message shown when entered OTP code doesn't match */
+"PAYMENTS_CHALLENGE_ERROR_MESSAGE_OTP_MISMATCH" = "Check the code you entered and try again.";
+
+/* Payments: Error message shown when entered PIN doesn't match */
+"PAYMENTS_CHALLENGE_ERROR_MESSAGE_PIN_MISMATCH" = "Check the PIN you entered and try again.";
+
+/* Payments: Error message shown when too many challenge attempts have been made */
+"PAYMENTS_CHALLENGE_ERROR_MESSAGE_RATE_LIMIT" = "Too many attempts, try again later.";
+
+/* Payments: Error message shown when entered SSN doesn't match */
+"PAYMENTS_CHALLENGE_ERROR_MESSAGE_SSN_MISMATCH" = "Check the SSN you entered and try again.";
+
+/* Payments: Error title shown when 2FA verification fails */
+"PAYMENTS_CHALLENGE_ERROR_TITLE_2FA" = "Unable to verify your authentication";
+
+/* Payments: Error title shown when OTP code validation fails */
+"PAYMENTS_CHALLENGE_ERROR_TITLE_OTP" = "Unable to validate your code";
+
+/* Payments: Error title shown when PIN validation fails */
+"PAYMENTS_CHALLENGE_ERROR_TITLE_PIN" = "Unable to validate your PIN";
+
+/* Payments: Error title shown when SSN validation fails */
+"PAYMENTS_CHALLENGE_ERROR_TITLE_SSN" = "Unable to validate your SSN";
 
 /* Payments: Title of a button that allows the user to consent to something (ex: verifying their ID). Should be kept generic. */
 "PAYMENTS_CONSENT_ACTION" = "Consent";
@@ -197,6 +263,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Additional message shown when a request from a specific account is not possible at the moment. */
 "PAYMENTS_ERROR_INVALID_SENDER_MESSAGE" = "Please try again later.";
 
+/* Payments: Error message shown when the ZIP code inputted by the customer is invalid. */
+"PAYMENTS_ERROR_INVALID_ZIP_CODE" = "Invalid ZIP code. Please try again.";
+
 /* Payments: Error message shown when two-factor authentication needs to be set up before proceeding with X Payments. */
 "PAYMENTS_ERROR_TWO_FACTOR_AUTH_REQUIRED" = "You need to setup two-factor authentication before you can proceed.";
 
@@ -238,6 +307,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Title of the withdrawal screen in X Payments. */
 "PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_TITLE" = "Withdraw";
+
+/* Payments: Title of the action that allows a user to reset their PIN if they forgot it. */
+"PAYMENTS_FORGOT_PIN_TITLE" = "Forgot PIN";
 
 /* Payments: Confirmation button text used in various dialogs throughout X Payments. */
 "PAYMENTS_GOT_IT_ACTION" = "Got it";
@@ -518,11 +590,26 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the button to request money */
 "PAYMENTS_REQUEST_ACTION" = "Request";
 
+/* Payments: Message of the interstitial shown when a customer onboards in a state where X doesn't have a money license yet. %@ gets replaced by a localized name of a US state (ex: California) */
+"PAYMENTS_RESTRICTED_US_STATE_MESSAGE_FORMAT" = "You can still view your balance, but actions are currently disabled until X Money becomes available in %@.";
+
+/* Payments: Message of the interstitial shown when a customer onboards in a state where X doesn't have a money license yet. This version is used when we don't know (ex: missing data) which state the user lives in. */
+"PAYMENTS_RESTRICTED_US_STATE_MESSAGE_UNKNOWN" = "You can still view your balance, but actions are currently disabled until X Money becomes available in your state.";
+
+/* Payments: Title of the interstitial shown when a customer onboards in a state where X doesn't have a money license yet. %@ gets replaced by a localized name of a US state (ex: California) */
+"PAYMENTS_RESTRICTED_US_STATE_TITLE_FORMAT" = "X Money is not available in %@";
+
+/* Payments: Title of the interstitial shown when a customer onboards in a state where X doesn't have a money license yet. This version is used when we don't know (ex: missing data) which state the user lives in. */
+"PAYMENTS_RESTRICTED_US_STATE_TITLE_UNKNOWN" = "X Money is not available in your state";
+
 /* Payments: Description of PIN settings in Security and Privacy */
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_DESCRIPTION" = "Require a PIN for enhanced security";
 
 /* Payments: Error toast message when updating PIN settings fails */
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_ERROR_TOAST" = "Something went wrong. Please try again later.";
+
+/* Payments: Option to use FaceID to input the PIN */
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_FACE_ID" = "Use FaceID";
 
 /* Payments: Option to require PIN for transfers */
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_CREATE_TRANSACTIONS" = "For transfers";
@@ -536,14 +623,41 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title for PIN settings screen */
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_TITLE" = "PIN settings";
 
+/* Payments: Option to use TouchID to input the PIN */
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_TOUCH_ID" = "Use TouchID";
+
 /* Payments: Action to view all transactions */
 "PAYMENTS_SEE_ALL_TRANSACTIONS_ACTION" = "See all";
 
 /* Payments: Title for the limits section in settings */
 "PAYMENTS_SETTINGS_LIMITS_TITLE" = "Limits";
 
+/* Payments: Text for the Monthly Statements settings screen when it is empty */
+"PAYMENTS_SETTINGS_MONTHLY_STATEMENTS_EMPTY_STATE" = "No statement yet";
+
+/* Payments: Title for the Monthly Statements settings screen */
+"PAYMENTS_SETTINGS_MONTHLY_STATEMENTS_TITLE" = "Monthly Statements";
+
 /* Payments: Action to add a new payment method */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_METHOD_ACTION" = "Add account";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_BANK_ACCOUNT_ACTION" = "Add bank account";
+
+/* Payments: Action to add a new payment method */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ACTION" = "Add card";
+
+/* Payments: Title of the button that allows a user to add a bank account instead of a card as a new payment method. */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_BANK_ACCOUNT_ALTERNATIVE" = "Use a bank account instead";
+
+/* Payments: Title of the screen to add a card as a new payment method */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_TITLE" = "Add your debit card";
+
+/* Payments: Placeholder for the field where the user inputs the CVV (security code) of their card. */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_CARD_CVV_FIELD" = "CVV";
+
+/* Payments: Placeholder & Mask for the field where the user inputs the expiration date of their card. M should correspond to the first letter of "Month" and Y to "Year". Ex in Spanish, that'd give us MM/AA. Keep "/" as the separator. */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_CARD_EXPIRATION_FIELD" = "MM/YY";
+
+/* Payments: Placeholder for the field where the user inputs the number of their card. */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_CARD_NUMBER_FIELD" = "Card Number";
 
 /* Payments: Title for the linked banks section in settings */
 "PAYMENTS_SETTINGS_PAYMENT_METHODS_TITLE" = "Linked banks";
@@ -565,6 +679,15 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Title for the security and privacy settings screen */
 "PAYMENTS_SETTINGS_SECURITY_AND_PRIVACY_TITLE" = "Security & Privacy";
+
+/* Payments: Title for the Tax & Statements settings screen */
+"PAYMENTS_SETTINGS_TAX_AND_STATEMENTS_TITLE" = "Tax & Statements";
+
+/* Payments: Text for the Tax Documents settings screen when it is empty */
+"PAYMENTS_SETTINGS_TAX_DOCUMENTS_EMPTY_STATE" = "No document yet";
+
+/* Payments: Title for the Tax Documents settings screen */
+"PAYMENTS_SETTINGS_TAX_DOCUMENTS_TITLE" = "Tax Documents";
 
 /* Payments: Title for the settings screen */
 "PAYMENTS_SETTINGS_TITLE" = "Settings";
@@ -1094,15 +1217,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Accessibility label of White X on green background app icon that is read to users with VoiceOver enabled.*/
 "APP_ICON_GREEN_DESCRIPTION" = "White X on green background";
 
-/* Accessibility label of White X on halloween themed background icon that is read to users with VoiceOver enabled.*/
-"APP_ICON_HALLOWEEN_1_DESCRIPTION" = "White X on halloween themed background";
-
-/* Accessibility label of Black X on halloween themed background icon that is read to users with VoiceOver enabled.*/
-"APP_ICON_HALLOWEEN_2_DESCRIPTION" = "Black X on halloween themed background with a pumpkin";
-
-/* Accessibility label of White X on halloween themed background icon that is read to users with VoiceOver enabled.*/
-"APP_ICON_HALLOWEEN_3_DESCRIPTION" = "White X on halloween themed background with 3 pumpkins";
-
 /* Accessibility label of White X on traditional Japanese themed Daruma doll background icon that is read to users with VoiceOver enabled.*/
 "APP_ICON_JAPANESE_NEW_YEAR_1_DESCRIPTION" = "White X on traditional Japanese themed Daruma doll background";
 
@@ -1135,9 +1249,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Accessibility label of White X on space stars background app icon that is read to users with VoiceOver enabled.*/
 "APP_ICON_STARS_DESCRIPTION" = "White X on space stars background";
-
-/* Accessibility label of one of the Thanksgiving icons for users with VoiceOver enabled.*/
-"APP_ICON_THANKSGIVING_DESCRIPTION" = "A Thanksgiving and Fall themed Fall icon.";
 
 /* App install card free format. */
 "APP_INSTALL_CARD_FREE_LABEL" = "iTunes · FREE";
@@ -6742,6 +6853,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* Accessibility label for the expand button usually used to expand a video to full screen */
 "PLAYER_CONTROL_BAR_EXPAND_ACCESSIBILITY_LABEL" = "Expand video";
+
+/* Button on live broadcast video player to go live if user is rewinding  */
+"PLAYER_CONTROL_BAR_GO_LIVE" = "Go Live";
 
 /* Accessibility label for the mute button used to turn off the volume of the audio/video player */
 "PLAYER_CONTROL_BAR_MUTE_ACCESSIBILITY_LABEL" = "Mute";
@@ -12873,6 +12987,135 @@ eg. "Super Following Jack" */
 /* DM disconnected connection status title */
 "DM_CONNECTION_STATUS_DISCONNECTED_TITLE" = "Disconnected";
 
+/* Informational title displayed above messages from today */
+"DM_CONVERSATION_INFORMATIONAL_DATE_TODAY" = "Today";
+
+/* Informational title displayed above messages from yesterday */
+"DM_CONVERSATION_INFORMATIONAL_DATE_YESTERDAY" = "Yesterday";
+
+/* Informational title when unnamed user changes the group name. %@: new group name */
+"DM_CONVERSATION_INFORMATIONAL_GROUP_NAME_UNNAMED_CHANGED" = "The group name has been changed to %@";
+
+/* Informational title when unnamed user removes the group name */
+"DM_CONVERSATION_INFORMATIONAL_GROUP_NAME_UNNAMED_REMOVED" = "The group name has been removed";
+
+/* Informational title when user changes the group name. %1$@: display name of user that changed the name, %2$@: new group name */
+"DM_CONVERSATION_INFORMATIONAL_GROUP_NAME_USER_CHANGED" = "%1$@ changed the group name to %2$@";
+
+/* Informational title when user removes the group name. %@: display name of user that removed the name */
+"DM_CONVERSATION_INFORMATIONAL_GROUP_NAME_USER_REMOVED" = "%@ removed the group name";
+
+/* Informational title when you change the group name. %@: new group name */
+"DM_CONVERSATION_INFORMATIONAL_GROUP_NAME_YOU_CHANGED" = "You changed the group name to %@";
+
+/* Informational title when you remove the group name */
+"DM_CONVERSATION_INFORMATIONAL_GROUP_NAME_YOU_REMOVED" = "You removed the group name";
+
+/* Informational title when unnamed user removes the group photo */
+"DM_CONVERSATION_INFORMATIONAL_GROUP_PHOTO_UNNAMED_REMOVED" = "The group photo has been removed";
+
+/* Informational title when unnamed user updates the group photo */
+"DM_CONVERSATION_INFORMATIONAL_GROUP_PHOTO_UNNAMED_UPDATED" = "The group photo has been updated";
+
+/* Informational title when user removes the group photo. %@: display name of user that removed the photo */
+"DM_CONVERSATION_INFORMATIONAL_GROUP_PHOTO_USER_REMOVED" = "%@ removed the group photo";
+
+/* Informational title when user updates the group photo. %@: display name of user that updated the photo */
+"DM_CONVERSATION_INFORMATIONAL_GROUP_PHOTO_USER_UPDATED" = "%@ updated the group photo";
+
+/* Informational title when you remove the group photo */
+"DM_CONVERSATION_INFORMATIONAL_GROUP_PHOTO_YOU_REMOVED" = "You removed the group photo";
+
+/* Informational title when you update the group photo */
+"DM_CONVERSATION_INFORMATIONAL_GROUP_PHOTO_YOU_UPDATED" = "You updated the group photo";
+
+/* Informational title when 1 user leaves the group. %@: display name of user that left */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_LEFT_1" = "%@ left";
+
+/* Informational title when 2 users leave the group. %1$@: display name of first user that left, %2$@: display name of second user that left */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_LEFT_2" = "%1$@ and %2$@ left";
+
+/* Informational title when many (>=3) users leave the group. %1$@: display name of first user that left, %2$@: number of remaining users that left */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_LEFT_MANY" = "%1$@ and %2$@ others left";
+
+/* Informational title when you leave the group */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_LEFT_YOU" = "You left";
+
+/* Informational title when you are removed from the group */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_LEFT_YOU_REMOVED" = "You were removed from the group";
+
+/* Informational title when unnamed user adds 1 user to group. %@: display name of user being added */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_ADDED_1_USER" = "%@ was added";
+
+/* Informational title when unnamed user adds 2 users to group. %1$@: display name of first user being added, %2$@: display name of second user being added */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_ADDED_2_USERS" = "%1$@ and %2$@ were added";
+
+/* Informational title when unnamed user adds many (>=3) users to group. %1$@: display name of first user being added, %2$@: number of remaining users being added */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_ADDED_MANY_USERS" = "%1$@ and %2$@ others were added";
+
+/* Informational title when unnamed user adds you to group */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_ADDED_YOU" = "You were added";
+
+/* Informational title when unnamed user adds you and 1 other user to group. %@: display name of other user being added */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_ADDED_YOU_AND_1_USER" = "You and %@ were added";
+
+/* Informational title when unnamed user adds you and many (>=2) other users to group. %@: number of remaining users being added */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_ADDED_YOU_AND_MANY_USERS" = "You and %@ others were added";
+
+/* Informational title when user adds 1 user to group. %1$@: display name of user adding the user, %2$@: display name of user being added */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_USER_ADDED_1_USER" = "%1$@ added %2$@";
+
+/* Informational title when user adds 2 users to group. %1$@: display name of user adding the users, %2$@: display name of first user being added, %3$@: display name of second user being added */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_USER_ADDED_2_USERS" = "%1$@ added %2$@ and %3$@";
+
+/* Informational title when user adds many (>=3) users to group. %1$@: display name of user adding the users, %2$@: display name of first user being added, %3$@: number of remaining users being added */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_USER_ADDED_MANY_USERS" = "%1$@ added %2$@ and %3$@ others";
+
+/* Informational title when user adds you to group. %@: display name of user adding you */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_USER_ADDED_YOU" = "%@ added you";
+
+/* Informational title when user adds you and 1 other user to group. %@: display name of other user being added */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_USER_ADDED_YOU_AND_1_USER" = "%1$@ added you and %2$@";
+
+/* Informational title when user adds you and many (>=2) other users to group. %1$@: display name of user adding the users, %2$@: number of remaining users being added */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_USER_ADDED_YOU_AND_MANY_USERS" = "%1$@ added you and %2$@ others";
+
+/* Informational title when you add 1 user to group. %@: display name of user being added */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_YOU_ADDED_1_USER" = "You added %@";
+
+/* Informational title when you add 2 users to group. %1$@: display name of first user being added, %2$@: display name of second user being added */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_YOU_ADDED_2_USERS" = "You added %1$@ and %2$@";
+
+/* Informational title when you add many (>=3) users to group. %1$@: display name of first user being added, %2$@: number of remaining users being added */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_YOU_ADDED_MANY_USERS" = "You added %1$@ and %2$@ others";
+
+/* Informational title when you remove 1 user to group. %@: display name of user being removed */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_YOU_REMOVED_1_USER" = "You removed %@";
+
+/* Informational title when you remove 2 users to group. %1$@: display name of first user being removed, %2$@: display name of second user being removed */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_YOU_REMOVED_2_USERS" = "You removed %1$@ and %2$@";
+
+/* Informational title when you remove many (>=3) users to group. %1$@: display name of first user being removed, %2$@: number of remaining users being removed */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_YOU_REMOVED_MANY_USERS" = "You removed %1$@ and %2$@ others";
+
+/* Informational title when unnamed user sets vanishing mode to specific amount. %@: amount of time messages should be preserved for (e.g. 5 minutes, 1 hour, 1 week, 4 weeks) */
+"DM_CONVERSATION_INFORMATIONAL_VANISHING_MODE_UNNAMED_CHANGED" = "Vanishing mode was set to %@";
+
+/* Informational title when unnamed user turns off vanishing mode */
+"DM_CONVERSATION_INFORMATIONAL_VANISHING_MODE_UNNAMED_REMOVED" = "Vanishing mode was turned off";
+
+/* Informational title when user sets vanishing mode to specific amount. %1$@: display name of user changing vanishing mode, %2$@: amount of time messages should be preserved for (e.g. 5 minutes, 1 hour, 1 week, 4 weeks) */
+"DM_CONVERSATION_INFORMATIONAL_VANISHING_MODE_USER_CHANGED" = "%1$@ set vanishing mode to %2$@";
+
+/* Informational title when user turns off vanishing mode, %@: display name of user changing vanishing mode */
+"DM_CONVERSATION_INFORMATIONAL_VANISHING_MODE_USER_REMOVED" = "%@ turned off vanishing mode";
+
+/* Informational title when you set vanishing mode to specific amount. %@: amount of time messages should be preserved for (e.g. 5 minutes, 1 hour, 1 week, 4 weeks) */
+"DM_CONVERSATION_INFORMATIONAL_VANISHING_MODE_YOU_CHANGED" = "You set vanishing mode to %@";
+
+/* Informational title when you turn off vanishing mode */
+"DM_CONVERSATION_INFORMATIONAL_VANISHING_MODE_YOU_REMOVED" = "You turned off vanishing mode";
+
 /* DM try again error message */
 "DM_ERROR_MESSAGE_TRY_AGAIN" = "Please try again later";
 
@@ -12939,6 +13182,9 @@ eg. "Super Following Jack" */
 /* DM Manage Conversation Resign as admin action title */
 "DM_MANAGE_CONVERSATION_ACTION_RESIGN_AS_ADMIN_TITLE" = "Resign as admin";
 
+/* DM Manage Conversation Vanishing mode description */
+"DM_MANAGE_CONVERSATION_ACTION_VANISHING_MODE_DESCRIPTION" = "After messages in this chat get read, they will vanish after the selected time below.";
+
 /* DM Manage Conversation Vanishing mode action title */
 "DM_MANAGE_CONVERSATION_ACTION_VANISHING_MODE_TITLE" = "Vanishing mode";
 
@@ -12950,6 +13196,9 @@ eg. "Super Following Jack" */
 
 /* DM message action Copy title */
 "DM_MESSAGE_ACTION_COPY_ACCESSIBILITY_ANNOUNCEMENT" = "Copied";
+
+/* DM message action Copy audio title */
+"DM_MESSAGE_ACTION_COPY_AUDIO_TITLE" = "Copy audio";
 
 /* DM message action Copy file title */
 "DM_MESSAGE_ACTION_COPY_FILE_TITLE" = "Copy file";
@@ -12978,6 +13227,9 @@ eg. "Super Following Jack" */
 /* DM message action Reply title */
 "DM_MESSAGE_ACTION_REPLY_TITLE" = "Reply";
 
+/* DM message action Share audio title */
+"DM_MESSAGE_ACTION_SHARE_AUDIO_TITLE" = "Share audio";
+
 /* DM message action Share file title */
 "DM_MESSAGE_ACTION_SHARE_FILE_TITLE" = "Share file";
 
@@ -12993,8 +13245,23 @@ eg. "Super Following Jack" */
 /* DM Message composer reply header title for edit message */
 "DM_MESSAGE_COMPOSER_EDIT_MESSAGE_HEADER_TITLE" = "Edit message";
 
-/* DM Message composer reply header title for messages sent by logged in user */
-"DM_MESSAGE_COMPOSER_REPLY_HEADER_SENT_TITLE" = "You";
+/* DM Message composer reply title where the placeholder is replaced by the screen name of the person you're replying to */
+"DM_MESSAGE_COMPOSER_REPLY_TITLE" = "Replying to %@";
+
+/* DM Message composer reply title when there is no screen name of the person you're replying to */
+"DM_MESSAGE_COMPOSER_REPLY_TITLE_ONLY" = "Replying";
+
+/* DM Message reply subtitle when replying to an audio message with no text */
+"DM_MESSAGE_REPLY_SUBTITLE_AUDIO" = "Audio";
+
+/* DM Message reply subtitle when replying to a GIF message with no text */
+"DM_MESSAGE_REPLY_SUBTITLE_GIF" = "GIF";
+
+/* DM Message reply subtitle when replying to a photo message with no text */
+"DM_MESSAGE_REPLY_SUBTITLE_PHOTO" = "Photo";
+
+/* DM Message reply subtitle when replying to a video message with no text */
+"DM_MESSAGE_REPLY_SUBTITLE_VIDEO" = "Video";
 
 /* Status appearing underneath message when edited with timestamp */
 "DM_MESSAGE_STATUS_EDITED_AND_TIMESTAMP" = "Edited %@";
@@ -13004,6 +13271,9 @@ eg. "Super Following Jack" */
 
 /* Status appearing underneath message when read with timestamp */
 "DM_MESSAGE_STATUS_READ_AND_TIMESTAMP" = "Read %@";
+
+/* Status appearing underneath message when read */
+"DM_MESSAGE_STATUS_READ_ONLY" = "Read";
 
 /* Suggestions list group cell subtitle when multiple users. The %@ is replaced by the number of participants. */
 "DM_MULTIPLE_PEOPLE_GROUP_SUBTITLE" = "%@ people";
@@ -17506,7 +17776,7 @@ eg. "Super Following Jack" */
 "GROK_FEEDBACK_AUTO_RESPONSE_PROMPT" = "Please revise your response to incorporate my feedback: %@";
 
 /* Copy for Grok thumbs-down feedback menu */
-"GROK_FEEDBACK_BAD_POST_RESULTS" = "Bad post results";
+"GROK_FEEDBACK_BAD_POST_RESULTS" = "Bad search results";
 
 /* Copy for Grok thumbs-down feedback menu */
 "GROK_FEEDBACK_BAD_STYLE_TONE" = "Bad style/tone";
@@ -17530,13 +17800,13 @@ eg. "Super Following Jack" */
 "GROK_FEEDBACK_DIDNT_WANT_CODE" = "Didn’t want code";
 
 /* Copy for Grok thumbs-down feedback menu */
-"GROK_FEEDBACK_DIDNT_WANT_IMAGE" = "Didn’t want image";
+"GROK_FEEDBACK_DIDNT_WANT_IMAGE" = "Wanted text answer";
 
 /* Copy for Grok thumbs-down feedback menu */
 "GROK_FEEDBACK_DIDNT_WANT_MATH" = "Didn’t want math";
 
 /* Copy for Grok thumbs-down feedback menu */
-"GROK_FEEDBACK_DIDNT_WANT_POSTS" = "Didn’t want posts";
+"GROK_FEEDBACK_DIDNT_WANT_POSTS" = "Didn’t want search";
 
 /* Copy for Grok thumbs-down feedback menu */
 "GROK_FEEDBACK_DOESNT_UNDERSTAND_IMAGE" = "Doesn’t understand image";
@@ -17560,7 +17830,7 @@ eg. "Super Following Jack" */
 "GROK_FEEDBACK_WANTED_IMAGE" = "Wanted image";
 
 /* Copy for Grok thumbs-down feedback menu */
-"GROK_FEEDBACK_WANTED_POST_SEARCH" = "Wanted post search";
+"GROK_FEEDBACK_WANTED_POST_SEARCH" = "Wanted to search";
 
 /* Copy for Grok thumbs-down feedback menu */
 "GROK_FEEDBACK_WANTED_SOMETHING_ELSE" = "Wanted something else";
@@ -17663,6 +17933,15 @@ eg. "Super Following Jack" */
 
 /* Label for Grok images messages */
 "GROK_IMAGES_LABEL" = "Images";
+
+/* Label for button to copy image */
+"GROK_IMAGE_ACTION_COPY" = "Copy Image";
+
+/* Label for button to post image */
+"GROK_IMAGE_ACTION_POST" = "Post Image";
+
+/* Label for button to save image */
+"GROK_IMAGE_ACTION_SAVE" = "Save Image";
 
 /* Label for Grok image messages */
 "GROK_IMAGE_LABEL" = "Image";
@@ -17939,7 +18218,7 @@ eg. "Super Following Jack" */
 "GROK_VIEW_CONVERSATION" = "View conversation";
 
 /* Grok web results label */
-"GROK_WEB_RESULTS_LABEL" = "%d% Relevant Web Pages";
+"GROK_WEB_RESULTS_LABEL" = "%d Relevant Web Pages";
 
 /* Grok web results title */
 "GROK_WEB_RESULTS_TITLE" = "Relevant Web Pages";

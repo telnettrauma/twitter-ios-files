@@ -28,6 +28,11 @@
     <dict>
       <key>CFBundleAlternateIcons</key>
       <dict>
+        <key>Custom-Icon-001</key>
+        <dict>
+          <key>CFBundleIconName</key>
+          <string>Custom-Icon-001</string>
+        </dict>
         <key>Custom-Icon-X-Cyber</key>
         <dict>
           <key>CFBundleIconName</key>
@@ -38,75 +43,30 @@
           <key>CFBundleIconName</key>
           <string>Custom-Icon-X-Mars</string>
         </dict>
-        <key>Custom-Icon-X-Japanese-New-Year-1</key>
+        <key>Custom-Icon-X-Moon</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Japanese-New-Year-1</string>
+          <string>Custom-Icon-X-Moon</string>
         </dict>
-        <key>Custom-Icon-X-Halloween-2</key>
+        <key>Custom-Icon-X-Earth</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Halloween-2</string>
+          <string>Custom-Icon-X-Earth</string>
         </dict>
-        <key>Custom-Icon-X-Thanksgiving-2</key>
+        <key>Custom-Icon-X-Christmas-1</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Thanksgiving-2</string>
+          <string>Custom-Icon-X-Christmas-1</string>
         </dict>
-        <key>Custom-Icon-X-Japanese-New-Year-2</key>
+        <key>Custom-Icon-004</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Japanese-New-Year-2</string>
-        </dict>
-        <key>Custom-Icon-005</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-005</string>
-        </dict>
-        <key>Custom-Icon-X-Thanksgiving-6</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Thanksgiving-6</string>
-        </dict>
-        <key>Custom-Icon-001</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-001</string>
+          <string>Custom-Icon-004</string>
         </dict>
         <key>Custom-Icon-X-Christmas-4</key>
         <dict>
           <key>CFBundleIconName</key>
           <string>Custom-Icon-X-Christmas-4</string>
-        </dict>
-        <key>Custom-Icon-006</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-006</string>
-        </dict>
-        <key>Custom-Icon-002</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-002</string>
-        </dict>
-        <key>Custom-Icon-X-Halloween-1</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Halloween-1</string>
-        </dict>
-        <key>Custom-Icon-X-Thanksgiving-3</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Thanksgiving-3</string>
-        </dict>
-        <key>Custom-Icon-X-Christmas-3</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Christmas-3</string>
-        </dict>
-        <key>Custom-Icon-X-Moon</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Moon</string>
         </dict>
         <key>Custom-Icon-007</key>
         <dict>
@@ -118,50 +78,45 @@
           <key>CFBundleIconName</key>
           <string>Custom-Icon-003</string>
         </dict>
-        <key>Custom-Icon-X-Star</key>
+        <key>Custom-Icon-X-Japanese-New-Year-2</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Star</string>
+          <string>Custom-Icon-X-Japanese-New-Year-2</string>
+        </dict>
+        <key>Custom-Icon-X-Japanese-New-Year-1</key>
+        <dict>
+          <key>CFBundleIconName</key>
+          <string>Custom-Icon-X-Japanese-New-Year-1</string>
         </dict>
         <key>Custom-Icon-X-Christmas-2</key>
         <dict>
           <key>CFBundleIconName</key>
           <string>Custom-Icon-X-Christmas-2</string>
         </dict>
-        <key>Custom-Icon-X-Earth</key>
+        <key>Custom-Icon-006</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Earth</string>
+          <string>Custom-Icon-006</string>
         </dict>
-        <key>Custom-Icon-X-Thanksgiving-4</key>
+        <key>Custom-Icon-002</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Thanksgiving-4</string>
+          <string>Custom-Icon-002</string>
         </dict>
-        <key>Custom-Icon-004</key>
+        <key>Custom-Icon-X-Star</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-004</string>
+          <string>Custom-Icon-X-Star</string>
         </dict>
-        <key>Custom-Icon-X-Christmas-1</key>
+        <key>Custom-Icon-005</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Christmas-1</string>
+          <string>Custom-Icon-005</string>
         </dict>
-        <key>Custom-Icon-X-Thanksgiving-1</key>
+        <key>Custom-Icon-X-Christmas-3</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Thanksgiving-1</string>
-        </dict>
-        <key>Custom-Icon-X-Halloween-3</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Halloween-3</string>
-        </dict>
-        <key>Custom-Icon-X-Thanksgiving-5</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Thanksgiving-5</string>
+          <string>Custom-Icon-X-Christmas-3</string>
         </dict>
       </dict>
       <key>CFBundlePrimaryIcon</key>
@@ -280,6 +235,11 @@
     <dict>
       <key>CFBundleAlternateIcons</key>
       <dict>
+        <key>Custom-Icon-001</key>
+        <dict>
+          <key>CFBundleIconName</key>
+          <string>Custom-Icon-001</string>
+        </dict>
         <key>Custom-Icon-X-Cyber</key>
         <dict>
           <key>CFBundleIconName</key>
@@ -290,75 +250,30 @@
           <key>CFBundleIconName</key>
           <string>Custom-Icon-X-Mars</string>
         </dict>
-        <key>Custom-Icon-X-Japanese-New-Year-1</key>
+        <key>Custom-Icon-X-Moon</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Japanese-New-Year-1</string>
+          <string>Custom-Icon-X-Moon</string>
         </dict>
-        <key>Custom-Icon-X-Halloween-2</key>
+        <key>Custom-Icon-X-Earth</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Halloween-2</string>
+          <string>Custom-Icon-X-Earth</string>
         </dict>
-        <key>Custom-Icon-X-Thanksgiving-2</key>
+        <key>Custom-Icon-X-Christmas-1</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Thanksgiving-2</string>
+          <string>Custom-Icon-X-Christmas-1</string>
         </dict>
-        <key>Custom-Icon-X-Japanese-New-Year-2</key>
+        <key>Custom-Icon-004</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Japanese-New-Year-2</string>
-        </dict>
-        <key>Custom-Icon-005</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-005</string>
-        </dict>
-        <key>Custom-Icon-X-Thanksgiving-6</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Thanksgiving-6</string>
-        </dict>
-        <key>Custom-Icon-001</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-001</string>
+          <string>Custom-Icon-004</string>
         </dict>
         <key>Custom-Icon-X-Christmas-4</key>
         <dict>
           <key>CFBundleIconName</key>
           <string>Custom-Icon-X-Christmas-4</string>
-        </dict>
-        <key>Custom-Icon-006</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-006</string>
-        </dict>
-        <key>Custom-Icon-002</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-002</string>
-        </dict>
-        <key>Custom-Icon-X-Halloween-1</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Halloween-1</string>
-        </dict>
-        <key>Custom-Icon-X-Thanksgiving-3</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Thanksgiving-3</string>
-        </dict>
-        <key>Custom-Icon-X-Christmas-3</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Christmas-3</string>
-        </dict>
-        <key>Custom-Icon-X-Moon</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Moon</string>
         </dict>
         <key>Custom-Icon-007</key>
         <dict>
@@ -370,50 +285,45 @@
           <key>CFBundleIconName</key>
           <string>Custom-Icon-003</string>
         </dict>
-        <key>Custom-Icon-X-Star</key>
+        <key>Custom-Icon-X-Japanese-New-Year-2</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Star</string>
+          <string>Custom-Icon-X-Japanese-New-Year-2</string>
+        </dict>
+        <key>Custom-Icon-X-Japanese-New-Year-1</key>
+        <dict>
+          <key>CFBundleIconName</key>
+          <string>Custom-Icon-X-Japanese-New-Year-1</string>
         </dict>
         <key>Custom-Icon-X-Christmas-2</key>
         <dict>
           <key>CFBundleIconName</key>
           <string>Custom-Icon-X-Christmas-2</string>
         </dict>
-        <key>Custom-Icon-X-Earth</key>
+        <key>Custom-Icon-006</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Earth</string>
+          <string>Custom-Icon-006</string>
         </dict>
-        <key>Custom-Icon-X-Thanksgiving-4</key>
+        <key>Custom-Icon-002</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Thanksgiving-4</string>
+          <string>Custom-Icon-002</string>
         </dict>
-        <key>Custom-Icon-004</key>
+        <key>Custom-Icon-X-Star</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-004</string>
+          <string>Custom-Icon-X-Star</string>
         </dict>
-        <key>Custom-Icon-X-Christmas-1</key>
+        <key>Custom-Icon-005</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Christmas-1</string>
+          <string>Custom-Icon-005</string>
         </dict>
-        <key>Custom-Icon-X-Thanksgiving-1</key>
+        <key>Custom-Icon-X-Christmas-3</key>
         <dict>
           <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Thanksgiving-1</string>
-        </dict>
-        <key>Custom-Icon-X-Halloween-3</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Halloween-3</string>
-        </dict>
-        <key>Custom-Icon-X-Thanksgiving-5</key>
-        <dict>
-          <key>CFBundleIconName</key>
-          <string>Custom-Icon-X-Thanksgiving-5</string>
+          <string>Custom-Icon-X-Christmas-3</string>
         </dict>
       </dict>
       <key>CFBundlePrimaryIcon</key>
@@ -441,7 +351,7 @@
     <key>MinimumOSVersion</key>
     <string>15.0</string>
     <key>TWBuildNumber</key>
-    <string>2</string>
+    <string>10</string>
     <key>NSPhotoLibraryAddUsageDescription</key>
     <string>This lets you download photos and videos to your Photos.</string>
     <key>SKAdNetworkItems</key>
@@ -658,9 +568,9 @@
     <key>CFBundleName</key>
     <string>Twitter</string>
     <key>CFBundleShortVersionString</key>
-    <string>10.72.2</string>
+    <string>10.74</string>
     <key>TWBuildTime</key>
-    <string>2024-12-24T01:34:41Z</string>
+    <string>2024-12-27T22:53:23Z</string>
     <key>UIBackgroundModes</key>
     <array>
       <string>audio</string>
@@ -716,7 +626,7 @@
     <key>FirebaseScreenReportingEnabled</key>
     <false/>
     <key>BuildMachineOSBuild</key>
-    <string>23D60</string>
+    <string>23D56</string>
     <key>NSLocationUsageDescription</key>
     <string>Enjoy the X experience tailored to your location.</string>
     <key>TWSharedApplicationGroupIdentifier</key>
@@ -732,7 +642,7 @@
     <key>TWPushEnvironment</key>
     <string>3</string>
     <key>CFBundleVersion</key>
-    <string>2</string>
+    <string>10</string>
     <key>CFBundleDevelopmentRegion</key>
     <string>English</string>
     <key>DTCompiler</key>

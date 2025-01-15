@@ -2062,7 +2062,7 @@
 		</data>
 		<key>VectorImages/main/timeline_alt_stroke.svg</key>
 		<data>
-		tCbS8WrZBs0hLgrEJGUJpfyYjqc=
+		hgXvBszxQo5HnHZq6DTlwJsxQgE=
 		</data>
 		<key>VectorImages/main/timeline_stroke.svg</key>
 		<data>
@@ -2171,6 +2171,14 @@
 		<key>VectorImages/main/xai_grok_stroke.svg</key>
 		<data>
 		Xo+KnEUJY/0zMFy+yjcsosu5/uE=
+		</data>
+		<key>VectorImages/main/xai_grok_tab.svg</key>
+		<data>
+		Es1hy7X+8ayQnTjHzDvIgPpP0Ps=
+		</data>
+		<key>VectorImages/main/xai_grok_tab_stroke.svg</key>
+		<data>
+		2uBXcAjLtfW7OWOwYE7dTSfRezA=
 		</data>
 		<key>VectorImages/main/xai_stroke.svg</key>
 		<data>
@@ -8285,11 +8293,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tCbS8WrZBs0hLgrEJGUJpfyYjqc=
+			hgXvBszxQo5HnHZq6DTlwJsxQgE=
 			</data>
 			<key>hash2</key>
 			<data>
-			a8roBKlDxPqsCip2GV8O2zBv1U4ka8H608ST2Iic3ek=
+			wftVZyGTbvDLjri+WfjzfJCCxHbKzuntAgsl3oRunCQ=
 			</data>
 		</dict>
 		<key>VectorImages/main/timeline_stroke.svg</key>
@@ -8587,6 +8595,28 @@
 			<key>hash2</key>
 			<data>
 			ENhL8mJ+Xv4kZXLLOlmtfMwhyr3q3pHlkvdBWB1Oil0=
+			</data>
+		</dict>
+		<key>VectorImages/main/xai_grok_tab.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Es1hy7X+8ayQnTjHzDvIgPpP0Ps=
+			</data>
+			<key>hash2</key>
+			<data>
+			IjyWJA+pG4nnRbsZcnpxWv6WP7+G/6Ssgfvu9bqrXiQ=
+			</data>
+		</dict>
+		<key>VectorImages/main/xai_grok_tab_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2uBXcAjLtfW7OWOwYE7dTSfRezA=
+			</data>
+			<key>hash2</key>
+			<data>
+			InOn1bao4sxbMmnTw7DmH/qWqSH9Wo7rIT4EVffkxn8=
 			</data>
 		</dict>
 		<key>VectorImages/main/xai_stroke.svg</key>
