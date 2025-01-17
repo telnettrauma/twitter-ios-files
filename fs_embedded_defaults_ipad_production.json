@@ -1,6 +1,6 @@
 {
   "default" : {
-    "feature_set_token" : "89c1d7a4ab9fb06d5915c99a4a8de49d835fc740",
+    "feature_set_token" : "9f30eaebfd1d32df0bec5d92dc48d697dc61e9bf",
     "config" : {
       "2fa_temporary_password_enabled" : {
         "value" : false
@@ -1664,6 +1664,9 @@
       "grok_ios_load_preferred_prompts_from_home_enabled" : {
         "value" : true
       },
+      "grok_ios_load_preferred_prompts_from_home_for_images_enabled" : {
+        "value" : false
+      },
       "grok_ios_mention_hydration_enabled" : {
         "value" : false
       },
@@ -1683,7 +1686,7 @@
         "value" : false
       },
       "grok_ios_profile_summary_enabled" : {
-        "value" : false
+        "value" : true
       },
       "grok_ios_profile_summary_in_menu_enabled" : {
         "value" : true
@@ -1740,7 +1743,7 @@
         "value" : true
       },
       "grok_settings_age_restriction_enabled" : {
-        "value" : false
+        "value" : true
       },
       "grok_user_search_typeahead_enabled" : {
         "value" : true
@@ -5088,7 +5091,7 @@
   "requires_restart" : [ ],
   "supports_accessibility" : [ ],
   "versions" : {
-    "feature_switches" : "2fc799fe44159e69f9da33c03230afdf65a11331",
-    "experiments" : "2fc799fe44159e69f9da33c03230afdf65a11331"
+    "feature_switches" : "b73cbabe7677e8c82cdc39c73a391e7a88d03638",
+    "experiments" : "b73cbabe7677e8c82cdc39c73a391e7a88d03638"
   }
 }
