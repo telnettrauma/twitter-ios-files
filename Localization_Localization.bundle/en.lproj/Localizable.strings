@@ -4,57 +4,7 @@ This file is auto-generated using Localization/scripts/concatenate_localizable_s
 This file is sorted by modules instead of alphabetically to help reduce merge conflicts.
 */
 
-// Section: Frameworks/TwitterComposition/TwitterComposition/Sources/TwitterCompositionStrings/en.lproj/Localizable.strings
-
-/* Message to let the user know that the post can only contain attachments of one media type at the time, media types being GIF, Image, Video, etc */
-"DRAG_DROP_INDICATION_VIEW_DIFFERENT_MEDIA_TYPES_MESSAGE" = "You can’t post more than one kind of media at a time.";
-
-/* Message to let the user know where they can drop the GIF they're dragging over composer. */
-"DRAG_DROP_INDICATION_VIEW_DROP_GIF_MESSAGE" = "Drop in the GIF you want to post.";
-
-/* Message to let the user know where they can drop photos they're dragging over composer. */
-"DRAG_DROP_INDICATION_VIEW_DROP_PHOTOS_MESSAGE" = "Drop in the photos you want to post.";
-
-/* Message to let the user know where they can drop text they're dragging over the composer. */
-"DRAG_DROP_INDICATION_VIEW_DROP_TEXT_MESSAGE" = "Drop in the text you want to post.";
-
-/* Message to let the user know where they can drop the post they're dragging over the composer. */
-"DRAG_DROP_INDICATION_VIEW_DROP_TWEET_MESSAGE" = "Drop in the post you want to share.";
-
-/* Message to let the user know where they can drop a URL they're dragging over the composer. */
-"DRAG_DROP_INDICATION_VIEW_DROP_URL_MESSAGE" = "Drop in the link you want to post.";
-
-/* Message to let the user know where they can drop the video they're dragging over composer. */
-"DRAG_DROP_INDICATION_VIEW_DROP_VIDEO_MESSAGE" = "Drop in the video you want to post.";
-
-/* Message to let the user know that the post can only contain one GIF attachment.*/
-"DRAG_DROP_INDICATION_VIEW_GIF_LIMIT_AMOUNT_MESSAGE" = "You can only post one GIF at a time.";
-
-/* Message to let the user know that the post can only contain four images attachments.*/
-"DRAG_DROP_INDICATION_VIEW_PHOTOS_LIMIT_AMOUNT_MESSAGE" = "You can only post up to 4 photos at a time.";
-
-/* Message to let the user know that the post can only contain one video attachment.*/
-"DRAG_DROP_INDICATION_VIEW_VIDEO_LIMIT_AMOUNT_MESSAGE" = "You can only post one video at a time.";
-
-/* Placeholder text to fill in the post composer when sharing this Live Event. Localizers, please keep the line break ("\n") after "hashtags".
- The format is: "*event title*" by *attribution username* *hashtag*\n *event URL*, e.g. NFL Thursday Night Football by @NFL #TNF https://x.com/i/event/123 */
-"LIVE_EVENT_SHARE_PREPOPULATED_TWEET_FORMAT_WITH_ATTRIBUTION_USERNAME" = "“%1$@” by %2$@ %3$@\n%4$@";
-
-/* Placeholder text to fill in the post composer when sharing this Live Event.
- The format is: *hashtag* *event URL*, e.g. #TNF https://x.com/i/event/123 */
-"LIVE_EVENT_SHARE_TWEET_FORMAT_NO_TITLE" = "%1$@ %2$@";
-
-/* Placeholder text to fill in the post composer when sharing this Live Event.
- The format is: "*event title*" *hashtag* *event URL*, e.g. NFL Thursday Night Football #TNF https://x.com/i/event/123 */
-"LIVE_EVENT_SHARE_TWEET_FORMAT_WITH_TITLE" = "“%1$@” %2$@\n%3$@";
-
-/* Message for a local push notification that asks the user to re-open the TWitter app to try to re-send a post that failed to send. */
-"SUBSCRIPTION_UNDO_SEND_TWEET_FAILED_NOTIFICATION_MESSAGE" = "Your post didn’t send";
-
-/* Title for a local push notification that tells the user their post failed to send. */
-"SUBSCRIPTION_UNDO_SEND_TWEET_FAILED_NOTIFICATION_TITLE" = "Reopen the app to try again.";
-
-// Section: Frameworks/Payments/Sources/PaymentsStrings/en.lproj/Localizable.strings
+// Section: Frameworks/XAppCoreLibraries/Payments/Sources/PaymentsStrings/en.lproj/Localizable.strings
 
 /* Payments: Label for the backup code input field */
 "PAYMENTS_2FA_BACKUP_CODE_FIELD_NAME" = "Code";
@@ -95,11 +45,17 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the button that allows a user to accept a money transfer. */
 "PAYMENTS_ACCEPT_TRANSFER_ACTION" = "Accept";
 
+/* Payments: Subtitle the of 'Account' details screen. "Routing" meaning the account/routing numbers. */
+"PAYMENTS_ACCOUNT_DETAILS_SUBTITLE_WITHOUT_CARD" = "Routing";
+
 /* Payments: Subtitle the of 'Account' details screen. "Card" meaning the (debit or credit) card associated with the account, and "Routing" meaning the account/routing numbers. */
-"PAYMENTS_ACCOUNT_DETAILS_SUBTITLE" = "Card & Routing";
+"PAYMENTS_ACCOUNT_DETAILS_SUBTITLE_WITH_CARD" = "Card & Routing";
 
 /* Payments: Title the of 'Account' details screen */
 "PAYMENTS_ACCOUNT_DETAILS_TITLE" = "Account";
+
+/* Payments: "Account number" used for US bank accounts transfers */
+"PAYMENTS_ACCOUNT_NUMBER" = "Account number";
 
 /* Payments: Title of the section that contains actions the user can do (ex: Verify identity, Pay, ...). */
 "PAYMENTS_ACTION_NEEDED_TITLE" = "Action needed";
@@ -614,6 +570,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the interstitial shown when a customer onboards in a state where X doesn't have a money license yet. This version is used when we don't know (ex: missing data) which state the user lives in. */
 "PAYMENTS_RESTRICTED_US_STATE_TITLE_UNKNOWN" = "X Money is not available in your state";
 
+/* Payments: "Routing number" used for US bank accounts transfers */
+"PAYMENTS_ROUTING_NUMBER" = "Routing number";
+
 /* Payments: Description of PIN settings in Security and Privacy */
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_DESCRIPTION" = "Require a PIN for enhanced security";
 
@@ -625,6 +584,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Option to require PIN for transfers */
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_CREATE_TRANSACTIONS" = "For transfers";
+
+/* Payments: Option to require PIN to unlock X Payments */
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_LINK_PAYMENT_METHOD" = "To add card/bank accounts";
 
 /* Payments: Option to require PIN to unlock X Payments */
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_UNLOCK" = "To access Money";
@@ -850,6 +812,56 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Action to withdraw money from the Payments wallet */
 "PAYMENTS_WITHDRAW_ACTION" = "Withdraw";
+
+// Section: Frameworks/TwitterComposition/TwitterComposition/Sources/TwitterCompositionStrings/en.lproj/Localizable.strings
+
+/* Message to let the user know that the post can only contain attachments of one media type at the time, media types being GIF, Image, Video, etc */
+"DRAG_DROP_INDICATION_VIEW_DIFFERENT_MEDIA_TYPES_MESSAGE" = "You can’t post more than one kind of media at a time.";
+
+/* Message to let the user know where they can drop the GIF they're dragging over composer. */
+"DRAG_DROP_INDICATION_VIEW_DROP_GIF_MESSAGE" = "Drop in the GIF you want to post.";
+
+/* Message to let the user know where they can drop photos they're dragging over composer. */
+"DRAG_DROP_INDICATION_VIEW_DROP_PHOTOS_MESSAGE" = "Drop in the photos you want to post.";
+
+/* Message to let the user know where they can drop text they're dragging over the composer. */
+"DRAG_DROP_INDICATION_VIEW_DROP_TEXT_MESSAGE" = "Drop in the text you want to post.";
+
+/* Message to let the user know where they can drop the post they're dragging over the composer. */
+"DRAG_DROP_INDICATION_VIEW_DROP_TWEET_MESSAGE" = "Drop in the post you want to share.";
+
+/* Message to let the user know where they can drop a URL they're dragging over the composer. */
+"DRAG_DROP_INDICATION_VIEW_DROP_URL_MESSAGE" = "Drop in the link you want to post.";
+
+/* Message to let the user know where they can drop the video they're dragging over composer. */
+"DRAG_DROP_INDICATION_VIEW_DROP_VIDEO_MESSAGE" = "Drop in the video you want to post.";
+
+/* Message to let the user know that the post can only contain one GIF attachment.*/
+"DRAG_DROP_INDICATION_VIEW_GIF_LIMIT_AMOUNT_MESSAGE" = "You can only post one GIF at a time.";
+
+/* Message to let the user know that the post can only contain four images attachments.*/
+"DRAG_DROP_INDICATION_VIEW_PHOTOS_LIMIT_AMOUNT_MESSAGE" = "You can only post up to 4 photos at a time.";
+
+/* Message to let the user know that the post can only contain one video attachment.*/
+"DRAG_DROP_INDICATION_VIEW_VIDEO_LIMIT_AMOUNT_MESSAGE" = "You can only post one video at a time.";
+
+/* Placeholder text to fill in the post composer when sharing this Live Event. Localizers, please keep the line break ("\n") after "hashtags".
+ The format is: "*event title*" by *attribution username* *hashtag*\n *event URL*, e.g. NFL Thursday Night Football by @NFL #TNF https://x.com/i/event/123 */
+"LIVE_EVENT_SHARE_PREPOPULATED_TWEET_FORMAT_WITH_ATTRIBUTION_USERNAME" = "“%1$@” by %2$@ %3$@\n%4$@";
+
+/* Placeholder text to fill in the post composer when sharing this Live Event.
+ The format is: *hashtag* *event URL*, e.g. #TNF https://x.com/i/event/123 */
+"LIVE_EVENT_SHARE_TWEET_FORMAT_NO_TITLE" = "%1$@ %2$@";
+
+/* Placeholder text to fill in the post composer when sharing this Live Event.
+ The format is: "*event title*" *hashtag* *event URL*, e.g. NFL Thursday Night Football #TNF https://x.com/i/event/123 */
+"LIVE_EVENT_SHARE_TWEET_FORMAT_WITH_TITLE" = "“%1$@” %2$@\n%3$@";
+
+/* Message for a local push notification that asks the user to re-open the TWitter app to try to re-send a post that failed to send. */
+"SUBSCRIPTION_UNDO_SEND_TWEET_FAILED_NOTIFICATION_MESSAGE" = "Your post didn’t send";
+
+/* Title for a local push notification that tells the user their post failed to send. */
+"SUBSCRIPTION_UNDO_SEND_TWEET_FAILED_NOTIFICATION_TITLE" = "Reopen the app to try again.";
 
 // Section: Frameworks/T1Strings/Sources/T1Strings/en.lproj/Localizable.strings
 
@@ -3939,9 +3951,6 @@ This text is the accessibility hint for the button that lets the user change the
 /* Nav bar title for editing photo */
 "EDIT_PHOTOS_TITLE" = "Edit photo";
 
-/* Label for account profile label in edit profile */
-"EDIT_PROFILE_ACCOUNT_PROFILE_LABEL" = "Label";
-
 /* Placeholder text for birthday entry in edit profile */
 "EDIT_PROFILE_BIRTHDAY_HINT_TEXT" = "Add your date of birth";
 
@@ -6455,9 +6464,6 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Title text for Parody Commentary and Fan Account Label landing page section for Do I need to label my PCF account?. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_LANDING_PAGE_SECTION_PCF_HOW_TO_TITLE" = "How do I label my PCF account?";
 
-/* Longer description of the setting that allows users to display a parody commentary fan label on their account profile. */
-"PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_DETAIL" = "This label ensures people on X are not confused by your account, informing them that your account is not affiliated with the subject of the profile.";
-
 /* Longer description of the setting that allows users to display a parody commentary fan label on their account profile with argument for `Learn more` link */
 "PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_DETAIL_2" = "This label ensures people on X are not confused by your account, informing them that your account is not affiliated with the subject of the profile. %@";
 
@@ -6470,11 +6476,26 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Title of the setting that allows users to manage settings about the Parody, commentary and fan account label for their profile. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_TITLE" = "Add profile label";
 
+/* Description of the toggle button to opt-in/opt-out of Impersonation account settings on Parody Account Setting screen */
+"PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_TOGGLE_DESCRIPTION" = "Displays impersonation account label on profile as per user settings";
+
+/* Title of the toggle button to opt-in/opt-out of Impersonation account settings on Parody Account Setting screen */
+"PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_TOGGLE_LABEL" = "Impersonation";
+
 /* Profile label displayed when the user enables the parody profile label in account settings. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_PARODY_PROFILE_LABEL_TEXT" = "Parody account";
 
+/* Profile label displayed based on opted PCF label when the user enables the parody profile label in account settings. */
+"PARODY_COMMENTARY_FAN_ACCOUNT_PROFILE_LABEL_TEXT" = "%@ account";
+
 /* Title text for Parody Commentary and Fan Account Label under account settings. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_TITLE_LABEL" = "Parody, commentary and fan account";
+
+/* Title for Choosing Parody Label Screen */
+"PARODY_COMMENTARY_FAN_CHOOSE_LABEL_TITLE" = "Choose Profile Label";
+
+/* Label for PCF Label field */
+"PARODY_COMMENTARY_FAN_LABEL_FIELD_LABEL" = "Profile Label";
 
 /* No comment provided by engineer. */
 "PASSWORD_LABEL" = "Password";
@@ -13065,12 +13086,6 @@ eg. "Super Following Jack" */
 /* Informational title when many (>=3) users leave the group. %1$@: display name of first user that left, %2$@: number of remaining users that left */
 "DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_LEFT_MANY" = "%1$@ and %2$@ others left";
 
-/* Informational title when you leave the group */
-"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_LEFT_YOU" = "You left";
-
-/* Informational title when you are removed from the group */
-"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_LEFT_YOU_REMOVED" = "You were removed from the group";
-
 /* Informational title when unnamed user adds 1 user to group. %@: display name of user being added */
 "DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_ADDED_1_USER" = "%@ was added";
 
@@ -13088,6 +13103,18 @@ eg. "Super Following Jack" */
 
 /* Informational title when unnamed user adds you and many (>=2) other users to group. %@: number of remaining users being added */
 "DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_ADDED_YOU_AND_MANY_USERS" = "You and %@ others were added";
+
+/* Informational title when unnamed user removes 1 user from group. %@: display name of user being removed */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_REMOVED_1_USER" = "%@ was removed";
+
+/* Informational title when unnamed user removes 2 users from group. %1$@: display name of first user being removed, %2$@: display name of second user being removed */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_REMOVED_2_USERS" = "%1$@ and %2$@ were removed";
+
+/* Informational title when unnamed user removes many (>=3) users from group. %1$@: display name of first user being removed, %2$@: number of remaining users being removed */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_REMOVED_MANY_USERS" = "%1$@ and %2$@ others were removed";
+
+/* Informational title when unnamed user removes you from the group */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_REMOVED_YOU" = "You were removed from the group";
 
 /* Informational title when user adds 1 user to group. %1$@: display name of user adding the user, %2$@: display name of user being added */
 "DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_USER_ADDED_1_USER" = "%1$@ added %2$@";
@@ -13115,6 +13142,9 @@ eg. "Super Following Jack" */
 
 /* Informational title when you add many (>=3) users to group. %1$@: display name of first user being added, %2$@: number of remaining users being added */
 "DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_YOU_ADDED_MANY_USERS" = "You added %1$@ and %2$@ others";
+
+/* Informational title when you leave the group */
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_YOU_LEFT" = "You left";
 
 /* Informational title when you remove 1 user to group. %@: display name of user being removed */
 "DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_YOU_REMOVED_1_USER" = "You removed %@";
@@ -13238,6 +13268,9 @@ eg. "Super Following Jack" */
 
 /* DM Manage Conversation navigation bar group info title */
 "DM_MANAGE_CONVERSATION_NAVIGATION_BAR_GROUP_INFO_TITLE" = "Group info";
+
+/* DM message action Cancel title */
+"DM_MESSAGE_ACTION_CANCEL_TITLE" = "Cancel message";
 
 /* DM message action Copy title */
 "DM_MESSAGE_ACTION_COPY_ACCESSIBILITY_ANNOUNCEMENT" = "Copied";
@@ -13847,7 +13880,7 @@ eg. "Super Following Jack" */
 "COMMUNITY_INFO_CREATOR_PROFILE_ACCESSIBILITY_HINT_FORMAT" = "Show %@’s profile";
 
 /* Text describing the capabilities members of a Community have. */
-"COMMUNITY_INFO_MEMBER_CAPABILITIES_TEXT" = "Only Community members can post, or reply.";
+"COMMUNITY_INFO_MEMBER_CAPABILITIES_TEXT" = "Only Community members can post.";
 
 /* Title of the "Info" module within the Community "About" tab. The Info module displays the creator, creation date, and other info about the Community. */
 "COMMUNITY_INFO_MODULE_TITLE" = "Community Info";
@@ -14385,7 +14418,7 @@ eg. "Super Following Jack" */
 "COMMUNITY_SETTINGS_DELETE_COMMUNITY_CONFIRM_BUTTON_TITLE" = "Delete Community";
 
 /* Description on the screen used to confirm the deletion of a Community. */
-"COMMUNITY_SETTINGS_DELETE_COMMUNITY_DESCRIPTION" = "This can’t be undone. Post authors can still see their own posts, but all posts will be excluded from Search results.";
+"COMMUNITY_SETTINGS_DELETE_COMMUNITY_DESCRIPTION" = "This can’t be undone. Post authors can still see their own posts.";
 
 /* Title of toast shown when the Community deletion has failed. */
 "COMMUNITY_SETTINGS_DELETE_COMMUNITY_FAILURE_TITLE" = "That didn’t work, let’s try again";
@@ -14558,8 +14591,8 @@ eg. "Super Following Jack" */
 /* Message shown before a user has typed a search query. */
 "COMMUNITY_TOPIC_INACTIVE" = "Select a Topic to see recommended Communities!";
 
-/* Info text shown in the composer when a Community is selected, informing them that only Community members will be able to reply to their post. */
-"COMMUNITY_TWEET_COMPOSER_INFO_VIEW_TEXT" = "Community members can reply";
+/* Info text shown in the composer when a Community is selected. */
+"COMMUNITY_TWEET_COMPOSER_INFO_VIEW_TEXT" = "Review and follow the rules of this Community";
 
 /* Details of a prompt shown a user tries to pin a post on Community timeline */
 "COMMUNITY_TWEET_PIN_TWEET_PROMPT_DETAILS" = "This will appear at the top of the Community feed and replace any previously pinned posts.";
@@ -14646,13 +14679,19 @@ eg. "Super Following Jack" */
 "COMMUNITY_UNABLE_TO_TWEET_NOT_INVITED_MESSAGE" = "Communities are public, so you can read the posts, but you must join this Community to post.";
 
 /* Alert title displayed when someone tries to post to a Community that they are not a member of. */
-"COMMUNITY_UNABLE_TO_TWEET_NOT_INVITED_TITLE" = "Participation is limited";
+"COMMUNITY_UNABLE_TO_TWEET_NOT_INVITED_TITLE" = "Join the Community to post";
 
 /* Alert title displayed when someone tries to post to a Community with a protected account.*/
 "COMMUNITY_UNABLE_TO_TWEET_PROTECTED_ACCOUNT_MESSAGE_HTML" = "<p>Communities are public, so protected accounts can’t join the conversation. You can read and like the posts, but to do more, you’ll need to <a id=\"MAKE_TWEETS_PUBLIC\">make your posts public</a>.</p>";
 
 /* Alert message displayed when someone tries to post to a Community with a protected account.*/
 "COMMUNITY_UNABLE_TO_TWEET_PROTECTED_ACCOUNT_TITLE" = "Your posts are protected";
+
+/* Alert message displayed when someone tries to post to a Community with a community banned account.*/
+"COMMUNITY_UNABLE_TO_TWEET_USER_IS_BANNED_MESSAGE" = "Reach out to the Community moderators to be reinstated";
+
+/* Alert title displayed when someone tries to post to a Community with a community banned account.*/
+"COMMUNITY_UNABLE_TO_TWEET_USER_IS_BANNED_TITLE" = "You are removed from this Community";
 
 /* Accessibility label for the button that unpins the community from the Home screen. */
 "COMMUNITY_UNPIN_BUTTON_ACCESSIBILITY_LABEL" = "Unpin Community from Home screen";
@@ -18575,6 +18614,9 @@ eg. "Super Following Jack" */
 /* United States - Connecticut */
 "US_STATE_CT" = "Connecticut";
 
+/* United States - District of Columbia */
+"US_STATE_DC" = "District of Columbia";
+
 /* United States - Delaware */
 "US_STATE_DE" = "Delaware";
 
@@ -19014,6 +19056,18 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* A link to display the file browser to open a new animation file. */
 "BRANDED_LIKES_PREVIEW_OPEN_LINK" = "Open";
+
+/** Label for the business (verified orgs) tab */
+"BUSINESS_TAB_LABEL" = "Business";
+
+/** Label for business 1 day left promo  */
+"BUSINESS_TAB_PROMO_1_DAY_LABEL" = "1 day left";
+
+/** Label for business 1 week left promo  */
+"BUSINESS_TAB_PROMO_1_WEEK_LABEL" = "1 week left";
+
+/** Label for business 1 week left promo  */
+"BUSINESS_TAB_PROMO_30_PERCENT_LABEL" = "30% off";
 
 /* Accessibility value for generic on/off button state in "OFF" state */
 "BUTTON_OFF_ACCESSIBILITY_VALUE" = "Off";
@@ -21757,7 +21811,7 @@ eg. "- @jack" */
 /* Label for button to visit a website (from a Website Ad Card) */
 "UC_WEBSITE_CARD_VISIT_BUTTON_TITLE" = "Visit";
 
-// Section: Frameworks/TwitterComposer/TwitterComposer/Sources/TwitterComposerStrings/en.lproj/Localizable.strings
+// Section: Frameworks/TwitterComposer/Sources/TwitterComposerStrings/en.lproj/Localizable.strings
 
 /* Label for a button in the composer for adding a location to a post. */
 "COMPOSE_GEO_ADD_LOCATION_BUTTON_LABEL" = "Add location";
