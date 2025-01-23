@@ -17811,6 +17811,9 @@ eg. "Super Following Jack" */
 /* Message Grok says after uses cancels the chat */
 "GROK_CANCELLED_REQUEST" = "Okay I’ve cancelled your request.";
 
+/* Bottom of a sports card. Will contain a date and time. */
+"GROK_CARD_UPDATED_AT_LABEL" = "Updated at %@";
+
 /* A prompt for the Grok input field */
 "GROK_CONTINUE_THIS_CONVERSATION" = "Continue this conversation";
 
@@ -18039,6 +18042,9 @@ eg. "Super Following Jack" */
 /* Button to like the chat response */
 "GROK_LIKE" = "Like";
 
+/* Indicates Live results  (ie. real time results) . For sports games, stock prices, etc. */
+"GROK_LIVE" = "Live";
+
 /** Label displaying the current mode: Fun */
 "GROK_MODE_FUN" = "Fun Mode";
 
@@ -18204,6 +18210,9 @@ eg. "Super Following Jack" */
 
 /* Label for button to expand the user message */
 "GROK_SHOW_MORE" = "Show more";
+
+/* Bottom of a soccer sports card. */
+"GROK_SOCCER_CARD_DISCLAIMER" = "Grok currently supports La Liga and English Premier League data.";
 
 /* A prompt for the Grok input field */
 "GROK_SOMETHING" = "Ask anything";
