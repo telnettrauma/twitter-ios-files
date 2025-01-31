@@ -45,6 +45,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the button that allows a user to accept a money transfer. */
 "PAYMENTS_ACCEPT_TRANSFER_ACTION" = "Accept";
 
+/* Payments: Title the details section of 'Account' details screen */
+"PAYMENTS_ACCOUNT_DETAILS_SECTION_TITLE" = "Account Details";
+
 /* Payments: Subtitle the of 'Account' details screen. "Routing" meaning the account/routing numbers. */
 "PAYMENTS_ACCOUNT_DETAILS_SUBTITLE_WITHOUT_CARD" = "Routing";
 
@@ -56,6 +59,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: "Account number" used for US bank accounts transfers */
 "PAYMENTS_ACCOUNT_NUMBER" = "Account number";
+
+/* Payments: Toast shown when the account number has been copied to the iOS clipboard */
+"PAYMENTS_ACCOUNT_NUMBER_COPIED" = "Account number copied to clipboard";
 
 /* Payments: Title of the section that contains actions the user can do (ex: Verify identity, Pay, ...). */
 "PAYMENTS_ACTION_NEEDED_TITLE" = "Action needed";
@@ -149,6 +155,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Title of the button that initiates a deposit into the user’s X Payments account. */
 "PAYMENTS_DEPOSIT_ACTION" = "Deposit";
+
+/* Payments: Title of the button that allows users to enter their address manually, instead of relying on the autocomplete. */
+"PAYMENTS_ENTER_ADDRESS_MANUALLY_ACTION" = "Enter address manually";
 
 /* Payments: Toast detail text shown when the user tries to do an unauthorized action */
 "PAYMENTS_ERROR_ACCESS_DENIED_DETAIL_TEXT" = "You are not allowed to perform this action at this time.";
@@ -372,6 +381,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Label for the address field in the X Payments onboarding process. */
 "PAYMENTS_ONBOARDING_ADDRESS_FIELD_NAME" = "Address";
 
+/* Payments: Label for the address line 2 field in the X Payments onboarding process. */
+"PAYMENTS_ONBOARDING_ADDRESS_LINE_2_FIELD_NAME" = "Address line 2";
+
 /* Payments: Title of the screen where users enter their current address during X Payments onboarding. */
 "PAYMENTS_ONBOARDING_ADDRESS_TITLE" = "Please enter your current address";
 
@@ -380,6 +392,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Title of the screen where users enter their date of birth during X Payments onboarding. */
 "PAYMENTS_ONBOARDING_BIRTH_DATE_TITLE" = "What’s your date of birth?";
+
+/* Payments: Label for the city field in the X Payments onboarding process. */
+"PAYMENTS_ONBOARDING_CITY_FIELD_NAME" = "City";
 
 /* Payments: Disclaimer text shown during X Payments onboarding. %@ is replaced by the action text (e.g., "Continue"). */
 "PAYMENTS_ONBOARDING_DISCLAIMER" = "By clicking “%@”, you agree to the Terms & Conditions.";
@@ -451,7 +466,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ONBOARDING_REQUIREMENT_GEOGRAPHY" = "Be a resident of the United States of America";
 
 /* Payments: Requirement for X Payments eligibility stating the need for a verified phone number. */
-"PAYMENTS_ONBOARDING_REQUIREMENT_PHONE_NUMBER" = "Have a verified phone number";
+"PAYMENTS_ONBOARDING_REQUIREMENT_PHONE_NUMBER" = "Have a verified US phone number";
 
 /* Payments: Requirement for X Payments eligibility stating the need for a Premium or Verified Organization account. */
 "PAYMENTS_ONBOARDING_REQUIREMENT_PREMIUM_OR_VERIFIED_ORGANIZATION" = "Premium or Verified Organization";
@@ -479,6 +494,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Title of the screen where users enter their full SSN during X Payments onboarding. */
 "PAYMENTS_ONBOARDING_SSN_TITLE" = "We need to verify your full social security number";
+
+/* Payments: Label for the state field in the X Payments onboarding process. */
+"PAYMENTS_ONBOARDING_STATE_FIELD_NAME" = "State";
 
 /* Payments: Subtitle for the X Payments onboarding process, indicating the current geographical restriction. */
 "PAYMENTS_ONBOARDING_SUBTITLE" = "Money is currently exclusive to users in the United States.";
@@ -572,6 +590,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: "Routing number" used for US bank accounts transfers */
 "PAYMENTS_ROUTING_NUMBER" = "Routing number";
+
+/* Payments: Toast shown when the routing number has been copied to the iOS clipboard */
+"PAYMENTS_ROUTING_NUMBER_COPIED" = "Routing number copied to clipboard";
 
 /* Payments: Description of PIN settings in Security and Privacy */
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_DESCRIPTION" = "Require a PIN for enhanced security";
@@ -726,8 +747,8 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Message indicating that a transaction has been rejected by the recipient */
 "PAYMENTS_TRANSACTION_REJECTED_BY_RECEIVER_MESSAGE" = "This transaction has been rejected by the recipient.";
 
-/* Payments: Message indicating that a transaction has been rejected after review */
-"PAYMENTS_TRANSACTION_REJECTED_MESSAGE" = "This transaction has been rejected after review.";
+/* Payments: Message indicating that a transaction has been rejected */
+"PAYMENTS_TRANSACTION_REJECTED_MESSAGE" = "This transaction has been rejected.";
 
 /* Payments: Message indicating that a transaction request has been rejected by the recipient */
 "PAYMENTS_TRANSACTION_REQUEST_REJECTED_MESSAGE" = "This request has been rejected by the recipient.";
@@ -812,6 +833,26 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Action to withdraw money from the Payments wallet */
 "PAYMENTS_WITHDRAW_ACTION" = "Withdraw";
+
+// Section: Frameworks/DMShared/Sources/DMSharedStrings/en.lproj/Localizable.strings
+
+/* DM message text when someone sent audio */
+"DM_MESSAGE_SENT_AUDIO" = "Sent audio";
+
+/* DM message text when someone sent a file */
+"DM_MESSAGE_SENT_FILE" = "Sent a file";
+
+/* DM message text when someone sent a GIF */
+"DM_MESSAGE_SENT_GIF" = "Sent a GIF";
+
+/* DM message text when someone sent a image */
+"DM_MESSAGE_SENT_IMAGE" = "Sent an image";
+
+/* DM message text when someone sent a video */
+"DM_MESSAGE_SENT_VIDEO" = "Sent a video";
+
+/* DM notification body text in case we are unable to decrypt the message */
+"DM_NOTIFICATION_FALLBACK_BODY" = "Sent a message";
 
 // Section: Frameworks/TwitterComposition/TwitterComposition/Sources/TwitterCompositionStrings/en.lproj/Localizable.strings
 
@@ -6481,12 +6522,6 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* Title of the toggle button to opt-in/opt-out of Impersonation account settings on Parody Account Setting screen */
 "PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_TOGGLE_LABEL" = "Impersonation";
-
-/* Profile label displayed when the user enables the parody profile label in account settings. */
-"PARODY_COMMENTARY_FAN_ACCOUNT_PARODY_PROFILE_LABEL_TEXT" = "Parody account";
-
-/* Profile label displayed based on opted PCF label when the user enables the parody profile label in account settings. */
-"PARODY_COMMENTARY_FAN_ACCOUNT_PROFILE_LABEL_TEXT" = "%@ account";
 
 /* Title text for Parody Commentary and Fan Account Label under account settings. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_TITLE_LABEL" = "Parody, commentary and fan account";
@@ -13176,21 +13211,6 @@ eg. "Super Following Jack" */
 /* DM try again error message */
 "DM_ERROR_MESSAGE_TRY_AGAIN" = "Please try again later";
 
-/* DM Inbox conversation text when someone sent audio */
-"DM_INBOX_CONVERSATION_SENT_AUDIO" = "Sent audio";
-
-/* DM Inbox conversation text when someone sent a file */
-"DM_INBOX_CONVERSATION_SENT_FILE" = "Sent a file";
-
-/* DM Inbox conversation text when someone sent a GIF */
-"DM_INBOX_CONVERSATION_SENT_GIF" = "Sent a GIF";
-
-/* DM Inbox conversation text when someone sent a image */
-"DM_INBOX_CONVERSATION_SENT_IMAGE" = "Sent an image";
-
-/* DM Inbox conversation text when someone sent a video */
-"DM_INBOX_CONVERSATION_SENT_VIDEO" = "Sent a video";
-
 /* DM Inbox Empty start a conversation action */
 "DM_INBOX_EMPTY_ACTION_START_A_CONVERSATION" = "Write a message";
 
@@ -13199,6 +13219,9 @@ eg. "Super Following Jack" */
 
 /* DM Inbox Empty title */
 "DM_INBOX_EMPTY_TITLE" = "Welcome to your inbox!";
+
+/* DM Inbox conversation mark as read button title */
+"DM_INBOX_MARK_READ_TITLE" = "Mark as read";
 
 /* DM Inbox conversation mark as unread button title */
 "DM_INBOX_MARK_UNREAD_TITLE" = "Mark as unread";
@@ -13221,20 +13244,20 @@ eg. "Super Following Jack" */
 /* DM Manage Conversation Delete conversation action alert leave action */
 "DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_ACTION_LEAVE" = "Leave";
 
-/* DM Manage Conversation Delete conversation action alert message */
-"DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_MESSAGE" = "This conversation will be deleted from your inbox. Other people in the conversation will still be able to see it.";
-
-/* DM Manage Conversation Delete conversation action alert group title */
-"DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_TITLE_GROUP" = "Leave conversation?";
-
-/* DM Manage Conversation delete conversation action alert one on one title */
-"DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_TITLE_ONE_ON_ONE" = "Delete conversation?";
+/* DM Manage Conversation Delete conversation action alert title */
+"DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_TITLE" = "Delete conversation?";
 
 /* DM Manage Conversation Delete conversation action error title */
 "DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_ERROR_TITLE" = "Unable to delete conversation";
 
 /* DM Manage Conversation Delete conversation action title */
 "DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_TITLE" = "Delete conversation";
+
+/* DM Manage Conversation Delete/Leave conversation action alert message */
+"DM_MANAGE_CONVERSATION_ACTION_DELETE_LEAVE_CONVERSATION_ALERT_MESSAGE" = "This conversation will be deleted from your inbox. Other people in the conversation will still be able to see it.";
+
+/* DM Manage Conversation Leave conversation action alert title */
+"DM_MANAGE_CONVERSATION_ACTION_LEAVE_CONVERSATION_ALERT_TITLE" = "Leave conversation?";
 
 /* DM Manage Conversation Leave conversation action error title */
 "DM_MANAGE_CONVERSATION_ACTION_LEAVE_CONVERSATION_ERROR_TITLE" = "Unable to leave conversation";
@@ -13304,6 +13327,9 @@ eg. "Super Following Jack" */
 
 /* DM message action Reply title */
 "DM_MESSAGE_ACTION_REPLY_TITLE" = "Reply";
+
+/* DM message action Retry title */
+"DM_MESSAGE_ACTION_RETRY_TITLE" = "Retry";
 
 /* DM message action Share audio title */
 "DM_MESSAGE_ACTION_SHARE_AUDIO_TITLE" = "Share audio";
@@ -19578,14 +19604,35 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* Label indicating form field is optional. */
 "OPTIONAL_FORM_FIELD_LABEL" = "Optional";
 
+/* Label displayed for COMMENTARY option for impersonation profile label in account settings. */
+"PARODY_COMMENTARY_FAN_ACCOUNT_COMMENTARY_OPTION_TEXT" = "Commentary";
+
+/* Profile label displayed when the user enables the COMMENTARY profile label in account settings. */
+"PARODY_COMMENTARY_FAN_ACCOUNT_COMMENTARY_PROFILE_LABEL_TEXT" = "Commentary account";
+
 /* Description of the alert confirming to TURN OFF Parody, fan and commentary account settings */
 "PARODY_COMMENTARY_FAN_ACCOUNT_DISABLE_CONFIRMATION_ALERT_DESCRIPTION_2" = "Turning off this label will remove it from your profile and all past posts. Please check you are compliant with the authenticity policy.";
 
 /* Title of the alert confirming to TURN OFF Parody, fan and commentary account settings */
 "PARODY_COMMENTARY_FAN_ACCOUNT_DISABLE_CONFIRMATION_ALERT_TITLE" = "Remove parody label?";
 
+/* Title of the alert confirming to TURN OFF Parody, fan and commentary account settings when supporting different kinds of label */
+"PARODY_COMMENTARY_FAN_ACCOUNT_DISABLE_CONFIRMATION_ALERT_TITLE_2" = "Remove profile label?";
+
 /* Detail of the picker option(NONE) to TURN OFF Parody, fan and commentary account settings */
 "PARODY_COMMENTARY_FAN_ACCOUNT_DISABLE_OPTION_DETAIL" = "Choosing this option will remove the label from your profile and all past posts. Please check you are compliant with the authenticity policy.";
+
+/* Label displayed for FAN option for impersonation profile label in account settings. */
+"PARODY_COMMENTARY_FAN_ACCOUNT_FAN_OPTION_TEXT" = "Fan";
+
+/* Profile label displayed when the user enables the FAN profile label in account settings. */
+"PARODY_COMMENTARY_FAN_ACCOUNT_FAN_PROFILE_LABEL_TEXT" = "Fan account";
+
+/* Label displayed for PARODT option for impersonation profile label in account settings. */
+"PARODY_COMMENTARY_FAN_ACCOUNT_PARODY_OPTION_TEXT" = "Parody";
+
+/* Profile label displayed when the user enables the PARODY profile label in account settings. */
+"PARODY_COMMENTARY_FAN_ACCOUNT_PARODY_PROFILE_LABEL_TEXT" = "Parody account";
 
 /* A message in an alert displayed to the user when a transaction to purchase an item is pending an approval */
 "PAYMENTS_TRANSACTION_PENDING_MESSAGE" = "Your purchase is pending approval";
@@ -20134,6 +20181,12 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* Label on button to unfollow user handle. @username is substituted into string (%@) */
 "UNFOLLOW_HANDLE_ACTION_LABEL_FORMAT" = "Unfollow %@";
+
+/* Title for upload status bar for multiple post upload */
+"UPLOAD_STATUS_BAR_LABEL_MULTIPLE" = "Sending %@ posts…";
+
+/* Title for upload status bar for one post upload */
+"UPLOAD_STATUS_BAR_LABEL_SINGLE" = "Sending post…";
 
 /* Error presented to an inauthentic user account when they are rate limited for suspicious or malicious activity. */
 "USER_ACTION_RATE_LIMITED_BASED_ON_AUTHENTICITY_ERROR_LABEL" = "You have reached your limit for this action. Please try again later.";
@@ -21583,6 +21636,33 @@ eg. "- @jack" */
 
 /* Text displayed on the button that dismisses success screen after a successfully creation of a Boost campaign */
 "QUICK_PROMOTE_OK_BUTTON" = "Got it";
+
+/* Message of half-sheet prompt which shows when going to an eligible post */
+"QUICK_PROMOTE_PROMPT_MESSAGE_PROMOTE_POST" = "Promote your post now to reach users who might be interested in your content.";
+
+/* Message of half-sheet prompt which shows when going to an eligible post */
+"QUICK_PROMOTE_PROMPT_MESSAGE_REACH_MORE_THAN_THOUSANDS" = "Reach more than 100,000 users today who are likely to be interested in your content.";
+
+/* Message of half-sheet prompt which shows when going to an eligible post */
+"QUICK_PROMOTE_PROMPT_MESSAGE_REACH_THOUSANDS" = "Reach thousands of users today who are likely to be interested in your content.";
+
+/* Primary button title of half-sheet prompt which shows when going to an eligible post */
+"QUICK_PROMOTE_PROMPT_PRIMARY_BUTTON_TITLE_BOOST" = "Boost visibility now";
+
+/* Primary button title of half-sheet prompt which shows when going to an eligible post */
+"QUICK_PROMOTE_PROMPT_PRIMARY_BUTTON_TITLE_PROMOTE" = "Promote now";
+
+/* Secondary button title of half-sheet prompt which shows when going to an eligible post */
+"QUICK_PROMOTE_PROMPT_SECONDARY_BUTTON_TITLE" = "Maybe Later";
+
+/* Title of half-sheet prompt which shows when going to an eligible post */
+"QUICK_PROMOTE_PROMPT_TITLE_BOOST_POST" = "Boost your post now for more visibility?";
+
+/* Title of half-sheet prompt which shows when going to an eligible post */
+"QUICK_PROMOTE_PROMPT_TITLE_REACH_THOUSANDS" = "Reach thousands more";
+
+/* Title of half-sheet prompt which shows when going to an eligible post */
+"QUICK_PROMOTE_PROMPT_TITLE_TRY_BOOSTING_POST" = "Try boosting this post!";
 
 /* Detailed messages displayed in a dialog which allows the user to request a refund of a failed Boost campaign. */
 "QUICK_PROMOTE_REFUND_DIALOG_MESSAGE" = "You can request a refund of your purchase from Apple now or at any point in the future by navigating to your account settings in the App Store app";
