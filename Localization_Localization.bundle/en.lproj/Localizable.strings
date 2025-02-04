@@ -45,6 +45,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the button that allows a user to accept a money transfer. */
 "PAYMENTS_ACCEPT_TRANSFER_ACTION" = "Accept";
 
+/* Payments: Description the 'Bill Pay' section of 'Account' details screen, to enable the corresponding preference */
+"PAYMENTS_ACCOUNT_DETAILS_BILL_PAY_DESCRIPTION" = "Allow external accounts and services to pull money using your account info";
+
+/* Payments: Title the 'Bill Pay' section of 'Account' details screen, to enable the corresponding preference */
+"PAYMENTS_ACCOUNT_DETAILS_BILL_PAY_TITLE" = "Bill Pay";
+
 /* Payments: Title the details section of 'Account' details screen */
 "PAYMENTS_ACCOUNT_DETAILS_SECTION_TITLE" = "Account Details";
 
@@ -175,13 +181,13 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_MESSAGE" = "We need to make sure you are really you. It should only take a few minutes and helps keep X and your account safe.";
 
 /* Payments: Error message shown when a user has exceeded their monthly transaction limits and needs to verify their identity to continue. */
-"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_MONTHLY_LIMIT" = "You’ve exceeded your monthly limits, and we need to verify your identity to continue";
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_MONTHLY_LIMIT" = "This action would exceed your monthly limits, and we need to verify your identity to continue";
 
 /* Payments: Error message shown when a user has exceeded their total transaction limits and needs to verify their identity to continue. */
-"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_TOTAL_LIMIT" = "You’ve exceeded your limits, and we need to verify your identity to continue";
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_TOTAL_LIMIT" = "This action would exceed your limits, and we need to verify your identity to continue";
 
 /* Payments: Error message shown when a user has exceeded their weekly transaction limits and needs to verify their identity to continue. */
-"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_WEEKLY_LIMIT" = "You’ve exceeded your weekly limits, and we need to verify your identity to continue";
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_WEEKLY_LIMIT" = "This action would exceed your weekly limits, and we need to verify your identity to continue";
 
 /* Payments: Error message shown when there’s an issue with the user’s bank while processing a transfer. */
 "PAYMENTS_ERROR_BANK_ISSUE" = "There was an issue with your bank while processing your transfer.";
@@ -358,10 +364,10 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_LIMIT_EXCEEDED_ERROR_MESSAGE" = "Please try again later.";
 
 /* Payments: Error message shown when a user has exceeded their monthly transaction limits in X Payments. */
-"PAYMENTS_LIMIT_EXCEEDED_ERROR_MONTHLY_TITLE" = "You’ve exceeded your monthly limits.";
+"PAYMENTS_LIMIT_EXCEEDED_ERROR_MONTHLY_TITLE" = "This action would exceed your monthly limits.";
 
 /* Payments: Error message shown when a user has exceeded their weekly transaction limits in X Payments. */
-"PAYMENTS_LIMIT_EXCEEDED_ERROR_WEEKLY_TITLE" = "You’ve exceeded your weekly limits.";
+"PAYMENTS_LIMIT_EXCEEDED_ERROR_WEEKLY_TITLE" = "This action would exceed your weekly limits.";
 
 /* Payments: Option in the More menu to access customer support for X Payments. */
 "PAYMENTS_MORE_MENU_GET_SUPPORT" = "Get support";
@@ -461,6 +467,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Requirement for X Payments eligibility stating the fact that the user needs to be allowed. */
 "PAYMENTS_ONBOARDING_REQUIREMENT_ALLOWLIST" = "Your account is allowed";
+
+/* Payments: Requirement for X Payments eligibility stating that a birth date is required in their profile. */
+"PAYMENTS_ONBOARDING_REQUIREMENT_BIRTH_DATE" = "Birth date required";
 
 /* Payments: Requirement for X Payments eligibility stating the geographical restriction. */
 "PAYMENTS_ONBOARDING_REQUIREMENT_GEOGRAPHY" = "Be a resident of the United States of America";
@@ -604,13 +613,13 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_FACE_ID" = "Use FaceID";
 
 /* Payments: Option to require PIN for transfers */
-"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_CREATE_TRANSACTIONS" = "For transfers";
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_CREATE_TRANSACTIONS" = "Transfers";
 
 /* Payments: Option to require PIN to unlock X Payments */
-"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_LINK_PAYMENT_METHOD" = "To add card/bank accounts";
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_LINK_PAYMENT_METHOD" = "Updates to Linked Accounts";
 
 /* Payments: Option to require PIN to unlock X Payments */
-"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_UNLOCK" = "To access Money";
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_UNLOCK" = "Logging In";
 
 /* Payments: Success toast message after updating PIN settings */
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_SUCCESS_TOAST" = "Your setting has been successfully updated!";
@@ -847,6 +856,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* DM message text when someone sent a image */
 "DM_MESSAGE_SENT_IMAGE" = "Sent an image";
+
+/* DM message text when someone sent an unknown attachment */
+"DM_MESSAGE_SENT_UNKNOWN" = "Sent an attachment";
 
 /* DM message text when someone sent a video */
 "DM_MESSAGE_SENT_VIDEO" = "Sent a video";
@@ -9650,6 +9662,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Premium product name to be used in upsells that promotes a discount - last chance */
 "SUBSCRIPTION_PREMIUM_UPSELL_PERCENTAGE_OFF_LAST_CHANCE" = "🔥 Last chance";
 
+/* Premium product name to be used in upsells */
+"SUBSCRIPTION_PREMIUM_X_TEXT" = "X Premium";
+
 /* Description for page of settings related to your Premium subscription */
 "SUBSCRIPTION_SETTINGS_DESCRIPTION" = "Manage your subscription features including Undo post timing.";
 
@@ -13340,11 +13355,20 @@ eg. "Super Following Jack" */
 /* DM message action Share GIF title */
 "DM_MESSAGE_ACTION_SHARE_GIF_TITLE" = "Share GIF";
 
+/* DM message action Share link title */
+"DM_MESSAGE_ACTION_SHARE_LINK_TITLE" = "Share link";
+
 /* DM message action Share photo title */
 "DM_MESSAGE_ACTION_SHARE_PHOTO_TITLE" = "Share photo";
 
+/* DM message action Share title */
+"DM_MESSAGE_ACTION_SHARE_TITLE" = "Share";
+
 /* DM message action Share video title */
 "DM_MESSAGE_ACTION_SHARE_VIDEO_TITLE" = "Share video";
+
+/* DM message attachment filename fallback */
+"DM_MESSAGE_ATTACHMENT_FILENAME_FALLBACK" = "Attachment";
 
 /* DM Message composer reply header title for edit message */
 "DM_MESSAGE_COMPOSER_EDIT_MESSAGE_HEADER_TITLE" = "Edit message";
@@ -13363,6 +13387,9 @@ eg. "Super Following Jack" */
 
 /* DM Message reply subtitle when replying to a photo message with no text */
 "DM_MESSAGE_REPLY_SUBTITLE_PHOTO" = "Photo";
+
+/* DM Message reply subtitle when replying to an unknown attachment with no text */
+"DM_MESSAGE_REPLY_SUBTITLE_UNKNOWN" = "Attachment";
 
 /* DM Message reply subtitle when replying to a video message with no text */
 "DM_MESSAGE_REPLY_SUBTITLE_VIDEO" = "Video";
@@ -17861,6 +17888,33 @@ eg. "Super Following Jack" */
 /** Button to copy the text */
 "GROK_COPY_TEXT" = "Copy text";
 
+/** Button to open the customization feature. */
+"GROK_CUSTOMIZATION_BUTTON" = "Customize";
+
+/** Button to open the customization feature after already having custom settings applied. */
+"GROK_CUSTOMIZATION_BUTTON_CUSTOMIZED" = "Customized";
+
+/** Button to reset form settings. Could be "Reset" too if it translates better. */
+"GROK_CUSTOMIZATION_CLEAR" = "Clear";
+
+/** Label to turn grok personalization on or off */
+"GROK_CUSTOMIZATION_ENABLED" = "Enable for all future chats";
+
+/** Header for Grok Customization settings page */
+"GROK_CUSTOMIZATION_HEADER" = "Personalize Grok";
+
+/** Label for text input where user can inform Grok how to respond */
+"GROK_CUSTOMIZATION_HOW_TO_RESPOND" = "How would you like Grok to respond?";
+
+/** Placeholder for text input where user can inform Grok how to respond */
+"GROK_CUSTOMIZATION_HOW_TO_RESPOND_PLACEHOLDER" = "eg: Be short and to the point. Be aggressive with me if I make mistakes.";
+
+/** Label for text input where user can inform Grok about them */
+"GROK_CUSTOMIZATION_WHAT_WOULD_YOU_LIKE" = "What would you like Grok to know about you?";
+
+/** Placeholder for text input where user can inform Grok about them */
+"GROK_CUSTOMIZATION_WHAT_WOULD_YOU_LIKE_PLACEHOLDER" = "eg: My technical skill level in [specific areas like programming languages, software tools] is [beginner, intermediate, advanced]. Tailor your technical explanations accordingly.";
+
 /* Label to delete a conversation */
 "GROK_DELETE_CONVERSATION" = "Delete";
 
@@ -18064,6 +18118,9 @@ eg. "Super Following Jack" */
 
 /* Label for Grok image source */
 "GROK_IMAGE_SOURCE" = "Image generated with FLUX.1 by Black Forest Labs";
+
+/* Button to attach files */
+"GROK_INPUT_ATTACH_BUTTON" = "Attach";
 
 /* Button to like the chat response */
 "GROK_LIKE" = "Like";
@@ -18308,6 +18365,18 @@ eg. "Super Following Jack" */
 
 /* Error message for Grok image uploads */
 "GROK_UPLOAD_FAILED" = "Upload failed, please try again.";
+
+/* Camera menu option for Grok uploads */
+"GROK_UPLOAD_OPTION_CAMERA" = "Camera";
+
+/* Files menu option for Grok uploads */
+"GROK_UPLOAD_OPTION_FILES" = "Files";
+
+/* Photos menu option for Grok uploads */
+"GROK_UPLOAD_OPTION_PHOTOS" = "Photos";
+
+/* Photo from files menu option for Grok uploads */
+"GROK_UPLOAD_OPTION_PHOTO_FROM_FILES" = "Photo from Files";
 
 /* Label for grok ask anything promo headline */
 "GROK_UPSELL_ASK_ANYTHING_HEADLINE" = "Ask Anything";
@@ -19768,6 +19837,9 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* Label with count to see repost */
 "RETWEET_COUNT_FORMAT" = "%@ Repost";
+
+/* Unified web card CTA button title saying "Learn more" */
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_LEARN_MORE" = "Learn more";
 
 /* 'Web' default text to help user understand that the destination is the internet. */
 "REVENUE_UNIFIED_WEB_CARD_WEB_LABEL" = "Web";
@@ -21663,6 +21735,18 @@ eg. "- @jack" */
 
 /* Title of half-sheet prompt which shows when going to an eligible post */
 "QUICK_PROMOTE_PROMPT_TITLE_TRY_BOOSTING_POST" = "Try boosting this post!";
+
+/* Tooltip message which shows under the quick promote button when going to an eligible post */
+"QUICK_PROMOTE_PROMPT_TOOLTIP_CONVERSATION_STARTER" = "Make your post the conversation starter";
+
+/* Tooltip message which shows under the quick promote button when going to an eligible post */
+"QUICK_PROMOTE_PROMPT_TOOLTIP_INCREASE_ENGAGEMENT" = "Increase your engagement instantly";
+
+/* Tooltip message which shows under the quick promote button when going to an eligible post */
+"QUICK_PROMOTE_PROMPT_TOOLTIP_ONE_TAP" = "One tap to reach 100k+ users";
+
+/* Tooltip message which shows under the quick promote button when going to an eligible post */
+"QUICK_PROMOTE_PROMPT_TOOLTIP_REACH_THOUSANDS" = "Reach up to 100k more users now";
 
 /* Detailed messages displayed in a dialog which allows the user to request a refund of a failed Boost campaign. */
 "QUICK_PROMOTE_REFUND_DIALOG_MESSAGE" = "You can request a refund of your purchase from Apple now or at any point in the future by navigating to your account settings in the App Store app";
