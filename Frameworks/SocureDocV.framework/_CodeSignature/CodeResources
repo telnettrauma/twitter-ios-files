@@ -22,7 +22,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		dE6vAHHjDV0S8x4O2Zr6cU9EwNA=
+		oVw+VYv2gpF4f9vS1n3rZKk6zXU=
 		</data>
 		<key>BlurDetection.mlmodelc/analytics/coremldata.bin</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>GlareClassify.mlmodelc/coremldata.bin</key>
 		<data>
-		kZMPFZkhs2VPzCq/lxGceBkDDGk=
+		wIbXlXOjai366O+oB8pGEH50zAk=
 		</data>
 		<key>GlareClassify.mlmodelc/metadata.json</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>GlareIntensityCheck.mlmodelc/coremldata.bin</key>
 		<data>
-		jv6+85CxsNYh14Pf05u1A5f72H4=
+		BFDXivZgUOtzY0wqaTlAXG0QknA=
 		</data>
 		<key>GlareIntensityCheck.mlmodelc/metadata.json</key>
 		<data>
@@ -166,19 +166,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		6MEbJ+SE7Og9QWHRv9Iz/JHwKNs=
+		1CBnWf0u1FEsWzTnWVEZgfTIjCw=
 		</data>
 		<key>MDTableViewCell.nib</key>
 		<data>
 		feS1L0MlvdNRa9KDD0ebzn3GWOk=
-		</data>
-		<key>OpenSans-Bold.ttf</key>
-		<data>
-		HjcE7ki1/35YJIjq2HsFJJ8U3Bw=
-		</data>
-		<key>OpenSans-Regular.ttf</key>
-		<data>
-		ur6NzpOj5ItsPHlyCgwEjojdH+c=
 		</data>
 		<key>PaddedLabel.nib</key>
 		<data>
@@ -235,6 +227,26 @@
 		<key>TopBarView.nib</key>
 		<data>
 		ESTCN2Z4zCujt6Jx/ji71iDdpD0=
+		</data>
+		<key>Unstructured.storyboardc/Info.plist</key>
+		<data>
+		d2AArYRJi2ShnDxSWPGeYLtVSsk=
+		</data>
+		<key>Unstructured.storyboardc/UnstructuredPreviewViewController.nib</key>
+		<data>
+		nNdwgXAymxrpIObyOLZ0jwS6K2w=
+		</data>
+		<key>Unstructured.storyboardc/UnstructuredViewController.nib</key>
+		<data>
+		AN3cDua6abH1gRxMYCHJRqoSJQI=
+		</data>
+		<key>Unstructured.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<data>
+		/ci/kbjlPqtKT3RDzclxIVUxuNA=
+		</data>
+		<key>Unstructured.storyboardc/e8a-Ph-Rbl-view-Y3d-iJ-QC6.nib</key>
+		<data>
+		gGJ2pPMv7h/GnYEJ1fGdMsWEKnQ=
 		</data>
 		<key>view_v4.storyboardc/ConsentMDVC.nib</key>
 		<data>
@@ -315,11 +327,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dE6vAHHjDV0S8x4O2Zr6cU9EwNA=
+			oVw+VYv2gpF4f9vS1n3rZKk6zXU=
 			</data>
 			<key>hash2</key>
 			<data>
-			PlSpjKqhjIjnN6WaxcIwi7iDvOy2Br7EJcnhMFFI4jQ=
+			YG0JESvsSupMhqWpDG+i5NV8R67BUI/H/aQv3iIdYDE=
 			</data>
 		</dict>
 		<key>BlurDetection.mlmodelc/analytics/coremldata.bin</key>
@@ -535,11 +547,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kZMPFZkhs2VPzCq/lxGceBkDDGk=
+			wIbXlXOjai366O+oB8pGEH50zAk=
 			</data>
 			<key>hash2</key>
 			<data>
-			YskFMHgu/FmqsrF8qGwY3zZvOEeizaBrNnm+YucjRSw=
+			4m1pjJSUNq0tastZveMhf2WB7gu6i1s3KDUrVLeqFtU=
 			</data>
 		</dict>
 		<key>GlareClassify.mlmodelc/metadata.json</key>
@@ -623,11 +635,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jv6+85CxsNYh14Pf05u1A5f72H4=
+			BFDXivZgUOtzY0wqaTlAXG0QknA=
 			</data>
 			<key>hash2</key>
 			<data>
-			x1YqPl26j8kJVuiu8DHMYZdOZ+SFyXh3OMvGUYomnXQ=
+			ubc05f7E/tjTWSiXq2Q/cjwlVpFpZJ1esp5Y644k/+o=
 			</data>
 		</dict>
 		<key>GlareIntensityCheck.mlmodelc/metadata.json</key>
@@ -716,28 +728,6 @@
 			<key>hash2</key>
 			<data>
 			AA/ak7gW8gK4ue696+Rb6rDTXeEfuiVDNNZvaKFwBg0=
-			</data>
-		</dict>
-		<key>OpenSans-Bold.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HjcE7ki1/35YJIjq2HsFJJ8U3Bw=
-			</data>
-			<key>hash2</key>
-			<data>
-			95FqNzd+OFJ9QwYwPP6JtlO0mwprCwXGt1k/erAkjag=
-			</data>
-		</dict>
-		<key>OpenSans-Regular.ttf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ur6NzpOj5ItsPHlyCgwEjojdH+c=
-			</data>
-			<key>hash2</key>
-			<data>
-			A3I27Uv1ioX2cHTBZdMIJg/WvgHIbX30556hbrJz+MU=
 			</data>
 		</dict>
 		<key>PaddedLabel.nib</key>
@@ -892,6 +882,61 @@
 			<key>hash2</key>
 			<data>
 			5T/bPVcbFZgbcTNBKk6XeyUuYJ/ii4CV9y2H4EmTRxQ=
+			</data>
+		</dict>
+		<key>Unstructured.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			d2AArYRJi2ShnDxSWPGeYLtVSsk=
+			</data>
+			<key>hash2</key>
+			<data>
+			WB+zqwAkzbxUeezagmUbDDuaIK6S0NW5ARLUR1/X5Yc=
+			</data>
+		</dict>
+		<key>Unstructured.storyboardc/UnstructuredPreviewViewController.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nNdwgXAymxrpIObyOLZ0jwS6K2w=
+			</data>
+			<key>hash2</key>
+			<data>
+			vsMWM3TqdzszBennb/z7uGTMY50EbFn1iUQao5cY5SQ=
+			</data>
+		</dict>
+		<key>Unstructured.storyboardc/UnstructuredViewController.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AN3cDua6abH1gRxMYCHJRqoSJQI=
+			</data>
+			<key>hash2</key>
+			<data>
+			8ZpP9pu1+HV1FhKUEh76/qcvkCMJBS3WXx146vQf6rk=
+			</data>
+		</dict>
+		<key>Unstructured.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/ci/kbjlPqtKT3RDzclxIVUxuNA=
+			</data>
+			<key>hash2</key>
+			<data>
+			GPgnjg6mx8OS1kAwI4l4xxfQvYzhkCSNGXHHFCLmTjs=
+			</data>
+		</dict>
+		<key>Unstructured.storyboardc/e8a-Ph-Rbl-view-Y3d-iJ-QC6.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gGJ2pPMv7h/GnYEJ1fGdMsWEKnQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			wghzqeybE58b+rsUQCdahsO82cGLqwROu3lBvTVbkr8=
 			</data>
 		</dict>
 		<key>view_v4.storyboardc/ConsentMDVC.nib</key>

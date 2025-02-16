@@ -348,6 +348,10 @@
 		<data>
 		1rCw517DCcTgO3unspg6s0Uq6WY=
 		</data>
+		<key>VectorImages/main/chat_bubble_unread_stroke.svg</key>
+		<data>
+		8PV2UE0kDYCNVKaeN7hxguXSPSk=
+		</data>
 		<key>VectorImages/main/checkall.svg</key>
 		<data>
 		n0cUAWMEfjC4ubFRhR/JF4Q+E8M=
@@ -1388,6 +1392,10 @@
 		<data>
 		wfs8UzLYiTuU054/rVelKSfi3ZI=
 		</data>
+		<key>VectorImages/main/paper_airplane_share_stroke.svg</key>
+		<data>
+		lCdwVk5RDItRHn6mLecgjHcTy4M=
+		</data>
 		<key>VectorImages/main/paperclip.svg</key>
 		<data>
 		3HwqiQyiIhqIAyWbe4bKUcfmJVg=
@@ -1395,6 +1403,18 @@
 		<key>VectorImages/main/pause.svg</key>
 		<data>
 		hr5OcyGJxleG/QK444bkekJHhrg=
+		</data>
+		<key>VectorImages/main/payment-method-amex.svg</key>
+		<data>
+		7JJz04eHs0MJS8b7BSb7ISeTI5s=
+		</data>
+		<key>VectorImages/main/payment-method-mastercard.svg</key>
+		<data>
+		QCHmch8b7OuVHw+4037AB6bs0cs=
+		</data>
+		<key>VectorImages/main/payment-method-visa.svg</key>
+		<data>
+		Ff4GXx9OibbEqkC1lu0N2YpP+Do=
 		</data>
 		<key>VectorImages/main/payments.svg</key>
 		<data>
@@ -3583,6 +3603,17 @@
 			<key>hash2</key>
 			<data>
 			0WXY8rikr898VVqBdHfA42jfAbqX7KmzLfBDYVOF5hU=
+			</data>
+		</dict>
+		<key>VectorImages/main/chat_bubble_unread_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8PV2UE0kDYCNVKaeN7hxguXSPSk=
+			</data>
+			<key>hash2</key>
+			<data>
+			/rrEVOVXp7lvmVhHLJKJn22z4OIXcCBxTNdKEtDbNRw=
 			</data>
 		</dict>
 		<key>VectorImages/main/checkall.svg</key>
@@ -6445,6 +6476,17 @@
 			yQ4sJswTx+16GYBHIGicV1rk7x5k7pa8VJx6LbES4Ho=
 			</data>
 		</dict>
+		<key>VectorImages/main/paper_airplane_share_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lCdwVk5RDItRHn6mLecgjHcTy4M=
+			</data>
+			<key>hash2</key>
+			<data>
+			evcJTk8F0SMeJ5HlmVvgYi6uo0nuxQL5d18b/1C9FeQ=
+			</data>
+		</dict>
 		<key>VectorImages/main/paperclip.svg</key>
 		<dict>
 			<key>hash</key>
@@ -6465,6 +6507,39 @@
 			<key>hash2</key>
 			<data>
 			1udZi/E4R1In74OqwgxIdUUP5RmKQndBfn+voOCkJk0=
+			</data>
+		</dict>
+		<key>VectorImages/main/payment-method-amex.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7JJz04eHs0MJS8b7BSb7ISeTI5s=
+			</data>
+			<key>hash2</key>
+			<data>
+			GhmTP6nIwu0y+W72d52lAcgTyvSfJZl0of3Xd6/h84A=
+			</data>
+		</dict>
+		<key>VectorImages/main/payment-method-mastercard.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QCHmch8b7OuVHw+4037AB6bs0cs=
+			</data>
+			<key>hash2</key>
+			<data>
+			2xRvLKHUFzuuA/Fvs44GTUQ0nny3oxoDFgme+pZFrdI=
+			</data>
+		</dict>
+		<key>VectorImages/main/payment-method-visa.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ff4GXx9OibbEqkC1lu0N2YpP+Do=
+			</data>
+			<key>hash2</key>
+			<data>
+			6jJ9hSF9+lMaz5OFs94LqX+dzfH6BBWPeRccWX9QrTs=
 			</data>
 		</dict>
 		<key>VectorImages/main/payments.svg</key>

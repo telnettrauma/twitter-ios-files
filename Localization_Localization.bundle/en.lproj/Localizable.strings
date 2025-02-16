@@ -96,11 +96,44 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the screen that allows a user to send or request money to another user. %@ is replaced by the (already formatted) current balance of the user’s account, for example "$100". */
 "PAYMENTS_BALANCE_TITLE" = "Balance %@";
 
+/* Payments: Display name for a checking bank account */
+"PAYMENTS_BANK_ACCOUNT_TYPE_CHECKING" = "Checking";
+
+/* Payments: Display name for a savings bank account */
+"PAYMENTS_BANK_ACCOUNT_TYPE_SAVINGS" = "Savings";
+
 /* Payments: Title of the button that allows a user to cancel a money transfer */
 "PAYMENTS_CANCEL_TRANSFER_ACTION" = "Cancel";
 
 /* Payments: Title of the button that allows a user to cancel a money transfer request */
 "PAYMENTS_CANCEL_TRANSFER_REQUEST_ACTION" = "Cancel request";
+
+/* Payments: Display name for American Express credit cards */
+"PAYMENTS_CARD_BRAND_AMEX" = "Amex";
+
+/* Payments: Display name for Mastercard credit/debit cards */
+"PAYMENTS_CARD_BRAND_MASTERCARD" = "Mastercard";
+
+/* Payments: Display name for Visa credit/debit cards */
+"PAYMENTS_CARD_BRAND_VISA" = "Visa";
+
+/* Payments: Display name for a charge card */
+"PAYMENTS_CARD_TYPE_CHARGE" = "Charge";
+
+/* Payments: Display name for a combo card */
+"PAYMENTS_CARD_TYPE_COMBO" = "Combo";
+
+/* Payments: Display name for a credit card */
+"PAYMENTS_CARD_TYPE_CREDIT" = "Credit";
+
+/* Payments: Display name for a debit card */
+"PAYMENTS_CARD_TYPE_DEBIT" = "Debit";
+
+/* Payments: Display name for a deferred debit card */
+"PAYMENTS_CARD_TYPE_DEFERRED_DEBIT" = "Deferred Debit";
+
+/* Payments: Display name for a prepaid card */
+"PAYMENTS_CARD_TYPE_PREPAID" = "Prepaid";
 
 /* Payments: Generic error message shown when 2FA verification fails */
 "PAYMENTS_CHALLENGE_ERROR_MESSAGE_2FA_INVALID" = "Try again later.";
@@ -161,6 +194,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Title of the button that initiates a deposit into the user’s X Payments account. */
 "PAYMENTS_DEPOSIT_ACTION" = "Deposit";
+
+/* Payments: Action to edit their X profile, focused on the birth date */
+"PAYMENTS_EDIT_PROFILE_BIRTHDAY_ACTION" = "Set a birth date";
 
 /* Payments: Title of the button that allows users to enter their address manually, instead of relying on the autocomplete. */
 "PAYMENTS_ENTER_ADDRESS_MANUALLY_ACTION" = "Enter address manually";
@@ -248,6 +284,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Error message shown when the system is unable to verify the user’s identity for X Payments. */
 "PAYMENTS_ERROR_VERIFY_IDENTITY" = "We were unable to verify your identity";
+
+/* Payments: Additional message shown when the system is unable to verify the user’s identity for X Payments, because they declined. */
+"PAYMENTS_ERROR_VERIFY_IDENTITY_DECLINED" = "The operation was canceled.";
 
 /* Payments: Title of the confirmation screen for depositing money into the user’s X Payments account. %@ is replaced by the deposit amount. */
 "PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_AMOUNT_CONFIRMATION_TITLE" = "Confirm %@ deposit?";
@@ -469,7 +508,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ONBOARDING_REQUIREMENT_ALLOWLIST" = "Your account is allowed";
 
 /* Payments: Requirement for X Payments eligibility stating that a birth date is required in their profile. */
-"PAYMENTS_ONBOARDING_REQUIREMENT_BIRTH_DATE" = "Birth date required";
+"PAYMENTS_ONBOARDING_REQUIREMENT_BIRTH_DATE" = "Have a birth date on your profile";
 
 /* Payments: Requirement for X Payments eligibility stating the geographical restriction. */
 "PAYMENTS_ONBOARDING_REQUIREMENT_GEOGRAPHY" = "Be a resident of the United States of America";
@@ -650,6 +689,36 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Title of the button that allows a user to add a bank account instead of a card as a new payment method. */
 "PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_BANK_ACCOUNT_ALTERNATIVE" = "Use a bank account instead";
+
+/* Payments: Generic error title shown when a card cannot be linked */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_GENERIC_TITLE" = "We were unable to link your card";
+
+/* Payments: Message shown when card details cannot be verified */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_INACCURATE_DETAILS_MESSAGE" = "Please check and try again.";
+
+/* Payments: Title shown when card details cannot be verified */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_INACCURATE_DETAILS_TITLE" = "We were not able to verify the details of your card";
+
+/* Payments: Message shown when a card authorization is still pending */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_STILL_PENDING_MESSAGE" = "Please check again later in your X Money Settings.";
+
+/* Payments: Title shown when a card authorization is still pending */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_STILL_PENDING_TITLE" = "We’re still waiting for your card authorization";
+
+/* Payments: Message shown when trying to add an unsupported card type */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_UNSUPPORTED_TYPE_MESSAGE" = "Please try again with another card.";
+
+/* Payments: Title shown when trying to add an unsupported card type */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_UNSUPPORTED_TYPE_TITLE" = "This type of card is not supported at the moment";
+
+/* Payments: Message shown while linking a card to the user's account */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_LINKING_MESSAGE" = "It will just take a few moments.";
+
+/* Payments: Title shown while linking a card to the user's account */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_LINKING_TITLE" = "Linking your card to your account";
+
+/* Payments: Success message shown when a card has been linked to the user's account */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_SUCCESS" = "Your card is now linked to your account.";
 
 /* Payments: Title of the screen to add a card as a new payment method */
 "PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_TITLE" = "Add your debit card";
@@ -13223,6 +13292,15 @@ eg. "Super Following Jack" */
 /* Informational title when you turn off vanishing mode */
 "DM_CONVERSATION_INFORMATIONAL_VANISHING_MODE_YOU_REMOVED" = "You turned off vanishing mode";
 
+/* DM Conversation message composer text accessibility label */
+"DM_CONVERSATION_MESSAGE_COMPOSER_TEXT_ACCESSIBILITY_LABEL" = "Compose new message";
+
+/* DM Conversation message composer text reply placeholder */
+"DM_CONVERSATION_MESSAGE_COMPOSER_TEXT_REPLY_PLACEHOLDER" = "Reply";
+
+/* DM Conversation message composer text start message placeholder */
+"DM_CONVERSATION_MESSAGE_COMPOSER_TEXT_START_MESSAGE_PLACEHOLDER" = "Start a message";
+
 /* DM try again error message */
 "DM_ERROR_MESSAGE_TRY_AGAIN" = "Please try again later";
 
@@ -13306,6 +13384,9 @@ eg. "Super Following Jack" */
 
 /* DM Manage Conversation navigation bar group info title */
 "DM_MANAGE_CONVERSATION_NAVIGATION_BAR_GROUP_INFO_TITLE" = "Group info";
+
+/* DM message action Add reaction title */
+"DM_MESSAGE_ACTION_ADD_REACTION_TITLE" = "Add reaction";
 
 /* DM message action Cancel title */
 "DM_MESSAGE_ACTION_CANCEL_TITLE" = "Cancel message";
@@ -18363,6 +18444,9 @@ eg. "Super Following Jack" */
 /* Label for Grok summary messages */
 "GROK_SUMMARY_LABEL" = "Summary";
 
+/* Title for Grok summary label */
+"GROK_SUMMARY_TITLE_LABEL" = "Grok summary";
+
 /* Error message for Grok image uploads */
 "GROK_UPLOAD_FAILED" = "Upload failed, please try again.";
 
@@ -19771,6 +19855,12 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* A message to assert an understanding */
 "PROMPT_ACKNOWLEDGEMENT_LABEL" = "Got it";
+
+/* QR Code: Title of the tab that shows a QR Code to scan*/
+"QR_MY_CODE" = "My code";
+
+/* QR Code: Title of the tab that shows a QR Code scanner (a camera) */
+"QR_SCAN_CODE" = "Scan code";
 
 /* Title of a dialog which allows the user to request a refund of a failed Quick Promote campaign. */
 "QUICK_PROMOTE_REFUND_DIALOG_TITLE" = "The post couldn’t be promoted";
