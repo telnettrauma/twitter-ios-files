@@ -812,6 +812,10 @@
 		<data>
 		u3igs3A4A12uF5HzXT09EV6kji8=
 		</data>
+		<key>VectorImages/main/grok_history.svg</key>
+		<data>
+		S2EyyoYndu1//j72fNGTB3AN4KE=
+		</data>
 		<key>VectorImages/main/grok_mode_fun.svg</key>
 		<data>
 		uVPTbB1ANSinx8Z3Y+PWVrOIZJA=
@@ -964,6 +968,14 @@
 		<data>
 		XqHisB6aQpeXmg4y6UCr6Vs7TU0=
 		</data>
+		<key>VectorImages/main/lightbulb_grok.svg</key>
+		<data>
+		QRgDUii+DdClyCSM9120lGl+ztQ=
+		</data>
+		<key>VectorImages/main/lightbulb_grok_stroke.svg</key>
+		<data>
+		DM1322c3y0O/NdKCcFZhzr2Am0g=
+		</data>
 		<key>VectorImages/main/lightbulb_stroke_off.svg</key>
 		<data>
 		9zgYHj/+UPMw+tKiJDxJmoQcrh4=
@@ -1011,6 +1023,10 @@
 		<key>VectorImages/main/live_pill_stroke.svg</key>
 		<data>
 		pfGtHo9dJK26Xy+Q4AatDHs11XY=
+		</data>
+		<key>VectorImages/main/loading.svg</key>
+		<data>
+		HiO2eP9Ei6AFp/rEsWDz9u0G1WY=
 		</data>
 		<key>VectorImages/main/location.svg</key>
 		<data>
@@ -1955,6 +1971,10 @@
 		<key>VectorImages/main/stagelight.svg</key>
 		<data>
 		I4eBJWlE4U2/rpp1qhwPrBl1qcs=
+		</data>
+		<key>VectorImages/main/star.svg</key>
+		<data>
+		DlWbrW+Zzmd9mpEbcnvtBMBvW/8=
 		</data>
 		<key>VectorImages/main/star_rising.svg</key>
 		<data>
@@ -4881,6 +4901,17 @@
 			jDXAFUAqVj0ir/4+5mVS8dWrGFiLj4XRoDh+p9pETOc=
 			</data>
 		</dict>
+		<key>VectorImages/main/grok_history.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			S2EyyoYndu1//j72fNGTB3AN4KE=
+			</data>
+			<key>hash2</key>
+			<data>
+			vA8A417cDdPlCGZtLRK0UmghMee2kPdzVb/qA3KThec=
+			</data>
+		</dict>
 		<key>VectorImages/main/grok_mode_fun.svg</key>
 		<dict>
 			<key>hash</key>
@@ -5299,6 +5330,28 @@
 			k/9PSmG2r+sTyRbRG9f93t7L2OTx31hH3zqCgd2QdLc=
 			</data>
 		</dict>
+		<key>VectorImages/main/lightbulb_grok.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QRgDUii+DdClyCSM9120lGl+ztQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			3sa5LtP1CijPVw2PeeRPKRtR26JjVb5rPMUq1kqadgg=
+			</data>
+		</dict>
+		<key>VectorImages/main/lightbulb_grok_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DM1322c3y0O/NdKCcFZhzr2Am0g=
+			</data>
+			<key>hash2</key>
+			<data>
+			VjX9HX9TkkX0NchOUYkffa3zgONuYhPkfFaSCXUGmeM=
+			</data>
+		</dict>
 		<key>VectorImages/main/lightbulb_stroke_off.svg</key>
 		<dict>
 			<key>hash</key>
@@ -5429,6 +5482,17 @@
 			<key>hash2</key>
 			<data>
 			r9XlTNdXJ+/H3lb2bfUfeOUMYlKymE+U3A/sPppZiXY=
+			</data>
+		</dict>
+		<key>VectorImages/main/loading.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HiO2eP9Ei6AFp/rEsWDz9u0G1WY=
+			</data>
+			<key>hash2</key>
+			<data>
+			XBI6sBimHmVN3PtKCKsvlXaoH2KmTBcq4/0l70jzsyE=
 			</data>
 		</dict>
 		<key>VectorImages/main/location.svg</key>
@@ -8025,6 +8089,17 @@
 			<key>hash2</key>
 			<data>
 			zUf5TZCRhScCrRX+WgXQrC/RjbSNbceb3b2vOk7ednU=
+			</data>
+		</dict>
+		<key>VectorImages/main/star.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DlWbrW+Zzmd9mpEbcnvtBMBvW/8=
+			</data>
+			<key>hash2</key>
+			<data>
+			02aT4xAY93nE1ThKmX93doLSNdtmFPV90Z2y6bCG+oU=
 			</data>
 		</dict>
 		<key>VectorImages/main/star_rising.svg</key>

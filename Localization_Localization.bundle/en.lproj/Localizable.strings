@@ -279,6 +279,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Error message shown when the ZIP code inputted by the customer is invalid. */
 "PAYMENTS_ERROR_INVALID_ZIP_CODE" = "Invalid ZIP code. Please try again.";
 
+/* Payments: Error message shown when someone tries to onboard with a VPN or Proxy on. */
+"PAYMENTS_ERROR_ONBOARDING_WITH_VPN" = "It appears you are using a VPN. Please turn it off and try again.";
+
 /* Payments: Error message shown when two-factor authentication needs to be set up before proceeding with X Payments. */
 "PAYMENTS_ERROR_TWO_FACTOR_AUTH_REQUIRED" = "You need to setup two-factor authentication before you can proceed.";
 
@@ -297,6 +300,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Disclaimer shown on the deposit screen, explaining the typical timeline and potential variations for fund transfers. */
 "PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_DISCLAIMER" = "Transfers typically take 3 business days but may vary due to factors like confirmations from your external bank. Funds will be available in your Payments account once the transfer is complete.";
 
+/* Payments: Subtitle shown on the success screen after settling an instant card deposit. */
+"PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_INSTANT_CARD_SUCCESS_SUBTITLE" = "Card transactions settle instantly.";
+
+/* Payments: Title of the success screen after settling an instant card deposit. %@ is replaced by the deposit amount. */
+"PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_INSTANT_CARD_SUCCESS_TITLE" = "%@ deposited to your account";
+
 /* Payments: Subtitle shown on the success screen after scheduling a deposit, explaining the transfer timeline and fund availability. */
 "PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_SUCCESS_SUBTITLE" = "Transfers may take up to 3 business days to complete.\n\nFunds may not be available in your bank until the transfer is complete.";
 
@@ -314,6 +323,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Disclaimer shown on the withdrawal screen, explaining the typical timeline and potential variations for fund transfers. */
 "PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_DISCLAIMER" = "Transfers typically take 3 business days but may vary due to factors like confirmations from your external bank. Funds will be available in your external bank once the transfer is complete.";
+
+/* Payments: Subtitle shown on the success screen after settling an instant card withdrawal. */
+"PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_INSTANT_CARD_SUCCESS_SUBTITLE" = "Card transactions settle instantly.";
+
+/* Payments: Title of the success screen after settling an instant card withdrawal. %@ is replaced by the withdrawal amount. */
+"PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_INSTANT_CARD_SUCCESS_TITLE" = "%@ withdrawn from your account";
 
 /* Payments: Subtitle shown on the success screen after scheduling a withdrawal, explaining the transfer timeline and fund availability. */
 "PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_SUCCESS_SUBTITLE" = "Transfers may take up to 3 business days to complete.\n\nFunds may not be available in your bank until the transfer is complete.";
@@ -690,32 +705,41 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the button that allows a user to add a bank account instead of a card as a new payment method. */
 "PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_BANK_ACCOUNT_ALTERNATIVE" = "Use a bank account instead";
 
+/* Payments: Message shown when card is already linked to the account */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_CARD_ALREADY_EXISTS_MESSAGE" = "This card has already been added to your account. Please try with a different card.";
+
+/* Payments: Message shown when a card cannot be linked */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_GENERIC_MESSAGE" = "Oops, something went wrong on our end. Please try again later.";
+
 /* Payments: Generic error title shown when a card cannot be linked */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_GENERIC_TITLE" = "We were unable to link your card";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_GENERIC_TITLE" = "Unable to link your card";
 
 /* Payments: Message shown when card details cannot be verified */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_INACCURATE_DETAILS_MESSAGE" = "Please check and try again.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_INACCURATE_DETAILS_MESSAGE" = "We’re unable to verify your card. Please double check your details and try again.";
 
-/* Payments: Title shown when card details cannot be verified */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_INACCURATE_DETAILS_TITLE" = "We were not able to verify the details of your card";
+/* Payments: Message shown when provider fails to verify the billing address */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_PROVIDER_ADDRESS_VERIFICATION_FAILED_MESSAGE" = "We couldn’t verify the billing address. Please check your address details and try again.";
+
+/* Payments: Message shown when provider fails to authorize the card */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_PROVIDER_AUTHORIZATION_FAILED_MESSAGE" = "We couldn’t authorize your card with your bank. Please try again or contact your card issuer.";
+
+/* Payments: Message shown when provider fails to verify the cardholder name */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_PROVIDER_CARDHOLDER_VERIFICATION_FAILED_MESSAGE" = "We couldn’t verify the cardholder name. Please check that the name matches your card exactly.";
+
+/* Payments: Message shown when provider experiences an internal error */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_PROVIDER_INTERNAL_FAILURE_MESSAGE" = "We’re having trouble connecting to your card provider. Please try again in a few minutes.";
 
 /* Payments: Message shown when a card authorization is still pending */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_STILL_PENDING_MESSAGE" = "Please check again later in your X Money Settings.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_STILL_PENDING_MESSAGE" = "We’re unable to verify your card. Please double check your details and try again.";
 
-/* Payments: Title shown when a card authorization is still pending */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_STILL_PENDING_TITLE" = "We’re still waiting for your card authorization";
+/* Payments: Message shown when trying to add a card from an unsupported country */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_UNSUPPORTED_ISSUER_COUNTRY_MESSAGE" = "Sorry, we currently don’t support cards from this country. Please try with a card from a supported country.";
 
 /* Payments: Message shown when trying to add an unsupported card type */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_UNSUPPORTED_TYPE_MESSAGE" = "Please try again with another card.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_UNSUPPORTED_TYPE_MESSAGE" = "Sorry, this card isn’t supported yet. Please try with a different card.";
 
-/* Payments: Title shown when trying to add an unsupported card type */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_UNSUPPORTED_TYPE_TITLE" = "This type of card is not supported at the moment";
-
-/* Payments: Message shown while linking a card to the user's account */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_LINKING_MESSAGE" = "It will just take a few moments.";
-
-/* Payments: Title shown while linking a card to the user's account */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_LINKING_TITLE" = "Linking your card to your account";
+/* Payments: Message shown when trying to add an unusable card */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_UNUSABLE_CARD_MESSAGE" = "This card cannot be used for payments. Please try with a different card.";
 
 /* Payments: Success message shown when a card has been linked to the user's account */
 "PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_SUCCESS" = "Your card is now linked to your account.";
@@ -887,6 +911,30 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Action to change the user’s PIN */
 "PAYMENTS_UPDATE_PIN_ACTION" = "Change PIN";
+
+/* Payments: Title shown when bank account linking is temporarily paused due to velocity checks */
+"PAYMENTS_VELOCITY_ERROR_ACCOUNT_LINKING_MESSAGE" = "We’ve temporarily paused bank account linking due to high frequency of requests. Your existing linked accounts are still available. Please try again later.";
+
+/* Payments: Title shown when bank account linking is temporarily paused due to velocity checks */
+"PAYMENTS_VELOCITY_ERROR_ACCOUNT_LINKING_TITLE" = "Too many account linking attempts";
+
+/* Payments: Subtitle shown when deposits are temporarily paused due to velocity checks */
+"PAYMENTS_VELOCITY_ERROR_DEPOSITS_MESSAGE" = "We’ve temporarily paused deposits due to high frequency of requests. Your previous deposits are processing normally. Please try again later.";
+
+/* Payments: Title shown when deposits are temporarily paused due to velocity checks */
+"PAYMENTS_VELOCITY_ERROR_DEPOSITS_TITLE" = "Too many deposit attempts";
+
+/* Payments: Subtitle shown when transfers are temporarily paused due to velocity checks */
+"PAYMENTS_VELOCITY_ERROR_TRANSFERS_MESSAGE" = "We’ve temporarily paused transfers due to high frequency of requests. Your previous transfers are processing normally. Please try again later.";
+
+/* Payments: Title shown when transfers are temporarily paused due to velocity checks */
+"PAYMENTS_VELOCITY_ERROR_TRANSFERS_TITLE" = "Too many transfer attempts";
+
+/* Payments: Subtitle shown when withdrawals are temporarily paused due to velocity checks */
+"PAYMENTS_VELOCITY_ERROR_WITHDRAWALS_MESSAGE" = "We’ve temporarily paused withdrawals due to high frequency of requests. Your funds are safe and your previous withdrawals are processing normally. Please try again later.";
+
+/* Payments: Title shown when withdrawals are temporarily paused due to velocity checks */
+"PAYMENTS_VELOCITY_ERROR_WITHDRAWALS_TITLE" = "Too many withdrawal attempts";
 
 /* Payments: Action to verify the user’s identity */
 "PAYMENTS_VERIFY_IDENTITY_ACTION" = "Verify your identity";
@@ -1914,6 +1962,12 @@ e.g. Removed from MyRecipes.
 
 /* Summary title label text in details step of bug report flow */
 "BUG_REPORT_SUMMARY_TITLE_LABEL_TEXT" = "Summary";
+
+/* Camera add post accessibility hint */
+"CAMERA_ADD_POST_ACCESSIBILITY_HINT" = "Adds post image to the camera capture";
+
+/* Camera add post accessibility label */
+"CAMERA_ADD_POST_ACCESSIBILITY_LABEL" = "Add post";
 
 /* Camera chooser accessibility hint */
 "CAMERA_CHOOSER_ACCESSIBILITY_HINT" = "Toggles between front and back-facing cameras";
@@ -8701,6 +8755,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Confirmation button for adding a photo to a post */
 "SELECT_ACTION_LABEL" = "Select";
 
+/* A title of a popup for a post selection from bookmarks */
+"SELECT_A_POST_FROM_BOOKMARKS_LABEL" = "Select a post from bookmarks";
+
 /* Bottom sheet title suggesting video quality selection for upload*/
 "SELECT_VIDEO_QUALITY" = "Select video quality";
 
@@ -13304,6 +13361,15 @@ eg. "Super Following Jack" */
 /* DM try again error message */
 "DM_ERROR_MESSAGE_TRY_AGAIN" = "Please try again later";
 
+/* DM Error View Button Title */
+"DM_ERROR_VIEW_BUTTON_TITLE" = "Retry";
+
+/* DM Error View Subtitle */
+"DM_ERROR_VIEW_SUBTITLE" = "Tap Retry or try restarting the app.";
+
+/* DM Error View Title */
+"DM_ERROR_VIEW_TITLE" = "Oops! An unexpected error occurred, please try again.";
+
 /* DM Inbox Empty start a conversation action */
 "DM_INBOX_EMPTY_ACTION_START_A_CONVERSATION" = "Write a message";
 
@@ -13372,6 +13438,9 @@ eg. "Super Following Jack" */
 
 /* DM Manage Conversation Resign as admin action title */
 "DM_MANAGE_CONVERSATION_ACTION_RESIGN_AS_ADMIN_TITLE" = "Resign as admin";
+
+/* DM Manage Conversation Update group action error title */
+"DM_MANAGE_CONVERSATION_ACTION_UPDATE_GROUP_ERROR_TITLE" = "Unable to update group";
 
 /* DM Manage Conversation Vanishing mode description */
 "DM_MANAGE_CONVERSATION_ACTION_VANISHING_MODE_DESCRIPTION" = "After messages in this chat get read, they will vanish after the selected time below.";
@@ -13475,6 +13544,9 @@ eg. "Super Following Jack" */
 /* DM Message reply subtitle when replying to a video message with no text */
 "DM_MESSAGE_REPLY_SUBTITLE_VIDEO" = "Video";
 
+/* Message send failure when failed to send */
+"DM_MESSAGE_SEND_ERROR_FAILED_TO_SEND" = "Message failed to send";
+
 /* Status appearing underneath message when edited */
 "DM_MESSAGE_STATUS_EDITED_ONLY" = "Edited";
 
@@ -13511,6 +13583,15 @@ eg. "Super Following Jack" */
 /* Suggestions list group cell subtitle when single user. */
 "DM_ONE_PERSON_GROUP_SUBTITLE" = "1 person";
 
+/* DM PIN Entry Education No Button Title */
+"DM_PIN_ENTRY_BUTTON_TITLE_EDUCATION_NO" = "No, cancel";
+
+/* DM PIN Entry Education Yes Button Title */
+"DM_PIN_ENTRY_BUTTON_TITLE_EDUCATION_YES" = "Yes, reset PIN";
+
+/* DM PIN Entry Two FA Button Title */
+"DM_PIN_ENTRY_BUTTON_TITLE_TWO_FA" = "Continue";
+
 /* DM PIN Entry Create Error: Mismatched PINs */
 "DM_PIN_ENTRY_ERROR_CREATE_MISMATCHED_PINS" = "The PIN codes did not match. Please start over.";
 
@@ -13525,6 +13606,12 @@ eg. "Super Following Jack" */
 
 /* DM PIN Entry Juicebox Error: Invalid PIN */
 "DM_PIN_ENTRY_ERROR_JUICEBOX_INVALID_PIN" = "Invalid PIN. Try again.";
+
+/* DM PIN Entry Juicebox Error: Invalid PIN with attempts remaining */
+"DM_PIN_ENTRY_ERROR_JUICEBOX_INVALID_PIN_ATTEMPTS_REMAINING" = "The PIN you entered was incorrect. After %@ more incorrect attempts, your messages will be locked.";
+
+/* DM PIN Entry Juicebox Error: Invalid PIN, locked out */
+"DM_PIN_ENTRY_ERROR_JUICEBOX_INVALID_PIN_LOCKED_OUT" = "The PIN you entered was incorrect. You have no more remaining attempts. Tap “Forgot PIN” to continue.";
 
 /* DM PIN Entry Juicebox Error: Not Registered */
 "DM_PIN_ENTRY_ERROR_JUICEBOX_NOT_REGISTERED" = "Could not find your registration. Please try again later.";
@@ -13550,29 +13637,71 @@ eg. "Super Following Jack" */
 /* DM PIN Entry Recovery Error: Unknown */
 "DM_PIN_ENTRY_ERROR_RECOVERY_UNKOWN" = "Encountered error when recovering PIN. Please try again later.";
 
+/* DM PIN Entry Forgot PIN Button Title */
+"DM_PIN_ENTRY_FORGOT_PIN_BUTTON_TITLE" = "Forgot PIN";
+
+/* DM PIN Entry Create Subtitle */
+"DM_PIN_ENTRY_SUBTITLE_CREATE" = "Set a pin so that your messages are secure and nobody else can access them. We’ll periodically ask you to enter it to ensure you remember.";
+
+/* DM PIN Entry Education Subtitle */
+"DM_PIN_ENTRY_SUBTITLE_EDUCATION" = "You’ll no longer be able to access your old messages.";
+
+/* DM PIN Entry Forgot Create Subtitle */
+"DM_PIN_ENTRY_SUBTITLE_FORGOT_CREATE" = "Make sure to remember it, as we will occasionally need you to verify.";
+
 /* DM PIN Entry Recovery Subtitle */
 "DM_PIN_ENTRY_SUBTITLE_RECOVERY" = "Your PIN is required to recover your encryption keys so we can decrypt your previous messages.";
+
+/* DM PIN Entry Reminder Subtitle */
+"DM_PIN_ENTRY_SUBTITLE_REMINDER" = "To ensure you remember your PIN, we’ll request it periodically. These prompts will become less frequent over time.";
+
+/* DM PIN Entry Two FA Subtitle */
+"DM_PIN_ENTRY_SUBTITLE_TWO_FA" = "We need to authenticate you before you can proceed with creating a new PIN.";
+
+/* DM PIN Entry Create Title */
+"DM_PIN_ENTRY_TITLE_CREATE" = "Create a 4-digit PIN";
 
 /* DM PIN Entry Create Confirm Title */
 "DM_PIN_ENTRY_TITLE_CREATE_CONFIRM" = "Confirm your PIN";
 
-/* DM PIN Entry Create Title for 4-Digit PIN */
-"DM_PIN_ENTRY_TITLE_FOUR_DIGIT_CREATE" = "Create a 4-digit PIN";
+/* DM PIN Entry Education Title */
+"DM_PIN_ENTRY_TITLE_EDUCATION" = "Are you sure you want to reset your PIN?";
 
-/* DM PIN Entry Recovery Title */
-"DM_PIN_ENTRY_TITLE_RECOVERY" = "Enter your PIN";
+/* DM PIN Entry Forgot Create Title */
+"DM_PIN_ENTRY_TITLE_FORGOT_CREATE" = "Create a new PIN";
 
-/* DM PIN Entry Create Title for 6-Digit PIN */
-"DM_PIN_ENTRY_TITLE_SIX_DIGIT_CREATE" = "Create a 6-digit PIN";
+/* DM PIN Entry Forgot Create Confirm Title */
+"DM_PIN_ENTRY_TITLE_FORGOT_CREATE_CONFIRM" = "Confirm your new PIN";
 
-/* DM PIN Entry Type Button Title */
-"DM_PIN_ENTRY_TYPE_BUTTON_TITLE" = "PIN Options";
+/* DM PIN Entry Recovery & Reminder Title 4-Digit */
+"DM_PIN_ENTRY_TITLE_RECOVER_REMINDER_FOUR_DIGIT" = "Enter your 4-digit PIN";
 
-/* DM PIN Entry Type Four Digit Numeric */
-"DM_PIN_ENTRY_TYPE_FOUR_DIGIT_NUMERIC" = "4-Digit Numeric";
+/* DM PIN Entry Two FA Title */
+"DM_PIN_ENTRY_TITLE_TWO_FA" = "Two-Factor Authentication";
 
-/* DM PIN Entry Type Six Digit Numeric */
-"DM_PIN_ENTRY_TYPE_SIX_DIGIT_NUMERIC" = "6-Digit Numeric";
+/* DM PIN Reminder Button Title */
+"DM_PIN_REMINDER_BUTTON_TITLE" = "Enter PIN";
+
+/* DM PIN Reminder Subtitle */
+"DM_PIN_REMINDER_SUBTITLE" = "Enter your 4-digit PIN so we can keep things secure and make sure you remember it.";
+
+/* DM PIN Reminder Title */
+"DM_PIN_REMINDER_TITLE" = "PIN Verification";
+
+/* DM PIN Toast Create Title */
+"DM_PIN_TOAST_CREATE_TITLE" = "Direct message PIN created";
+
+/* DM PIN Toast Forgot Create Title */
+"DM_PIN_TOAST_FORGOT_CREATE_TITLE" = "Successfully created a new PIN";
+
+/* DM PIN Toast Forgot Recover Title */
+"DM_PIN_TOAST_FORGOT_RECOVER_TITLE" = "Successfully changed your PIN";
+
+/* DM PIN Toast Recover Title */
+"DM_PIN_TOAST_RECOVER_TITLE" = "Direct messages unlocked";
+
+/* DM PIN Toast Reminder Title */
+"DM_PIN_TOAST_REMINDER_TITLE" = "PIN verification complete";
 
 /* DM Emoji picker Add reaction accessibility hint */
 "DM_REACTIONS_ADD_REACTION_ACCESSIBILITY_HINT" = "Adds reaction";
@@ -17948,6 +18077,9 @@ eg. "Super Following Jack" */
 /* Bottom of a sports card. Will contain a date and time. */
 "GROK_CARD_UPDATED_AT_LABEL" = "Updated at %@";
 
+/* Label for close */
+"GROK_CLOSE" = "Close";
+
 /* A prompt for the Grok input field */
 "GROK_CONTINUE_THIS_CONVERSATION" = "Continue this conversation";
 
@@ -17968,12 +18100,6 @@ eg. "Super Following Jack" */
 
 /** Button to copy the text */
 "GROK_COPY_TEXT" = "Copy text";
-
-/** Button to open the customization feature. */
-"GROK_CUSTOMIZATION_BUTTON" = "Customize";
-
-/** Button to open the customization feature after already having custom settings applied. */
-"GROK_CUSTOMIZATION_BUTTON_CUSTOMIZED" = "Customized";
 
 /** Button to reset form settings. Could be "Reset" too if it translates better. */
 "GROK_CUSTOMIZATION_CLEAR" = "Clear";
@@ -18203,6 +18329,12 @@ eg. "Super Following Jack" */
 /* Button to attach files */
 "GROK_INPUT_ATTACH_BUTTON" = "Attach";
 
+/* Message for toast when selecting a disable input action button */
+"GROK_INPUT_DISABLED_TOAST_MESSAGE" = "This feature is currently unavailable";
+
+/* Title for toast when selecting a disable input action button */
+"GROK_INPUT_DISABLED_TOAST_TITLE" = "Servers are cooking right now";
+
 /* Button to like the chat response */
 "GROK_LIKE" = "Like";
 
@@ -18263,6 +18395,9 @@ eg. "Super Following Jack" */
 /* Grok paywall on shared chat */
 "GROK_PAYWALL_SUBSCRIBE_CONTINUE_BUTTON" = "Subscribe to continue";
 
+/** Label for Grok personality menu default option */
+"GROK_PERSONALITY_MENU_DEFAULT" = "Default";
+
 /* Heading on grok generate image page */
 "GROK_POST_COMPOSER_CREATE_AN_IMAGE" = "Create an image with Grok";
 
@@ -18317,6 +18452,21 @@ eg. "Super Following Jack" */
 /* Copy for Grok rate limit banner */
 "GROK_RATE_LIMIT_QUESTION_COPY_HOUR" = "Your account can send up to %1$@ messages every hour. Upgrade now to send more.";
 
+/* Copy for Grok rate limit banner for Premium+ users */
+"GROK_RATE_LIMIT_QUESTION_PREMIUM_PLUS_COPY" = "Your account can send up to %1$@ messages every %2$@. Please try again later or switch to a different Grok model.";
+
+/* Copy for Grok rate limit banner for Premium+ users */
+"GROK_RATE_LIMIT_QUESTION_PREMIUM_PLUS_COPY_DAY" = "Your account can send up to %1$@ messages every day. Please try again later or switch to a different Grok model.";
+
+/* Copy for Grok rate limit banner for Premium+ users */
+"GROK_RATE_LIMIT_QUESTION_PREMIUM_PLUS_COPY_HOUR" = "Your account can send up to %1$@ messages every hour. Please try again later or switch to a different Grok model.";
+
+/* A title for Grok rate limit banner for Premium+ users */
+"GROK_RATE_LIMIT_QUESTION_PREMIUM_PLUS_TITLE" = "You’ve reached your current message cap for %1$@";
+
+/* A title for Grok rate limit banner for Premium+ users when we don't know the model name */
+"GROK_RATE_LIMIT_QUESTION_PREMIUM_PLUS_TITLE_FALLBACK" = "You’ve reached your current message cap";
+
 /* A title for Grok rate limit banner */
 "GROK_RATE_LIMIT_QUESTION_PREMIUM_TITLE" = "Send more messages with Premium+";
 
@@ -18337,9 +18487,6 @@ eg. "Super Following Jack" */
 
 /* A title for Grok request failed banner */
 "GROK_REQUEST_ERROR_MESSAGE" = "Request failed, tap to try again";
-
-/* Label for when waiting for grok response */
-"GROK_RESEARCHING_LABEL" = "Researching";
 
 /* Text that is displayed while the app is waiting on a response from Grok while it's searching the web and X */
 "GROK_SEARCHING" = "Searching";
@@ -19512,6 +19659,9 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* Alert view title informing user of an error. */
 "ERROR_ALERT_TITLE" = "Error";
 
+/* Error message shown to user when attestation fails and sign up cannot continue. */
+"ERROR_COULD_NOT_VERIFY_DEVICE" = "Please try again. Could not verify your device.";
+
 /* The body for a post not found alert view when the user wants to repost the post. */
 "ERROR_TWEET_NOT_FOUND_RETWEET_BODY" = "Post is no longer available and cannot be reposted.";
 
@@ -20538,6 +20688,48 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* Prompt to wait before trying again */
 "WAIT_AND_TRY_AGAIN_LATER_LABEL" = "Please wait a few moments then try again";
+
+/* More results of search */
+"X_SEARCH_MORE_RESULTS" = "+%1$@ more";
+
+/* Results of search */
+"X_SEARCH_RESULTS" = "Search results";
+
+/* Subtitle of search */
+"X_SEARCH_SUBTITLE" = "Show thinking";
+
+/* Title of search when it is thinking */
+"X_SEARCH_THINKING" = "Thinking…";
+
+/* Title of search when is done */
+"X_SEARCH_TITLE_DONE" = "Searched for %1$@ seconds";
+
+/* Title of search when is done */
+"X_SEARCH_TITLE_DONE_V2" = "Researched for %1$@ seconds";
+
+/* Title of search when entered from history */
+"X_SEARCH_TITLE_HISTORY" = "Search";
+
+/* Title of search when entered from history */
+"X_SEARCH_TITLE_HISTORY_V2" = "Research";
+
+/* Title of search when is searching */
+"X_SEARCH_TITLE_SEARCHING" = "Searching for %1$@ seconds";
+
+/* Title of search when is searching */
+"X_SEARCH_TITLE_SEARCHING_V2" = "Researching for %1$@ seconds";
+
+/* A subtitle for think view */
+"X_THINK_SUBTITLE" = "Tap to read my mind";
+
+/* A title for think view when done. */
+"X_THINK_TITLE_DONE" = "Thought for %1$@ seconds";
+
+/* A title for think view when from history */
+"X_THINK_TITLE_HISTORY" = "Thoughts";
+
+/* A title for think view when in progress. */
+"X_THINK_TITLE_THINKING" = "Thinking for %1$@ seconds";
 
 /* Label for accept prompt button */
 "YES_ACTION_LABEL" = "Yes";
