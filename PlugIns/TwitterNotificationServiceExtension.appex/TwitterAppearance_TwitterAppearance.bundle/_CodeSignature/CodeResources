@@ -328,6 +328,10 @@
 		<data>
 		gQ9m+arZZerIst1s+9gGmKgIeBk=
 		</data>
+		<key>VectorImages/main/chat.svg</key>
+		<data>
+		uH1Lo/h2osPnD1kvupEQBzPglvY=
+		</data>
 		<key>VectorImages/main/chat_bubble_checkmark_stroke.svg</key>
 		<data>
 		NUF/3gg1OBB8ftJdZ8IxTzh/NlY=
@@ -351,6 +355,10 @@
 		<key>VectorImages/main/chat_bubble_unread_stroke.svg</key>
 		<data>
 		8PV2UE0kDYCNVKaeN7hxguXSPSk=
+		</data>
+		<key>VectorImages/main/chat_stroke.svg</key>
+		<data>
+		XgGq2pLbBFntLWS4jTz9WbHgy2g=
 		</data>
 		<key>VectorImages/main/checkall.svg</key>
 		<data>
@@ -808,6 +816,10 @@
 		<data>
 		pka7nxJlpyLqLQvf9udE+yyvQac=
 		</data>
+		<key>VectorImages/main/grok_deepsearch.svg</key>
+		<data>
+		wdd71evHj0bQ1tj5tVjr233og9U=
+		</data>
 		<key>VectorImages/main/grok_fun.svg</key>
 		<data>
 		u3igs3A4A12uF5HzXT09EV6kji8=
@@ -970,11 +982,11 @@
 		</data>
 		<key>VectorImages/main/lightbulb_grok.svg</key>
 		<data>
-		QRgDUii+DdClyCSM9120lGl+ztQ=
+		NSKF9mRylQ7Yt99H5LH2DjZLmOs=
 		</data>
 		<key>VectorImages/main/lightbulb_grok_stroke.svg</key>
 		<data>
-		DM1322c3y0O/NdKCcFZhzr2Am0g=
+		4T/T1zotdX8IKqrYh1qQwBqWi2w=
 		</data>
 		<key>VectorImages/main/lightbulb_stroke_off.svg</key>
 		<data>
@@ -3566,6 +3578,17 @@
 			qp3gEKNRUk+UtTqm/wDLZikdzuaTCaeClfqAMF3UlE0=
 			</data>
 		</dict>
+		<key>VectorImages/main/chat.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uH1Lo/h2osPnD1kvupEQBzPglvY=
+			</data>
+			<key>hash2</key>
+			<data>
+			fBYTypNr4xWwfHm3zf7CcuyPfB7SO80am9389FJs4ws=
+			</data>
+		</dict>
 		<key>VectorImages/main/chat_bubble_checkmark_stroke.svg</key>
 		<dict>
 			<key>hash</key>
@@ -3630,6 +3653,17 @@
 			<key>hash2</key>
 			<data>
 			/rrEVOVXp7lvmVhHLJKJn22z4OIXcCBxTNdKEtDbNRw=
+			</data>
+		</dict>
+		<key>VectorImages/main/chat_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XgGq2pLbBFntLWS4jTz9WbHgy2g=
+			</data>
+			<key>hash2</key>
+			<data>
+			2aqoDzbkNSIAUt+sh5lYiLE7lAHNUs63Q80BDSJOb3Y=
 			</data>
 		</dict>
 		<key>VectorImages/main/checkall.svg</key>
@@ -4886,6 +4920,17 @@
 			sP3oPElNHNb8ZlfExEbJUAx6waG2PxuKpcYhM3D5eC8=
 			</data>
 		</dict>
+		<key>VectorImages/main/grok_deepsearch.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wdd71evHj0bQ1tj5tVjr233og9U=
+			</data>
+			<key>hash2</key>
+			<data>
+			5UcSl2VxybgHmSJ4PilhhnPt8yUM7WO8aF/cTOUGU4o=
+			</data>
+		</dict>
 		<key>VectorImages/main/grok_fun.svg</key>
 		<dict>
 			<key>hash</key>
@@ -5330,22 +5375,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QRgDUii+DdClyCSM9120lGl+ztQ=
+			NSKF9mRylQ7Yt99H5LH2DjZLmOs=
 			</data>
 			<key>hash2</key>
 			<data>
-			3sa5LtP1CijPVw2PeeRPKRtR26JjVb5rPMUq1kqadgg=
+			XuXnn4gi6rY8ZFQ8dG+bkWaGkqM6thSg6LghuGpzI4E=
 			</data>
 		</dict>
 		<key>VectorImages/main/lightbulb_grok_stroke.svg</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DM1322c3y0O/NdKCcFZhzr2Am0g=
+			4T/T1zotdX8IKqrYh1qQwBqWi2w=
 			</data>
 			<key>hash2</key>
 			<data>
-			VjX9HX9TkkX0NchOUYkffa3zgONuYhPkfFaSCXUGmeM=
+			yA1zU32H7F+LA9LBdUJpIGmBakNbBlUy6oLMMNHC5ik=
 			</data>
 		</dict>
 		<key>VectorImages/main/lightbulb_stroke_off.svg</key>

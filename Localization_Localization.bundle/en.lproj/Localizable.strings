@@ -8207,7 +8207,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "PROFILE_TAB_ACCESSIBILITY_LABEL" = "Profile";
 
 /* Label for body section of the profile upgrade upsell */
-"PROFILE_UPGRADE_UPSELL_BODY_LABEL" = "Get verified for boosted replies, analytics, impersonation protection, ad-free browsing, and more. Upgrade your profile now.";
+"PROFILE_UPGRADE_UPSELL_BODY_LABEL" = "Get verified for boosted replies, analytics, ad-free browsing, and more. Upgrade your profile now.";
 
 /* Label for header section of the profile upgrade upsell */
 "PROFILE_UPGRADE_UPSELL_BOOST_INFLUENCE_TITLE_VARIANT" = "Boost your influence with verification";
@@ -8313,6 +8313,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* Label format for multiple reaction count */
 "REACTION_COUNT_TITLE_FORMAT" = "%@ Reactions";
+
+/* Title for menu action to post video reaction */
+"REACT_WITH_VIDEO" = "React with Video";
 
 /* Profile details Magic Recs recommendation */
 "RECOMMENDED_BY_TWITTER_LABEL" = "Recommended by X";
@@ -11304,7 +11307,7 @@ eg. "Super Following Jack" */
 "VIEW_COUNT_INFO_TITLE" = "Views";
 
 /* Title for menu action to view post interactions */
-"VIEW_POST_INTERACTIONS" = "View post interactions";
+"VIEW_POST_INTERACTIONS" = "View Post Interactions";
 
 /* Title for menu action to view post interactions */
 "VIEW_POST_INTERACTIONS_TOOLTIP" = "View quotes and reposts in Post Interactions";
@@ -13858,7 +13861,7 @@ eg. "Super Following Jack" */
 "COMMUNITIES_TAB_EXPLORE_TITLE" = "Explore";
 
 /* Title of the Communities page "Home" tab */
-"COMMUNITIES_TAB_HOME_TITLE" = "My Communities";
+"COMMUNITIES_TAB_HOME_TITLE" = "Home";
 
 /* Tab accessibility value for non-numeric new item or items. */
 "COMMUNITIES_TAB_NON_NUMERIC_ITEM_ACCESSIBILITY_VALUE" = "New items.";
@@ -20129,8 +20132,35 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* Label with count to see repost */
 "RETWEET_COUNT_FORMAT" = "%@ Repost";
 
+/* Unified web card CTA button title saying "Book now" */
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_BOOK_NOW" = "Book now";
+
+/* Unified web card CTA button title saying "Buy tickets" */
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_BUY_TICKETS" = "Buy tickets";
+
+/* Unified web card CTA button title saying "Contact us" */
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_CONTACT_US" = "Contact us";
+
+/* Unified web card CTA button title saying "Donate" */
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_DONATE" = "Donate";
+
+/* Unified web card CTA button title saying "Download" */
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_DOWNLOAD" = "Download";
+
+/* Unified web card CTA button title saying "Get offer" */
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_GET_OFFER" = "Get offer";
+
 /* Unified web card CTA button title saying "Learn more" */
 "REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_LEARN_MORE" = "Learn more";
+
+/* Unified web card CTA button title saying "Shop now" */
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_SHOP_NOW" = "Shop now";
+
+/* Unified web card CTA button title saying "Sign up" */
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_SIGN_UP" = "Sign up";
+
+/* Unified web card CTA button title saying "Watch now" */
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_WATCH_NOW" = "Watch now";
 
 /* 'Web' default text to help user understand that the destination is the internet. */
 "REVENUE_UNIFIED_WEB_CARD_WEB_LABEL" = "Web";
@@ -20440,11 +20470,44 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* Title for timelines sort menu sheet option to sort by most liked */
 "TIMELINE_SORT_BY_LIKED" = "Most liked";
 
+/* Title for timelines sort menu sheet option to sort by most recent, with new label */
+"TIMELINE_SORT_BY_NEW" = "New";
+
+/* Title for timelines sort menu sheet option to sort by most liked, with new label */
+"TIMELINE_SORT_BY_POPULAR" = "Popular";
+
+/* Title for timelines sort menu sheet option to sort by most liked, with new label with no time filter */
+"TIMELINE_SORT_BY_POPULAR_ALL" = "Popular - All";
+
+/* Title for timelines sort menu sheet option to sort by most liked, with new label with time filter day */
+"TIMELINE_SORT_BY_POPULAR_DAY" = "Popular - Day";
+
+/* Title for timelines sort menu sheet option to sort by most liked, with new label with time filter month*/
+"TIMELINE_SORT_BY_POPULAR_MONTH" = "Popular - Month";
+
+/* Title for timelines sort menu sheet option to sort by most liked, with new label with time filter week */
+"TIMELINE_SORT_BY_POPULAR_WEEK" = "Popular - Week";
+
+/* Title for timelines sort menu sheet option to sort by most liked, with new label with time filter year */
+"TIMELINE_SORT_BY_POPULAR_YEAR" = "Popular - Year";
+
 /* Title for timelines sort menu sheet option to sort by most recent */
 "TIMELINE_SORT_BY_RECENT" = "Most recent";
 
 /* Title for timelines sort menu sheet option to sort by most relevant (trending) */
 "TIMELINE_SORT_BY_RELEVANT" = "Trending";
+
+/* Title for extend timeline configuration sheet section title */
+"TIMELINE_SORT_CONFIGURATION_SORT" = "Sort";
+
+/* Title for extend timeline configuration sheet section title */
+"TIMELINE_SORT_CONFIGURATION_SORT_BY_POPULARITY" = "Sort by popularity";
+
+/* Title for extend timeline configuration sheet title */
+"TIMELINE_SORT_CONFIGURATION_TITLE" = "Timeline options";
+
+/* Title for extend timeline configuration sheet section title */
+"TIMELINE_SORT_CONFIGURATION_VIEW" = "View";
 
 /* Title for timelines sort menu sheet option to sort replies by most liked */
 "TIMELINE_SORT_REPLIES_BY_LIKED" = "Most liked replies";
@@ -20460,6 +20523,12 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* Title for timelines sort posts menu sheet*/
 "TIMELINE_SORT_TITLE" = "Sort posts";
+
+/* Title for timelines sort posts menu sheet*/
+"TIMELINE_VIEW_MY_POSTS" = "My posts";
+
+/* Title for timelines sort posts menu sheet*/
+"TIMELINE_VIEW_MY_REPLIES" = "My replies";
 
 /* Number of days. '5 days' */
 "TIME_LONG_DAYS_FORMAT" = "%d days";
