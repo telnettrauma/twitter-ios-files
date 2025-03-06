@@ -8206,6 +8206,18 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Label for profile tab in extended layout (X for Mac and iPad) */
 "PROFILE_TAB_ACCESSIBILITY_LABEL" = "Profile";
 
+/* Label for body section of the profile upgrade upsell */
+"PROFILE_UPGRADE_UPSELL_BODY_LABEL" = "Get verified for boosted replies, analytics, impersonation protection, ad-free browsing, and more. Upgrade your profile now.";
+
+/* Label for header section of the profile upgrade upsell */
+"PROFILE_UPGRADE_UPSELL_BOOST_INFLUENCE_TITLE_VARIANT" = "Boost your influence with verification";
+
+/* Label for header section of the profile upgrade upsell */
+"PROFILE_UPGRADE_UPSELL_NO_VERIFICATION_TITLE_VARIANT" = "You aren’t verified yet";
+
+/* Label for header section of the profile upgrade upsell */
+"PROFILE_UPGRADE_UPSELL_UNLOCK_FEATURES_TITLE_VARIANT" = "Unlock VIP features: verify your account";
+
 /* Accessibility label for website bullet item */
 "PROFILE_WEBSITE_ACCESSIBILITY_LABEL_FORMAT" = "Website %@";
 
@@ -13211,6 +13223,45 @@ eg. "Super Following Jack" */
 /* DM disconnected connection status title */
 "DM_CONNECTION_STATUS_DISCONNECTED_TITLE" = "Disconnected";
 
+/* DM Conversation Delete conversation action alert action */
+"DM_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_ACTION" = "Delete";
+
+/* DM Conversation Delete conversation action alert title */
+"DM_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_TITLE" = "Delete conversation?";
+
+/* DM Conversation Delete conversation action error title */
+"DM_CONVERSATION_ACTION_DELETE_CONVERSATION_ERROR_TITLE" = "Unable to delete conversation";
+
+/* DM Conversation Delete conversation action title */
+"DM_CONVERSATION_ACTION_DELETE_CONVERSATION_TITLE" = "Delete conversation";
+
+/* DM Conversation Delete/Leave conversation action alert message */
+"DM_CONVERSATION_ACTION_DELETE_LEAVE_CONVERSATION_ALERT_MESSAGE" = "This conversation will be deleted from your inbox. Other people in the conversation will still be able to see it.";
+
+/* DM Conversation Leave conversation action alert action */
+"DM_CONVERSATION_ACTION_LEAVE_CONVERSATION_ALERT_ACTION" = "Leave";
+
+/* DM Conversation Leave conversation action alert title */
+"DM_CONVERSATION_ACTION_LEAVE_CONVERSATION_ALERT_TITLE" = "Leave conversation?";
+
+/* DM Conversation Leave conversation action error title */
+"DM_CONVERSATION_ACTION_LEAVE_CONVERSATION_ERROR_TITLE" = "Unable to leave conversation";
+
+/* DM Conversation Leave conversation action title */
+"DM_CONVERSATION_ACTION_LEAVE_CONVERSATION_TITLE" = "Leave conversation";
+
+/* DM Conversation mark as read action title */
+"DM_CONVERSATION_ACTION_MARK_READ_TITLE" = "Mark as read";
+
+/* DM Conversation mark as unread action title */
+"DM_CONVERSATION_ACTION_MARK_UNREAD_TITLE" = "Mark as unread";
+
+/* DM Conversation Mute action title */
+"DM_CONVERSATION_ACTION_MUTE_TITLE" = "Mute conversation";
+
+/* DM Conversation Unmute action title */
+"DM_CONVERSATION_ACTION_UNMUTE_TITLE" = "Unmute conversation";
+
 /* Informational title displayed above messages from today */
 "DM_CONVERSATION_INFORMATIONAL_DATE_TODAY" = "Today";
 
@@ -13379,12 +13430,6 @@ eg. "Super Following Jack" */
 /* DM Inbox Empty title */
 "DM_INBOX_EMPTY_TITLE" = "Welcome to your inbox!";
 
-/* DM Inbox conversation mark as read button title */
-"DM_INBOX_MARK_READ_TITLE" = "Mark as read";
-
-/* DM Inbox conversation mark as unread button title */
-"DM_INBOX_MARK_UNREAD_TITLE" = "Mark as unread";
-
 /* DM Inbox new message button accessibility label */
 "DM_INBOX_NEW_MESSAGE_ACCESSIBILITY_LABEL" = "Compose New Message";
 
@@ -13396,33 +13441,6 @@ eg. "Super Following Jack" */
 
 /* DM Manage Conversation Add people action title */
 "DM_MANAGE_CONVERSATION_ACTION_ADD_PEOPLE_TITLE" = "Add people";
-
-/* DM Manage Conversation Delete conversation action alert delete action */
-"DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_ACTION_DELETE" = "Delete";
-
-/* DM Manage Conversation Delete conversation action alert leave action */
-"DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_ACTION_LEAVE" = "Leave";
-
-/* DM Manage Conversation Delete conversation action alert title */
-"DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_TITLE" = "Delete conversation?";
-
-/* DM Manage Conversation Delete conversation action error title */
-"DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_ERROR_TITLE" = "Unable to delete conversation";
-
-/* DM Manage Conversation Delete conversation action title */
-"DM_MANAGE_CONVERSATION_ACTION_DELETE_CONVERSATION_TITLE" = "Delete conversation";
-
-/* DM Manage Conversation Delete/Leave conversation action alert message */
-"DM_MANAGE_CONVERSATION_ACTION_DELETE_LEAVE_CONVERSATION_ALERT_MESSAGE" = "This conversation will be deleted from your inbox. Other people in the conversation will still be able to see it.";
-
-/* DM Manage Conversation Leave conversation action alert title */
-"DM_MANAGE_CONVERSATION_ACTION_LEAVE_CONVERSATION_ALERT_TITLE" = "Leave conversation?";
-
-/* DM Manage Conversation Leave conversation action error title */
-"DM_MANAGE_CONVERSATION_ACTION_LEAVE_CONVERSATION_ERROR_TITLE" = "Unable to leave conversation";
-
-/* DM Manage Conversation Leave conversation action title */
-"DM_MANAGE_CONVERSATION_ACTION_LEAVE_CONVERSATION_TITLE" = "Leave conversation";
 
 /* DM Manage Conversation Remove as admin action error title */
 "DM_MANAGE_CONVERSATION_ACTION_REMOVE_AS_ADMIN_ERROR_TITLE" = "Unable to remove as admin";
@@ -13463,8 +13481,14 @@ eg. "Super Following Jack" */
 /* DM message action Copy title */
 "DM_MESSAGE_ACTION_COPY_ACCESSIBILITY_ANNOUNCEMENT" = "Copied";
 
+/* DM message action Copy address title */
+"DM_MESSAGE_ACTION_COPY_ADDRESS_TITLE" = "Copy address";
+
 /* DM message action Copy audio title */
 "DM_MESSAGE_ACTION_COPY_AUDIO_TITLE" = "Copy audio";
+
+/* DM message action Copy email title */
+"DM_MESSAGE_ACTION_COPY_EMAIL_TITLE" = "Copy Email";
 
 /* DM message action Copy file title */
 "DM_MESSAGE_ACTION_COPY_FILE_TITLE" = "Copy file";
@@ -13472,11 +13496,26 @@ eg. "Super Following Jack" */
 /* DM message action Copy GIF title */
 "DM_MESSAGE_ACTION_COPY_GIF_TITLE" = "Copy GIF";
 
+/* DM message action Copy hashtag title */
+"DM_MESSAGE_ACTION_COPY_HASHTAG_TITLE" = "Copy hashtag";
+
+/* DM message action Copy link title */
+"DM_MESSAGE_ACTION_COPY_LINK_TITLE" = "Copy link";
+
+/* DM message action Copy phone number title */
+"DM_MESSAGE_ACTION_COPY_PHONE_TITLE" = "Copy phone number";
+
 /* DM message action Copy photo title */
 "DM_MESSAGE_ACTION_COPY_PHOTO_TITLE" = "Copy photo";
 
+/* DM message action Copy stock title */
+"DM_MESSAGE_ACTION_COPY_STOCK_TITLE" = "Copy stock";
+
 /* DM message action Copy title */
 "DM_MESSAGE_ACTION_COPY_TITLE" = "Copy";
+
+/* DM message action Copy username title */
+"DM_MESSAGE_ACTION_COPY_USERNAME_TITLE" = "Copy username";
 
 /* DM message action Copy video title */
 "DM_MESSAGE_ACTION_COPY_VIDEO_TITLE" = "Copy video";
@@ -13489,6 +13528,18 @@ eg. "Super Following Jack" */
 
 /* DM message action Edit title */
 "DM_MESSAGE_ACTION_EDIT_TITLE" = "Edit message";
+
+/* DM message action Open address in Apple Maps title */
+"DM_MESSAGE_ACTION_OPEN_ADDRESS_APPLE_MAPS_TITLE" = "Open in Maps";
+
+/* DM message action Open Email title */
+"DM_MESSAGE_ACTION_OPEN_EMAIL_TITLE" = "Email";
+
+/* DM message action Open generic title */
+"DM_MESSAGE_ACTION_OPEN_GENERIC_TITLE" = "Open";
+
+/* DM message action Open phone number title */
+"DM_MESSAGE_ACTION_OPEN_PHONE_NUMBER_TITLE" = "Call";
 
 /* DM message action Reply title */
 "DM_MESSAGE_ACTION_REPLY_TITLE" = "Reply";
