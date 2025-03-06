@@ -15,11 +15,11 @@
     <key>UISupportsDocumentBrowser-macos</key>
     <false/>
     <key>DTPlatformVersion</key>
-    <string>17.5</string>
+    <string>18.1</string>
     <key>UILaunchStoryboardName</key>
     <string>LaunchScreen</string>
     <key>DTSDKBuild</key>
-    <string>21F77</string>
+    <string>22B74</string>
     <key>UIStatusBarStyle</key>
     <string>UIStatusBarStyleBlackOpaque</string>
     <key>AppIdentifierPrefix</key>
@@ -157,7 +157,7 @@
       <string>Chirp/Chirp-UI-VF-With-Overriden-Emoji.ttf</string>
     </array>
     <key>DTXcodeBuild</key>
-    <string>15F31d</string>
+    <string>16B40</string>
     <key>CADisableMinimumFrameDurationOnPhone</key>
     <true/>
     <key>PHPhotoLibraryPreventAutomaticLimitedAccessAlert</key>
@@ -351,7 +351,7 @@
     <key>MinimumOSVersion</key>
     <string>15.0</string>
     <key>TWBuildNumber</key>
-    <string>14</string>
+    <string>2</string>
     <key>NSPhotoLibraryAddUsageDescription</key>
     <string>This lets you download photos and videos to your Photos.</string>
     <key>SKAdNetworkItems</key>
@@ -568,9 +568,9 @@
     <key>CFBundleName</key>
     <string>Twitter</string>
     <key>CFBundleShortVersionString</key>
-    <string>10.83</string>
+    <string>10.83.1</string>
     <key>TWBuildTime</key>
-    <string>2025-03-01T02:57:45Z</string>
+    <string>2025-03-05T20:02:10Z</string>
     <key>UIBackgroundModes</key>
     <array>
       <string>audio</string>
@@ -626,7 +626,7 @@
     <key>FirebaseScreenReportingEnabled</key>
     <false/>
     <key>BuildMachineOSBuild</key>
-    <string>23D60</string>
+    <string>24D70</string>
     <key>NSLocationUsageDescription</key>
     <string>Enjoy the X experience tailored to your location.</string>
     <key>TWSharedApplicationGroupIdentifier</key>
@@ -642,7 +642,7 @@
     <key>TWPushEnvironment</key>
     <string>3</string>
     <key>CFBundleVersion</key>
-    <string>14</string>
+    <string>2</string>
     <key>CFBundleDevelopmentRegion</key>
     <string>English</string>
     <key>DTCompiler</key>
@@ -678,7 +678,7 @@
     <key>TWSharedKeychainOAuthIdentifier</key>
     <string>8248RGMF2D.com.atebits.Tweetie2.oauth</string>
     <key>DTSDKName</key>
-    <string>iphoneos17.5</string>
+    <string>iphoneos18.1</string>
     <key>TWTrainType</key>
     <string>dev</string>
     <key>NSBonjourServices</key>
@@ -724,11 +724,11 @@
       <true/>
     </dict>
     <key>DTPlatformBuild</key>
-    <string>21F77</string>
+    <string>22B74</string>
     <key>NSContactsUsageDescription</key>
     <string>We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.</string>
     <key>DTXcode</key>
-    <string>1540</string>
+    <string>1610</string>
     <key>NSPhotoLibraryUsageDescription</key>
     <string>Easily add photos on X.</string>
     <key>UISupportedInterfaceOrientations</key>
