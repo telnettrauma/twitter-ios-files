@@ -1,6 +1,6 @@
 {
   "default" : {
-    "feature_set_token" : "4db0e6abb7368a99d713708e848f44ded40f14ce",
+    "feature_set_token" : "e757fe52ead6d48ebeda1c085f8117b879eda4c1",
     "config" : {
       "2fa_temporary_password_enabled" : {
         "value" : false
@@ -3012,7 +3012,7 @@
         "value" : false
       },
       "ios_tweet_promote_button_api_enabled" : {
-        "value" : true
+        "value" : false
       },
       "ios_tweet_promote_button_composer_bottom_placement_enabled" : {
         "value" : false
@@ -3021,13 +3021,13 @@
         "value" : 604800.0
       },
       "ios_tweet_promote_button_conversation_prompt_type" : {
-        "value" : "F"
+        "value" : ""
       },
       "ios_tweet_promote_button_conversation_tooltip_prompt_interval_seconds" : {
         "value" : 604800.0
       },
       "ios_tweet_promote_button_conversation_tooltip_prompt_type" : {
-        "value" : "none"
+        "value" : ""
       },
       "ios_tweet_promote_button_enabled" : {
         "value" : false
@@ -3039,7 +3039,7 @@
         "value" : false
       },
       "ios_tweet_promote_button_in_focal_top_toolbar_enabled" : {
-        "value" : true
+        "value" : false
       },
       "ios_tweet_promote_button_in_overflow_menu_enabled" : {
         "value" : false
@@ -3054,7 +3054,7 @@
         "value" : false
       },
       "ios_tweet_promote_button_location_enabled" : {
-        "value" : true
+        "value" : false
       },
       "ios_twitter_text_editor_mentions_color_bugfix" : {
         "value" : true
@@ -5226,7 +5226,7 @@
   "requires_restart" : [ ],
   "supports_accessibility" : [ ],
   "versions" : {
-    "feature_switches" : "8f0382e898c847465b8193f8a29afc09560c36a8",
-    "experiments" : "8f0382e898c847465b8193f8a29afc09560c36a8"
+    "feature_switches" : "8e5ce1e22793e20c3f64c1ccbb8675e26447485e",
+    "experiments" : "8e5ce1e22793e20c3f64c1ccbb8675e26447485e"
   }
 }
