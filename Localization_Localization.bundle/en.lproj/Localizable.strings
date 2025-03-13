@@ -13,25 +13,25 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_2FA_BACKUP_CODE_TITLE" = "Enter your backup code";
 
 /* Payments: Message shown when the authentication process was canceled by the user */
-"PAYMENTS_2FA_ERROR_MESSAGE_CANCELED" = "The operation was canceled.";
+"PAYMENTS_2FA_ERROR_MESSAGE_CANCELED" = "The request was cancelled. Please try again.";
 
 /* Payments: Message shown on the 2FA error screen when we were not able to send a SMS to a carrier */
-"PAYMENTS_2FA_ERROR_MESSAGE_CARRIER_DISABLED" = "We were not able to send a SMS to this carrier.";
+"PAYMENTS_2FA_ERROR_MESSAGE_CARRIER_DISABLED" = "We’re unable to send an SMS to this carrier.";
 
 /* Payments: Error message shown when the authentication request has expired */
-"PAYMENTS_2FA_ERROR_MESSAGE_EXPIRED" = "The request expired, try again.";
+"PAYMENTS_2FA_ERROR_MESSAGE_EXPIRED" = "The request has expired. Please try again.";
 
 /* Payments: Error message shown when there is an issue with the 2FA method configuration */
-"PAYMENTS_2FA_ERROR_MESSAGE_METHOD_ISSUE" = "The 2FA method on your account has an issue. Go to the app Settings, verify it, and try again.";
+"PAYMENTS_2FA_ERROR_MESSAGE_METHOD_ISSUE" = "We encountered an issue with your 2FA method. Please review your Security settings and try again.";
+
+/* Payments: Title of the link in the error message shown when there is an issue with the 2FA method configuration. Should be contained in the original error message. */
+"PAYMENTS_2FA_ERROR_MESSAGE_METHOD_ISSUE_LINK" = "Security settings";
 
 /* Payments: Error message shown when too many authentication attempts have been made */
-"PAYMENTS_2FA_ERROR_MESSAGE_RATE_LIMIT" = "Too many attempts, try again later.";
+"PAYMENTS_2FA_ERROR_MESSAGE_RATE_LIMIT" = "Too many attempts, please try again later.";
 
-/* Payments: Title of the 2FA error screen when a request fails at the end of the flow */
-"PAYMENTS_2FA_ERROR_TITLE_FINISH" = "Unable to verify your authentication";
-
-/* Payments: Title of the 2FA error screen when a request fails at the beginning of the flow */
-"PAYMENTS_2FA_ERROR_TITLE_START" = "Unable to authenticate you";
+/* Payments: Title of the 2FA error screen when a request fails */
+"PAYMENTS_2FA_ERROR_TITLE" = "Authentication failed";
 
 /* Payments: Label for the OTP input field */
 "PAYMENTS_2FA_OTP_FIELD_NAME" = "Code";
@@ -41,6 +41,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Title prompting user to enter their authenticator app code */
 "PAYMENTS_2FA_OTP_TOTP_TITLE" = "Enter the code from your Authenticator app";
+
+/* Payments: Action to accept an operation */
+"PAYMENTS_ACCEPT_ACTION" = "Accept";
 
 /* Payments: Title of the button that allows a user to accept a money transfer. */
 "PAYMENTS_ACCEPT_TRANSFER_ACTION" = "Accept";
@@ -136,34 +139,46 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_CARD_TYPE_PREPAID" = "Prepaid";
 
 /* Payments: Generic error message shown when 2FA verification fails */
-"PAYMENTS_CHALLENGE_ERROR_MESSAGE_2FA_INVALID" = "Try again later.";
+"PAYMENTS_CHALLENGE_ERROR_MESSAGE_2FA_INVALID" = "Please try again later.";
 
 /* Payments: Error message shown when the OTP code has expired */
-"PAYMENTS_CHALLENGE_ERROR_MESSAGE_OTP_EXPIRED" = "This code expired, try again.";
+"PAYMENTS_CHALLENGE_ERROR_MESSAGE_OTP_EXPIRED" = "This code expired, please generate a new code.";
 
 /* Payments: Error message shown when entered OTP code doesn't match */
-"PAYMENTS_CHALLENGE_ERROR_MESSAGE_OTP_MISMATCH" = "Check the code you entered and try again.";
-
-/* Payments: Error message shown when entered PIN doesn't match */
-"PAYMENTS_CHALLENGE_ERROR_MESSAGE_PIN_MISMATCH" = "Check the PIN you entered and try again.";
+"PAYMENTS_CHALLENGE_ERROR_MESSAGE_OTP_MISMATCH" = "Please double check the code entered and try again.";
 
 /* Payments: Error message shown when too many challenge attempts have been made */
-"PAYMENTS_CHALLENGE_ERROR_MESSAGE_RATE_LIMIT" = "Too many attempts, try again later.";
+"PAYMENTS_CHALLENGE_ERROR_MESSAGE_RATE_LIMIT" = "Too many attempts, please try again later.";
 
 /* Payments: Error message shown when entered SSN doesn't match */
-"PAYMENTS_CHALLENGE_ERROR_MESSAGE_SSN_MISMATCH" = "Check the SSN you entered and try again.";
+"PAYMENTS_CHALLENGE_ERROR_MESSAGE_SSN_MISMATCH" = "Please double check the SSN entered and try again. ";
 
 /* Payments: Error title shown when 2FA verification fails */
-"PAYMENTS_CHALLENGE_ERROR_TITLE_2FA" = "Unable to verify your authentication";
+"PAYMENTS_CHALLENGE_ERROR_TITLE_2FA" = "Unable to verify your 2FA";
 
 /* Payments: Error title shown when OTP code validation fails */
-"PAYMENTS_CHALLENGE_ERROR_TITLE_OTP" = "Unable to validate your code";
+"PAYMENTS_CHALLENGE_ERROR_TITLE_OTP" = "Unable to verify your OTP";
 
 /* Payments: Error title shown when PIN validation fails */
-"PAYMENTS_CHALLENGE_ERROR_TITLE_PIN" = "Unable to validate your PIN";
+"PAYMENTS_CHALLENGE_ERROR_TITLE_PIN" = "Unable to verify your PIN";
 
 /* Payments: Error title shown when SSN validation fails */
-"PAYMENTS_CHALLENGE_ERROR_TITLE_SSN" = "Unable to validate your SSN";
+"PAYMENTS_CHALLENGE_ERROR_TITLE_SSN" = "Unable to verify your SSN";
+
+/* Payments: Title shown when asking user to confirm a generic operation */
+"PAYMENTS_CONFIRMATION_GENERIC_TITLE" = "Confirm this operation";
+
+/* Payments: Message shown after an operation is rejected indicating no more action needed */
+"PAYMENTS_CONFIRMATION_REJECTED_GENERIC_SUBTITLE" = "No further action is required at this point.";
+
+/* Payments: Title shown after a generic operation is rejected */
+"PAYMENTS_CONFIRMATION_REJECTED_GENERIC_TITLE" = "Operation rejected";
+
+/* Payments: Title shown after a transaction is rejected */
+"PAYMENTS_CONFIRMATION_REJECTED_TRANSACTION_TITLE" = "Transaction rejected";
+
+/* Payments: Title shown when asking user to confirm a specific transaction type */
+"PAYMENTS_CONFIRMATION_TRANSACTION_TITLE" = "Confirm this %@ transaction";
 
 /* Payments: Title of a button that allows the user to consent to something (ex: verifying their ID). Should be kept generic. */
 "PAYMENTS_CONSENT_ACTION" = "Consent";
@@ -208,85 +223,82 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ERROR_ACCESS_DENIED_MESSAGE" = "Access denied";
 
 /* Payments: Generic error message shown when additional identity verification is required to continue using X Payments. */
-"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED" = "We need to verify your identity to continue";
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED" = "Additional verification needed";
 
 /* Payments: Additional message shown when additional KYC (Know Your Customer) information is required due to exceeding a limit. */
 "PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_LIMIT_MESSAGE" = "It should only take a few minutes and helps keep X and your account safe.";
 
 /* Payments: Message shown when additional KYC (Know Your Customer) information is required to continue using X Payments. */
-"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_MESSAGE" = "We need to make sure you are really you. It should only take a few minutes and helps keep X and your account safe.";
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_MESSAGE" = "Confirm your identity to complete this action.";
 
 /* Payments: Error message shown when a user has exceeded their monthly transaction limits and needs to verify their identity to continue. */
-"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_MONTHLY_LIMIT" = "This action would exceed your monthly limits, and we need to verify your identity to continue";
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_MONTHLY_LIMIT" = "Additional verification needed";
 
 /* Payments: Error message shown when a user has exceeded their total transaction limits and needs to verify their identity to continue. */
-"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_TOTAL_LIMIT" = "This action would exceed your limits, and we need to verify your identity to continue";
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_TOTAL_LIMIT" = "Additional verification needed";
 
 /* Payments: Error message shown when a user has exceeded their weekly transaction limits and needs to verify their identity to continue. */
-"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_WEEKLY_LIMIT" = "This action would exceed your weekly limits, and we need to verify your identity to continue";
-
-/* Payments: Error message shown when there’s an issue with the user’s bank while processing a transfer. */
-"PAYMENTS_ERROR_BANK_ISSUE" = "There was an issue with your bank while processing your transfer.";
-
-/* Payments: Additional message shown when there’s an issue with the user’s bank while processing a transfer. */
-"PAYMENTS_ERROR_BANK_ISSUE_MESSAGE" = "Please try again.";
+"PAYMENTS_ERROR_ADDITIONAL_KYC_REQUIRED_WEEKLY_LIMIT" = "Additional verification needed";
 
 /* Payments: Error message shown when we cannot open an account for the customer (KYC failed, ineligible, ...) */
-"PAYMENTS_ERROR_CANNOT_OPEN_ACCOUNT_MESSAGE" = "Please reach out to Customer Support for further assistance.";
+"PAYMENTS_ERROR_CANNOT_OPEN_ACCOUNT_MESSAGE" = "Please try again later.";
 
 /* Payments: Title of the generic error message shown when we cannot open an account for the customer (KYC failed, ineligible, ...) */
-"PAYMENTS_ERROR_CANNOT_OPEN_ACCOUNT_TITLE" = "We cannot open your account at this time";
+"PAYMENTS_ERROR_CANNOT_OPEN_ACCOUNT_TITLE" = "Unable to verify your identity";
 
 /* Payments: Generic error message shown when an unexpected issue occurs in X Payments. */
-"PAYMENTS_ERROR_GENERIC_MESSAGE" = "Please try again later or contact support team.";
+"PAYMENTS_ERROR_GENERIC_MESSAGE" = "Please try again later.";
 
 /* Payments: Title of the generic error message shown when an unexpected issue occurs in X Payments. */
-"PAYMENTS_ERROR_GENERIC_TITLE" = "Something went wrong";
-
-/* Payments: Error message shown when the system is unable to load the user’s X Payments account information. */
-"PAYMENTS_ERROR_GET_CUSTOMER_TITLE" = "We are unable to load your account";
+"PAYMENTS_ERROR_GENERIC_TITLE" = "Oops, something went wrong";
 
 /* Payments: Error message shown when a potential duplicate payment is detected. */
 "PAYMENTS_ERROR_IDEMPOTENCY_KEY_CONFLICT" = "You might be attempting a duplicate payment.";
 
 /* Payments: Additional message shown when a potential duplicate payment is detected. */
-"PAYMENTS_ERROR_IDEMPOTENCY_KEY_CONFLICT_MESSAGE" = "Please check before trying again!";
+"PAYMENTS_ERROR_IDEMPOTENCY_KEY_CONFLICT_MESSAGE" = "The transfer failed because a similar one was already sent. Check your recent transactions and try again if needed.";
+
+/* Payments: Link inside the additional message shown when a potential duplicate payment is detected. Should be included in the overall error message. */
+"PAYMENTS_ERROR_IDEMPOTENCY_KEY_CONFLICT_MESSAGE_LINK" = "recent transactions";
 
 /* Payments: Error message shown when the user’s bank account balance is insufficient for a deposit. */
-"PAYMENTS_ERROR_INSUFFICIENT_BALANCE_FOR_DEPOSIT" = "Your bank account balance is insufficient.";
+"PAYMENTS_ERROR_INSUFFICIENT_BALANCE_FOR_DEPOSIT" = "Insufficient funds";
 
 /* Payments: Additional message shown when the user’s bank account balance is insufficient for a deposit. */
-"PAYMENTS_ERROR_INSUFFICIENT_BALANCE_FOR_DEPOSIT_MESSAGE" = "Please check your balance and try again.";
+"PAYMENTS_ERROR_INSUFFICIENT_BALANCE_FOR_DEPOSIT_MESSAGE" = "Your bank account balance is insufficient. Please fund your account and try again.";
 
 /* Payments: Error message shown when the user’s X Payments account balance is insufficient for a transfer. */
-"PAYMENTS_ERROR_INSUFFICIENT_FUNDS_FOR_TRANSFER" = "Your account balance is insufficient to make this transfer.";
+"PAYMENTS_ERROR_INSUFFICIENT_FUNDS_FOR_TRANSFER" = "Insufficient funds";
 
 /* Payments: Additional message shown when the user’s X Payments account balance is insufficient for a transfer. */
-"PAYMENTS_ERROR_INSUFFICIENT_FUNDS_FOR_TRANSFER_MESSAGE" = "Please fund your account and then try again.";
+"PAYMENTS_ERROR_INSUFFICIENT_FUNDS_FOR_TRANSFER_MESSAGE" = "Please fund your account and try again.";
 
 /* Payments: Error message shown when a transfer to a specific account is not possible at the moment. */
-"PAYMENTS_ERROR_INVALID_RECEIVER" = "You cannot transfer to this account at this time.";
+"PAYMENTS_ERROR_INVALID_RECEIVER" = "Transfer failed";
 
 /* Payments: Additional message shown when a transfer to a specific account is not possible at the moment. */
-"PAYMENTS_ERROR_INVALID_RECEIVER_MESSAGE" = "Please try again later.";
+"PAYMENTS_ERROR_INVALID_RECEIVER_MESSAGE" = "Transfers to this account are unavailable right now. Please try again later.";
 
 /* Payments: Error message shown when a request from a specific account is not possible at the moment. */
-"PAYMENTS_ERROR_INVALID_SENDER" = "You cannot request from this account at this time.";
+"PAYMENTS_ERROR_INVALID_SENDER" = "Request failed";
 
 /* Payments: Additional message shown when a request from a specific account is not possible at the moment. */
-"PAYMENTS_ERROR_INVALID_SENDER_MESSAGE" = "Please try again later.";
+"PAYMENTS_ERROR_INVALID_SENDER_MESSAGE" = "Requests to to this account are unavailable right now. Please try again later.";
 
 /* Payments: Error message shown when the ZIP code inputted by the customer is invalid. */
-"PAYMENTS_ERROR_INVALID_ZIP_CODE" = "Invalid ZIP code. Please try again.";
+"PAYMENTS_ERROR_INVALID_ZIP_CODE" = "Unable to verify your zip code. Please double check your details and try again.";
 
 /* Payments: Error message shown when someone tries to onboard with a VPN or Proxy on. */
 "PAYMENTS_ERROR_ONBOARDING_WITH_VPN" = "It appears you are using a VPN. Please turn it off and try again.";
 
 /* Payments: Error message shown when two-factor authentication needs to be set up before proceeding with X Payments. */
-"PAYMENTS_ERROR_TWO_FACTOR_AUTH_REQUIRED" = "You need to setup two-factor authentication before you can proceed.";
+"PAYMENTS_ERROR_TWO_FACTOR_AUTH_REQUIRED_SUBTITLE" = "Enable two-factor authentication to complete this action";
+
+/* Payments: Error title shown when two-factor authentication needs to be set up before proceeding with X Payments. */
+"PAYMENTS_ERROR_TWO_FACTOR_AUTH_REQUIRED_TITLE" = "Additional security needed";
 
 /* Payments: Error message shown when the system is unable to verify the user’s identity for X Payments. */
-"PAYMENTS_ERROR_VERIFY_IDENTITY" = "We were unable to verify your identity";
+"PAYMENTS_ERROR_VERIFY_IDENTITY" = "Unable to verify your identity";
 
 /* Payments: Additional message shown when the system is unable to verify the user’s identity for X Payments, because they declined. */
 "PAYMENTS_ERROR_VERIFY_IDENTITY_DECLINED" = "The operation was canceled.";
@@ -300,6 +312,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Disclaimer shown on the deposit screen, explaining the typical timeline and potential variations for fund transfers. */
 "PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_DISCLAIMER" = "Transfers typically take 3 business days but may vary due to factors like confirmations from your external bank. Funds will be available in your Payments account once the transfer is complete.";
 
+/* Payments: Title of the error screen after failing to schedule a deposit. */
+"PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_ERROR_TITLE" = "Deposit failed";
+
 /* Payments: Subtitle shown on the success screen after settling an instant card deposit. */
 "PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_INSTANT_CARD_SUCCESS_SUBTITLE" = "Card transactions settle instantly.";
 
@@ -312,9 +327,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the success screen after scheduling a deposit. %@ is replaced by the deposit amount. */
 "PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_SUCCESS_TITLE" = "%@ deposit successfully scheduled";
 
-/* Payments: Title of the deposit screen in X Payments. */
-"PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_TITLE" = "Deposit";
-
 /* Payments: Title of the confirmation screen for withdrawing money from the user’s X Payments account. %@ is replaced by the withdrawal amount. */
 "PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_AMOUNT_CONFIRMATION_TITLE" = "Confirm %@ withdrawal?";
 
@@ -323,6 +335,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Disclaimer shown on the withdrawal screen, explaining the typical timeline and potential variations for fund transfers. */
 "PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_DISCLAIMER" = "Transfers typically take 3 business days but may vary due to factors like confirmations from your external bank. Funds will be available in your external bank once the transfer is complete.";
+
+/* Payments: Title of the error screen after failing to schedule a withdrawal. */
+"PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_ERROR_TITLE" = "Withdrawal failed";
 
 /* Payments: Subtitle shown on the success screen after settling an instant card withdrawal. */
 "PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_INSTANT_CARD_SUCCESS_SUBTITLE" = "Card transactions settle instantly.";
@@ -336,8 +351,8 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the success screen after scheduling a withdrawal. %@ is replaced by the withdrawal amount. */
 "PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_SUCCESS_TITLE" = "%@ withdraw successfully scheduled";
 
-/* Payments: Title of the withdrawal screen in X Payments. */
-"PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_TITLE" = "Withdraw";
+/* Payments: Error title when the user initiates the action to reset their PIN if they forgot it, but it fails to load. */
+"PAYMENTS_FORGOT_PIN_ERROR_TITLE" = "Unable to reset your PIN";
 
 /* Payments: Title of the action that allows a user to reset their PIN if they forgot it. */
 "PAYMENTS_FORGOT_PIN_TITLE" = "Forgot PIN";
@@ -349,10 +364,10 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_GOT_IT_ACTION" = "Got it";
 
 /* Payments: Subtitle shown on the screen indicating that identity verification is pending review, explaining the typical timeline and notification process. */
-"PAYMENTS_IDENTITY_VERIFICATION_PENDING_REVIEW_SUBTITLE" = "It usually takes about 15 to 30 min to complete the verification. We will keep you posted through notifications!";
+"PAYMENTS_IDENTITY_VERIFICATION_PENDING_REVIEW_SUBTITLE" = "Verification can take up to 30 minutes. We’ll notify you once it’s completed.";
 
 /* Payments: Title of the screen indicating that the user has completed all necessary steps for identity verification and it’s now pending review. */
-"PAYMENTS_IDENTITY_VERIFICATION_PENDING_REVIEW_TITLE" = "You are all set!";
+"PAYMENTS_IDENTITY_VERIFICATION_PENDING_REVIEW_TITLE" = "You’re all set!";
 
 /* Payments: Shows the APY (annual percentage yield) of the account, on the interest screen. */
 "PAYMENTS_INTEREST_APY" = "%@ APY";
@@ -415,7 +430,10 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_LIMITS_WITHDRAW_TITLE" = "Withdraw";
 
 /* Payments: Additional message shown when a user has exceeded their transaction limits, advising them to try again later. */
-"PAYMENTS_LIMIT_EXCEEDED_ERROR_MESSAGE" = "Please try again later.";
+"PAYMENTS_LIMIT_EXCEEDED_ERROR_MESSAGE" = "The transfer failed because it exceeds your account’s limit. Please review your limits or try a lower amount.";
+
+/* Payments: Link inside the additional message shown when a user has exceeded their transaction limits, advising them to try again later. Tapping that link opens a view that shows the limits (weekly, daily, ...). Needs to be included in the overall error message. */
+"PAYMENTS_LIMIT_EXCEEDED_ERROR_MESSAGE_LINK" = "review your limits";
 
 /* Payments: Error message shown when a user has exceeded their monthly transaction limits in X Payments. */
 "PAYMENTS_LIMIT_EXCEEDED_ERROR_MONTHLY_TITLE" = "This action would exceed your monthly limits.";
@@ -484,7 +502,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ONBOARDING_NOT_ELIGIBLE_SUBTITLE_LINK" = "Learn more";
 
 /* Payments: Title of the screen shown when a user is not eligible for X Payments. */
-"PAYMENTS_ONBOARDING_NOT_ELIGIBLE_TITLE" = "You’re not yet eligible";
+"PAYMENTS_ONBOARDING_NOT_ELIGIBLE_TITLE" = "You’re not eligible yet";
 
 /* Payments: Message indicating that transactions are being processed during X Payments onboarding. */
 "PAYMENTS_ONBOARDING_PENDING_TRANSACTIONS_PROCESSING" = "We’re processing your transactions. We’ll notify you once they are complete.";
@@ -517,19 +535,19 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ONBOARDING_PIN_TOUCH_ID_TITLE" = "Create a %@-digit PIN to secure your account. This can be used with TouchID";
 
 /* Payments: Requirement for X Payments eligibility stating the minimum age. */
-"PAYMENTS_ONBOARDING_REQUIREMENT_AGE" = "Be at least 18 years old";
+"PAYMENTS_ONBOARDING_REQUIREMENT_AGE" = "You’re 18+ years old";
 
 /* Payments: Requirement for X Payments eligibility stating the fact that the user needs to be allowed. */
-"PAYMENTS_ONBOARDING_REQUIREMENT_ALLOWLIST" = "Your account is allowed";
+"PAYMENTS_ONBOARDING_REQUIREMENT_ALLOWLIST" = "Your account is eligible";
 
 /* Payments: Requirement for X Payments eligibility stating that a birth date is required in their profile. */
 "PAYMENTS_ONBOARDING_REQUIREMENT_BIRTH_DATE" = "Have a birth date on your profile";
 
 /* Payments: Requirement for X Payments eligibility stating the geographical restriction. */
-"PAYMENTS_ONBOARDING_REQUIREMENT_GEOGRAPHY" = "Be a resident of the United States of America";
+"PAYMENTS_ONBOARDING_REQUIREMENT_GEOGRAPHY" = "You live in the United States";
 
 /* Payments: Requirement for X Payments eligibility stating the need for a verified phone number. */
-"PAYMENTS_ONBOARDING_REQUIREMENT_PHONE_NUMBER" = "Have a verified US phone number";
+"PAYMENTS_ONBOARDING_REQUIREMENT_PHONE_NUMBER" = "You have a verified US phone number";
 
 /* Payments: Requirement for X Payments eligibility stating the need for a Premium or Verified Organization account. */
 "PAYMENTS_ONBOARDING_REQUIREMENT_PREMIUM_OR_VERIFIED_ORGANIZATION" = "Premium or Verified Organization";
@@ -591,6 +609,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Error shown when the user attemps to create a transaction, but their bank account needs to be verified/linked again. */
 "PAYMENTS_PAYMENT_METHOD_LINK_REQUIRED_ERROR_TITLE" = "You need to login to verify your bank account before you can proceed.";
 
+/* Payments: Status displayed next to an issued debit card when it is canceled. */
+"PAYMENTS_PAYMENT_METHOD_STATUS_CANCELED" = "Canceled";
+
+/* Payments: Status displayed next to an issued debit card when it is inactive. */
+"PAYMENTS_PAYMENT_METHOD_STATUS_INACTIVE" = "Inactive";
+
 /* Payments: Status displayed next to a bank account when we weren't able to access it (via Plaid). */
 "PAYMENTS_PAYMENT_METHOD_STATUS_INVALID_OR_REVOKED" = "Access denied";
 
@@ -604,25 +628,25 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_PAY_ACTION" = "Pay";
 
 /* Payments: Subtitle explaining that the user’s X Payments account is under review. */
-"PAYMENTS_PENDING_REVIEW_SUBTITLE" = "We are reviewing your account. Please check back later.";
+"PAYMENTS_PENDING_REVIEW_SUBTITLE" = "We’re confirming your identity. This can take up to 3 business days. Please check back later.";
 
 /* Payments: Title of the screen indicating that the user’s Payments account is under review */
-"PAYMENTS_PENDING_REVIEW_TITLE" = "Your account is under review";
+"PAYMENTS_PENDING_REVIEW_TITLE" = "Account under review";
 
 /* Payments: Title for entering the current PIN, where %@ is replaced by the number of digits */
 "PAYMENTS_PIN_UPDATE_CURRENT_PIN_TITLE" = "Enter your current %@-digit PIN";
 
 /* Payments: Error message when the entered PIN confirmation doesn’t match */
-"PAYMENTS_PIN_UPDATE_ERROR_CONFIRMATION_MISMATCH" = "Pin does not match.";
+"PAYMENTS_PIN_UPDATE_ERROR_CONFIRMATION_MISMATCH" = "The PIN and the confirmation that were entered don’t match. Try again.";
 
 /* Payments: Error message when too many failed PIN updates attempts occur */
-"PAYMENTS_PIN_UPDATE_ERROR_COOLDOWN_ACTIVE" = "Too many failed attempts. Please try again after some time.";
+"PAYMENTS_PIN_UPDATE_ERROR_COOLDOWN_ACTIVE" = "Too many failed attempts. Please try again later.";
 
 /* Payments: Error message when the user tries to set the same PIN */
-"PAYMENTS_PIN_UPDATE_ERROR_SAME_PIN" = "Pin already in use.";
+"PAYMENTS_PIN_UPDATE_ERROR_SAME_PIN" = "The PIN that was entered is currently in use. Try using a new PIN.";
 
 /* Payments: Generic error message when PIN update fails */
-"PAYMENTS_PIN_UPDATE_ERROR_UNKNOWN" = "Unable to change the PIN. Please retry later.";
+"PAYMENTS_PIN_UPDATE_ERROR_UNKNOWN" = "Oops, something went wrong. Please try again later.";
 
 /* Payments: Error message when the entered current PIN is incorrect */
 "PAYMENTS_PIN_UPDATE_ERROR_WRONG_PIN" = "Incorrect pin, Please try again.";
@@ -635,6 +659,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Success message after changing the PIN */
 "PAYMENTS_PIN_UPDATE_SUCCESS" = "PIN changed.";
+
+/* Payments: Action to reject an operation */
+"PAYMENTS_REJECT_ACTION" = "Reject";
 
 /* Payments: Title of the button to request money */
 "PAYMENTS_REQUEST_ACTION" = "Request";
@@ -651,14 +678,32 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the interstitial shown when a customer onboards in a state where X doesn't have a money license yet. This version is used when we don't know (ex: missing data) which state the user lives in. */
 "PAYMENTS_RESTRICTED_US_STATE_TITLE_UNKNOWN" = "X Money is not available in your state";
 
+/* Payments: Title of a button that opens the limits applied to the user's account. */
+"PAYMENTS_REVIEW_LIMITS_ACTION" = "Review limits";
+
 /* Payments: "Routing number" used for US bank accounts transfers */
 "PAYMENTS_ROUTING_NUMBER" = "Routing number";
 
 /* Payments: Toast shown when the routing number has been copied to the iOS clipboard */
 "PAYMENTS_ROUTING_NUMBER_COPIED" = "Routing number copied to clipboard";
 
+/* Payments: Label for the requests option in enhanced privacy settings */
+"PAYMENTS_SECURITY_AND_PRIVACY_ENHANCED_PRIVACY_REQUESTS" = "Requests";
+
+/* Payments: Description explaining that only followers can request money from the user */
+"PAYMENTS_SECURITY_AND_PRIVACY_ENHANCED_PRIVACY_REQUESTS_DESCRIPTION" = "Only people you follow can request money from you on X.";
+
+/* Payments: Title for the enhanced privacy settings section */
+"PAYMENTS_SECURITY_AND_PRIVACY_ENHANCED_PRIVACY_SETTINGS_TITLE" = "Enhanced privacy";
+
+/* Payments: Label for the transfers option in enhanced privacy settings */
+"PAYMENTS_SECURITY_AND_PRIVACY_ENHANCED_PRIVACY_TRANSFERS" = "Transfers";
+
+/* Payments: Description explaining that only followers can send money to the user */
+"PAYMENTS_SECURITY_AND_PRIVACY_ENHANCED_PRIVACY_TRANSFERS_DESCRIPTION" = "Only people you follow can send you money on X.";
+
 /* Payments: Description of PIN settings in Security and Privacy */
-"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_DESCRIPTION" = "Require a PIN for enhanced security";
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_DESCRIPTION" = "For enhanced security, the following actions will require you to enter your PIN to proceed.";
 
 /* Payments: Error toast message when updating PIN settings fails */
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_ERROR_TOAST" = "Something went wrong. Please try again later.";
@@ -669,20 +714,32 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Option to require PIN for transfers */
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_CREATE_TRANSACTIONS" = "Transfers";
 
+/* Payments: Description of the option to require PIN for transfers */
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_CREATE_TRANSACTIONS_DESCRIPTION" = "To execute a payment from your account.";
+
 /* Payments: Option to require PIN to unlock X Payments */
-"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_LINK_PAYMENT_METHOD" = "Updates to Linked Accounts";
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_LINK_PAYMENT_METHOD" = "Payment Methods";
+
+/* Payments: Description of the option to require PIN to unlock X Payments */
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_LINK_PAYMENT_METHOD_DESCRIPTION" = "To link a new card or bank account in order to fund your account.";
 
 /* Payments: Option to require PIN to unlock X Payments */
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_UNLOCK" = "Logging In";
+
+/* Payments: Description of the option to require PIN to unlock X Payments */
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_UNLOCK_DESCRIPTION" = "To access your balance and other features related to X Money.";
 
 /* Payments: Success toast message after updating PIN settings */
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_SUCCESS_TOAST" = "Your setting has been successfully updated!";
 
 /* Payments: Title for PIN settings screen */
-"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_TITLE" = "PIN settings";
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_TITLE" = "PIN required";
 
 /* Payments: Option to use TouchID to input the PIN */
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_TOUCH_ID" = "Use TouchID";
+
+/* Payments: Action to open the X's Security & 2FA settings. */
+"PAYMENTS_SECURITY_SETTINGS_ACTION" = "Security Settings";
 
 /* Payments: Action to view all transactions */
 "PAYMENTS_SEE_ALL_TRANSACTIONS_ACTION" = "See all";
@@ -706,10 +763,10 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_BANK_ACCOUNT_ALTERNATIVE" = "Use a bank account instead";
 
 /* Payments: Message shown when card is already linked to the account */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_CARD_ALREADY_EXISTS_MESSAGE" = "This card has already been added to your account. Please try with a different card.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_CARD_ALREADY_EXISTS_MESSAGE" = "This card is already on file. Please try another card.";
 
 /* Payments: Message shown when a card cannot be linked */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_GENERIC_MESSAGE" = "Oops, something went wrong on our end. Please try again later.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_GENERIC_MESSAGE" = "Oops, something went wrong. Please try again later.";
 
 /* Payments: Generic error title shown when a card cannot be linked */
 "PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_GENERIC_TITLE" = "Unable to link your card";
@@ -718,28 +775,25 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_INACCURATE_DETAILS_MESSAGE" = "We’re unable to verify your card. Please double check your details and try again.";
 
 /* Payments: Message shown when provider fails to verify the billing address */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_PROVIDER_ADDRESS_VERIFICATION_FAILED_MESSAGE" = "We couldn’t verify the billing address. Please check your address details and try again.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_PROVIDER_ADDRESS_VERIFICATION_FAILED_MESSAGE" = "We couldn’t verify your billing address. Please double check your details and try again.";
 
 /* Payments: Message shown when provider fails to authorize the card */
 "PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_PROVIDER_AUTHORIZATION_FAILED_MESSAGE" = "We couldn’t authorize your card with your bank. Please try again or contact your card issuer.";
 
 /* Payments: Message shown when provider fails to verify the cardholder name */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_PROVIDER_CARDHOLDER_VERIFICATION_FAILED_MESSAGE" = "We couldn’t verify the cardholder name. Please check that the name matches your card exactly.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_PROVIDER_CARDHOLDER_VERIFICATION_FAILED_MESSAGE" = "We couldn’t verify your cardholder name. Please double check your details and try again.";
 
 /* Payments: Message shown when provider experiences an internal error */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_PROVIDER_INTERNAL_FAILURE_MESSAGE" = "We’re having trouble connecting to your card provider. Please try again in a few minutes.";
-
-/* Payments: Message shown when a card authorization is still pending */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_STILL_PENDING_MESSAGE" = "We’re unable to verify your card. Please double check your details and try again.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_PROVIDER_INTERNAL_FAILURE_MESSAGE" = "We’re having trouble connecting to your card provider. Please try again later.";
 
 /* Payments: Message shown when trying to add a card from an unsupported country */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_UNSUPPORTED_ISSUER_COUNTRY_MESSAGE" = "Sorry, we currently don’t support cards from this country. Please try with a card from a supported country.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_UNSUPPORTED_ISSUER_COUNTRY_MESSAGE" = "This card is from an unsupported country. Please try another card.";
 
 /* Payments: Message shown when trying to add an unsupported card type */
 "PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_UNSUPPORTED_TYPE_MESSAGE" = "Sorry, this card isn’t supported yet. Please try with a different card.";
 
 /* Payments: Message shown when trying to add an unusable card */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_UNUSABLE_CARD_MESSAGE" = "This card cannot be used for payments. Please try with a different card.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_UNUSABLE_CARD_MESSAGE" = "This card is ineligible. Please try another card.";
 
 /* Payments: Success message shown when a card has been linked to the user's account */
 "PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_SUCCESS" = "Your card is now linked to your account.";
@@ -793,7 +847,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_SETUP_ACCOUNT_ACTION" = "Continue";
 
 /* Payments: Action to set up two-factor authentication */
-"PAYMENTS_SETUP_TWO_FACTOR_AUTH_ACTION" = "Setup";
+"PAYMENTS_SETUP_TWO_FACTOR_AUTH_ACTION" = "Set up";
 
 /* Payments: Title for the Money feature */
 "PAYMENTS_TITLE" = "Money";
@@ -835,13 +889,13 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_TRANSACTION_PENDING_REQUESTED_WITH_DESCRIPTION" = "Requested %1$@ for %2$@";
 
 /* Payments: Error message when too many failed PIN verification attempts occur */
-"PAYMENTS_TRANSACTION_PIN_VERIFICATION_ERROR_COOLDOWN_ACTIVE" = "Too many failed attempts. Please try again after some time.";
+"PAYMENTS_TRANSACTION_PIN_VERIFICATION_ERROR_COOLDOWN_ACTIVE" = "Too many failed attempts. Please try again later.";
 
 /* Payments: Generic error message when PIN verification fails */
-"PAYMENTS_TRANSACTION_PIN_VERIFICATION_ERROR_UNKNOWN" = "Unable to verify the PIN. Please retry later.";
+"PAYMENTS_TRANSACTION_PIN_VERIFICATION_ERROR_UNKNOWN" = "Unable to verify your PIN. Please try again later.";
 
 /* Payments: Error message when the entered PIN is incorrect */
-"PAYMENTS_TRANSACTION_PIN_VERIFICATION_ERROR_WRONG_PIN" = "Wrong PIN.";
+"PAYMENTS_TRANSACTION_PIN_VERIFICATION_ERROR_WRONG_PIN" = "Wrong PIN";
 
 /* Payments: Title for the PIN verification screen, where %@ is replaced by the number of digits */
 "PAYMENTS_TRANSACTION_PIN_VERIFICATION_TITLE" = "Enter your %@-digit PIN";
@@ -894,11 +948,11 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Success message after sending money, where %1$@ is replaced by the amount and %2$@ by the recipient’s username. Keep the @ in front of the %2$@. */
 "PAYMENTS_TRANSFER_CREATION_SUCCESS" = "You sent %1$@ to @%2$@.";
 
-/* Payments: Error message when a transfer fails, where %@ is replaced by the amount */
-"PAYMENTS_TRANSFER_ERROR" = "We were unable to transfer %@";
+/* Payments: Error message when a transfer fails. */
+"PAYMENTS_TRANSFER_ERROR_TITLE" = "Transfer failed";
 
-/* Payments: Error message when a money request fails, where %@ is replaced by the amount */
-"PAYMENTS_TRANSFER_REQUEST_ERROR" = "We were unable to request %@";
+/* Payments: Error message when a money request fails. */
+"PAYMENTS_TRANSFER_REQUEST_ERROR_TITLE" = "Request failed";
 
 /* Payments: Success message after requesting money, where %1$@ is replaced by the amount and %2$@ by the recipient’s username. Keep the @ in front of the %2$@. */
 "PAYMENTS_TRANSFER_REQUEST_SUCCESS" = "You requested %1$@ from @%2$@.";
@@ -913,25 +967,25 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_UPDATE_PIN_ACTION" = "Change PIN";
 
 /* Payments: Title shown when bank account linking is temporarily paused due to velocity checks */
-"PAYMENTS_VELOCITY_ERROR_ACCOUNT_LINKING_MESSAGE" = "We’ve temporarily paused bank account linking due to high frequency of requests. Your existing linked accounts are still available. Please try again later.";
+"PAYMENTS_VELOCITY_ERROR_ACCOUNT_LINKING_MESSAGE" = "Your ability to perform this action is temporarily paused. Please try again later. Note that your previous linked accounts are still available.";
 
 /* Payments: Title shown when bank account linking is temporarily paused due to velocity checks */
 "PAYMENTS_VELOCITY_ERROR_ACCOUNT_LINKING_TITLE" = "Too many account linking attempts";
 
 /* Payments: Subtitle shown when deposits are temporarily paused due to velocity checks */
-"PAYMENTS_VELOCITY_ERROR_DEPOSITS_MESSAGE" = "We’ve temporarily paused deposits due to high frequency of requests. Your previous deposits are processing normally. Please try again later.";
+"PAYMENTS_VELOCITY_ERROR_DEPOSITS_MESSAGE" = "Your ability to perform this action is temporarily paused. Please try again later. Note that your previous deposits are processing as normal.";
 
 /* Payments: Title shown when deposits are temporarily paused due to velocity checks */
 "PAYMENTS_VELOCITY_ERROR_DEPOSITS_TITLE" = "Too many deposit attempts";
 
 /* Payments: Subtitle shown when transfers are temporarily paused due to velocity checks */
-"PAYMENTS_VELOCITY_ERROR_TRANSFERS_MESSAGE" = "We’ve temporarily paused transfers due to high frequency of requests. Your previous transfers are processing normally. Please try again later.";
+"PAYMENTS_VELOCITY_ERROR_TRANSFERS_MESSAGE" = "Your ability to perform this action is temporarily paused. Please try again later. Note that your previous transfers are processing as normal.";
 
 /* Payments: Title shown when transfers are temporarily paused due to velocity checks */
 "PAYMENTS_VELOCITY_ERROR_TRANSFERS_TITLE" = "Too many transfer attempts";
 
 /* Payments: Subtitle shown when withdrawals are temporarily paused due to velocity checks */
-"PAYMENTS_VELOCITY_ERROR_WITHDRAWALS_MESSAGE" = "We’ve temporarily paused withdrawals due to high frequency of requests. Your funds are safe and your previous withdrawals are processing normally. Please try again later.";
+"PAYMENTS_VELOCITY_ERROR_WITHDRAWALS_MESSAGE" = "Your ability to perform this action is temporarily paused. Please try again later. Note that your previous withdrawals are processing as normal.";
 
 /* Payments: Title shown when withdrawals are temporarily paused due to velocity checks */
 "PAYMENTS_VELOCITY_ERROR_WITHDRAWALS_TITLE" = "Too many withdrawal attempts";
@@ -973,6 +1027,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* DM message text when someone sent a image */
 "DM_MESSAGE_SENT_IMAGE" = "Sent an image";
+
+/* DM message text when someone sent a link */
+"DM_MESSAGE_SENT_LINK" = "Sent a link";
+
+/* DM message text when someone sent a post */
+"DM_MESSAGE_SENT_POST" = "Sent a post";
 
 /* DM message text when someone sent an unknown attachment */
 "DM_MESSAGE_SENT_UNKNOWN" = "Sent an attachment";
@@ -1921,6 +1981,9 @@ e.g. Removed from MyRecipes.
 /* Error message when an error encountered during live chat history loading. */
 "BROADCAST_COULD_NOT_LOAD_CHAT_HISTORY_ERROR" = "There was an error loading chat history, please try again later";
 
+/* Message template for a repost chat message e.g. Nate reposted this stream! */
+"BROADCAST_DID_REPOST_MESSAGE" = "%1$@ reposted this stream!";
+
 /* Message placeholder which is shown instead of an original message if it is muted by a moderator */
 "BROADCAST_MUTED_MESSAGE_PLACEHOLDER" = "Message was deleted by a moderator.";
 
@@ -2239,6 +2302,9 @@ e.g. Removed from MyRecipes.
 /* Post action format to ban a user from a Community */
 "COMMUNITY_TWEET_REMOVE_MEMBER_TITLE" = "Ban author from Community";
 
+/* Post action to pin a post to a Community timeline*/
+"COMMUNITY_TWEET_SEARCH_AUTHOR_POSTS_FORMAT" = "Author’s posts in this Community";
+
 /* Post action to unpin a post from a Community timeline*/
 "COMMUNITY_TWEET_UNPIN_FROM_COMMUNITY_TIMELINE" = "Unpin from Community Timeline";
 
@@ -2504,6 +2570,12 @@ e.g. Removed from MyRecipes.
 
 /* Tooltip displayed on the composer the first time the user sees the Space creation button */
 "COMPOSE_VIEW_SPACE_CREATION_BUTTON_TOOLTIP" = "Create a Space? Here’s where to start.";
+
+/* Accessibility hint for compose screen upload video button */
+"COMPOSE_VIEW_UPLOAD_VIDEO_ACCESSIBILITY_HINT" = "Toggles between the video library and keyboard";
+
+/* Accessibility label for compose screen upload video button */
+"COMPOSE_VIEW_UPLOAD_VIDEO_ACCESSIBILITY_LABEL" = "Upload video";
 
 /* Accessibility hint for voice recording button on the composer */
 "COMPOSE_VIEW_VOICE_RECORDING_ACCESSIBILITY_HINT" = "Opens Voice Recorder";
@@ -7018,6 +7090,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Label for action sheet when pinning a post */
 "PINNED_TWEET_PIN_ACTION_LABEL" = "Pin to your profile";
 
+/* Action button for user to pin now anyway, even though it wont be boosted" */
+"PINNED_TWEET_PIN_ANYWAY" = "Pin anyway";
+
 /* Button label for confirmation shown when unpinning a post */
 "PINNED_TWEET_PIN_CONFIRMATION_BUTTON_LABEL" = "Pin";
 
@@ -7029,6 +7104,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* Title for error shown when pinning a post fails */
 "PINNED_TWEET_PIN_ERROR_TITLE" = "Post not pinned";
+
+/* Warning to the user that if they pin their post now, it wont be boosted. Will fill in with a duration "4hr 30 min" */
+"PINNED_TWEET_PIN_FANOUT_DURATION_MESSAGE" = "You recently pinned a post, so pinning this one won’t highlight it on your followers’ For You feeds. You can highlight again in %@";
 
 /* Pinned post label for post cell */
 "PINNED_TWEET_SOCIAL_TEXT_LABEL" = "Pinned";
@@ -11230,6 +11308,9 @@ eg. "Super Following Jack" */
 
 /* Title for inline media video end screen watch again button */
 "VIDEO_END_SCREEN_WATCH_AGAIN_LABEL" = "Watch again";
+
+/* Title for button to open bluetooth and airplay menu*/
+"VIDEO_SETTINGS_AIRPLAY_AND_BLUETOOTH" = "Airplay & Bluetooth";
 
 /* Title for button to open casting and airplay menu*/
 "VIDEO_SETTINGS_AIRPLAY_AND_CASTING" = "Airplay, Casting & Bluetooth";

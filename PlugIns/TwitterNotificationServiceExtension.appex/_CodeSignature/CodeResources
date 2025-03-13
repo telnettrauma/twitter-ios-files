@@ -6,7 +6,7 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		C1RwuFA6wxRmAcMa6xZM65nNnv4=
+		2R7JdO1gbZDbowL3rcVNgk1434k=
 		</data>
 		<key>PhoneNumberKitSPM_PhoneNumberKitSPM.bundle/Info.plist</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>PhoneNumberKitSPM_PhoneNumberKitSPM.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		Ep2D1GvRd5tBgOBZaLkgrvH9n+E=
+		b9P2AzLS1zDY8IGhvdQcm7GjlNA=
 		</data>
 		<key>TFNUISPM_TFNUI.bundle/Assets.car</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>TFNUISPM_TFNUI.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		XaCYyy6/zgiZMTu1qr3ooOTHiyE=
+		Zbpdd4Z3bJxBvsN2VKKnLaRZPJY=
 		</data>
 		<key>TFNUISPM_TFNUI.bundle/pop.aac</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>TFSLocalizedUtilities_TFSLocalizedUtilities.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		qe0m6VFJ/gE7/9Kt7QU/QBlYgFo=
+		JD7Wo26Ph98JRT6xTmbZVTggPj8=
 		</data>
 		<key>TFSLocalizedUtilities_TFSLocalizedUtilities.bundle/international_calling_codes.json</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>TFXParameters_TFXParametersUI.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		ih+Tnc0ELDF54hj2gJOsMT3F3Uk=
+		5KHD5thiHCOmYEMc5AjGNOW6Lek=
 		</data>
 		<key>TwitterAppearance_TwitterAppearance.bundle/Info.plist</key>
 		<data>
@@ -275,6 +275,10 @@
 		<key>TwitterAppearance_TwitterAppearance.bundle/VectorImages/main/background_bar_nomargin.svg</key>
 		<data>
 		jPz8Hf2GjmdhWRkHihahWKHuHVM=
+		</data>
+		<key>TwitterAppearance_TwitterAppearance.bundle/VectorImages/main/ball.svg</key>
+		<data>
+		8wns4WhwQOA+0mAtcrnEpCYL4hQ=
 		</data>
 		<key>TwitterAppearance_TwitterAppearance.bundle/VectorImages/main/balloon.svg</key>
 		<data>
@@ -1284,6 +1288,10 @@
 		<data>
 		ftOcDGFcOpT9Y+ri2pb2w9teCc0=
 		</data>
+		<key>TwitterAppearance_TwitterAppearance.bundle/VectorImages/main/map.svg</key>
+		<data>
+		7ej+IVUb7tA9l/WufyDY4RattBY=
+		</data>
 		<key>TwitterAppearance_TwitterAppearance.bundle/VectorImages/main/mask.svg</key>
 		<data>
 		DqHZ3hMmQC6Byws5rQgGjSD8cv4=
@@ -1339,6 +1347,14 @@
 		<key>TwitterAppearance_TwitterAppearance.bundle/VectorImages/main/media_tab_stroke.svg</key>
 		<data>
 		vXjJ6kClc/tMr33Hoji+v/4WE94=
+		</data>
+		<key>TwitterAppearance_TwitterAppearance.bundle/VectorImages/main/media_tab_v2.svg</key>
+		<data>
+		d9WGKL15nvTNgil6in2db9NNX3I=
+		</data>
+		<key>TwitterAppearance_TwitterAppearance.bundle/VectorImages/main/media_tab_v2_stroke.svg</key>
+		<data>
+		U/h6RRyQi+0ZV2vCOPhh+GIY2Gc=
 		</data>
 		<key>TwitterAppearance_TwitterAppearance.bundle/VectorImages/main/medium_camera_live_stroke.svg</key>
 		<data>
@@ -2818,7 +2834,7 @@
 		</data>
 		<key>TwitterAppearance_TwitterAppearance.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		aNhqFJbHtb9mQPVq3D7gxenKzaI=
+		jnvIydUVMPmYaufUHidG2TaMbl4=
 		</data>
 		<key>TwitterAppearance_TwitterAppearance.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -2826,15 +2842,15 @@
 		</data>
 		<key>TwitterAppearance_TwitterAppearance.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		kKkgv0IodGDs31juSnSqpJOQfms=
+		BqmkEuNXzr4D/T48EViO6iLjxaM=
 		</data>
 		<key>TwitterAppearance_TwitterAppearance.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		2ILC6dConvBNq3fPMFOu4U90upA=
+		mn1MM6lKlv2TH2Dwbxx+YFWa+kY=
 		</data>
 		<key>TwitterAppearance_TwitterAppearance.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		Azx0yiWIAIWUvniiUUsbt8OkE6A=
+		UK5taTpXLH3QeT4EelHQZ4D3sSM=
 		</data>
 		<key>TwitterAppearance_TwitterAppearance.bundle/default_heart_v3.json</key>
 		<data>
@@ -2866,7 +2882,7 @@
 		</data>
 		<key>TwitterText_TwitterText.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		LOlVmGZngKsBWA5hEC63fwzB9EU=
+		YWdL4uRNtBVFp6YnnuBuiAEz/ks=
 		</data>
 		<key>TwitterText_TwitterText.bundle/v1.json</key>
 		<data>
@@ -2953,11 +2969,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ep2D1GvRd5tBgOBZaLkgrvH9n+E=
+			b9P2AzLS1zDY8IGhvdQcm7GjlNA=
 			</data>
 			<key>hash2</key>
 			<data>
-			DpfbXnHNkaHok9Jb0jkPLgnh9NM7wQy8J50k67UzUBU=
+			aJKNeGZp+Mq80JSRFUU37mrWVpxf9fydlI+rGLKGhhM=
 			</data>
 		</dict>
 		<key>TFNUISPM_TFNUI.bundle/Assets.car</key>
@@ -3030,11 +3046,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XaCYyy6/zgiZMTu1qr3ooOTHiyE=
+			Zbpdd4Z3bJxBvsN2VKKnLaRZPJY=
 			</data>
 			<key>hash2</key>
 			<data>
-			K1HnF5drmopE/eUpooaQLij4vgCtH0kzk072SGmzrwc=
+			SgU1RZECEGnGlszUnoJBUDUrOReVLWCDMavlxj9S4CU=
 			</data>
 		</dict>
 		<key>TFNUISPM_TFNUI.bundle/pop.aac</key>
@@ -3107,11 +3123,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qe0m6VFJ/gE7/9Kt7QU/QBlYgFo=
+			JD7Wo26Ph98JRT6xTmbZVTggPj8=
 			</data>
 			<key>hash2</key>
 			<data>
-			spzBSWSRrrOkaHoffSeDHGfXimgSs1hhAn1yixV/2Ts=
+			w+Ehj19h+pTmY/nY1dfnyS0aitD7ufRVnMoZgI8+NOg=
 			</data>
 		</dict>
 		<key>TFSLocalizedUtilities_TFSLocalizedUtilities.bundle/international_calling_codes.json</key>
@@ -3228,11 +3244,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ih+Tnc0ELDF54hj2gJOsMT3F3Uk=
+			5KHD5thiHCOmYEMc5AjGNOW6Lek=
 			</data>
 			<key>hash2</key>
 			<data>
-			cpq7kyjOEnkbS31l6AOkN67kdzadrgfx/gibwHRkI/w=
+			2O0qQ5BNqp3hgihVds7vq34x98ihEyNHsVJE32Q64DI=
 			</data>
 		</dict>
 		<key>TwitterAppearance_TwitterAppearance.bundle/Info.plist</key>
@@ -3618,6 +3634,17 @@
 			<key>hash2</key>
 			<data>
 			yHESWRbprpzi8ZLb/rqQFOpjiMVNinytXBApMyoRO7g=
+			</data>
+		</dict>
+		<key>TwitterAppearance_TwitterAppearance.bundle/VectorImages/main/ball.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8wns4WhwQOA+0mAtcrnEpCYL4hQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			PbvokfzBbsCdo5CZvQpxCxkVW1iFwGVMLVhq8mjVL9I=
 			</data>
 		</dict>
 		<key>TwitterAppearance_TwitterAppearance.bundle/VectorImages/main/balloon.svg</key>
@@ -6392,6 +6419,17 @@
 			eQvW9+53MgIF5cOw60bvCEc1G8M+lEE6sC6lzKNIOQk=
 			</data>
 		</dict>
+		<key>TwitterAppearance_TwitterAppearance.bundle/VectorImages/main/map.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7ej+IVUb7tA9l/WufyDY4RattBY=
+			</data>
+			<key>hash2</key>
+			<data>
+			JAyqsqg6j4zfoVuvFhjnKcdF4YGSXNMeJ2EnM0rHTaM=
+			</data>
+		</dict>
 		<key>TwitterAppearance_TwitterAppearance.bundle/VectorImages/main/mask.svg</key>
 		<dict>
 			<key>hash</key>
@@ -6544,6 +6582,28 @@
 			<key>hash2</key>
 			<data>
 			3tymrxtTUNATflsQtdMyZinZiLfqikW8Htt5ZTPtOg8=
+			</data>
+		</dict>
+		<key>TwitterAppearance_TwitterAppearance.bundle/VectorImages/main/media_tab_v2.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			d9WGKL15nvTNgil6in2db9NNX3I=
+			</data>
+			<key>hash2</key>
+			<data>
+			wQP7xME+Dcnl9iSP3ssBDh1pl0ZZYEyth5TxrAyalEc=
+			</data>
+		</dict>
+		<key>TwitterAppearance_TwitterAppearance.bundle/VectorImages/main/media_tab_v2_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U/h6RRyQi+0ZV2vCOPhh+GIY2Gc=
+			</data>
+			<key>hash2</key>
+			<data>
+			uXe0g05d9GllAbXcUDrrF9577iNyC3IL6D/JQzU6hRs=
 			</data>
 		</dict>
 		<key>TwitterAppearance_TwitterAppearance.bundle/VectorImages/main/medium_camera_live_stroke.svg</key>
@@ -10609,11 +10669,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aNhqFJbHtb9mQPVq3D7gxenKzaI=
+			jnvIydUVMPmYaufUHidG2TaMbl4=
 			</data>
 			<key>hash2</key>
 			<data>
-			1f45i04toWV0l8wrC+f/HyKoUV+NKD4y19aBd8g3Yi4=
+			tSbZEbZxoZ1U7q+UZbiobmwAyAhxfEpvbaVHUxf+xcQ=
 			</data>
 		</dict>
 		<key>TwitterAppearance_TwitterAppearance.bundle/_CodeSignature/CodeRequirements</key>
@@ -10631,33 +10691,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kKkgv0IodGDs31juSnSqpJOQfms=
+			BqmkEuNXzr4D/T48EViO6iLjxaM=
 			</data>
 			<key>hash2</key>
 			<data>
-			E+LY8ZXW/bO5xot++7TVkIU793ZVE4MYQXkcT/H3OB0=
+			GKAZnUrBi3VQR3rH2bUxOa7IzFXOXx3IVDB2OdU2WuM=
 			</data>
 		</dict>
 		<key>TwitterAppearance_TwitterAppearance.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2ILC6dConvBNq3fPMFOu4U90upA=
+			mn1MM6lKlv2TH2Dwbxx+YFWa+kY=
 			</data>
 			<key>hash2</key>
 			<data>
-			U8M0+8pVRAKetXIUYNFkmfGuE7kTZyPK/BDfYuyhbBI=
+			eWC9TPOio8B1UJNUffj5/ZjOOWiJJW2Fz//NZImY1tU=
 			</data>
 		</dict>
 		<key>TwitterAppearance_TwitterAppearance.bundle/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Azx0yiWIAIWUvniiUUsbt8OkE6A=
+			UK5taTpXLH3QeT4EelHQZ4D3sSM=
 			</data>
 			<key>hash2</key>
 			<data>
-			9Jannd81vPuONHFavwIK33TTKCZjmdjXimbgFZqMuiE=
+			yQEZ3I68efEVSpnuMJrvEuYWeoglTJnPTUhZCKSyhd4=
 			</data>
 		</dict>
 		<key>TwitterAppearance_TwitterAppearance.bundle/default_heart_v3.json</key>
@@ -10741,11 +10801,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LOlVmGZngKsBWA5hEC63fwzB9EU=
+			YWdL4uRNtBVFp6YnnuBuiAEz/ks=
 			</data>
 			<key>hash2</key>
 			<data>
-			MeaE6EUmdIxC7sZPxRpw3qMB+nmMNLy+u9+wqY2bmaQ=
+			K52OcHzK20EysTlzKuKUejPiOKuwOZcrB0HuP4v2KqM=
 			</data>
 		</dict>
 		<key>TwitterText_TwitterText.bundle/v1.json</key>

@@ -140,6 +140,10 @@
 		<data>
 		jPz8Hf2GjmdhWRkHihahWKHuHVM=
 		</data>
+		<key>VectorImages/main/ball.svg</key>
+		<data>
+		8wns4WhwQOA+0mAtcrnEpCYL4hQ=
+		</data>
 		<key>VectorImages/main/balloon.svg</key>
 		<data>
 		B3Bss54C7q2bsgV5gpYyTAB5kKk=
@@ -1148,6 +1152,10 @@
 		<data>
 		ftOcDGFcOpT9Y+ri2pb2w9teCc0=
 		</data>
+		<key>VectorImages/main/map.svg</key>
+		<data>
+		7ej+IVUb7tA9l/WufyDY4RattBY=
+		</data>
 		<key>VectorImages/main/mask.svg</key>
 		<data>
 		DqHZ3hMmQC6Byws5rQgGjSD8cv4=
@@ -1203,6 +1211,14 @@
 		<key>VectorImages/main/media_tab_stroke.svg</key>
 		<data>
 		vXjJ6kClc/tMr33Hoji+v/4WE94=
+		</data>
+		<key>VectorImages/main/media_tab_v2.svg</key>
+		<data>
+		d9WGKL15nvTNgil6in2db9NNX3I=
+		</data>
+		<key>VectorImages/main/media_tab_v2_stroke.svg</key>
+		<data>
+		U/h6RRyQi+0ZV2vCOPhh+GIY2Gc=
 		</data>
 		<key>VectorImages/main/medium_camera_live_stroke.svg</key>
 		<data>
@@ -3059,6 +3075,17 @@
 			<key>hash2</key>
 			<data>
 			yHESWRbprpzi8ZLb/rqQFOpjiMVNinytXBApMyoRO7g=
+			</data>
+		</dict>
+		<key>VectorImages/main/ball.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8wns4WhwQOA+0mAtcrnEpCYL4hQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			PbvokfzBbsCdo5CZvQpxCxkVW1iFwGVMLVhq8mjVL9I=
 			</data>
 		</dict>
 		<key>VectorImages/main/balloon.svg</key>
@@ -5833,6 +5860,17 @@
 			eQvW9+53MgIF5cOw60bvCEc1G8M+lEE6sC6lzKNIOQk=
 			</data>
 		</dict>
+		<key>VectorImages/main/map.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7ej+IVUb7tA9l/WufyDY4RattBY=
+			</data>
+			<key>hash2</key>
+			<data>
+			JAyqsqg6j4zfoVuvFhjnKcdF4YGSXNMeJ2EnM0rHTaM=
+			</data>
+		</dict>
 		<key>VectorImages/main/mask.svg</key>
 		<dict>
 			<key>hash</key>
@@ -5985,6 +6023,28 @@
 			<key>hash2</key>
 			<data>
 			3tymrxtTUNATflsQtdMyZinZiLfqikW8Htt5ZTPtOg8=
+			</data>
+		</dict>
+		<key>VectorImages/main/media_tab_v2.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			d9WGKL15nvTNgil6in2db9NNX3I=
+			</data>
+			<key>hash2</key>
+			<data>
+			wQP7xME+Dcnl9iSP3ssBDh1pl0ZZYEyth5TxrAyalEc=
+			</data>
+		</dict>
+		<key>VectorImages/main/media_tab_v2_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U/h6RRyQi+0ZV2vCOPhh+GIY2Gc=
+			</data>
+			<key>hash2</key>
+			<data>
+			uXe0g05d9GllAbXcUDrrF9577iNyC3IL6D/JQzU6hRs=
 			</data>
 		</dict>
 		<key>VectorImages/main/medium_camera_live_stroke.svg</key>
