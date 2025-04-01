@@ -117,6 +117,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Display name for Visa credit/debit cards */
 "PAYMENTS_CARD_BRAND_VISA" = "Visa";
 
+/* Payments: */
+"PAYMENTS_CARD_SPEND_SUBTITLE" = "Card";
+
+/* Payments:  */
+"PAYMENTS_CARD_SPEND_TITLE" = "Spend";
+
 /* Payments: Display name for a charge card */
 "PAYMENTS_CARD_TYPE_CHARGE" = "Charge";
 
@@ -441,9 +447,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Option in the More menu to access customer support for X Payments. */
 "PAYMENTS_MORE_MENU_GET_SUPPORT" = "Get support";
 
-/* Payments: Option in the More menu to access the help center for X Payments. */
-"PAYMENTS_MORE_MENU_HELP_CENTER" = "Help center";
-
 /* Payments: Option in the More menu to report an issue with a payment in X Payments. */
 "PAYMENTS_MORE_MENU_REPORT_PAYMENT" = "Report payment";
 
@@ -472,10 +475,16 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ONBOARDING_CITY_FIELD_NAME" = "City";
 
 /* Payments: Disclaimer text shown during X Payments onboarding. %@ is replaced by the action text (e.g., "Continue"). */
-"PAYMENTS_ONBOARDING_DISCLAIMER" = "By clicking “%@”, you agree to the Terms & Conditions.";
+"PAYMENTS_ONBOARDING_DISCLAIMER" = "By clicking “%@”, you agree to the Terms & Conditions, Privacy Policy and Short Form Disclosure.";
 
-/* Payments: Text for the link to X Payments Terms & Conditions in the onboarding disclaimer. */
+/* Payments: Text for the link to X Payments 'Terms & Conditions' in the onboarding disclaimer. Needs to be present in 'PAYMENTS_ONBOARDING_DISCLAIMER'. */
 "PAYMENTS_ONBOARDING_DISCLAIMER_LINK" = "Terms & Conditions";
+
+/* Payments: Text for the link to X Payments 'Privacy Policy' in the onboarding disclaimer. Needs to be present in 'PAYMENTS_ONBOARDING_DISCLAIMER'. */
+"PAYMENTS_ONBOARDING_DISCLAIMER_PRIVACY_POLICY_LINK" = "Privacy Policy";
+
+/* Payments: Text for the link to X Payments 'Short Form Disclosure' in the onboarding disclaimer. Needs to be present in 'PAYMENTS_ONBOARDING_DISCLAIMER'. */
+"PAYMENTS_ONBOARDING_DISCLAIMER_SHORT_FORM_DISCLOSURE_LINK" = "Short Form Disclosure";
 
 /* Payments: Label for the first name field in the X Payments onboarding process. */
 "PAYMENTS_ONBOARDING_FIRST_NAME_FIELD_NAME" = "First name";
@@ -740,6 +749,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Action to view all transactions */
 "PAYMENTS_SEE_ALL_TRANSACTIONS_ACTION" = "See all";
+
+/* Payments: Option in the Settings to access the help center for X Payments. */
+"PAYMENTS_SETTINGS_HELP_CENTER" = "Help center";
 
 /* Payments: Title for the limits section in settings */
 "PAYMENTS_SETTINGS_LIMITS_TITLE" = "Limits";
@@ -6353,6 +6365,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* Label for a button to "Stop" by broadcasting a video */
 "NEWSCAMERA_STOP_LIVE_LABEL" = "Stop";
+
+/* Label for switching post insertion format */
+"NEWSCAMERA_SWITCH_POST_INSERTION_FORMAT" = "Toggle Render Mode";
 
 /* Tooltip for deselected guest broadcasting button in news camera capture view */
 "NEWSCAMERA_TOOLTIP_GUEST_BROADCASTING_BUTTON_OFF" = "Guests OFF";
@@ -17919,7 +17934,7 @@ eg. "Super Following Jack" */
 "PROMOTED_ISSUE_LABEL" = "Promoted (issue)";
 
 /* Format to indicate that a post is boosted by the viewer */
-"PROMOTED_OWN_CONTENT_LABEL_BOOSTED" = "Your post is being promoted";
+"PROMOTED_OWN_CONTENT_LABEL_BOOSTED" = "Your post is being boosted";
 
 /* Format to indicate that a post is promoted by the viewer */
 "PROMOTED_OWN_CONTENT_LABEL_PROMOTED" = "Promotion running";
@@ -18277,6 +18292,9 @@ eg. "Super Following Jack" */
 
 /* Button to like the chat response */
 "GROK_DISLIKE" = "Dislike";
+
+/* Grok edit image input button */
+"GROK_EDIT_IMAGE_INPUT_BUTTON" = "Edit Image";
 
 /* Button to edit the text */
 "GROK_EDIT_TEXT" = "Edit prompt";
@@ -20158,6 +20176,9 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* QR Code: Title of the tab that shows a QR Code scanner (a camera) */
 "QR_SCAN_CODE" = "Scan code";
+
+/* Label displayed next to the post's author to mark the post as Boosted (a quick promote ad). */
+"QUICK_PROMOTE_BOOSTED_LABEL" = "Boosted";
 
 /* Title of a dialog which allows the user to request a refund of a failed Quick Promote campaign. */
 "QUICK_PROMOTE_REFUND_DIALOG_TITLE" = "The post couldn’t be promoted";
