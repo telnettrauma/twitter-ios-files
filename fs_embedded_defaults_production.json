@@ -1,6 +1,6 @@
 {
   "default" : {
-    "feature_set_token" : "27fe4a0de4b159a0ce3835442fc509c3ecf1aed2",
+    "feature_set_token" : "b484c1444f7bee381bef62646a0fde28a5ad051c",
     "config" : {
       "2fa_temporary_password_enabled" : {
         "value" : false
@@ -3090,7 +3090,7 @@
         "value" : false
       },
       "ios_tweet_promote_button_in_post_analytics_enabled" : {
-        "value" : false
+        "value" : true
       },
       "ios_tweet_promote_button_in_tweet_composer_enabled" : {
         "value" : false
@@ -3585,10 +3585,10 @@
         "value" : false
       },
       "media_tab_vertical_video_standard_base_width_ratio" : {
-        "value" : 0.85
+        "value" : 0.72
       },
       "media_tab_vertical_video_tweet_detail_base_width_ratio" : {
-        "value" : 0.85
+        "value" : 0.72
       },
       "media_upload_all_performance_logging_enabled" : {
         "value" : false
@@ -5100,7 +5100,7 @@
         "value" : [ "image_website", "video_website", "summary_large_image", "mixed_media_multi_dest_carousel_website", "mixed_media_single_dest_carousel_website", "video_carousel_website", "video_multi_dest_carousel_website", "image_carousel_website" ]
       },
       "unified_cards_web_card_cta_enabled" : {
-        "value" : false
+        "value" : true
       },
       "unified_cards_web_card_redesign_variant" : {
         "value" : "cta"
@@ -5343,7 +5343,7 @@
   "requires_restart" : [ ],
   "supports_accessibility" : [ ],
   "versions" : {
-    "feature_switches" : "e1947f9863128e046f472aca5eb362dc6e48717d",
-    "experiments" : "e1947f9863128e046f472aca5eb362dc6e48717d"
+    "feature_switches" : "9d20bb9e1d3032cee1d41446c66ce72da2fa5164",
+    "experiments" : "9d20bb9e1d3032cee1d41446c66ce72da2fa5164"
   }
 }
