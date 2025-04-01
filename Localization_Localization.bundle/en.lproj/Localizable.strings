@@ -5754,6 +5754,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Title of security settings page additional methods section */
 "LOGIN_VERIFICATION_SETTINGS_ADDITIONAL_METHODS_SECTION_TITLE" = "Additional methods";
 
+/* Button Label used to add a passkey when one passkey already exists */
+"LOGIN_VERIFICATION_SETTINGS_ADD_ANOTHER_PASSKEY_BUTTON_LABEL" = "Add a new passkey";
+
 /* Button Label used to add a security key when one security key already exists */
 "LOGIN_VERIFICATION_SETTINGS_ADD_ANOTHER_SECURITY_KEY_BUTTON_LABEL" = "Add a new security key";
 
@@ -5782,7 +5785,13 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "LOGIN_VERIFICATION_SETTINGS_MANAGE_SECURITY_KEYS_RENAME_BUTTON_LABEL" = "Rename key";
 
 /* Title of security settings page to manage a user's security keys for two factor authentication. On this page, users can view, rename, or delete security keys. */
-"LOGIN_VERIFICATION_SETTINGS_MANAGE_SECURITY_KEYS_TITLE" = "Manage security keys";
+"LOGIN_VERIFICATION_SETTINGS_MANAGE_SECURITY_KEYS_TITLE" = "Manage 2FA keys";
+
+/* Title of security key section in manage 2fa screen*/
+"LOGIN_VERIFICATION_SETTINGS_MANAGE_SECURITY_PASSKEYS_TITLE" = "Passkeys";
+
+/* Title of security key section in manage 2fa screen*/
+"LOGIN_VERIFICATION_SETTINGS_MANAGE_SECURITY_SECURITY_KEYS_TITLE" = "Security Keys";
 
 /* Description of security settings page SMS method entry */
 "LOGIN_VERIFICATION_SETTINGS_METHOD_SMS_DETAILED_DESCRIPTION" = "Use your mobile phone to receive a text message with an authentication code to enter when you log in to X.";
@@ -20365,6 +20374,39 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* Title of the share sheet */
 "SHARE_SHEET_TITLE" = "Share post";
+
+/* Subtitle of the share sheet toast when sending to a conversation failed */
+"SHARE_SHEET_TOAST_PLEASE_TRY_AGAIN_SUBTITLE" = "Please try again later";
+
+/* Title of the share sheet toast when sending a post to a conversation failed */
+"SHARE_SHEET_TOAST_POST_SHARED_FAILURE_TITLE" = "Failed to share post";
+
+/* Title of the share sheet toast when sending a post to multiple conversations */
+"SHARE_SHEET_TOAST_POST_SHARED_MULTIPLE_TITLE" = "Post shared individually";
+
+/* Title of the share sheet toast when sending a post to a single group conversation */
+"SHARE_SHEET_TOAST_POST_SHARED_SINGLE_GROUP_TITLE" = "Post shared with group";
+
+/* Title of the share sheet toast when sending a post to a single conversation with the conversation name (can be the other user's display name or custom group title) */
+"SHARE_SHEET_TOAST_POST_SHARED_SINGLE_NAME_TITLE" = "Post shared with %@";
+
+/* Title of the share sheet toast when sending a post to a single conversation */
+"SHARE_SHEET_TOAST_POST_SHARED_SINGLE_TITLE" = "Post shared";
+
+/* Title of the share sheet toast when sending a shareable to a conversation failed */
+"SHARE_SHEET_TOAST_SHAREABLE_SHARED_FAILURE_TITLE" = "Failed to share content";
+
+/* Title of the share sheet toast when sending a shareable to multiple conversations */
+"SHARE_SHEET_TOAST_SHAREABLE_SHARED_MULTIPLE_TITLE" = "Content shared individually";
+
+/* Title of the share sheet toast when sending a shareable to a single group conversation */
+"SHARE_SHEET_TOAST_SHAREABLE_SHARED_SINGLE_GROUP_TITLE" = "Content shared with group";
+
+/* Title of the share sheet toast when sending a shareable to a single conversation with the conversation name (can be the other user's display name or custom group title) */
+"SHARE_SHEET_TOAST_SHAREABLE_SHARED_SINGLE_NAME_TITLE" = "Content shared with %@";
+
+/* Title of the share sheet toast when sending a shareable to a single conversation */
+"SHARE_SHEET_TOAST_SHAREABLE_SHARED_SINGLE_TITLE" = "Content shared";
 
 /* Label of toast notification shown when an error occurs trying to share a post with an
     off platform application like SnapChat */

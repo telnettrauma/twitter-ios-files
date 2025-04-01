@@ -820,6 +820,10 @@
 		<data>
 		pka7nxJlpyLqLQvf9udE+yyvQac=
 		</data>
+		<key>VectorImages/main/grok_blackhole_icon.svg</key>
+		<data>
+		r03MvJ54mrTNxY329k6MIBE5Ipo=
+		</data>
 		<key>VectorImages/main/grok_deepsearch.svg</key>
 		<data>
 		wdd71evHj0bQ1tj5tVjr233og9U=
@@ -4965,6 +4969,17 @@
 			<key>hash2</key>
 			<data>
 			sP3oPElNHNb8ZlfExEbJUAx6waG2PxuKpcYhM3D5eC8=
+			</data>
+		</dict>
+		<key>VectorImages/main/grok_blackhole_icon.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			r03MvJ54mrTNxY329k6MIBE5Ipo=
+			</data>
+			<key>hash2</key>
+			<data>
+			92azcnZG/hKAxCc7QLd9qfl6QrQPBAsQ9xPLk9uvu1E=
 			</data>
 		</dict>
 		<key>VectorImages/main/grok_deepsearch.svg</key>
