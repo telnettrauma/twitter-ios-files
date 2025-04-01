@@ -117,11 +117,128 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Display name for Visa credit/debit cards */
 "PAYMENTS_CARD_BRAND_VISA" = "Visa";
 
-/* Payments: */
+/* Payments: Title prompting for PIN entry to activate card */
+"PAYMENTS_CARD_SPEND_ACTIVATE_PIN_TITLE" = "Enter your PIN to activate your card";
+
+/* Payments: Button text to add card to Apple Wallet */
+"PAYMENTS_CARD_SPEND_ADD_TO_WALLET_ACTION" = "Add to Apple Wallet";
+
+/* Payments: Label for address field */
+"PAYMENTS_CARD_SPEND_FIELD_ADDRESS" = "Address";
+
+/* Payments: Label for cardholder name field */
+"PAYMENTS_CARD_SPEND_FIELD_CARDHOLDER_NAME" = "Cardholder Name";
+
+/* Payments: Label for card number field */
+"PAYMENTS_CARD_SPEND_FIELD_CARD_NUMBER" = "Card Number";
+
+/* Payments: Label for CVC field */
+"PAYMENTS_CARD_SPEND_FIELD_CVC" = "CVC";
+
+/* Payments: Label for card expiration field */
+"PAYMENTS_CARD_SPEND_FIELD_EXPIRATION" = "Exp.";
+
+/* Payments: Label for name field */
+"PAYMENTS_CARD_SPEND_FIELD_NAME" = "Name";
+
+/* Payments: Label for ZIP code field */
+"PAYMENTS_CARD_SPEND_FIELD_ZIP_CODE" = "ZIP";
+
+/* Payments: Button text to get help with card */
+"PAYMENTS_CARD_SPEND_GET_HELP_ACTION" = "Get Card Help";
+
+/* Payments: Error message shown when customer needs to provide more information */
+"PAYMENTS_CARD_SPEND_ISSUE_CARD_ERROR_CUSTOMER_MISSING_REQUIREMENTS_SUBTITLE" = "We need some additional information from you.";
+
+/* Payments: Error message shown when customer is not eligible for a card */
+"PAYMENTS_CARD_SPEND_ISSUE_CARD_ERROR_CUSTOMER_NOT_ELIGIBILE_SUBTITLE" = "You are not eligible at this time.";
+
+/* Payments: Generic error title shown when card issuance fails */
+"PAYMENTS_CARD_SPEND_ISSUE_CARD_ERROR_GENERIC_TITLE" = "Unable to issue your card";
+
+/* Payments: Button text to continue ordering physical card */
+"PAYMENTS_CARD_SPEND_ISSUE_PHYSICAL_CARD_ACTION" = "Continue ordering for free";
+
+/* Payments: Button text to continue virtual card issuance */
+"PAYMENTS_CARD_SPEND_ISSUE_VIRTUAL_CARD_ACTION" = "Continue";
+
+/* Payments: Button text to confirm card details look correct */
+"PAYMENTS_CARD_SPEND_ORDER_PHYSICAL_CARD_CONFIRM_ACTION" = "Looks good, send it!";
+
+/* Payments: Subtitle showing estimated delivery time */
+"PAYMENTS_CARD_SPEND_ORDER_PHYSICAL_CARD_CONFIRM_SUBTITLE" = "Your card will arrive in 5–7 business days once shipped.";
+
+/* Payments: Title for reviewing card details */
+"PAYMENTS_CARD_SPEND_ORDER_PHYSICAL_CARD_CONFIRM_TITLE" = "Review your details to make sure they are correct.";
+
+/* Payments: Button text to pause card transactions */
+"PAYMENTS_CARD_SPEND_PAUSE_TRANSACTIONS_ACTION" = "Pause Transactions";
+
+/* Payments: Toast message shown when card is activated */
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_ACTIVATED_TOAST" = "Your card is ready to use";
+
+/* Payments: Button text to activate a card */
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_ACTIVATE_ACTION" = "Activate Card";
+
+/* Payments: Title indicating card needs activation */
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_INACTIVE_TITLE" = "Your card needs to be activated before it’s ready to use.";
+
+/* Payments: Subtitle indicating shipping notification will be sent */
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_PROCESSING_SUBTITLE" = "We’ll let you know when it has shipped";
+
+/* Payments: Title indicating physical card is being processed */
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_PROCESSING_TITLE" = "Your card is being built.";
+
+/* Payments: Subtitle showing estimated arrival date. %@ is replaced with an already-localized date */
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_SHIPPED_SUBTITLE" = "Estimated arrival on %@";
+
+/* Payments: Title indicating physical card has been shipped */
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_SHIPPED_TITLE" = "Your card has left the factory, and is on its way";
+
+/* Payments: Button text to resume card transactions */
+"PAYMENTS_CARD_SPEND_RESUME_TRANSACTIONS_ACTION" = "Resume Transactions";
+
+/* Payments: Status label indicating physical card has to be activated */
+"PAYMENTS_CARD_SPEND_STATUS_INACTIVE" = "Arrived";
+
+/* Payments: Status label for new card */
+"PAYMENTS_CARD_SPEND_STATUS_NEW" = "New";
+
+/* Payments: Status label indicating card is now available for use */
+"PAYMENTS_CARD_SPEND_STATUS_NOW_AVAILABLE" = "Now Available";
+
+/* Payments: Status label indicating card is being processed */
+"PAYMENTS_CARD_SPEND_STATUS_PROCESSING" = "Processing";
+
+/* Payments: Status label indicating physical card has been shipped */
+"PAYMENTS_CARD_SPEND_STATUS_SHIPPED" = "Shipped";
+
+/* Payments: Subtitle of the card that gives users access to the "Spend" feature (Issued cards, ...) */
 "PAYMENTS_CARD_SPEND_SUBTITLE" = "Card";
 
-/* Payments:  */
+/* Payments: Disclaimer text for agreeing to cardholder terms */
+"PAYMENTS_CARD_SPEND_TERMS_DISCLAIMER" = "By continuing, you are hereby agreeing to the Cardholder Terms and Conditions, subject to change.";
+
+/* Payments: Link text for cardholder terms and conditions */
+"PAYMENTS_CARD_SPEND_TERMS_DISCLAIMER_LINK" = "Cardholder Terms and Conditions";
+
+/* Payments: Subtitle explaining user needs to provide information to activate virtual card */
+"PAYMENTS_CARD_SPEND_TERMS_SUBTITLE_TERMS_AND_ONBOARDING" = "In order to activate your virtual card, we need you to provide a little bit of information.";
+
+/* Payments: Subtitle explaining user needs to approve terms to activate virtual card */
+"PAYMENTS_CARD_SPEND_TERMS_SUBTITLE_TERMS_ONLY" = "In order to activate your virtual card, we need you to approve the Cardholder Terms and Conditions.";
+
+/* Payments: Title for card spending terms screen */
+"PAYMENTS_CARD_SPEND_TERMS_TITLE" = "Spend";
+
+/* Payments: Title of the card that gives users access to the "Spend" feature (Issued cards, ...) */
 "PAYMENTS_CARD_SPEND_TITLE" = "Spend";
+
+/* Payments: Label indicating a physical card, that can be used in stores */
+"PAYMENTS_CARD_SPEND_TYPE_PHYSICAL" = "In Stores";
+
+/* Payments: Label indicating a virtual card, that can be used online */
+"PAYMENTS_CARD_SPEND_TYPE_VIRTUAL" = "Online";
 
 /* Payments: Display name for a charge card */
 "PAYMENTS_CARD_TYPE_CHARGE" = "Charge";
@@ -4226,6 +4343,9 @@ This text is the accessibility hint for the button that lets the user change the
 /* Nav bar title for editing photo */
 "EDIT_PHOTOS_TITLE" = "Edit photo";
 
+/* Label to offer the user the ability to edit a photo with Grok. Shown in activity view from long press on photo. */
+"EDIT_PHOTO_ACTIVITY_VIEW_LABEL" = "Edit Photo With Grok";
+
 /* Placeholder text for birthday entry in edit profile */
 "EDIT_PROFILE_BIRTHDAY_HINT_TEXT" = "Add your date of birth";
 
@@ -6757,17 +6877,14 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Description text that identifies the toggle to enable/disable the parody account profile label. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_PARODY_DESCRIPTION_LABEL" = "Parody";
 
+/* Description of the picker button to opt-in/opt-out of profile label account settings on Parody Account Setting screen */
+"PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_PICKER_DESCRIPTION" = "Displays this label on your profile.";
+
 /* Subtitle text for the setting that allows users to manage settings about the parody, commentary and fan account label for their profile. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_SUBTITLE" = "Show or hide parody commentary fan account profile label";
 
 /* Title of the setting that allows users to manage settings about the Parody, commentary and fan account label for their profile. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_TITLE" = "Add profile label";
-
-/* Description of the toggle button to opt-in/opt-out of Impersonation account settings on Parody Account Setting screen */
-"PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_TOGGLE_DESCRIPTION" = "Displays impersonation account label on profile as per user settings";
-
-/* Title of the toggle button to opt-in/opt-out of Impersonation account settings on Parody Account Setting screen */
-"PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_TOGGLE_LABEL" = "Impersonation";
 
 /* Title text for Parody Commentary and Fan Account Label under account settings. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_TITLE_LABEL" = "Parody, commentary and fan account";
@@ -7194,6 +7311,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* Accessibility label for the route picker button */
 "PLAYER_CONTROL_BAR_ROUTE_PICKER_ACCESSIBILITY_LABEL" = "Route picker";
+
+/* Button on live broadcast video player to go live if user is rewinding  */
+"PLAYER_CONTROL_BAR_SKIP_TO_LIVE" = "Skip to Live";
 
 /* Accessibility label for the unmute button used to turn on the volume */
 "PLAYER_CONTROL_BAR_UNMUTE_ACCESSIBILITY_LABEL" = "Unmute";
@@ -12968,6 +13088,12 @@ eg. "Super Following Jack" */
 /* Text for the header of the Subscription upsell for Offline videos feature name */
 "SUBSCRIPTION_UPSELL_OFFLINE_VIDEOS_FEATURE_NAME" = "Offline videos";
 
+/* Text for the body of the Subscription upsell for Offline videos when download is not available */
+"SUBSCRIPTION_UPSELL_OFFLINE_VIDEOS_TO_DOWNLOAD_UPSELL_SUBTITLE" = "This video can’t be download to your device, but you can save it for offline viewing.";
+
+/* Text for the header of the Subscription upsell for Offline videos when download is not available */
+"SUBSCRIPTION_UPSELL_OFFLINE_VIDEOS_TO_DOWNLOAD_UPSELL_TITLE" = "Add to Offline videos?";
+
 /* Title of the basic premium tier subscription for upsell*/
 "SUBSCRIPTION_UPSELL_PREMIUM_BASIC_TIER_NAME" = "Premium Basic";
 
@@ -18497,6 +18623,9 @@ eg. "Super Following Jack" */
 /* Label for button to copy image */
 "GROK_IMAGE_ACTION_COPY" = "Copy Image";
 
+/* Label for button to edit image */
+"GROK_IMAGE_ACTION_EDIT" = "Edit Image";
+
 /* Label for button to post image */
 "GROK_IMAGE_ACTION_POST" = "Post Image";
 
@@ -20093,7 +20222,7 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* Label indicating form field is optional. */
 "OPTIONAL_FORM_FIELD_LABEL" = "Optional";
 
-/* Label displayed for COMMENTARY option for impersonation profile label in account settings. */
+/* Label displayed for COMMENTARY option for profile label in account settings. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_COMMENTARY_OPTION_TEXT" = "Commentary";
 
 /* Profile label displayed when the user enables the COMMENTARY profile label in account settings. */
@@ -20111,13 +20240,16 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* Detail of the picker option(NONE) to TURN OFF Parody, fan and commentary account settings */
 "PARODY_COMMENTARY_FAN_ACCOUNT_DISABLE_OPTION_DETAIL" = "Choosing this option will remove the label from your profile and all past posts. Please check you are compliant with the authenticity policy.";
 
-/* Label displayed for FAN option for impersonation profile label in account settings. */
+/* Label displayed for FAN option for profile label in account settings. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_FAN_OPTION_TEXT" = "Fan";
 
 /* Profile label displayed when the user enables the FAN profile label in account settings. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_FAN_PROFILE_LABEL_TEXT" = "Fan account";
 
-/* Label displayed for PARODT option for impersonation profile label in account settings. */
+/* Label displayed for NONE option for profile label in account settings. */
+"PARODY_COMMENTARY_FAN_ACCOUNT_NONE_OPTION_TEXT" = "None";
+
+/* Label displayed for PARODY option for profile label in account settings. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_PARODY_OPTION_TEXT" = "Parody";
 
 /* Profile label displayed when the user enables the PARODY profile label in account settings. */
@@ -20985,6 +21117,9 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* Prompt to wait before trying again */
 "WAIT_AND_TRY_AGAIN_LATER_LABEL" = "Please wait a few moments then try again";
+
+/* XChat */
+"XCHAT" = "XChat";
 
 /* More results of search */
 "X_SEARCH_MORE_RESULTS" = "+%1$@ more";
