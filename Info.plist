@@ -351,7 +351,7 @@
     <key>MinimumOSVersion</key>
     <string>15.0</string>
     <key>TWBuildNumber</key>
-    <string>7</string>
+    <string>5</string>
     <key>NSPhotoLibraryAddUsageDescription</key>
     <string>This lets you download photos and videos to your Photos.</string>
     <key>SKAdNetworkItems</key>
@@ -568,9 +568,9 @@
     <key>CFBundleName</key>
     <string>Twitter</string>
     <key>CFBundleShortVersionString</key>
-    <string>10.87</string>
+    <string>10.88</string>
     <key>TWBuildTime</key>
-    <string>2025-03-23T04:59:42Z</string>
+    <string>2025-03-25T21:05:22Z</string>
     <key>UIBackgroundModes</key>
     <array>
       <string>audio</string>
@@ -620,7 +620,7 @@
     <key>UIPrerenderedIcon</key>
     <true/>
     <key>DTAppStoreToolsBuild</key>
-    <string>16C7015</string>
+    <string>16E137</string>
     <key>UIRequiresPersistentWiFi</key>
     <true/>
     <key>FirebaseScreenReportingEnabled</key>
@@ -642,7 +642,7 @@
     <key>TWPushEnvironment</key>
     <string>3</string>
     <key>CFBundleVersion</key>
-    <string>7</string>
+    <string>5</string>
     <key>CFBundleDevelopmentRegion</key>
     <string>English</string>
     <key>DTCompiler</key>

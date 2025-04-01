@@ -411,8 +411,14 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Text for a button or link that provides more information about a feature or process in X Payments. */
 "PAYMENTS_LEARN_MORE_ACTION" = "Learn more";
 
+/* Payments: Title for the Issued card spend limit section in X Payments.*/
+"PAYMENTS_LIMITS_CARD_SPEND_TITLE" = "Card Spend";
+
 /* Payments: Title for the deposit limit section in X Payments. */
 "PAYMENTS_LIMITS_DEPOSIT_TITLE" = "Deposit";
+
+/* Payments: Format string for displaying daily limits in X Payments. %@ is replaced by the limit amount. */
+"PAYMENTS_LIMITS_PER_DAY_FORMAT" = "%@ per day";
 
 /* Payments: Format string for displaying monthly limits in X Payments. %@ is replaced by the limit amount. */
 "PAYMENTS_LIMITS_PER_MONTH_FORMAT" = "%@ per month";
@@ -858,6 +864,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Action to set up two-factor authentication */
 "PAYMENTS_SETUP_TWO_FACTOR_AUTH_ACTION" = "Set up";
 
+/* Payments: Subtitle of the tile that allows a user to chat with X Money support */
+"PAYMENTS_SUPPORT_CONVERSATION_SUBTITLE" = "Chat with us";
+
+/* Payments: Title of the tile that allows a user to chat with X Money support */
+"PAYMENTS_SUPPORT_CONVERSATION_TITLE" = "Support";
+
 /* Payments: Title for the Money feature */
 "PAYMENTS_TITLE" = "Money";
 
@@ -959,6 +971,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Error message when a transfer fails. */
 "PAYMENTS_TRANSFER_ERROR_TITLE" = "Transfer failed";
+
+/* Payments: Title of the button that allows a user to scan a QR code instead of searching by name/username, to send or request money. */
+"PAYMENTS_TRANSFER_QR_CODE_SCAN_TITLE" = "Scan a QR Code";
+
+/* Payments: Title of the button that allows a user to share a QR code, to send or request money. */
+"PAYMENTS_TRANSFER_QR_CODE_SHOW_TITLE" = "Show my QR Code";
 
 /* Payments: Error message when a money request fails. */
 "PAYMENTS_TRANSFER_REQUEST_ERROR_TITLE" = "Request failed";
@@ -19862,6 +19880,9 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* Label on button to follow user */
 "FOLLOW_ACTION_LABEL" = "Follow";
+
+/* Label for button indicating you are currently following this user and they also follow you. */
+"FOLLOW_EACH_OTHER_ACTION_LABEL" = "You follow each other";
 
 /* Label for action to undo your pending request to follow this user. */
 "FOLLOW_REQUEST_UNDO_ACTION_LABEL" = "Undo follow request";
