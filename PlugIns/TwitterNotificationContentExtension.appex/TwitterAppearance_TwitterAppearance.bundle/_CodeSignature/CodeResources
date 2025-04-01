@@ -832,6 +832,26 @@
 		<data>
 		S2EyyoYndu1//j72fNGTB3AN4KE=
 		</data>
+		<key>VectorImages/main/grok_icon_blackhole.svg</key>
+		<data>
+		zyhhoFuEswZH0DlTmc0qhe8O1qI=
+		</data>
+		<key>VectorImages/main/grok_icon_blackhole_stroke.svg</key>
+		<data>
+		nZwDEbqv8iO532za2U/TzExwff8=
+		</data>
+		<key>VectorImages/main/grok_icon_blackhole_text.svg</key>
+		<data>
+		W3H6UJj7aex87kfQehvKqzaNPzw=
+		</data>
+		<key>VectorImages/main/grok_icon_blackhole_text_stroke.svg</key>
+		<data>
+		i79Im62xbuTRy2tOhDTza0BgNz0=
+		</data>
+		<key>VectorImages/main/grok_icon_stroke.svg</key>
+		<data>
+		XkKkwr+zGriMBqTMqd96hL8j/U0=
+		</data>
 		<key>VectorImages/main/grok_mode_fun.svg</key>
 		<data>
 		uVPTbB1ANSinx8Z3Y+PWVrOIZJA=
@@ -4978,6 +4998,61 @@
 			<key>hash2</key>
 			<data>
 			vA8A417cDdPlCGZtLRK0UmghMee2kPdzVb/qA3KThec=
+			</data>
+		</dict>
+		<key>VectorImages/main/grok_icon_blackhole.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zyhhoFuEswZH0DlTmc0qhe8O1qI=
+			</data>
+			<key>hash2</key>
+			<data>
+			K+Y+gQOw4jGxSujtXFLE7ziajNNcqei6Tf9KWD1vneg=
+			</data>
+		</dict>
+		<key>VectorImages/main/grok_icon_blackhole_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nZwDEbqv8iO532za2U/TzExwff8=
+			</data>
+			<key>hash2</key>
+			<data>
+			YA3IuI4TFvTWsO5iOGza2Je8gFqn+FgEe83uRoRvVaY=
+			</data>
+		</dict>
+		<key>VectorImages/main/grok_icon_blackhole_text.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			W3H6UJj7aex87kfQehvKqzaNPzw=
+			</data>
+			<key>hash2</key>
+			<data>
+			Jbx+Y90089TLdIVDic+TAvrTXbUqKHhnmWuLiQsaxdc=
+			</data>
+		</dict>
+		<key>VectorImages/main/grok_icon_blackhole_text_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			i79Im62xbuTRy2tOhDTza0BgNz0=
+			</data>
+			<key>hash2</key>
+			<data>
+			gRKgAbgKp9Ks1+CGbGBkUC8hK0t2yMH/Ghpj9R7p7VU=
+			</data>
+		</dict>
+		<key>VectorImages/main/grok_icon_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XkKkwr+zGriMBqTMqd96hL8j/U0=
+			</data>
+			<key>hash2</key>
+			<data>
+			XcPodXCUrZ/DwsMqiuXqxzkN4+CROiZ0qjhXhCJzNTc=
 			</data>
 		</dict>
 		<key>VectorImages/main/grok_mode_fun.svg</key>

@@ -12,7 +12,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title shown when asking for a backup authentication code */
 "PAYMENTS_2FA_BACKUP_CODE_TITLE" = "Enter your backup code";
 
-/* Payments: Message shown when the authentication process was canceled by the user */
+/* Payments: Message shown when the authentication process was cancelled by the user */
 "PAYMENTS_2FA_ERROR_MESSAGE_CANCELED" = "The request was cancelled. Please try again.";
 
 /* Payments: Message shown on the 2FA error screen when we were not able to send a SMS to a carrier */
@@ -58,10 +58,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ACCOUNT_DETAILS_SECTION_TITLE" = "Account Details";
 
 /* Payments: Subtitle the of 'Account' details screen. "Routing" meaning the account/routing numbers. */
-"PAYMENTS_ACCOUNT_DETAILS_SUBTITLE_WITHOUT_CARD" = "Routing";
-
-/* Payments: Subtitle the of 'Account' details screen. "Card" meaning the (debit or credit) card associated with the account, and "Routing" meaning the account/routing numbers. */
-"PAYMENTS_ACCOUNT_DETAILS_SUBTITLE_WITH_CARD" = "Card & Routing";
+"PAYMENTS_ACCOUNT_DETAILS_SUBTITLE" = "Routing";
 
 /* Payments: Title the of 'Account' details screen */
 "PAYMENTS_ACCOUNT_DETAILS_TITLE" = "Account";
@@ -177,7 +174,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title shown after a transaction is rejected */
 "PAYMENTS_CONFIRMATION_REJECTED_TRANSACTION_TITLE" = "Transaction rejected";
 
-/* Payments: Title shown when asking user to confirm a specific transaction type */
+/* Payments: Title shown when asking user to confirm a specific transaction type. %@ will be replaced by an already-formatted & localized amount, for example: $10. */
 "PAYMENTS_CONFIRMATION_TRANSACTION_TITLE" = "Confirm this %@ transaction";
 
 /* Payments: Title of a button that allows the user to consent to something (ex: verifying their ID). Should be kept generic. */
@@ -258,7 +255,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Additional message shown when a potential duplicate payment is detected. */
 "PAYMENTS_ERROR_IDEMPOTENCY_KEY_CONFLICT_MESSAGE" = "The transfer failed because a similar one was already sent. Check your recent transactions and try again if needed.";
 
-/* Payments: Link inside the additional message shown when a potential duplicate payment is detected. Should be included in the overall error message. */
+/* Payments: Link inside the additional message shown when a potential duplicate payment is detected. This should be a sub-string of the overall error message (PAYMENTS_ERROR_IDEMPOTENCY_KEY_CONFLICT_MESSAGE), to be properly transformed into a link. */
 "PAYMENTS_ERROR_IDEMPOTENCY_KEY_CONFLICT_MESSAGE_LINK" = "recent transactions";
 
 /* Payments: Error message shown when the user’s bank account balance is insufficient for a deposit. */
@@ -301,7 +298,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ERROR_VERIFY_IDENTITY" = "Unable to verify your identity";
 
 /* Payments: Additional message shown when the system is unable to verify the user’s identity for X Payments, because they declined. */
-"PAYMENTS_ERROR_VERIFY_IDENTITY_DECLINED" = "The operation was canceled.";
+"PAYMENTS_ERROR_VERIFY_IDENTITY_DECLINED" = "The operation was cancelled.";
 
 /* Payments: Title of the confirmation screen for depositing money into the user’s X Payments account. %@ is replaced by the deposit amount. */
 "PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_AMOUNT_CONFIRMATION_TITLE" = "Confirm %@ deposit?";
@@ -432,7 +429,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Additional message shown when a user has exceeded their transaction limits, advising them to try again later. */
 "PAYMENTS_LIMIT_EXCEEDED_ERROR_MESSAGE" = "The transfer failed because it exceeds your account’s limit. Please review your limits or try a lower amount.";
 
-/* Payments: Link inside the additional message shown when a user has exceeded their transaction limits, advising them to try again later. Tapping that link opens a view that shows the limits (weekly, daily, ...). Needs to be included in the overall error message. */
+/* Payments: Link inside the additional message shown when a user has exceeded their transaction limits, advising them to try again later. Tapping that link opens a view that shows the limits (weekly, daily, ...). This should be a sub-string of the overall error message (PAYMENTS_LIMIT_EXCEEDED_ERROR_MESSAGE), to be properly transformed into a link. */
 "PAYMENTS_LIMIT_EXCEEDED_ERROR_MESSAGE_LINK" = "review your limits";
 
 /* Payments: Error message shown when a user has exceeded their monthly transaction limits in X Payments. */
@@ -609,8 +606,8 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Error shown when the user attemps to create a transaction, but their bank account needs to be verified/linked again. */
 "PAYMENTS_PAYMENT_METHOD_LINK_REQUIRED_ERROR_TITLE" = "You need to login to verify your bank account before you can proceed.";
 
-/* Payments: Status displayed next to an issued debit card when it is canceled. */
-"PAYMENTS_PAYMENT_METHOD_STATUS_CANCELED" = "Canceled";
+/* Payments: Status displayed next to an issued debit card when it is cancelled. */
+"PAYMENTS_PAYMENT_METHOD_STATUS_CANCELED" = "Cancelled";
 
 /* Payments: Status displayed next to an issued debit card when it is inactive. */
 "PAYMENTS_PAYMENT_METHOD_STATUS_INACTIVE" = "Inactive";
@@ -7106,7 +7103,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "PINNED_TWEET_PIN_ERROR_TITLE" = "Post not pinned";
 
 /* Warning to the user that if they pin their post now, it wont be boosted. Will fill in with a duration "4hr 30 min" */
-"PINNED_TWEET_PIN_FANOUT_DURATION_MESSAGE" = "You recently pinned a post, so pinning this one won’t highlight it on your followers’ For You feeds. You can highlight again in %@";
+"PINNED_TWEET_PIN_FANOUT_DURATION_MESSAGE" = "You recently pinned a post, so pinning this one won’t highlight it on your followers’ For You feeds. You can highlight again in %@.";
 
 /* Pinned post label for post cell */
 "PINNED_TWEET_SOCIAL_TEXT_LABEL" = "Pinned";
@@ -10774,13 +10771,13 @@ eg. "Super Following Jack" */
 "TWEET_PLACE_FROM_LINE_FORMAT" = "From %@";
 
 /* Shown in user's own posts as a button to press to go to the post Boost flow to create an ad campaign. */
-"TWEET_PROMOTE_ACTION_LABEL" = "Promote";
+"TWEET_PROMOTE_ACTION_LABEL" = "Boost";
 
 /* Shown in user's own posts as a button to press to go to the post Boost flow to create an ad campaign where they have created an ad campaign for this post before */
-"TWEET_PROMOTE_AGAIN_ACTION_LABEL" = "Promote again";
+"TWEET_PROMOTE_AGAIN_ACTION_LABEL" = "Boost again";
 
-/* Generic nessage to show to users when boosting is unavailable and they tap on the Boost button in post composer. */
-"TWEET_PROMOTE_UNAVAILABLE_MESSAGE" = "Oops. Promoting is not available, please try later.";
+/* Generic message to show to users when boosting is unavailable and they tap on the Boost button in post composer. */
+"TWEET_PROMOTE_UNAVAILABLE_MESSAGE" = "Oops. Boosting is not available, please try later.";
 
 /* Button action for a reported post tombstone */
 "TWEET_REPORTED_TOMBSTONE_ACTION_LABEL" = "View";
@@ -12937,6 +12934,12 @@ eg. "Super Following Jack" */
 
 /* Text for the action to present the Subscription upsell for Quick Promote title */
 "SUBSCRIPTION_UPSELL_QUICK_PROMOTE_UPSELL_ACTION_TEXT" = "Promote your posts";
+
+/* Body message of the Reply Boost upsell */
+"SUBSCRIPTION_UPSELL_REPLY_BOOST_MESSAGE" = "Subscribe to Premium to have your Replies boosted";
+
+/* Title of the Reply Boost upsell */
+"SUBSCRIPTION_UPSELL_REPLY_BOOST_TITLE" = "Want more people to see your reply?";
 
 /* Text for the header of the Subscription upsell for Richtext feature name */
 "SUBSCRIPTION_UPSELL_RICHTEXT_FEATURE_NAME" = "Rich Text";
@@ -20354,6 +20357,15 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* Accessibility label for button containing share actions in post details view */
 "SHARE_ACTION_ACCESSIBILITY_LABEL" = "Share";
 
+/* Title of the share sheet send separately button */
+"SHARE_SHEET_SEND_BUTTON_SEPARATELY_TITLE" = "Send separately";
+
+/* Title of the share sheet send button */
+"SHARE_SHEET_SEND_BUTTON_TITLE" = "Send";
+
+/* Title of the share sheet */
+"SHARE_SHEET_TITLE" = "Share post";
+
 /* Label of toast notification shown when an error occurs trying to share a post with an
     off platform application like SnapChat */
 "SHARE_TO_ERROR_TOAST_NOTIFICATION_LABEL_FORMAT" = "Error sharing to %@. Please verify the application is installed";
@@ -22151,7 +22163,7 @@ eg. "- @jack" */
 "QUICK_PROMOTE_CAMPAIGN_CREATION_SUCCESS_MESSAGE" = "Check out post analytics at any time to measure your ad performance.";
 
 /* Title of a popup displayed after a successful creation of a Boost campaign. */
-"QUICK_PROMOTE_CAMPAIGN_CREATION_SUCCESS_TITLE" = "You promoted your post!";
+"QUICK_PROMOTE_CAMPAIGN_CREATION_SUCCESS_TITLE" = "You boosted your post!";
 
 /* When starting post Boost, a customer requires a professional account, if they don't have one, or refuse to make one, we show this message. */
 "QUICK_PROMOTE_ERROR_HAS_TO_UPGRADE_TO_PROFESSIONAL" = "You need a professional account to use this feature";
@@ -22160,7 +22172,7 @@ eg. "- @jack" */
 "QUICK_PROMOTE_ERROR_INELIGIBLE_FOR_QUICK_PROMOTE_BOOST_CAMPAIGN_RUNNING" = "This post is already boosted";
 
 /* When starting post Boost, we check if a post is eligible for quick promote, and particularly if post is already boosted  */
-"QUICK_PROMOTE_ERROR_INELIGIBLE_FOR_QUICK_PROMOTE_PROMOTE_CAMPAIGN_RUNNING" = "This post is already promoted";
+"QUICK_PROMOTE_ERROR_INELIGIBLE_FOR_QUICK_PROMOTE_PROMOTE_CAMPAIGN_RUNNING" = "This post is already boosted";
 
 /* When starting post Boost, a customer requires an Ad account, if they don't have one, or refuse to make one, we show this message. */
 "QUICK_PROMOTE_ERROR_REQUIRES_AD_ACCOUNT" = "You need an Ad account to use this feature";
@@ -22241,7 +22253,7 @@ eg. "- @jack" */
 "QUICK_PROMOTE_SEARCH_LOCATION_CHANGE_BUTTON" = "Change location";
 
 /* Text displayed before the location options to prompt the user which location they want to run the campaign in. */
-"QUICK_PROMOTE_SEARCH_LOCATION_LABEL" = "Where to promote your post?";
+"QUICK_PROMOTE_SEARCH_LOCATION_LABEL" = "Where to boost your post?";
 
 /* Texts says that there is no location set for an ad. */
 "QUICK_PROMOTE_SEARCH_LOCATION_NOT_SET" = "Location is not set";
@@ -22253,7 +22265,7 @@ eg. "- @jack" */
 "QUICK_PROMOTE_SPEND_AMOUNT_LABEL" = "How much do you want to spend?";
 
 /* Text displayed on the button that allows the user to start a new boost */
-"QUICK_PROMOTE_START_PROMOTION_BUTTON_TEXT" = "Promote post";
+"QUICK_PROMOTE_START_PROMOTION_BUTTON_TEXT" = "Boost post";
 
 /* Inside the targeting page, there is an option to pick any gender. */
 "QUICK_PROMOTE_TARGETING_GENDER_ANY" = "Any Gender";
@@ -22266,17 +22278,17 @@ eg. "- @jack" */
 
 /* Text used for the terms and conditions label on the review boost screen. %@ will be substituted by QUICK_PROMOTE_TERMS_AND_CONDITIONS_LINK,
  e.g. "By clicking post with Boost, you’re indicating that you have read and agree to the Ads Terms and Conditions". */
-"QUICK_PROMOTE_TERMS_AND_CONDITIONS_FORMAT_V2" = "By clicking Promote post you’re agreeing to our %@.";
+"QUICK_PROMOTE_TERMS_AND_CONDITIONS_FORMAT_V2" = "By clicking Boost post you’re agreeing to our %@.";
 
 /* Link to tap to navigate to terms and conditions web page from the review boost screen. This text will be used by the QUICK_PROMOTE_TERMS_AND_CONDITIONS_FORMAT,
  e.g. "By clicking Create Promotion, you’re indicating that you have read and agreed to the Terms and Advertising Guidelines". */
 "QUICK_PROMOTE_TERMS_AND_CONDITIONS_LINK" = "Ads Terms and Conditions";
 
 /* Text displayed at the top of the post Boost / Boost screen / Composer Screen. */
-"QUICK_PROMOTE_TITLE_TEXT" = "Promote your post";
+"QUICK_PROMOTE_TITLE_TEXT" = "Boost your post";
 
 /* Text displayed at the top of the post & Boost button. */
-"QUICK_PROMOTE_TWEET_AND_BOOST_TITLE" = "Promote post";
+"QUICK_PROMOTE_TWEET_AND_BOOST_TITLE" = "Boost post";
 
 /* Text displayed when a customer wants to launch a campaign, but the validation fails (can be many types of errors), best suggestion is for a customer to stop and try a different post. */
 "QUICK_PROMOTE_VALIDATION_FAILED" = "Unfortunately the campaign can not be launched for this post.";
