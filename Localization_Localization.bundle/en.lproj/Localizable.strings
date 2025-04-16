@@ -426,11 +426,11 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Additional message shown when the system is unable to verify the user’s identity for X Payments, because they declined. */
 "PAYMENTS_ERROR_VERIFY_IDENTITY_DECLINED" = "The operation was cancelled.";
 
+/* Payments: Title of the screen where the user enters the amount they want to deposit into or withdraw from their X Payments account. */
+"PAYMENTS_EXTERNAL_TRANSACTION_AMOUNT_TITLE" = "Amount";
+
 /* Payments: Title of the confirmation screen for depositing money into the user’s X Payments account. %@ is replaced by the deposit amount. */
 "PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_AMOUNT_CONFIRMATION_TITLE" = "Confirm %@ deposit?";
-
-/* Payments: Title of the screen where the user enters the amount they want to deposit into their X Payments account. */
-"PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_AMOUNT_TITLE" = "How much would you like to deposit?";
 
 /* Payments: Disclaimer shown on the deposit screen, explaining the typical timeline and potential variations for fund transfers. */
 "PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_DISCLAIMER" = "Transfers typically take 3 business days but may vary due to factors like confirmations from your external bank. Funds will be available in your Payments account once the transfer is complete.";
@@ -452,9 +452,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Title of the confirmation screen for withdrawing money from the user’s X Payments account. %@ is replaced by the withdrawal amount. */
 "PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_AMOUNT_CONFIRMATION_TITLE" = "Confirm %@ withdrawal?";
-
-/* Payments: Title of the screen where the user enters the amount they want to withdraw from their X Payments account. */
-"PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_AMOUNT_TITLE" = "How much would you like to withdraw?";
 
 /* Payments: Disclaimer shown on the withdrawal screen, explaining the typical timeline and potential variations for fund transfers. */
 "PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_DISCLAIMER" = "Transfers typically take 3 business days but may vary due to factors like confirmations from your external bank. Funds will be available in your external bank once the transfer is complete.";
@@ -486,9 +483,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Confirmation button text used in various dialogs throughout X Payments. */
 "PAYMENTS_GOT_IT_ACTION" = "Got it";
 
-/* Payments: Cancel button text for the card issue replacement flow */
-"PAYMENTS_HELP_CARD_ISSUE_ACTION_CANCEL" = "No thanks. Not right now.";
-
 /* Payments: Confirmation button text to ship a replacement card after address verification */
 "PAYMENTS_HELP_CARD_ISSUE_CONFIRM_ADDRESS_CONFIRM_ACTION" = "Ship a replacement card";
 
@@ -510,11 +504,8 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Option in card issue picker for virtual card problems */
 "PAYMENTS_HELP_CARD_ISSUE_PICKER_VIRTUAL_CARD" = "Virtual Card";
 
-/* Payments: Button text to confirm card replacement */
-"PAYMENTS_HELP_CARD_ISSUE_REPLACE_CARD_ACTION" = "Yes, replace my card";
-
 /* Payments: Subtitle asking if user wants to order a replacement card */
-"PAYMENTS_HELP_CARD_ISSUE_SUBTITLE" = "Do you want to order a new replacement card?";
+"PAYMENTS_HELP_CARD_ISSUE_SUBTITLE" = "Depending on what happened, we’ll send you a replacement card, or create a brand new one.";
 
 /* Payments: Subtitle on success screen explaining what happens after ordering a replacement card */
 "PAYMENTS_HELP_CARD_ISSUE_SUCCESS_SUBTITLE" = "We paused your current card in the meantime for security purposes. Existing online transactions will continue to work.";
@@ -523,10 +514,19 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_HELP_CARD_ISSUE_SUCCESS_TITLE" = "Your replacement card is on the way.";
 
 /* Payments: Title of the screen for reporting lost, stolen, or damaged cards */
-"PAYMENTS_HELP_CARD_ISSUE_TITLE" = "Card lost, stolen, or damaged";
+"PAYMENTS_HELP_CARD_ISSUE_TITLE" = "Tell us a bit more. What happened?";
 
 /* Payments: Help menu option for reporting card issues */
 "PAYMENTS_HELP_OPTION_CARD_ISSUE" = "Card lost, stolen, or damaged";
+
+/* Payments: Help menu option for reporting a card being damaged */
+"PAYMENTS_HELP_OPTION_CARD_ISSUE_DAMAGED" = "My card was damaged";
+
+/* Payments: Help menu option for reporting a card being lost */
+"PAYMENTS_HELP_OPTION_CARD_ISSUE_LOST" = "My card was lost";
+
+/* Payments: Help menu option for reporting a card being stolen */
+"PAYMENTS_HELP_OPTION_CARD_ISSUE_STOLEN" = "My card was stolen";
 
 /* Payments: Help menu option for miscellaneous issues not covered by other categories */
 "PAYMENTS_HELP_OPTION_OTHER_ISSUE" = "Something else";
@@ -626,6 +626,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Error message shown when a user has exceeded their weekly transaction limits in X Payments. */
 "PAYMENTS_LIMIT_EXCEEDED_ERROR_WEEKLY_TITLE" = "This action would exceed your weekly limits.";
+
+/* Payments: Title of the button to select the maximum amount (for a withdrawal or a transfer, for example). It usually corresponds to the available balance in the user's account. */
+"PAYMENTS_MAX_AMOUNT_ACTION" = "Max";
 
 /* Payments: Option in the More menu to access customer support for X Payments. */
 "PAYMENTS_MORE_MENU_GET_SUPPORT" = "Get support";
@@ -1071,17 +1074,20 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title for the transactions list screen */
 "PAYMENTS_TRANSACTIONS_TITLE" = "Transactions";
 
+/* Payments: Label for the payment method used for transaction */
+"PAYMENTS_TRANSACTION_ATTRIBUTE_CARD_USED" = "Card Used";
+
 /* Payments: Label for the date of a transaction */
 "PAYMENTS_TRANSACTION_ATTRIBUTE_DATE" = "Transaction date";
+
+/* Payments: Label for the destination of a transaction */
+"PAYMENTS_TRANSACTION_ATTRIBUTE_DESTINATION" = "Destination";
 
 /* Payments: Label for the identifier of a transaction */
 "PAYMENTS_TRANSACTION_ATTRIBUTE_ID" = "Transaction ID";
 
-/* Payments: Label for the recipient of a transaction */
-"PAYMENTS_TRANSACTION_ATTRIBUTE_RECIPIENT" = "To";
-
-/* Payments: Label for the sender of a transaction */
-"PAYMENTS_TRANSACTION_ATTRIBUTE_SENDER" = "From";
+/* Payments: Label for the source of a transaction */
+"PAYMENTS_TRANSACTION_ATTRIBUTE_SOURCE" = "Source";
 
 /* Payments: Label for the description of a transaction on the customer's statement */
 "PAYMENTS_TRANSACTION_ATTRIBUTE_STATEMENT_DESCRIPTION" = "On statement as";
@@ -1093,10 +1099,16 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_TRANSACTION_ATTRIBUTE_TYPE" = "Transaction type";
 
 /* Payments: Label for the payment method used for transaction */
-"PAYMENTS_TRANSACTION_ATTRIBUTE_USING" = "Card Used";
+"PAYMENTS_TRANSACTION_ATTRIBUTE_USING" = "Using";
 
 /* Payments: Title for the transaction details screen */
 "PAYMENTS_TRANSACTION_DETAILS_TITLE" = "Transaction details";
+
+/* Payments: Title shown by default for transactions that are a credit/deposit */
+"PAYMENTS_TRANSACTION_DIRECTION_CREDIT" = "Deposit";
+
+/* Payments: Title shown by default for transactions that are a debit/withdrawal */
+"PAYMENTS_TRANSACTION_DIRECTION_DEBIT" = "Withdrawal";
 
 /* Payments: Toast shown when the transaction ID has been copied to the iOS clipboard */
 "PAYMENTS_TRANSACTION_ID_COPIED" = "Transaction ID copied to clipboard";
@@ -1285,7 +1297,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_WAITLIST_TITLE" = "You’re on the waitlist";
 
 /* Payments: Name of the Payments wallet during a deposit/withdrawal */
-"PAYMENTS_WALLET_NAME" = "X account";
+"PAYMENTS_WALLET_NAME" = "My Balance";
 
 /* Payments: Action to withdraw money from the Payments wallet */
 "PAYMENTS_WITHDRAW_ACTION" = "Withdraw";
@@ -1315,6 +1327,21 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* DM notification body text in case we are unable to decrypt the message */
 "DM_NOTIFICATION_FALLBACK_BODY" = "Sent a message";
+
+/* DM notification group title you and many others. %@: number of other users */
+"DM_NOTIFICATION_GROUP_TITLE_YOU_AND_MANY_OTHERS" = "You & %@ others";
+
+/* DM notification group title you and 1 other. */
+"DM_NOTIFICATION_GROUP_TITLE_YOU_AND_ONE_OTHER" = "You & 1 other";
+
+/* DM notification group title you and user. %@: display name of user */
+"DM_NOTIFICATION_GROUP_TITLE_YOU_AND_USER" = "You & %@";
+
+/* DM notification group title you and user and many others. %1$@: display name of user, %2$@: number of other users */
+"DM_NOTIFICATION_GROUP_TITLE_YOU_AND_USER_AND_MANY_OTHERS" = "You, %1$@ & %2$@ others";
+
+/* DM notification group title you and user and 1 other. %@: number of other users */
+"DM_NOTIFICATION_GROUP_TITLE_YOU_AND_USER_AND_ONE_OTHER" = "You, %@ & 1 other";
 
 // Section: Frameworks/TwitterComposition/TwitterComposition/Sources/TwitterCompositionStrings/en.lproj/Localizable.strings
 
