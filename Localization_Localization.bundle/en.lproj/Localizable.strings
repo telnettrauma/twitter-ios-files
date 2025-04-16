@@ -48,6 +48,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the button that allows a user to accept a money transfer. */
 "PAYMENTS_ACCEPT_TRANSFER_ACTION" = "Accept";
 
+/* Payments: Title the button that gives access to the account details on the Payments Home. */
+"PAYMENTS_ACCOUNT_DETAILS_ACTION" = "Account & Routing Number";
+
 /* Payments: Description the 'Bill Pay' section of 'Account' details screen, to enable the corresponding preference */
 "PAYMENTS_ACCOUNT_DETAILS_BILL_PAY_DESCRIPTION" = "Allow external accounts and services to pull money using your account info";
 
@@ -120,8 +123,17 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title prompting for PIN entry to activate card */
 "PAYMENTS_CARD_SPEND_ACTIVATE_PIN_TITLE" = "Enter your PIN to activate your card";
 
+/* Payments: Subtitle of the screen where the user enters the address where we ship their physical card */
+"PAYMENTS_CARD_SPEND_ADDRESS_SUBTITLE" = "It will arrive in 5–7 business days";
+
+/* Payments: Title of the screen where the user enters the address where we ship their physical card */
+"PAYMENTS_CARD_SPEND_ADDRESS_TITLE" = "Where should we ship your card?";
+
 /* Payments: Button text to add card to Apple Wallet */
 "PAYMENTS_CARD_SPEND_ADD_TO_WALLET_ACTION" = "Add to Apple Wallet";
+
+/* Payments: Button text to change the pin of the card */
+"PAYMENTS_CARD_SPEND_CHANGE_PIN" = "Change pin";
 
 /* Payments: Label for address field */
 "PAYMENTS_CARD_SPEND_FIELD_ADDRESS" = "Address";
@@ -145,7 +157,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_CARD_SPEND_FIELD_ZIP_CODE" = "ZIP";
 
 /* Payments: Button text to get help with card */
-"PAYMENTS_CARD_SPEND_GET_HELP_ACTION" = "Get Card Help";
+"PAYMENTS_CARD_SPEND_GET_HELP_ACTION" = "Get card help";
 
 /* Payments: Error message shown when customer needs to provide more information */
 "PAYMENTS_CARD_SPEND_ISSUE_CARD_ERROR_CUSTOMER_MISSING_REQUIREMENTS_SUBTITLE" = "We need some additional information from you.";
@@ -156,11 +168,8 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Generic error title shown when card issuance fails */
 "PAYMENTS_CARD_SPEND_ISSUE_CARD_ERROR_GENERIC_TITLE" = "Unable to issue your card";
 
-/* Payments: Button text to continue ordering physical card */
-"PAYMENTS_CARD_SPEND_ISSUE_PHYSICAL_CARD_ACTION" = "Continue ordering for free";
-
-/* Payments: Button text to continue virtual card issuance */
-"PAYMENTS_CARD_SPEND_ISSUE_VIRTUAL_CARD_ACTION" = "Continue";
+/* Payments: Button text to continue card issuance */
+"PAYMENTS_CARD_SPEND_ORDER_CARD_ACTION" = "Get my card";
 
 /* Payments: Button text to confirm card details look correct */
 "PAYMENTS_CARD_SPEND_ORDER_PHYSICAL_CARD_CONFIRM_ACTION" = "Looks good, send it!";
@@ -172,73 +181,55 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_CARD_SPEND_ORDER_PHYSICAL_CARD_CONFIRM_TITLE" = "Review your details to make sure they are correct.";
 
 /* Payments: Button text to pause card transactions */
-"PAYMENTS_CARD_SPEND_PAUSE_TRANSACTIONS_ACTION" = "Pause Transactions";
+"PAYMENTS_CARD_SPEND_PAUSE_TRANSACTIONS_ACTION" = "Lock card";
 
 /* Payments: Toast message shown when card is activated */
 "PAYMENTS_CARD_SPEND_PHYSICAL_CARD_ACTIVATED_TOAST" = "Your card is ready to use";
 
-/* Payments: Button text to activate a card */
-"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_ACTIVATE_ACTION" = "Activate Card";
+/* Payments: Subtitle indicating card needs activation. %@ is replaced by an already localized date representing when the card arrived at the customer's place. */
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_INACTIVE_SUBTITLE" = "Card arrived on %@";
 
 /* Payments: Title indicating card needs activation */
-"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_INACTIVE_TITLE" = "Your card needs to be activated before it’s ready to use.";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_INACTIVE_TITLE" = "Ready to activate";
+
+/* Payments: Subtitle indicating card is locked. */
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_LOCKED_SUBTITLE" = "Future transactions will be declined";
+
+/* Payments: Title indicating card is locked */
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_LOCKED_TITLE" = "Your card is locked";
 
 /* Payments: Subtitle indicating shipping notification will be sent */
-"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_PROCESSING_SUBTITLE" = "We’ll let you know when it has shipped";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_PROCESSING_SUBTITLE" = "Use it online or in Apple Pay while you wait";
 
 /* Payments: Title indicating physical card is being processed */
-"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_PROCESSING_TITLE" = "Your card is being built.";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_PROCESSING_TITLE" = "Your card has been ordered";
 
-/* Payments: Subtitle showing estimated arrival date. %@ is replaced with an already-localized date */
-"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_SHIPPED_SUBTITLE" = "Estimated arrival on %@";
+/* Payments: Subtitle of the screen where the user confirms the PIN of their physical card */
+"PAYMENTS_CARD_SPEND_PIN_CONFIRMATION_SUBTITLE" = "You will use this at ATMs and certain card transactions. You can reset it at anytime.";
 
-/* Payments: Title indicating physical card has been shipped */
-"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_SHIPPED_TITLE" = "Your card has left the factory, and is on its way";
+/* Payments: Title of the screen where the user confirms the PIN of their physical card */
+"PAYMENTS_CARD_SPEND_PIN_CONFIRMATION_TITLE" = "Confirm your PIN";
+
+/* Payments: Subtitle of the screen where the user sets the PIN of their physical card */
+"PAYMENTS_CARD_SPEND_PIN_SUBTITLE" = "You will use this at ATMs and certain card transactions. You can reset it at anytime.";
+
+/* Payments: Title of the screen where the user sets the PIN of their physical card */
+"PAYMENTS_CARD_SPEND_PIN_TITLE" = "Set a PIN for your card";
 
 /* Payments: Button text to resume card transactions */
-"PAYMENTS_CARD_SPEND_RESUME_TRANSACTIONS_ACTION" = "Resume Transactions";
-
-/* Payments: Status label indicating physical card has to be activated */
-"PAYMENTS_CARD_SPEND_STATUS_INACTIVE" = "Arrived";
-
-/* Payments: Status label for new card */
-"PAYMENTS_CARD_SPEND_STATUS_NEW" = "New";
-
-/* Payments: Status label indicating card is now available for use */
-"PAYMENTS_CARD_SPEND_STATUS_NOW_AVAILABLE" = "Now Available";
-
-/* Payments: Status label indicating card is being processed */
-"PAYMENTS_CARD_SPEND_STATUS_PROCESSING" = "Processing";
-
-/* Payments: Status label indicating physical card has been shipped */
-"PAYMENTS_CARD_SPEND_STATUS_SHIPPED" = "Shipped";
+"PAYMENTS_CARD_SPEND_RESUME_TRANSACTIONS_ACTION" = "Unlock card";
 
 /* Payments: Subtitle of the card that gives users access to the "Spend" feature (Issued cards, ...) */
-"PAYMENTS_CARD_SPEND_SUBTITLE" = "Card";
+"PAYMENTS_CARD_SPEND_SUBTITLE" = "Spend";
 
 /* Payments: Disclaimer text for agreeing to cardholder terms */
-"PAYMENTS_CARD_SPEND_TERMS_DISCLAIMER" = "By continuing, you are hereby agreeing to the Cardholder Terms and Conditions, subject to change.";
+"PAYMENTS_CARD_SPEND_TERMS_DISCLAIMER" = "By ordering a card, you are agreeing to Cardholder Terms. Cards are issued by Cross River Bank, member FDIC";
 
 /* Payments: Link text for cardholder terms and conditions */
-"PAYMENTS_CARD_SPEND_TERMS_DISCLAIMER_LINK" = "Cardholder Terms and Conditions";
+"PAYMENTS_CARD_SPEND_TERMS_DISCLAIMER_LINK" = "Cardholder Terms";
 
-/* Payments: Subtitle explaining user needs to provide information to activate virtual card */
-"PAYMENTS_CARD_SPEND_TERMS_SUBTITLE_TERMS_AND_ONBOARDING" = "In order to activate your virtual card, we need you to provide a little bit of information.";
-
-/* Payments: Subtitle explaining user needs to approve terms to activate virtual card */
-"PAYMENTS_CARD_SPEND_TERMS_SUBTITLE_TERMS_ONLY" = "In order to activate your virtual card, we need you to approve the Cardholder Terms and Conditions.";
-
-/* Payments: Title for card spending terms screen */
-"PAYMENTS_CARD_SPEND_TERMS_TITLE" = "Spend";
-
-/* Payments: Title of the card that gives users access to the "Spend" feature (Issued cards, ...) */
-"PAYMENTS_CARD_SPEND_TITLE" = "Spend";
-
-/* Payments: Label indicating a physical card, that can be used in stores */
-"PAYMENTS_CARD_SPEND_TYPE_PHYSICAL" = "In Stores";
-
-/* Payments: Label indicating a virtual card, that can be used online */
-"PAYMENTS_CARD_SPEND_TYPE_VIRTUAL" = "Online";
+/* Payments: Title of the tile that gives users access to the "Card" feature (Issued cards, ...) */
+"PAYMENTS_CARD_SPEND_TITLE" = "Card";
 
 /* Payments: Display name for a charge card */
 "PAYMENTS_CARD_TYPE_CHARGE" = "Charge";
@@ -316,7 +307,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_CREATE_OR_REQUEST_TRANSFER_ACTION" = "Pay or Request";
 
 /* Payments: Headline shown above the current balance of the user’s account, on the Payments home. */
-"PAYMENTS_CURRENT_BALANCE_TITLE" = "Current Balance";
+"PAYMENTS_CURRENT_BALANCE_TITLE" = "Balance";
 
 /* Payments: Title of a button that allows the user to decline something (ex: verifying their ID). Should be kept generic. */
 "PAYMENTS_DECLINE_ACTION" = "Decline";
@@ -873,6 +864,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Action to view all transactions */
 "PAYMENTS_SEE_ALL_TRANSACTIONS_ACTION" = "See all";
 
+/* Payments: Title of the button to initiate a payment in X Payments. */
+"PAYMENTS_SEND_ACTION" = "Send";
+
 /* Payments: Option in the Settings to access the help center for X Payments. */
 "PAYMENTS_SETTINGS_HELP_CENTER" = "Help center";
 
@@ -987,11 +981,26 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the tile that allows a user to chat with X Money support */
 "PAYMENTS_SUPPORT_CONVERSATION_TITLE" = "Support";
 
+/* Payments: Title of the 'Activity' tab, which contains transactions & actions */
+"PAYMENTS_TAB_ACTIVITY" = "Activity";
+
+/* Payments: Title of the 'Balance' tab, which shows the amount available in the user account */
+"PAYMENTS_TAB_BALANCE" = "Balance";
+
+/* Payments: Title of the 'Card' tab, which contains info about the issued debit cards */
+"PAYMENTS_TAB_CARD" = "Card";
+
 /* Payments: Title for the Money feature */
 "PAYMENTS_TITLE" = "Money";
 
 /* Payments: Title for the transactions list screen */
 "PAYMENTS_TRANSACTIONS_TITLE" = "Transactions";
+
+/* Payments: Label for the date of a transaction */
+"PAYMENTS_TRANSACTION_ATTRIBUTE_DATE" = "Transaction date";
+
+/* Payments: Label for the identifier of a transaction */
+"PAYMENTS_TRANSACTION_ATTRIBUTE_ID" = "Transaction ID";
 
 /* Payments: Label for the recipient of a transaction */
 "PAYMENTS_TRANSACTION_ATTRIBUTE_RECIPIENT" = "To";
@@ -999,14 +1008,23 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Label for the sender of a transaction */
 "PAYMENTS_TRANSACTION_ATTRIBUTE_SENDER" = "From";
 
+/* Payments: Label for the status of a transaction */
+"PAYMENTS_TRANSACTION_ATTRIBUTE_STATUS" = "Status";
+
 /* Payments: Label for the type of transaction */
 "PAYMENTS_TRANSACTION_ATTRIBUTE_TYPE" = "Transaction type";
+
+/* Payments: Label for the payment method used for transaction */
+"PAYMENTS_TRANSACTION_ATTRIBUTE_USING" = "Using";
 
 /* Payments: Message indicating that a transaction request is waiting to be approved by the recipient */
 "PAYMENTS_TRANSACTION_AWAITING_REQUEST_ACCEPTANCE_MESSAGE" = "This request is pending until its approved by the recipient.";
 
 /* Payments: Title for the transaction details screen */
 "PAYMENTS_TRANSACTION_DETAILS_TITLE" = "Transaction details";
+
+/* Payments: Toast shown when the transaction ID has been copied to the iOS clipboard */
+"PAYMENTS_TRANSACTION_ID_COPIED" = "Transaction ID copied to clipboard";
 
 /* Payments: Message indicating that a transaction is under review */
 "PAYMENTS_TRANSACTION_IN_REVIEW_MESSAGE" = "This transaction is currently under review as part of our routine security checks. During this time, the transaction is paused. We aim to complete reviews quickly and will update you once it’s resolved.";
@@ -1041,8 +1059,20 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Message indicating that a transaction has been rejected by the recipient */
 "PAYMENTS_TRANSACTION_REJECTED_BY_RECEIVER_MESSAGE" = "This transaction has been rejected by the recipient.";
 
+/* Payments: Message indicating that a transaction was rejected because the region is not supported */
+"PAYMENTS_TRANSACTION_REJECTED_BY_UNSUPPORTED_REGION_MESSAGE" = "Sorry, we don’t support this region yet. Please try again later.";
+
+/* Payments: Message indicating that a transaction was rejected because card payments are disabled */
+"PAYMENTS_TRANSACTION_REJECTED_CARD_PAYMENTS_DISABLED_MESSAGE" = "For your protection, we’ve stopped this transaction due to unusual activity.";
+
+/* Payments: Message indicating that a transaction was rejected because it exceeded account limits */
+"PAYMENTS_TRANSACTION_REJECTED_LIMITS_EXCEEDED_MESSAGE" = "This exceeds your account’s limits. Please review your limits or try a lower amount.";
+
 /* Payments: Message indicating that a transaction has been rejected */
 "PAYMENTS_TRANSACTION_REJECTED_MESSAGE" = "This transaction has been rejected.";
+
+/* Payments: Message indicating that a transaction was rejected due to insufficient funds */
+"PAYMENTS_TRANSACTION_REJECTED_NOT_SUFFICIENT_FUNDS_MESSAGE" = "Your balance is insufficient. Please fund your account and try again.";
 
 /* Payments: Message indicating that a transaction request has been rejected by the recipient */
 "PAYMENTS_TRANSACTION_REQUEST_REJECTED_MESSAGE" = "This request has been rejected by the recipient.";
@@ -1075,10 +1105,40 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_TRANSACTION_SUPPORT_LINK_LABEL" = "here";
 
 /* Payments: Label for a deposit transaction type */
-"PAYMENTS_TRANSACTION_TYPE_DEPOSIT" = "Deposit to X account";
+"PAYMENTS_TRANSACTION_TYPE_ATM_WITHDRAWAL" = "ATM withdrawal";
+
+/* Payments: Label for a banking deposit transaction type */
+"PAYMENTS_TRANSACTION_TYPE_BANKING_DEPOSIT" = "Direct Deposit";
+
+/* Payments: Label for a banking withdraw transaction type */
+"PAYMENTS_TRANSACTION_TYPE_BANKING_WITHDRAW" = "Payment";
+
+/* Payments: Label for a deposit transaction type */
+"PAYMENTS_TRANSACTION_TYPE_DEPOSIT" = "Deposit to X";
+
+/* Payments: Label for an interest transaction type */
+"PAYMENTS_TRANSACTION_TYPE_INTEREST" = "Interest";
+
+/* Payments: Label for a card payment transaction type */
+"PAYMENTS_TRANSACTION_TYPE_PAYMENT" = "Card payment";
+
+/* Payments: Label for a refund transaction type */
+"PAYMENTS_TRANSACTION_TYPE_REFUND" = "Refund";
+
+/* Payments: Label for a reversed payment transaction type */
+"PAYMENTS_TRANSACTION_TYPE_REVERSE" = "Reversed payment";
+
+/* Payments: Label for a peer to peer transfer transaction type */
+"PAYMENTS_TRANSACTION_TYPE_TRANSFER" = "Peer-to-peer transfer";
 
 /* Payments: Label for a withdraw transaction type */
 "PAYMENTS_TRANSACTION_TYPE_WITHDRAW" = "Withdraw to bank";
+
+/* Payments: Message indicating that an unrecognized transaction was confirmed by the user */
+"PAYMENTS_TRANSACTION_UNRECOGNIZED_ACTIVITY_CONFIRMED_MESSAGE" = "Thanks for confirming your purchase. Please give it another try, and it should work smoothly now.";
+
+/* Payments: Message indicating that a transaction was rejected due to unrecognized activity */
+"PAYMENTS_TRANSACTION_UNRECOGNIZED_ACTIVITY_REJECTED_MESSAGE" = "For your protection, we’ve stopped this transaction due to unusual activity.";
 
 /* Payments: Placeholder text for adding a note to a transfer */
 "PAYMENTS_TRANSFER_ADD_A_NOTE" = "Add a note";
@@ -1149,40 +1209,37 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Action to view the user’s balance */
 "PAYMENTS_VIEW_BALANCE_ACTION" = "View balance";
 
+/* Payments: Title of the waitlist screen */
+"PAYMENTS_WAITLIST_TITLE" = "You’re on the waitlist";
+
 /* Payments: Name of the Payments wallet during a deposit/withdrawal */
 "PAYMENTS_WALLET_NAME" = "X account";
-
-/* Payments: Action to view the web receipt of a transaction */
-"PAYMENTS_WEB_RECEIPT_ACTION" = "Web receipt";
 
 /* Payments: Action to withdraw money from the Payments wallet */
 "PAYMENTS_WITHDRAW_ACTION" = "Withdraw";
 
 // Section: Frameworks/DMShared/Sources/DMSharedStrings/en.lproj/Localizable.strings
 
-/* DM message text when someone sent audio */
-"DM_MESSAGE_SENT_AUDIO" = "Sent audio";
+/* DM message preview for audio */
+"DM_MESSAGE_PREVIEW_AUDIO" = "Audio";
 
-/* DM message text when someone sent a file */
-"DM_MESSAGE_SENT_FILE" = "Sent a file";
+/* DM message preview for file */
+"DM_MESSAGE_PREVIEW_FILE" = "File";
 
-/* DM message text when someone sent a GIF */
-"DM_MESSAGE_SENT_GIF" = "Sent a GIF";
+/* DM message preview for GIF */
+"DM_MESSAGE_PREVIEW_GIF" = "GIF";
 
-/* DM message text when someone sent a image */
-"DM_MESSAGE_SENT_IMAGE" = "Sent an image";
+/* DM message preview for photo */
+"DM_MESSAGE_PREVIEW_PHOTO" = "Photo";
 
-/* DM message text when someone sent a link */
-"DM_MESSAGE_SENT_LINK" = "Sent a link";
+/* DM message preview for post */
+"DM_MESSAGE_PREVIEW_POST" = "Post";
 
-/* DM message text when someone sent a post */
-"DM_MESSAGE_SENT_POST" = "Sent a post";
+/* DM message preview for unknown attachment */
+"DM_MESSAGE_PREVIEW_UNKNOWN" = "Unknown attachment";
 
-/* DM message text when someone sent an unknown attachment */
-"DM_MESSAGE_SENT_UNKNOWN" = "Sent an attachment";
-
-/* DM message text when someone sent a video */
-"DM_MESSAGE_SENT_VIDEO" = "Sent a video";
+/* DM message preview for video */
+"DM_MESSAGE_PREVIEW_VIDEO" = "Video";
 
 /* DM notification body text in case we are unable to decrypt the message */
 "DM_NOTIFICATION_FALLBACK_BODY" = "Sent a message";
@@ -4267,6 +4324,9 @@ This text is the accessibility hint for the button that lets the user change the
 /* A description informing the user of the process involved in downloading their twitter data (The %@ is a placeholder for + link) */
 "DOWNLOAD_DATA_PROCESS_DESCRIPTION" = "You can request a ZIP file with an archive of your account information, account history, apps and devices, account activity, interests, and Ads data. You’ll get an in-app notification when the archive of your data is ready to download. %@";
 
+/* Download grok button */
+"DOWNLOAD_GROK_LABEL" = "Download Grok";
+
 /* Section header appearing on the download data screen */
 "DOWNLOAD_TWITTER_DATA_SECTION_HEADER" = "X data";
 
@@ -5905,7 +5965,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "LOGIN_VERIFICATION_SETTINGS_ADDITIONAL_METHODS_SECTION_TITLE" = "Additional methods";
 
 /* Button Label used to add a passkey when one passkey already exists */
-"LOGIN_VERIFICATION_SETTINGS_ADD_ANOTHER_PASSKEY_BUTTON_LABEL" = "Add a new passkey";
+"LOGIN_VERIFICATION_SETTINGS_ADD_ANOTHER_PASSKEY_BUTTON_LABEL" = "Create a new passkey";
 
 /* Button Label used to add a security key when one security key already exists */
 "LOGIN_VERIFICATION_SETTINGS_ADD_ANOTHER_SECURITY_KEY_BUTTON_LABEL" = "Add a new security key";
@@ -5915,6 +5975,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* Description of security settings page backup code section. A "learn more" link is inserted at the end */
 "LOGIN_VERIFICATION_SETTINGS_BACKUP_CODE_SECTION_DESCRIPTION_FORMAT" = "Get a single-use backup code so you can log in to X if you don’t have access to any of your two-factor authentication methods. %@";
+
+/* Button label for button to create a new passkey */
+"LOGIN_VERIFICATION_SETTINGS_CREATE_A_PASSKEY_BUTTON_LABEL" = "Create a new passkey";
 
 /* The default name we give to a two factor authentication security key that the user has not named yet. */
 "LOGIN_VERIFICATION_SETTINGS_DEFAULT_SECURITY_KEY_NAME" = "Unnamed Key";
@@ -5937,8 +6000,8 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Title of security settings page to manage a user's security keys for two factor authentication. On this page, users can view, rename, or delete security keys. */
 "LOGIN_VERIFICATION_SETTINGS_MANAGE_SECURITY_KEYS_TITLE" = "Manage 2FA keys";
 
-/* Title of security key section in manage 2fa screen*/
-"LOGIN_VERIFICATION_SETTINGS_MANAGE_SECURITY_PASSKEYS_TITLE" = "Passkeys";
+/* Title of manage passkeys screen*/
+"LOGIN_VERIFICATION_SETTINGS_MANAGE_SECURITY_PASSKEYS_TITLE" = "Manage passkeys";
 
 /* Title of security key section in manage 2fa screen*/
 "LOGIN_VERIFICATION_SETTINGS_MANAGE_SECURITY_SECURITY_KEYS_TITLE" = "Security Keys";
@@ -6504,6 +6567,12 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Label for a button to "Stop" by broadcasting a video */
 "NEWSCAMERA_STOP_LIVE_LABEL" = "Stop";
 
+/* Label for disabling person segmentation during camera capture */
+"NEWSCAMERA_SWITCH_POST_INSERTION_DISABLE_PERSON_SEGMENTATION" = "Disable person segmentation";
+
+/* Label for enabling person segmentation during camera capture */
+"NEWSCAMERA_SWITCH_POST_INSERTION_ENABLE_PERSON_SEGMENTATION" = "Enable person segmentation";
+
 /* Label for switching post insertion format */
 "NEWSCAMERA_SWITCH_POST_INSERTION_FORMAT" = "Toggle Render Mode";
 
@@ -6860,7 +6929,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_LANDING_PAGE_SECTION_PCF_BENEFITS_DESCRIPTION_FORMAT" = "Yes. The PCF label ensures people on X are not confused by your account, informing them that your account is not affiliated with the subject of the profile. If not labeled, your account may violate the %@.";
 
 /* Text of the linkable text for formatted within the Parody Commentary and Fan Account Label landing page section for Do I need to label my PCF account?.  */
-"PARODY_COMMENTARY_FAN_ACCOUNT_LANDING_PAGE_SECTION_PCF_BENEFITS_LINK_TEXT" = "Misleading and Deceptive Identities policy";
+"PARODY_COMMENTARY_FAN_ACCOUNT_LANDING_PAGE_SECTION_PCF_BENEFITS_LINK_TEXT" = "Authenticity policy";
 
 /* Title text for Parody Commentary and Fan Account Label landing page section for Do I need to label my PCF account?. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_LANDING_PAGE_SECTION_PCF_BENEFITS_TITLE" = "Do I need to label my PCF account?";
@@ -8955,6 +9024,12 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* The description of the setting for enabling / disabling Passkeys (a switch that can be turned on or off) */
 "SECURITY_SETTINGS_PASSKEY_DESCRIPTION" = "Enable Passkeys for added protection that may be tied to your biometrics.";
+
+/* The description for passkeys on main security screen */
+"SECURITY_SETTINGS_PASSKEY_DESCRIPTION_WITH_LEARN_MORE" = "Passkeys provide added protection that may be tied to your biometrics. %@";
+
+/* Description in passkey management screen */
+"SECURITY_SETTINGS_PASSKEY_MANAGEMENT_SCREEN_DESCRIPTION" = "Here are your passkeys across all your devices";
 
 /* Title of the row in settings that let you enable / disable Passkeys */
 "SECURITY_SETTINGS_PASSKEY_TITLE" = "Passkey";
@@ -13655,6 +13730,24 @@ eg. "Super Following Jack" */
 /* Informational title when you turn off vanishing mode */
 "DM_CONVERSATION_INFORMATIONAL_VANISHING_MODE_YOU_REMOVED" = "You turned off vanishing mode";
 
+/* DM Conversation message composer add Camera attachment action title */
+"DM_CONVERSATION_MESSAGE_COMPOSER_ADD_ATTACHMENT_ACTION_CAMERA_TITLE" = "Camera";
+
+/* DM Conversation message composer add Files attachment action title */
+"DM_CONVERSATION_MESSAGE_COMPOSER_ADD_ATTACHMENT_ACTION_FILES_TITLE" = "Files";
+
+/* DM Conversation message composer add GIFs attachment action title */
+"DM_CONVERSATION_MESSAGE_COMPOSER_ADD_ATTACHMENT_ACTION_GIFS_TITLE" = "GIFs";
+
+/* DM Conversation message composer add Photos attachment action title */
+"DM_CONVERSATION_MESSAGE_COMPOSER_ADD_ATTACHMENT_ACTION_PHOTOS_TITLE" = "Photos";
+
+/* DM Conversation message composer add attachment button accessibility label */
+"DM_CONVERSATION_MESSAGE_COMPOSER_ADD_ATTACHMENT_BUTTON_ACCESSIBILITY_LABEL" = "Add attachment";
+
+/* DM Conversation message composer send button accessibility label */
+"DM_CONVERSATION_MESSAGE_COMPOSER_SEND_BUTTON_ACCESSIBILITY_LABEL" = "Send";
+
 /* DM Conversation message composer text accessibility label */
 "DM_CONVERSATION_MESSAGE_COMPOSER_TEXT_ACCESSIBILITY_LABEL" = "Compose new message";
 
@@ -13663,6 +13756,51 @@ eg. "Super Following Jack" */
 
 /* DM Conversation message composer text start message placeholder */
 "DM_CONVERSATION_MESSAGE_COMPOSER_TEXT_START_MESSAGE_PLACEHOLDER" = "Start a message";
+
+/* DM Conversation participant Admin label */
+"DM_CONVERSATION_PARTICIPANT_ADMIN_LABEL" = "Admin";
+
+/* DM Conversation vanishing mode duration accessibility label, %@ = duration (e.g. 1 hour, 1 week, etc.) */
+"DM_CONVERSATION_VANISHING_MODE_DURATION_ACCESSIBILITY_LABEL" = "%@ vanishing mode";
+
+/* DM Conversation vanishing mode duration eight hours */
+"DM_CONVERSATION_VANISHING_MODE_DURATION_EIGHT_HOURS_TITLE" = "8 hours";
+
+/* DM Conversation vanishing mode duration five minutes */
+"DM_CONVERSATION_VANISHING_MODE_DURATION_FIVE_MINUTES_TITLE" = "5 minutes";
+
+/* DM Conversation vanishing mode duration four weeks */
+"DM_CONVERSATION_VANISHING_MODE_DURATION_FOUR_WEEKS_TITLE" = "4 weeks";
+
+/* DM Conversation vanishing mode duration off */
+"DM_CONVERSATION_VANISHING_MODE_DURATION_OFF_TITLE" = "Off";
+
+/* DM Conversation vanishing mode duration one day */
+"DM_CONVERSATION_VANISHING_MODE_DURATION_ONE_DAY_TITLE" = "1 day";
+
+/* DM Conversation vanishing mode duration one hour */
+"DM_CONVERSATION_VANISHING_MODE_DURATION_ONE_HOUR_TITLE" = "1 hour";
+
+/* DM Conversation vanishing mode duration one week */
+"DM_CONVERSATION_VANISHING_MODE_DURATION_ONE_WEEK_TITLE" = "1 week";
+
+/* DM Early Access Badge Title */
+"DM_EARLY_ACCESS_BADGE_TITLE" = "Early access";
+
+/* DM Edit Conversation add group name action title */
+"DM_EDIT_CONVERSATION_ACTION_ADD_GROUP_NAME_TITLE" = "Add group name";
+
+/* DM Edit Conversation change photo action title */
+"DM_EDIT_CONVERSATION_ACTION_CHANGE_PHOTO_TITLE" = "Change photo";
+
+/* DM Edit Conversation edit name action title */
+"DM_EDIT_CONVERSATION_ACTION_EDIT_NAME_TITLE" = "Edit Name";
+
+/* DM Edit Conversation remove current photo action title */
+"DM_EDIT_CONVERSATION_ACTION_REMOVE_CURRENT_PHOTO_TITLE" = "Remove current photo";
+
+/* DM Edit Conversation select new photo action title */
+"DM_EDIT_CONVERSATION_ACTION_SELECT_NEW_PHOTO_TITLE" = "Select new photo";
 
 /* DM try again error message */
 "DM_ERROR_MESSAGE_TRY_AGAIN" = "Please try again later";
@@ -13680,10 +13818,10 @@ eg. "Super Following Jack" */
 "DM_INBOX_EMPTY_ACTION_START_A_CONVERSATION" = "Write a message";
 
 /* DM Inbox Empty message */
-"DM_INBOX_EMPTY_MESSAGE" = "Drop a line, share posts and more with private conversations between you and others on X.";
+"DM_INBOX_EMPTY_MESSAGE" = "Start chatting with end-to-end encryption";
 
 /* DM Inbox Empty title */
-"DM_INBOX_EMPTY_TITLE" = "Welcome to your inbox!";
+"DM_INBOX_EMPTY_TITLE" = "No chats yet";
 
 /* DM Inbox new message button accessibility label */
 "DM_INBOX_NEW_MESSAGE_ACCESSIBILITY_LABEL" = "Compose New Message";
@@ -13696,6 +13834,9 @@ eg. "Super Following Jack" */
 
 /* DM Manage Conversation Add people action title */
 "DM_MANAGE_CONVERSATION_ACTION_ADD_PEOPLE_TITLE" = "Add people";
+
+/* DM Manage Conversation Edit action title */
+"DM_MANAGE_CONVERSATION_ACTION_EDIT_TITLE" = "Edit";
 
 /* DM Manage Conversation Remove as admin action error title */
 "DM_MANAGE_CONVERSATION_ACTION_REMOVE_AS_ADMIN_ERROR_TITLE" = "Unable to remove as admin";
@@ -13727,8 +13868,17 @@ eg. "Super Following Jack" */
 /* DM Manage Conversation navigation bar group info title */
 "DM_MANAGE_CONVERSATION_NAVIGATION_BAR_GROUP_INFO_TITLE" = "Group info";
 
+/* DM Manage Conversation People section title */
+"DM_MANAGE_CONVERSATION_SECTION_PEOPLE_TITLE" = "People";
+
+/* DM message action Add reaction error title */
+"DM_MESSAGE_ACTION_ADD_REACTION_ERROR_TITLE" = "Unable to add reaction";
+
 /* DM message action Add reaction title */
 "DM_MESSAGE_ACTION_ADD_REACTION_TITLE" = "Add reaction";
+
+/* DM message Cancel message error title */
+"DM_MESSAGE_ACTION_CANCEL_ERROR_TITLE" = "Unable to cancel message";
 
 /* DM message action Cancel title */
 "DM_MESSAGE_ACTION_CANCEL_TITLE" = "Cancel message";
@@ -13775,11 +13925,17 @@ eg. "Super Following Jack" */
 /* DM message action Copy video title */
 "DM_MESSAGE_ACTION_COPY_VIDEO_TITLE" = "Copy video";
 
+/* DM message action Delete error title */
+"DM_MESSAGE_ACTION_DELETE_ERROR_TITLE" = "Unable to delete message";
+
 /* DM message action Delete for all title */
 "DM_MESSAGE_ACTION_DELETE_FOR_ALL_TITLE" = "Delete message for all";
 
 /* DM message action Delete for you title */
 "DM_MESSAGE_ACTION_DELETE_FOR_YOU_TITLE" = "Delete message for you";
+
+/* DM message action Edit error title */
+"DM_MESSAGE_ACTION_EDIT_ERROR_TITLE" = "Unable to edit message";
 
 /* DM message action Edit title */
 "DM_MESSAGE_ACTION_EDIT_TITLE" = "Edit message";
@@ -13795,6 +13951,9 @@ eg. "Super Following Jack" */
 
 /* DM message action Open phone number title */
 "DM_MESSAGE_ACTION_OPEN_PHONE_NUMBER_TITLE" = "Call";
+
+/* DM message action Remove reaction error title */
+"DM_MESSAGE_ACTION_REMOVE_REACTION_ERROR_TITLE" = "Unable to remove reaction";
 
 /* DM message action Reply title */
 "DM_MESSAGE_ACTION_REPLY_TITLE" = "Reply";
@@ -13823,8 +13982,26 @@ eg. "Super Following Jack" */
 /* DM message action Share video title */
 "DM_MESSAGE_ACTION_SHARE_VIDEO_TITLE" = "Share video";
 
+/* DM message attachment action tap to load title */
+"DM_MESSAGE_ATTACHMENT_ACTION_TAP_TO_LOAD_TITLE" = "Tap to Load";
+
+/* DM message attachment error loading title */
+"DM_MESSAGE_ATTACHMENT_ERROR_LOADING_TITLE" = "Error loading file. Please try again.";
+
 /* DM message attachment filename fallback */
 "DM_MESSAGE_ATTACHMENT_FILENAME_FALLBACK" = "Attachment";
+
+/* DM message attachment gif accessibility label */
+"DM_MESSAGE_ATTACHMENT_GIF_ACCESSIBILITY_LABEL" = "Gif";
+
+/* DM message attachment tap to view accessibility label */
+"DM_MESSAGE_ATTACHMENT_TAP_TO_OPEN_ACCESSIBILITY_HINT" = "Tap to open";
+
+/* DM message attachment tap to view accessibility hint */
+"DM_MESSAGE_ATTACHMENT_TAP_TO_VIEW_ACCESSIBILITY_HINT" = "Tap to view";
+
+/* DM message attachment video accessibility label */
+"DM_MESSAGE_ATTACHMENT_VIDEO_ACCESSIBILITY_LABEL" = "Video";
 
 /* DM Message composer reply header title for edit message */
 "DM_MESSAGE_COMPOSER_EDIT_MESSAGE_HEADER_TITLE" = "Edit message";
@@ -13834,6 +14011,15 @@ eg. "Super Following Jack" */
 
 /* DM Message composer reply title when there is no screen name of the person you're replying to */
 "DM_MESSAGE_COMPOSER_REPLY_TITLE_ONLY" = "Replying";
+
+/* DM Message Details Seen By No One Title */
+"DM_MESSAGE_DETAILS_SEEN_BY_NO_ONE_TITLE" = "This message hasn’t been seen yet.";
+
+/* DM Message Details Seen By Title */
+"DM_MESSAGE_DETAILS_SEEN_BY_TITLE" = "Seen By";
+
+/* DM Message Details Sent By Title */
+"DM_MESSAGE_DETAILS_SENT_BY_TITLE" = "Sent By";
 
 /* DM Message reply subtitle when replying to an audio message with no text */
 "DM_MESSAGE_REPLY_SUBTITLE_AUDIO" = "Audio";
@@ -13865,6 +14051,24 @@ eg. "Super Following Jack" */
 /* Status appearing underneath message when read */
 "DM_MESSAGE_STATUS_READ_ONLY" = "Read";
 
+/* Message text received reply accessibility label including sender. %1$@: display name of sender, %2$@: display name of reply sender */
+"DM_MESSAGE_TEXT_RECEIVED_REPLY_WITH_SENDER_ACCESSIBILITY_LABEL" = "%1$@ replying to %2$@";
+
+/* Message text received reply accessibility label including sender and text. %1$@: display name of sender, %2$@: display name of reply sender, %3$@: message text */
+"DM_MESSAGE_TEXT_RECEIVED_REPLY_WITH_SENDER_AND_TEXT_ACCESSIBILITY_LABEL" = "%1$@ replying to %2$@: %3$@";
+
+/* Message text received accessibility label including sender. %1$@: display name of sender, %2$@: message text */
+"DM_MESSAGE_TEXT_RECEIVED_WITH_SENDER_ACCESSIBILITY_LABEL" = "%1$@: %2$@";
+
+/* Message text sent reply accessibility label including sender. %@: display name of reply sender */
+"DM_MESSAGE_TEXT_SENT_REPLY_WITH_SENDER_ACCESSIBILITY_LABEL" = "You replying to %@";
+
+/* Message text sent reply accessibility label including sender and text. %1$@: display name of reply sender, %2$@: message text */
+"DM_MESSAGE_TEXT_SENT_REPLY_WITH_SENDER_AND_TEXT_ACCESSIBILITY_LABEL" = "You replying to %1$@: %2$@";
+
+/* Message text sent accessibility label including sender. %@: message text */
+"DM_MESSAGE_TEXT_SENT_WITH_SENDER_ACCESSIBILITY_LABEL" = "You: %@";
+
 /* Suggestions list group cell subtitle when multiple users. The %@ is replaced by the number of participants. */
 "DM_MULTIPLE_PEOPLE_GROUP_SUBTITLE" = "%@ people";
 
@@ -13873,6 +14077,12 @@ eg. "Super Following Jack" */
 
 /* DM New Conversation create group action */
 "DM_NEW_CONVERSATION_ACTION_CREATE_GROUP" = "Create a group";
+
+/* DM New Conversation select user action no PIN error title */
+"DM_NEW_CONVERSATION_ACTION_SELECT_USER_ERROR_NO_PIN_MESSAGE" = "This account must set up their PIN before you’re able to message them.";
+
+/* DM New Conversation select user action error title */
+"DM_NEW_CONVERSATION_ACTION_SELECT_USER_ERROR_TITLE" = "Sorry! You cannot message this account";
 
 /* DM New Conversation navigation bar add people title */
 "DM_NEW_CONVERSATION_NAVIGATION_BAR_ADD_PEOPLE_TITLE" = "Add people";
@@ -13894,6 +14104,9 @@ eg. "Super Following Jack" */
 
 /* DM PIN Entry Education Yes Button Title */
 "DM_PIN_ENTRY_BUTTON_TITLE_EDUCATION_YES" = "Yes, reset PIN";
+
+/* DM PIN Entry Onboarding Button Title */
+"DM_PIN_ENTRY_BUTTON_TITLE_ONBOARDING" = "Continue";
 
 /* DM PIN Entry Two FA Button Title */
 "DM_PIN_ENTRY_BUTTON_TITLE_TWO_FA" = "Continue";
@@ -13925,6 +14138,9 @@ eg. "Super Following Jack" */
 /* DM PIN Entry Juicebox Error: Rate Limit Exceeded */
 "DM_PIN_ENTRY_ERROR_JUICEBOX_RATE_LIMIT_EXCEEDED" = "Rate limit exceeded. Please try again later.";
 
+/* DM PIN Entry Juicebox Error: Storage Failed */
+"DM_PIN_ENTRY_ERROR_JUICEBOX_STORAGE_FAILED" = "Storage failed. Please try again later.";
+
 /* DM PIN Entry Juicebox Error: Transient */
 "DM_PIN_ENTRY_ERROR_JUICEBOX_TRANSIENT" = "Something went wrong. Please check your network connection and try again.";
 
@@ -13945,6 +14161,24 @@ eg. "Super Following Jack" */
 
 /* DM PIN Entry Forgot PIN Button Title */
 "DM_PIN_ENTRY_FORGOT_PIN_BUTTON_TITLE" = "Forgot PIN";
+
+/* DM PIN Entry Onboarding Feature End-to-End Encryption Subtitle */
+"DM_PIN_ENTRY_ONBOARDING_FEATURE_ENCRYPTION_SUBTITLE" = "Messages are end-to-end encrypted across all your devices.";
+
+/* DM PIN Entry Onboarding Feature End-to-End Encryption Title */
+"DM_PIN_ENTRY_ONBOARDING_FEATURE_ENCRYPTION_TITLE" = "End-to-end encryption";
+
+/* DM PIN Entry Onboarding Feature Set up a Passcode Subtitle */
+"DM_PIN_ENTRY_ONBOARDING_FEATURE_PASSCODE_SUBTITLE" = "In order to secure your messages, you’ll need to set up a 4-digit passcode.";
+
+/* DM PIN Entry Onboarding Feature Set up a Passcode Title */
+"DM_PIN_ENTRY_ONBOARDING_FEATURE_PASSCODE_TITLE" = "Set up a passcode";
+
+/* DM PIN Entry Onboarding Feature State-of-the-art Privacy Subtitle */
+"DM_PIN_ENTRY_ONBOARDING_FEATURE_PRIVACY_SUBTITLE" = "There’s no way for anyone, including X, to read your messages.";
+
+/* DM PIN Entry Onboarding Feature State-of-the-art Privacy Title */
+"DM_PIN_ENTRY_ONBOARDING_FEATURE_PRIVACY_TITLE" = "State-of-the-art privacy";
 
 /* DM PIN Entry Create Subtitle */
 "DM_PIN_ENTRY_SUBTITLE_CREATE" = "Set a pin so that your messages are secure and nobody else can access them. We’ll periodically ask you to enter it to ensure you remember.";
@@ -13979,6 +14213,9 @@ eg. "Super Following Jack" */
 /* DM PIN Entry Forgot Create Confirm Title */
 "DM_PIN_ENTRY_TITLE_FORGOT_CREATE_CONFIRM" = "Confirm your new PIN";
 
+/* DM PIN Entry Onboarding Title */
+"DM_PIN_ENTRY_TITLE_ONBOARDING" = "Messages are now fully encrypted";
+
 /* DM PIN Entry Recovery & Reminder Title 4-Digit */
 "DM_PIN_ENTRY_TITLE_RECOVER_REMINDER_FOUR_DIGIT" = "Enter your 4-digit PIN";
 
@@ -13995,7 +14232,7 @@ eg. "Super Following Jack" */
 "DM_PIN_REMINDER_TITLE" = "PIN Verification";
 
 /* DM PIN Toast Create Title */
-"DM_PIN_TOAST_CREATE_TITLE" = "Direct message PIN created";
+"DM_PIN_TOAST_CREATE_TITLE" = "PIN created";
 
 /* DM PIN Toast Forgot Create Title */
 "DM_PIN_TOAST_FORGOT_CREATE_TITLE" = "Successfully created a new PIN";
@@ -14004,13 +14241,16 @@ eg. "Super Following Jack" */
 "DM_PIN_TOAST_FORGOT_RECOVER_TITLE" = "Successfully changed your PIN";
 
 /* DM PIN Toast Recover Title */
-"DM_PIN_TOAST_RECOVER_TITLE" = "Direct messages unlocked";
+"DM_PIN_TOAST_RECOVER_TITLE" = "Inbox unlocked";
 
 /* DM PIN Toast Reminder Title */
 "DM_PIN_TOAST_REMINDER_TITLE" = "PIN verification complete";
 
 /* DM Emoji picker Add reaction accessibility hint */
 "DM_REACTIONS_ADD_REACTION_ACCESSIBILITY_HINT" = "Adds reaction";
+
+/* DM Reactions Sheet Empty State Message */
+"DM_REACTIONS_EMPTY" = "No one has reacted to this message.";
 
 /* DM Emoji picker Recently used section */
 "DM_REACTIONS_RECENTLY_USED_SECTION" = "Recently used";
@@ -14023,6 +14263,9 @@ eg. "Super Following Jack" */
 
 /* Send message hint on text entry. */
 "DM_SEND_MESSAGE_ENTRY_HINT" = "Send Message";
+
+/* DM Settings title */
+"DM_SETTINGS_TITLE" = "Messages settings";
 
 /* DM Tab navigation bar messages title */
 "DM_TAB_NAVIGATION_BAR_MESSAGES_TITLE" = "Messages";
@@ -18380,6 +18623,12 @@ eg. "Super Following Jack" */
 /* Message Grok says after uses cancels the chat */
 "GROK_CANCELLED_REQUEST" = "Okay I’ve cancelled your request.";
 
+/* Label for x-axis on a chart for a Finance Card*/
+"GROK_CARD_FINANCE_CHART_LABEL_TIME" = "Time";
+
+/* Label for y-axis on a chart for a Finance Card*/
+"GROK_CARD_FINANCE_CHART_LABEL_VALUE" = "Value";
+
 /* Bottom of a sports card. Will contain a date and time. */
 "GROK_CARD_UPDATED_AT_LABEL" = "Updated at %@";
 
@@ -18526,6 +18775,15 @@ eg. "Super Following Jack" */
 
 /* A label for Grok Fun mode */
 "GROK_FUN_LABEL" = "Fun";
+
+/* Call to action GET button */
+"GROK_HOME_DOWNLOAD_BANNER_ACTION" = "GET";
+
+/* Copy for Grok download banner description */
+"GROK_HOME_DOWNLOAD_BANNER_DESCRIPTION" = "Access advanced Grok features";
+
+/* Copy for Grok download banner title */
+"GROK_HOME_DOWNLOAD_BANNER_TITLE" = "Download the iOS app";
 
 /* Copy for Grok free banner */
 "GROK_HOME_FREE_BANNER_COPY" = "A free tier of Grok is now available in your region. Chat, generate images, and analyze photos. Limits apply.";
@@ -19833,6 +20091,9 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
    reader) to pause between the two phrases. */
 "CONCATENATION_ACCESSIBILITY_STRING" = ".";
 
+/* General title for a confirmation alert */
+"CONFIRMATION_ALERT_GENERAL_TITLE" = "Are you sure?";
+
 /* Label for confirming action */
 "CONFIRM_ACTION_LABEL" = "Confirm";
 
@@ -20245,6 +20506,9 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* Profile label displayed when the user enables the FAN profile label in account settings. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_FAN_PROFILE_LABEL_TEXT" = "Fan account";
+
+/* Description of 48 hours cooldown when updating PCF label */
+"PARODY_COMMENTARY_FAN_ACCOUNT_LABEL_UPDATE_COOLDOWN_WARNING_MESSAGE" = "Once updated, further updates will be locked for 48 hours.";
 
 /* Label displayed for NONE option for profile label in account settings. */
 "PARODY_COMMENTARY_FAN_ACCOUNT_NONE_OPTION_TEXT" = "None";
@@ -21120,6 +21384,9 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* XChat */
 "XCHAT" = "XChat";
+
+/* Toast title when trying to access XChat and it is not available */
+"XCHAT_NOT_AVAILABLE_TOAST_TITLE" = "This feature is not available";
 
 /* More results of search */
 "X_SEARCH_MORE_RESULTS" = "+%1$@ more";

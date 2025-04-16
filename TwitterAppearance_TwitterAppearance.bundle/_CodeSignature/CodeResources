@@ -76,6 +76,10 @@
 		<data>
 		CAYZ+pyRQm7JAPvZspBQBC6An+g=
 		</data>
+		<key>VectorImages/main/arrow_down_left.svg</key>
+		<data>
+		fuFg+fPA/hInFCGkQALF058Ktas=
+		</data>
 		<key>VectorImages/main/arrow_left.svg</key>
 		<data>
 		b0bKm8FysRsAb3e9XBxJHvQjGR8=
@@ -1467,6 +1471,10 @@
 		<key>VectorImages/main/paperclip.svg</key>
 		<data>
 		3HwqiQyiIhqIAyWbe4bKUcfmJVg=
+		</data>
+		<key>VectorImages/main/passcode.svg</key>
+		<data>
+		mG5+Ht1+OBwV2YB1Ei/IOtLmWEc=
 		</data>
 		<key>VectorImages/main/pause.svg</key>
 		<data>
@@ -2923,6 +2931,17 @@
 			<key>hash2</key>
 			<data>
 			2URUabhrrQGysqlWf77flrJe1yt4Aepxb7Nn675qhpo=
+			</data>
+		</dict>
+		<key>VectorImages/main/arrow_down_left.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fuFg+fPA/hInFCGkQALF058Ktas=
+			</data>
+			<key>hash2</key>
+			<data>
+			lCo5WhUlLzOZcqPVE3ba0ZhoRZ4Q83wP22WkGenQ1HY=
 			</data>
 		</dict>
 		<key>VectorImages/main/arrow_left.svg</key>
@@ -6751,6 +6770,17 @@
 			<key>hash2</key>
 			<data>
 			fUw1tCUhaNTW7MUlODfff0TI2gVcbS0BTVZNKEKAujo=
+			</data>
+		</dict>
+		<key>VectorImages/main/passcode.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mG5+Ht1+OBwV2YB1Ei/IOtLmWEc=
+			</data>
+			<key>hash2</key>
+			<data>
+			rP3CGcQ/7O7jsBE8/aaE92Q3sZr9fq1URoChc8Dymms=
 			</data>
 		</dict>
 		<key>VectorImages/main/pause.svg</key>

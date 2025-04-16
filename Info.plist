@@ -190,7 +190,7 @@
       <string>cashme</string>
       <string>chatgpt</string>
       <string>comgooglemaps</string>
-      <string>doordash</string>
+      <string>xai-grok</string>
       <string>duolingo</string>
       <string>fb</string>
       <string>fb-messenger</string>
@@ -351,7 +351,7 @@
     <key>MinimumOSVersion</key>
     <string>15.0</string>
     <key>TWBuildNumber</key>
-    <string>9</string>
+    <string>14</string>
     <key>NSPhotoLibraryAddUsageDescription</key>
     <string>This lets you download photos and videos to your Photos.</string>
     <key>SKAdNetworkItems</key>
@@ -568,9 +568,9 @@
     <key>CFBundleName</key>
     <string>Twitter</string>
     <key>CFBundleShortVersionString</key>
-    <string>10.89</string>
+    <string>10.90</string>
     <key>TWBuildTime</key>
-    <string>2025-03-28T22:23:24Z</string>
+    <string>2025-04-04T22:37:07Z</string>
     <key>UIBackgroundModes</key>
     <array>
       <string>audio</string>
@@ -578,6 +578,8 @@
       <string>remote-notification</string>
       <string>voip</string>
     </array>
+    <key>TWSharedKeychainIdentifier</key>
+    <string>8248RGMF2D.com.atebits.Tweetie2</string>
     <key>UIRequiredDeviceCapabilities</key>
     <array>
       <string>arm64</string>
@@ -596,16 +598,14 @@
       <string>Chirp/ChirpCY-Regular.otf</string>
       <string>Chirp/Chirp-UI-VF-With-Overriden-Emoji.ttf</string>
     </array>
-    <key>UIStatusBarHidden</key>
-    <true/>
     <key>UIViewControllerBasedStatusBarAppearance</key>
     <true/>
     <key>TWBuildTrain</key>
     <string>X</string>
+    <key>UIStatusBarHidden</key>
+    <true/>
     <key>CFBundleExecutable</key>
     <string>Twitter</string>
-    <key>NSLocalNetworkUsageDescription</key>
-    <string>X uses the local network to discover Cast-enabled devices on your WiFi network.</string>
     <key>UISupportedInterfaceOrientations~ipad</key>
     <array>
       <string>UIInterfaceOrientationPortrait</string>
@@ -615,6 +615,8 @@
     </array>
     <key>GADDelayInitialization</key>
     <integer>1</integer>
+    <key>NSLocalNetworkUsageDescription</key>
+    <string>X uses the local network to discover Cast-enabled devices on your WiFi network.</string>
     <key>NSSpeechRecognitionUsageDescription</key>
     <string>Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.</string>
     <key>UIPrerenderedIcon</key>
@@ -642,7 +644,7 @@
     <key>TWPushEnvironment</key>
     <string>3</string>
     <key>CFBundleVersion</key>
-    <string>9</string>
+    <string>14</string>
     <key>CFBundleDevelopmentRegion</key>
     <string>English</string>
     <key>DTCompiler</key>
