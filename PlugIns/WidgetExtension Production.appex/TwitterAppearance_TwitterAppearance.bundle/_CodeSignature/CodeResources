@@ -76,9 +76,9 @@
 		<data>
 		CAYZ+pyRQm7JAPvZspBQBC6An+g=
 		</data>
-		<key>VectorImages/main/arrow_down_left.svg</key>
+		<key>VectorImages/main/arrow_down_right.svg</key>
 		<data>
-		fuFg+fPA/hInFCGkQALF058Ktas=
+		481wFTrzohPWM79/CmGimsu8gCc=
 		</data>
 		<key>VectorImages/main/arrow_left.svg</key>
 		<data>
@@ -560,6 +560,14 @@
 		<data>
 		NCrLqvMEq3TDEgVSxAkqFNgkezM=
 		</data>
+		<key>VectorImages/main/copy_stroke.svg</key>
+		<data>
+		iFK9XZr533/X/+4KT5LJYSVXRP8=
+		</data>
+		<key>VectorImages/main/credit_card_back_alt_stroke.svg</key>
+		<data>
+		OkFFdfVnMdc17UUGg8Qr43DHyu8=
+		</data>
 		<key>VectorImages/main/creditcard_back.svg</key>
 		<data>
 		h24XrR1mloO5ncgwKV1b8fqj+Ls=
@@ -628,6 +636,10 @@
 		<data>
 		jt4k9srqMLez/A0KkGoor9wvUHE=
 		</data>
+		<key>VectorImages/main/dot_grid.svg</key>
+		<data>
+		Vb8+gmEesp9HvaymrgdW07cE+2A=
+		</data>
 		<key>VectorImages/main/drafts.svg</key>
 		<data>
 		FT0GBVDhoLBzahXcBeG9XlQ8AmE=
@@ -656,6 +668,10 @@
 		<data>
 		Q5JtlKKWmc79nWf2YJBAP1tLrQE=
 		</data>
+		<key>VectorImages/main/esc.svg</key>
+		<data>
+		bePPY/KY35Ddeu3/dFxao8xtCq8=
+		</data>
 		<key>VectorImages/main/exiting.svg</key>
 		<data>
 		w3NXZI9hVjiND6MPkqfF20wIq6Y=
@@ -667,6 +683,10 @@
 		<key>VectorImages/main/eye_off.svg</key>
 		<data>
 		yOEC24+Q+9xIflzu1RW1/zS1L74=
+		</data>
+		<key>VectorImages/main/faceid.svg</key>
+		<data>
+		g/zyncPfEYRXwB7SKJhZeh3W9I8=
 		</data>
 		<key>VectorImages/main/fast_forward.svg</key>
 		<data>
@@ -1088,6 +1108,10 @@
 		<data>
 		FYnop5oAbM5xET6DINtOtdQhQVM=
 		</data>
+		<key>VectorImages/main/lock_alt_stroke.svg</key>
+		<data>
+		iGcm+05dRiKumx+gZd8ozoHLcvo=
+		</data>
 		<key>VectorImages/main/lock_stroke.svg</key>
 		<data>
 		stqnq8mjz/66EjhQS4X4UL+9cLg=
@@ -1095,6 +1119,10 @@
 		<key>VectorImages/main/lock_unlocked.svg</key>
 		<data>
 		W96JcSSdZD8ieWBrU6gqGAE1L0k=
+		</data>
+		<key>VectorImages/main/lock_unlocked_alt_stroke.svg</key>
+		<data>
+		3+Ll4p5ndARUDjF6Y7VkQutK5yA=
 		</data>
 		<key>VectorImages/main/logo_apple.svg</key>
 		<data>
@@ -1355,6 +1383,10 @@
 		<key>VectorImages/main/money.svg</key>
 		<data>
 		iYQV6ti9jgKARo+xeHzxSEySap4=
+		</data>
+		<key>VectorImages/main/money_hand_stroke.svg</key>
+		<data>
+		NHJ7qo02IgYa/NmiLkRa/ig/8ss=
 		</data>
 		<key>VectorImages/main/money_stroke.svg</key>
 		<data>
@@ -2216,6 +2248,10 @@
 		<data>
 		G/YLVk8obMhGhV515M5CZKrWa5Y=
 		</data>
+		<key>VectorImages/main/trending_stroke.svg</key>
+		<data>
+		/QGOhtzQJ1/DVFCUzdQgyYbcXsc=
+		</data>
 		<key>VectorImages/main/twitter.svg</key>
 		<data>
 		MvFj24qAQRV0qF11kE90kDzXK+Y=
@@ -2933,15 +2969,15 @@
 			2URUabhrrQGysqlWf77flrJe1yt4Aepxb7Nn675qhpo=
 			</data>
 		</dict>
-		<key>VectorImages/main/arrow_down_left.svg</key>
+		<key>VectorImages/main/arrow_down_right.svg</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fuFg+fPA/hInFCGkQALF058Ktas=
+			481wFTrzohPWM79/CmGimsu8gCc=
 			</data>
 			<key>hash2</key>
 			<data>
-			lCo5WhUlLzOZcqPVE3ba0ZhoRZ4Q83wP22WkGenQ1HY=
+			6dzT1TdJ8nQsMGXI2/wfqYH7sfuhYKroLkakZS/9jGw=
 			</data>
 		</dict>
 		<key>VectorImages/main/arrow_left.svg</key>
@@ -4264,6 +4300,28 @@
 			y/Q9+nL8oL82pKkkWToVuI0/9OMSBc5iCrVI6kM3nEc=
 			</data>
 		</dict>
+		<key>VectorImages/main/copy_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iFK9XZr533/X/+4KT5LJYSVXRP8=
+			</data>
+			<key>hash2</key>
+			<data>
+			1Jg6jzOUzz4cUfDqzDIZrgnomciaDkdcrVjS/hLp9BA=
+			</data>
+		</dict>
+		<key>VectorImages/main/credit_card_back_alt_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OkFFdfVnMdc17UUGg8Qr43DHyu8=
+			</data>
+			<key>hash2</key>
+			<data>
+			j7TIKLPWTq5cq55hGjAkVyzy/qLrs/p6T1okRGqDn9U=
+			</data>
+		</dict>
 		<key>VectorImages/main/creditcard_back.svg</key>
 		<dict>
 			<key>hash</key>
@@ -4451,6 +4509,17 @@
 			Ja7StbrtunYwTShbqWji0q13y8cbIcyVWcLTQN4Y/f8=
 			</data>
 		</dict>
+		<key>VectorImages/main/dot_grid.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Vb8+gmEesp9HvaymrgdW07cE+2A=
+			</data>
+			<key>hash2</key>
+			<data>
+			5MTlKDT1BJApGBXFTBYvMPgphWtM7weT8fdYdQu1iII=
+			</data>
+		</dict>
 		<key>VectorImages/main/drafts.svg</key>
 		<dict>
 			<key>hash</key>
@@ -4528,6 +4597,17 @@
 			tKEogMcZV334gnuiwNIvOP0Ad1tIFRjhBX/2yfaTWG8=
 			</data>
 		</dict>
+		<key>VectorImages/main/esc.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bePPY/KY35Ddeu3/dFxao8xtCq8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Y3hNngbFqmKVnG+XAyxTqdPQFOsmayI2yMoHGSsHo1o=
+			</data>
+		</dict>
 		<key>VectorImages/main/exiting.svg</key>
 		<dict>
 			<key>hash</key>
@@ -4559,6 +4639,17 @@
 			<key>hash2</key>
 			<data>
 			TUXSPWIIDOYG2bdLBmIE+qxNzr77m1QHd9gn2IzYACY=
+			</data>
+		</dict>
+		<key>VectorImages/main/faceid.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			g/zyncPfEYRXwB7SKJhZeh3W9I8=
+			</data>
+			<key>hash2</key>
+			<data>
+			eN8WAOn6oTPlnOEoKada606NrkaoJSNAxPdCq5vfCrU=
 			</data>
 		</dict>
 		<key>VectorImages/main/fast_forward.svg</key>
@@ -5716,6 +5807,17 @@
 			T0BZYvfFslZFHo9hT08CBpP5q23/w7LfPm0FLdJwri0=
 			</data>
 		</dict>
+		<key>VectorImages/main/lock_alt_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iGcm+05dRiKumx+gZd8ozoHLcvo=
+			</data>
+			<key>hash2</key>
+			<data>
+			UHiuv+xdY9xe49MSGKhWK9I9Uxt8sEi3/ZTNVSoonM4=
+			</data>
+		</dict>
 		<key>VectorImages/main/lock_stroke.svg</key>
 		<dict>
 			<key>hash</key>
@@ -5736,6 +5838,17 @@
 			<key>hash2</key>
 			<data>
 			e49XB6fdiTgICH66PMpWRpNy7Pd0mh+r6bCtX+cdzNc=
+			</data>
+		</dict>
+		<key>VectorImages/main/lock_unlocked_alt_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3+Ll4p5ndARUDjF6Y7VkQutK5yA=
+			</data>
+			<key>hash2</key>
+			<data>
+			1WsBcwDjVMhObV7l2m0+5cLyGnkhiZKPAceO1cgQ64g=
 			</data>
 		</dict>
 		<key>VectorImages/main/logo_apple.svg</key>
@@ -6451,6 +6564,17 @@
 			<key>hash2</key>
 			<data>
 			9cIFMVot8RPLdCbEytBqVmAVhsgDbINbZsnHOYKat1E=
+			</data>
+		</dict>
+		<key>VectorImages/main/money_hand_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NHJ7qo02IgYa/NmiLkRa/ig/8ss=
+			</data>
+			<key>hash2</key>
+			<data>
+			JtmNgJBtlzK3cf/heiRETDm7npSTuYDIawy4YPIGcac=
 			</data>
 		</dict>
 		<key>VectorImages/main/money_stroke.svg</key>
@@ -8816,6 +8940,17 @@
 			<key>hash2</key>
 			<data>
 			nd9tgOJfnTUYL/YdDIu43R67c1qll4Kzi5CltGYkx54=
+			</data>
+		</dict>
+		<key>VectorImages/main/trending_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/QGOhtzQJ1/DVFCUzdQgyYbcXsc=
+			</data>
+			<key>hash2</key>
+			<data>
+			R3PXsMgOkazXem+hXuEO8IZ7vz4CkAnmyqjnJHOPJZM=
 			</data>
 		</dict>
 		<key>VectorImages/main/twitter.svg</key>

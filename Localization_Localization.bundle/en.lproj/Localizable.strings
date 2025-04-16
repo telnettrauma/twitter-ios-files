@@ -45,6 +45,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Action to accept an operation */
 "PAYMENTS_ACCEPT_ACTION" = "Accept";
 
+/* Payments: Action to approve a transaction */
+"PAYMENTS_ACCEPT_APPROVE_TRANSACTION_ACTION" = "Approve Transaction";
+
+/* Payments: Action to approve a transaction, must be short */
+"PAYMENTS_ACCEPT_APPROVE_TRANSACTION_ACTION_SHORT" = "Approve";
+
 /* Payments: Title of the button that allows a user to accept a money transfer. */
 "PAYMENTS_ACCEPT_TRANSFER_ACTION" = "Accept";
 
@@ -73,7 +79,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_ACCOUNT_NUMBER_COPIED" = "Account number copied to clipboard";
 
 /* Payments: Title of the section that contains actions the user can do (ex: Verify identity, Pay, ...). */
-"PAYMENTS_ACTION_NEEDED_TITLE" = "Action needed";
+"PAYMENTS_ACTION_NEEDED_TITLE" = "Action required";
 
 /* Payments: Title of the button shown on a flow where the user doesn’t have enough money in their account. This button opens the "deposit" flow. */
 "PAYMENTS_ADD_MONEY_ACTION" = "Add Money";
@@ -159,6 +165,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Button text to get help with card */
 "PAYMENTS_CARD_SPEND_GET_HELP_ACTION" = "Get card help";
 
+/* Payments: Title of the action to hide card details (number, CVC, ...) */
+"PAYMENTS_CARD_SPEND_HIDE_DETAILS_ACTION" = "Hide card details";
+
 /* Payments: Error message shown when customer needs to provide more information */
 "PAYMENTS_CARD_SPEND_ISSUE_CARD_ERROR_CUSTOMER_MISSING_REQUIREMENTS_SUBTITLE" = "We need some additional information from you.";
 
@@ -218,6 +227,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Button text to resume card transactions */
 "PAYMENTS_CARD_SPEND_RESUME_TRANSACTIONS_ACTION" = "Unlock card";
+
+/* Payments: Title of the action to show card details (number, CVC, ...) */
+"PAYMENTS_CARD_SPEND_SHOW_DETAILS_ACTION" = "Show card details";
 
 /* Payments: Subtitle of the card that gives users access to the "Spend" feature (Issued cards, ...) */
 "PAYMENTS_CARD_SPEND_SUBTITLE" = "Spend";
@@ -840,6 +852,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Action to reject an operation */
 "PAYMENTS_REJECT_ACTION" = "Reject";
 
+/* Payments: Action to reject an unrecognized payment */
+"PAYMENTS_REJECT_UNRECOGNIZED_PAYMENT_ACTION" = "I did not make this purchase";
+
 /* Payments: Title of the button to request money */
 "PAYMENTS_REQUEST_ACTION" = "Request";
 
@@ -1047,6 +1062,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the 'Card' tab, which contains info about the issued debit cards */
 "PAYMENTS_TAB_CARD" = "Card";
 
+/* Payments: Header for the tasks carousel */
+"PAYMENTS_TASKS_CAROUSEL_HEADER" = "Things you should know";
+
 /* Payments: Title for the Money feature */
 "PAYMENTS_TITLE" = "Money";
 
@@ -1065,6 +1083,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Label for the sender of a transaction */
 "PAYMENTS_TRANSACTION_ATTRIBUTE_SENDER" = "From";
 
+/* Payments: Label for the description of a transaction on the customer's statement */
+"PAYMENTS_TRANSACTION_ATTRIBUTE_STATEMENT_DESCRIPTION" = "On statement as";
+
 /* Payments: Label for the status of a transaction */
 "PAYMENTS_TRANSACTION_ATTRIBUTE_STATUS" = "Status";
 
@@ -1072,10 +1093,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_TRANSACTION_ATTRIBUTE_TYPE" = "Transaction type";
 
 /* Payments: Label for the payment method used for transaction */
-"PAYMENTS_TRANSACTION_ATTRIBUTE_USING" = "Using";
-
-/* Payments: Message indicating that a transaction request is waiting to be approved by the recipient */
-"PAYMENTS_TRANSACTION_AWAITING_REQUEST_ACCEPTANCE_MESSAGE" = "This request is pending until its approved by the recipient.";
+"PAYMENTS_TRANSACTION_ATTRIBUTE_USING" = "Card Used";
 
 /* Payments: Title for the transaction details screen */
 "PAYMENTS_TRANSACTION_DETAILS_TITLE" = "Transaction details";
@@ -1086,20 +1104,8 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Message indicating that a transaction is under review */
 "PAYMENTS_TRANSACTION_IN_REVIEW_MESSAGE" = "This transaction is currently under review as part of our routine security checks. During this time, the transaction is paused. We aim to complete reviews quickly and will update you once it’s resolved.";
 
-/* Payments: Description of a pending payment with amount only, where %@ is replaced by the amount */
-"PAYMENTS_TRANSACTION_PENDING_PAID_WITHOUT_DESCRIPTION" = "Paid %@";
-
-/* Payments: Description of a pending payment with amount and reason, where %1$@ is replaced by the amount and %2$@ by the reason/note */
-"PAYMENTS_TRANSACTION_PENDING_PAID_WITH_DESCRIPTION" = "Paid %1$@ for %2$@";
-
-/* Payments: Message indicating that a transaction is pending, waiting for the recipient acceptance */
-"PAYMENTS_TRANSACTION_PENDING_RECIPIENT_ACCEPTANCE_MESSAGE" = "This transaction is pending until the recipient accepts it.";
-
-/* Payments: Description of a pending request with amount only, where %@ is replaced by the amount */
-"PAYMENTS_TRANSACTION_PENDING_REQUESTED_WITHOUT_DESCRIPTION" = "Requested %@";
-
-/* Payments: Description of a pending request with amount and reason, where %1$@ is replaced by the amount and %2$@ by the reason/note */
-"PAYMENTS_TRANSACTION_PENDING_REQUESTED_WITH_DESCRIPTION" = "Requested %1$@ for %2$@";
+/* Payments: Message indicating that a transaction is pending, waiting for the recipient acceptance. %@ will be replaced by the recipient name. */
+"PAYMENTS_TRANSACTION_PENDING_APPROVAL_MESSAGE" = "Waiting on %@ to approve the payment";
 
 /* Payments: Error message when too many failed PIN verification attempts occur */
 "PAYMENTS_TRANSACTION_PIN_VERIFICATION_ERROR_COOLDOWN_ACTIVE" = "Too many failed attempts. Please try again later.";
@@ -1146,11 +1152,14 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Status label for a pending transaction */
 "PAYMENTS_TRANSACTION_STATUS_PENDING" = "Pending";
 
+/* Payments: Status label for a pending transaction because of an approval */
+"PAYMENTS_TRANSACTION_STATUS_PENDING_APPROVAL" = "Awaiting approval";
+
 /* Payments: Status label for a rejected transaction */
 "PAYMENTS_TRANSACTION_STATUS_REJECTED" = "Rejected";
 
 /* Payments: Status label for a settled transaction */
-"PAYMENTS_TRANSACTION_STATUS_SETTLED" = "Settled";
+"PAYMENTS_TRANSACTION_STATUS_SETTLED" = "Completed";
 
 /* Payments: Status label for a transaction with unspecified status */
 "PAYMENTS_TRANSACTION_STATUS_UNSPECIFIED" = "Unspecified";
@@ -1205,6 +1214,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Error message when a transfer fails. */
 "PAYMENTS_TRANSFER_ERROR_TITLE" = "Transfer failed";
+
+/* Payments: Description of a pending transfer with user's reason/note only, where %@ is replaced by the reason/note */
+"PAYMENTS_TRANSFER_PENDING_WITHOUT_AMOUNT" = "For “%@”";
+
+/* Payments: Description of a pending transfer with amount and reason, where %1$@ is replaced by the amount and %2$@ by the reason/note */
+"PAYMENTS_TRANSFER_PENDING_WITH_AMOUNT" = "%1$@ For “%2$@”";
 
 /* Payments: Title of the button that allows a user to scan a QR code instead of searching by name/username, to send or request money. */
 "PAYMENTS_TRANSFER_QR_CODE_SCAN_TITLE" = "Scan a QR Code";
@@ -13238,6 +13253,9 @@ eg. "Super Following Jack" */
 /* Body message of the Reply Boost upsell */
 "SUBSCRIPTION_UPSELL_REPLY_BOOST_MESSAGE" = "Subscribe to Premium to have your Replies boosted";
 
+/* Purchase button label for the Reply Boost upsell */
+"SUBSCRIPTION_UPSELL_REPLY_BOOST_PURCHASE_LABEL" = "Boost My Reply Reach";
+
 /* Title of the Reply Boost upsell */
 "SUBSCRIPTION_UPSELL_REPLY_BOOST_TITLE" = "Want more people to see your reply?";
 
@@ -13850,14 +13868,26 @@ eg. "Super Following Jack" */
 /* DM Edit Conversation change photo action title */
 "DM_EDIT_CONVERSATION_ACTION_CHANGE_PHOTO_TITLE" = "Change photo";
 
-/* DM Edit Conversation edit name action title */
-"DM_EDIT_CONVERSATION_ACTION_EDIT_NAME_TITLE" = "Edit Name";
+/* DM Edit Conversation add group name action title */
+"DM_EDIT_CONVERSATION_ACTION_EDIT_GROUP_NAME_TITLE" = "Edit group name";
 
 /* DM Edit Conversation remove current photo action title */
 "DM_EDIT_CONVERSATION_ACTION_REMOVE_CURRENT_PHOTO_TITLE" = "Remove current photo";
 
 /* DM Edit Conversation select new photo action title */
 "DM_EDIT_CONVERSATION_ACTION_SELECT_NEW_PHOTO_TITLE" = "Select new photo";
+
+/* DM Edit Conversation Name add name title */
+"DM_EDIT_CONVERSATION_NAME_ADD_NAME_TITLE" = "Add name";
+
+/* DM Edit Conversation Name edit name title */
+"DM_EDIT_CONVERSATION_NAME_EDIT_NAME_TITLE" = "Edit name";
+
+/* DM Edit Conversation Name error title when entered title exceeds max length */
+"DM_EDIT_CONVERSATION_NAME_EXCEEDS_MAX_LENGTH_ERROR_TITLE" = "Too long!";
+
+/* DM Edit Conversation Edit title */
+"DM_EDIT_CONVERSATION_TITLE" = "Edit group";
 
 /* DM try again error message */
 "DM_ERROR_MESSAGE_TRY_AGAIN" = "Please try again later";
@@ -18829,6 +18859,9 @@ eg. "Super Following Jack" */
 
 /* Couldn't fetch share link due to server error */
 "GROK_FETCH_SHARE_LINK_ERROR" = "Error fetching share link";
+
+/* Title for the comparison stock finance card*/
+"GROK_FINANCE_CARD_COMPARISON_STOCK_TITLE" = "Compare";
 
 /* A label for Grok Fun mode */
 "GROK_FUN_LABEL" = "Fun";
