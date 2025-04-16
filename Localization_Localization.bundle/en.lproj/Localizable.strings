@@ -474,6 +474,63 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Confirmation button text used in various dialogs throughout X Payments. */
 "PAYMENTS_GOT_IT_ACTION" = "Got it";
 
+/* Payments: Cancel button text for the card issue replacement flow */
+"PAYMENTS_HELP_CARD_ISSUE_ACTION_CANCEL" = "No thanks. Not right now.";
+
+/* Payments: Confirmation button text to ship a replacement card after address verification */
+"PAYMENTS_HELP_CARD_ISSUE_CONFIRM_ADDRESS_CONFIRM_ACTION" = "Ship a replacement card";
+
+/* Payments: Title asking user to confirm their shipping address for a replacement card */
+"PAYMENTS_HELP_CARD_ISSUE_CONFIRM_ADDRESS_TITLE" = "Confirm this is still the correct address?";
+
+/* Payments: Button text allowing user to update their address before shipping a replacement card */
+"PAYMENTS_HELP_CARD_ISSUE_CONFIRM_ADDRESS_UPDATE_ACTION" = "Update my address";
+
+/* Payments: Confirmation button text to complete the card issue resolution flow */
+"PAYMENTS_HELP_CARD_ISSUE_CONTINUE_ACTION" = "Okay! That’s all.";
+
+/* Payments: Option in card issue picker for physical card problems */
+"PAYMENTS_HELP_CARD_ISSUE_PICKER_PHYSICAL_CARD" = "Physical Card";
+
+/* Payments: Title of the screen asking which type of card is having issues */
+"PAYMENTS_HELP_CARD_ISSUE_PICKER_TITLE" = "Which card is having issues?";
+
+/* Payments: Option in card issue picker for virtual card problems */
+"PAYMENTS_HELP_CARD_ISSUE_PICKER_VIRTUAL_CARD" = "Virtual Card";
+
+/* Payments: Button text to confirm card replacement */
+"PAYMENTS_HELP_CARD_ISSUE_REPLACE_CARD_ACTION" = "Yes, replace my card";
+
+/* Payments: Subtitle asking if user wants to order a replacement card */
+"PAYMENTS_HELP_CARD_ISSUE_SUBTITLE" = "Do you want to order a new replacement card?";
+
+/* Payments: Subtitle on success screen explaining what happens after ordering a replacement card */
+"PAYMENTS_HELP_CARD_ISSUE_SUCCESS_SUBTITLE" = "We paused your current card in the meantime for security purposes. Existing online transactions will continue to work.";
+
+/* Payments: Title of the success screen after ordering a replacement card */
+"PAYMENTS_HELP_CARD_ISSUE_SUCCESS_TITLE" = "Your replacement card is on the way.";
+
+/* Payments: Title of the screen for reporting lost, stolen, or damaged cards */
+"PAYMENTS_HELP_CARD_ISSUE_TITLE" = "Card lost, stolen, or damaged";
+
+/* Payments: Help menu option for reporting card issues */
+"PAYMENTS_HELP_OPTION_CARD_ISSUE" = "Card lost, stolen, or damaged";
+
+/* Payments: Help menu option for miscellaneous issues not covered by other categories */
+"PAYMENTS_HELP_OPTION_OTHER_ISSUE" = "Something else";
+
+/* Payments: Help menu option for disputing a transaction */
+"PAYMENTS_HELP_OPTION_TRANSACTION_ISSUE" = "Dispute a transaction";
+
+/* Payments: Title of the help center main screen */
+"PAYMENTS_HELP_TITLE" = "Get Help";
+
+/* Payments: Subtitle indicating that the help system is powered by Grok 3 AI */
+"PAYMENTS_HELP_WELCOME_SUBTITLE" = "Powered by Grok 3";
+
+/* Payments: Welcome title for the help center */
+"PAYMENTS_HELP_WELCOME_TITLE" = "How can we help?";
+
 /* Payments: Subtitle shown on the screen indicating that identity verification is pending review, explaining the typical timeline and notification process. */
 "PAYMENTS_IDENTITY_VERIFICATION_PENDING_REVIEW_SUBTITLE" = "Verification can take up to 30 minutes. We’ll notify you once it’s completed.";
 
