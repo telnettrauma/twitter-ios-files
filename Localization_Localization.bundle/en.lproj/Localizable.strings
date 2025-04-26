@@ -111,6 +111,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Display name for a savings bank account */
 "PAYMENTS_BANK_ACCOUNT_TYPE_SAVINGS" = "Savings";
 
+/* Payments: Subtitle for bill pay screen */
+"PAYMENTS_BILL_PAY_SUBTITLE" = "Use the account details below to give to your provider or utility company. You can always disable bill pay from settings.";
+
+/* Payments: Title for bill pay screen */
+"PAYMENTS_BILL_PAY_TITLE" = "Pay your bills";
+
 /* Payments: Title of the button that allows a user to cancel a money transfer */
 "PAYMENTS_CANCEL_TRANSFER_ACTION" = "Cancel";
 
@@ -212,6 +218,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Title indicating physical card is being processed */
 "PAYMENTS_CARD_SPEND_PHYSICAL_CARD_PROCESSING_TITLE" = "Your card has been ordered";
+
+/* Payments: Subtitle indicating physical card has shipped */
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_SHIPPED_SUBTITLE" = "Activate your card once it arrives";
+
+/* Payments: Title indicating physical card has shipped */
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_SHIPPED_TITLE" = "Your card has shipped";
 
 /* Payments: Subtitle of the screen where the user confirms the PIN of their physical card */
 "PAYMENTS_CARD_SPEND_PIN_CONFIRMATION_SUBTITLE" = "You will use this at ATMs and certain card transactions. You can reset it at anytime.";
@@ -315,6 +327,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of a button that allows the user to continue a flow. Should be kept generic. */
 "PAYMENTS_CONTINUE_ACTION" = "Continue";
 
+/* Payments: Title of a button that allows a user to copy to the clipboard. */
+"PAYMENTS_COPY_ACTION" = "Copy";
+
 /* Payments: Title of the button that opens the flow that allows a user to request or send money to someone else on the platform. */
 "PAYMENTS_CREATE_OR_REQUEST_TRANSFER_ACTION" = "Pay or Request";
 
@@ -333,8 +348,23 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the button that initiates a deposit into the user’s X Payments account. */
 "PAYMENTS_DEPOSIT_ACTION" = "Deposit";
 
+/* Payments: Subtitle for direct deposit screen */
+"PAYMENTS_DIRECT_DEPOSIT_SUBTITLE" = "Give the details below to your employer, or use them in your HR / payroll software.";
+
+/* Payments: Title for direct deposit screen */
+"PAYMENTS_DIRECT_DEPOSIT_TITLE" = "Set up Direct Deposit";
+
+/* Payments: The disclaimer footer text used in some modals */
+"PAYMENTS_DISCLAIMER_FOOTER_TEXT" = "X Money is a financial technology company, and not a bank. Bank accounts are held at Cross River Bank, Member FDIC.";
+
+/* Payments: Title of a button that allows the user to dismiss the current screen */
+"PAYMENTS_DONE_ACTION" = "Done";
+
 /* Payments: Action to edit their X profile, focused on the birth date */
 "PAYMENTS_EDIT_PROFILE_BIRTHDAY_ACTION" = "Set a birth date";
+
+/* Payments: Title of the button that enables some user action. */
+"PAYMENTS_ENABLE_ACTION" = "Enable";
 
 /* Payments: Title of the button that allows users to enter their address manually, instead of relying on the autocomplete. */
 "PAYMENTS_ENTER_ADDRESS_MANUALLY_ACTION" = "Enter address manually";
@@ -512,6 +542,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Title of the success screen after ordering a replacement card */
 "PAYMENTS_HELP_CARD_ISSUE_SUCCESS_TITLE" = "Your replacement card is on the way.";
+
+/* Payments: Subtitle on success screen explaining what happens after ordering a replacement card (virtual) */
+"PAYMENTS_HELP_CARD_ISSUE_SUCCESS_VIRTUAL_SUBTITLE" = "It’s now ready to use. Your existing subscriptions and recurring payments will continue to work.";
+
+/* Payments: Title of the success screen after ordering a replacement card (virtual) */
+"PAYMENTS_HELP_CARD_ISSUE_SUCCESS_VIRTUAL_TITLE" = "We’ve replaced your Virtual Card";
 
 /* Payments: Title of the screen for reporting lost, stolen, or damaged cards */
 "PAYMENTS_HELP_CARD_ISSUE_TITLE" = "Tell us a bit more. What happened?";
@@ -816,6 +852,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Status displayed next to a bank account when the connection is pending (via Plaid). */
 "PAYMENTS_PAYMENT_METHOD_STATUS_PENDING" = "Pending";
 
+/* Payments: Information about delays and fees for an account or a card that has no fees. */
+"PAYMENTS_PAYMENT_METHOD_TYPE_WITHOUT_FEES" = "Up to %@ business days (Free)";
+
+/* Payments: Information about delays and fees for an account or a card that has fees. */
+"PAYMENTS_PAYMENT_METHOD_TYPE_WITH_FEES" = "Instant (%@ Fee)";
+
 /* Payments: Title of the button to initiate a payment in X Payments. */
 "PAYMENTS_PAY_ACTION" = "Pay";
 
@@ -851,6 +893,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Success message after changing the PIN */
 "PAYMENTS_PIN_UPDATE_SUCCESS" = "PIN changed.";
+
+/* Payments: Header for premium plus APY */
+"PAYMENTS_PREMIUM_PLUS_APY" = "You’ll earn %@ APY on all deposits";
+
+/* Payments: Message for premium plus */
+"PAYMENTS_PREMIUM_PLUS_THANKS" = "Thanks for being a Premium+ member";
 
 /* Payments: Action to reject an operation */
 "PAYMENTS_REJECT_ACTION" = "Reject";
@@ -898,7 +946,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_SECURITY_AND_PRIVACY_ENHANCED_PRIVACY_TRANSFERS_DESCRIPTION" = "Only people you follow can send you money on X.";
 
 /* Payments: Description of PIN settings in Security and Privacy */
-"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_DESCRIPTION" = "For enhanced security, the following actions will require you to enter your PIN to proceed.";
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_DESCRIPTION" = "For enhanced security, the following actions will require you to use your credentials (PIN or Passkeys) to proceed.";
 
 /* Payments: Error toast message when updating PIN settings fails */
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_ERROR_TOAST" = "Something went wrong. Please try again later.";
@@ -928,7 +976,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_SUCCESS_TOAST" = "Your setting has been successfully updated!";
 
 /* Payments: Title for PIN settings screen */
-"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_TITLE" = "PIN required";
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_TITLE" = "Enhanced security";
 
 /* Payments: Option to use TouchID to input the PIN */
 "PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_TOUCH_ID" = "Use TouchID";
@@ -955,10 +1003,10 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_SETTINGS_MONTHLY_STATEMENTS_TITLE" = "Monthly Statements";
 
 /* Payments: Action to add a new payment method */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_BANK_ACCOUNT_ACTION" = "Add bank account";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_BANK_ACCOUNT_ACTION" = "Link a bank account";
 
 /* Payments: Action to add a new payment method */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ACTION" = "Add card";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ACTION" = "Link a card";
 
 /* Payments: Title of the button that allows a user to add a bank account instead of a card as a new payment method. */
 "PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_BANK_ACCOUNT_ALTERNATIVE" = "Use a bank account instead";
@@ -1013,6 +1061,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Title for the linked banks section in settings */
 "PAYMENTS_SETTINGS_PAYMENT_METHODS_TITLE" = "Linked banks";
+
+/* Payments: Title for the linked banks screen, when the user is doing a deposit */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_TRANSACTION_DEPOSIT_TITLE" = "Where would you like to transfer the funds from?";
+
+/* Payments: Title for the linked banks screen, when the user is doing a withdrawal */
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_TRANSACTION_WITHDRAW_TITLE" = "Where would you like to send your funds?";
 
 /* Payments: Title for the basic information section in personal information settings */
 "PAYMENTS_SETTINGS_PERSONAL_INFORMATION_BASIC_SECTION" = "Basic information";
@@ -1086,6 +1140,12 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Label for the identifier of a transaction */
 "PAYMENTS_TRANSACTION_ATTRIBUTE_ID" = "Transaction ID";
 
+/* Payments: Label for the location (full address or city or country) of a transaction */
+"PAYMENTS_TRANSACTION_ATTRIBUTE_LOCATION" = "Location";
+
+/* Payments: Label for the period of a transaction (ex: Monthly interest) */
+"PAYMENTS_TRANSACTION_ATTRIBUTE_PERIOD" = "Period";
+
 /* Payments: Label for the source of a transaction */
 "PAYMENTS_TRANSACTION_ATTRIBUTE_SOURCE" = "Source";
 
@@ -1104,11 +1164,11 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title for the transaction details screen */
 "PAYMENTS_TRANSACTION_DETAILS_TITLE" = "Transaction details";
 
-/* Payments: Title shown by default for transactions that are a credit/deposit */
-"PAYMENTS_TRANSACTION_DIRECTION_CREDIT" = "Deposit";
+/* Payments: Subtitle shown for transactions that are a credit/deposit. %@ gets replaced by the name of the account that was used to credit. */
+"PAYMENTS_TRANSACTION_DIRECTION_CREDIT" = "From %@";
 
-/* Payments: Title shown by default for transactions that are a debit/withdrawal */
-"PAYMENTS_TRANSACTION_DIRECTION_DEBIT" = "Withdrawal";
+/* Payments: Subtitle shown for transactions that are a debit/withdrawal. %@ gets replaced by the name of the account where the debit was sent. */
+"PAYMENTS_TRANSACTION_DIRECTION_DEBIT" = "To %@";
 
 /* Payments: Toast shown when the transaction ID has been copied to the iOS clipboard */
 "PAYMENTS_TRANSACTION_ID_COPIED" = "Transaction ID copied to clipboard";
@@ -1183,22 +1243,22 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_TRANSACTION_SUPPORT_LINK_LABEL" = "here";
 
 /* Payments: Label for a deposit transaction type */
-"PAYMENTS_TRANSACTION_TYPE_ATM_WITHDRAWAL" = "ATM withdrawal";
+"PAYMENTS_TRANSACTION_TYPE_ATM_WITHDRAWAL" = "ATM Withdrawal";
 
 /* Payments: Label for a banking deposit transaction type */
-"PAYMENTS_TRANSACTION_TYPE_BANKING_DEPOSIT" = "Direct Deposit";
+"PAYMENTS_TRANSACTION_TYPE_BANKING_DEPOSIT" = "External Deposit";
 
 /* Payments: Label for a banking withdraw transaction type */
 "PAYMENTS_TRANSACTION_TYPE_BANKING_WITHDRAW" = "Payment";
 
 /* Payments: Label for a deposit transaction type */
-"PAYMENTS_TRANSACTION_TYPE_DEPOSIT" = "Deposit to X";
+"PAYMENTS_TRANSACTION_TYPE_DEPOSIT" = "Deposit";
 
 /* Payments: Label for an interest transaction type */
-"PAYMENTS_TRANSACTION_TYPE_INTEREST" = "Interest";
+"PAYMENTS_TRANSACTION_TYPE_INTEREST" = "Interest Payout";
 
 /* Payments: Label for a card payment transaction type */
-"PAYMENTS_TRANSACTION_TYPE_PAYMENT" = "Card payment";
+"PAYMENTS_TRANSACTION_TYPE_PAYMENT" = "Card Purchase";
 
 /* Payments: Label for a refund transaction type */
 "PAYMENTS_TRANSACTION_TYPE_REFUND" = "Refund";
@@ -1210,7 +1270,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_TRANSACTION_TYPE_TRANSFER" = "Peer-to-peer transfer";
 
 /* Payments: Label for a withdraw transaction type */
-"PAYMENTS_TRANSACTION_TYPE_WITHDRAW" = "Withdraw to bank";
+"PAYMENTS_TRANSACTION_TYPE_WITHDRAW" = "Withdrawal";
 
 /* Payments: Message indicating that an unrecognized transaction was confirmed by the user */
 "PAYMENTS_TRANSACTION_UNRECOGNIZED_ACTIVITY_CONFIRMED_MESSAGE" = "Thanks for confirming your purchase. Please give it another try, and it should work smoothly now.";
@@ -1219,7 +1279,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_TRANSACTION_UNRECOGNIZED_ACTIVITY_REJECTED_MESSAGE" = "For your protection, we’ve stopped this transaction due to unusual activity.";
 
 /* Payments: Placeholder text for adding a note to a transfer */
-"PAYMENTS_TRANSFER_ADD_A_NOTE" = "Add a note";
+"PAYMENTS_TRANSFER_ADD_A_NOTE" = "Optionally add a note";
 
 /* Payments: Success message after sending money, where %1$@ is replaced by the amount and %2$@ by the recipient’s username. Keep the @ in front of the %2$@. */
 "PAYMENTS_TRANSFER_CREATION_SUCCESS" = "You sent %1$@ to @%2$@.";
@@ -1253,6 +1313,15 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Action to change the user’s PIN */
 "PAYMENTS_UPDATE_PIN_ACTION" = "Change PIN";
+
+/* Payments: Title of the screen that allows to pay a user. %@ is replaced by the display name of the user. */
+"PAYMENTS_USER_FORMAT_PAY" = "Pay %@";
+
+/* Payments: Title of the screen that allows to pay or request money from user. %@ is replaced by the display name of the user. */
+"PAYMENTS_USER_FORMAT_PAY_OR_REQUEST" = "Pay or Request %@";
+
+/* Payments: Title of the screen that allows to request money from a user. %@ is replaced by the display name of the user. */
+"PAYMENTS_USER_FORMAT_REQUEST" = "Request %@";
 
 /* Payments: Title shown when bank account linking is temporarily paused due to velocity checks */
 "PAYMENTS_VELOCITY_ERROR_ACCOUNT_LINKING_MESSAGE" = "Your ability to perform this action is temporarily paused. Please try again later. Note that your previous linked accounts are still available.";
@@ -4702,6 +4771,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Title for alert shown before user sends their last available edit for a post */
 "EDIT_TWEET_UPDATE_TWEET_LAST_EDIT_TITLE_STRING" = "This is your last edit";
 
+/* Download grok button */
+"EDIT_WITH_GROK_LABEL" = "Created with Grok. Tap here to edit.";
+
 /* Instructions for inputing an email address */
 "EMAIL_INSTRUCTION_LABEL" = "Please enter a valid email address.";
 
@@ -8059,7 +8131,7 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Accessibility hint for action when double-tapping profile header photo to view */
 "PROFILE_HEADER_PHOTO_VIEW_ACCESSIBILITY_HINT" = "Views the profile header photo.";
 
-/* 
+/*
  Description for country withheld account interstitials.
  Injections: 1: @username, 2: comma separated country list, 3: 'Learn more' link.
  */
@@ -9601,6 +9673,12 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Header for Grok in the data sharing settings page */
 "SETTINGS_GROK_DATA_TITLE" = "Grok & Third-party Collaborators";
 
+/* Description for Grok Memory under the Privacy and safety -> Grok & Third-party Collaborators setting */
+"SETTINGS_GROK_MEMORY_DETAILS_FORMAT" = "Allow Grok to remember details from your previous conversations. You can delete individual conversations to forget the associated details. %@";
+
+/* Description for Grok Memory under the Privacy and safety -> Grok & Third-party Collaborators setting */
+"SETTINGS_GROK_MEMORY_TITLE" = "Allow Grok to remember your conversation history";
+
 /* Description for Grok Personalization in the data sharing settings page */
 "SETTINGS_GROK_PERSONALIZATION_DETAIL" = "Allow X to personalize your experience with Grok";
 
@@ -11057,6 +11135,12 @@ eg. "Super Following Jack" */
 
 /* The heading title on the post feedback Leave Behind menu on Home Timeline posts, indicating a user has hidden the post via the immediate dismissal "X" in the top right corner of a post */
 "TWEET_FEEDBACK_HOME_HIDDEN_TITLE_LABEL" = "Post hidden";
+
+/* Label shown after a user gives feedback on a post on For You saying it's not relevant */
+"TWEET_FEEDBACK_NOT_RELEVANT_TOAST" = "Thanks. We will show you less posts like this";
+
+/* Label shown after a user gives feedback on a post on For You saying it's relevant */
+"TWEET_FEEDBACK_RELEVANT_TOAST" = "Thanks. We will show you more posts like this";
 
 /* An label displayed as a confirmation following the user performing an action on the Leave Behind Menu */
 "TWEET_FEEDBACK_REPLY_FEEDBACK_CONFIRMATION_LABEL" = "You hid this reply from your timeline.";
@@ -13916,6 +14000,12 @@ eg. "Super Following Jack" */
 /* DM Edit Conversation Edit title */
 "DM_EDIT_CONVERSATION_TITLE" = "Edit group";
 
+/* DM Empty Conversation Subtitle*/
+"DM_EMPTY_CONVERSATION_SUBTITLE" = "Try sending a message!";
+
+/* DM Empty Conversation Title. Placeholder replaced with formatted list of participants. */
+"DM_EMPTY_CONVERSATION_TITLE" = "This conversation with %@ looks pretty empty.";
+
 /* DM try again error message */
 "DM_ERROR_MESSAGE_TRY_AGAIN" = "Please try again later";
 
@@ -13927,6 +14017,9 @@ eg. "Super Following Jack" */
 
 /* DM Error View Title */
 "DM_ERROR_VIEW_TITLE" = "Oops! An unexpected error occurred, please try again.";
+
+/* DM Group General Purpose You Text */
+"DM_GROUP_YOU" = "You";
 
 /* DM Inbox Empty start a conversation action */
 "DM_INBOX_EMPTY_ACTION_START_A_CONVERSATION" = "Write a message";
@@ -18890,6 +18983,15 @@ eg. "Super Following Jack" */
 /* Title for the comparison stock finance card*/
 "GROK_FINANCE_CARD_COMPARISON_STOCK_TITLE" = "Compare";
 
+/* Label for button to edit image */
+"GROK_FULLSCREEN_IMAGE_ACTION_EDIT" = "Edit";
+
+/* Label for button to post image */
+"GROK_FULLSCREEN_IMAGE_ACTION_POST" = "Post";
+
+/* Label for button to save image */
+"GROK_FULLSCREEN_IMAGE_ACTION_SAVE" = "Save";
+
 /* A label for Grok Fun mode */
 "GROK_FUN_LABEL" = "Fun";
 
@@ -19192,6 +19294,24 @@ eg. "Super Following Jack" */
 
 /* Grok share card on X post: Button label for the user to create their own image with the same prompt */
 "GROK_SHARE_CARD_CREATE_YOUR_OWN_VERSION" = "Create your version with Grok";
+
+/* Label on Grok share card if it is a DeepSearch response */
+"GROK_SHARE_DEEPSEARCH_MODE_LABEL" = "DeepSearch by Grok";
+
+/* Label on Grok share card used if the DeepSearch response was based on one post */
+"GROK_SHARE_DEEPSEARCH_MODE_POST" = "%d post";
+
+/* Label on Grok share card detailing how many posts (plural) the DeepSearch response is based on */
+"GROK_SHARE_DEEPSEARCH_MODE_POSTS" = "%d posts";
+
+/* Label on Grok share card used if the DeepSearch response was based on one web page */
+"GROK_SHARE_DEEPSEARCH_MODE_WEB_RESULT" = "%d web page";
+
+/* Label on Grok share card detailing how many web pages (plural) the DeepSearch response is based on */
+"GROK_SHARE_DEEPSEARCH_MODE_WEB_RESULTS" = "%d web pages";
+
+/* Label on Grok share card detailing how many web pages and posts the DeepSearch response is based on */
+"GROK_SHARE_DEEPSEARCH_MODE_WEB_RESULTS_AND_POSTS" = "%d web pages and posts";
 
 /* Label on Grok share card if backend does not provide custom metadata text */
 "GROK_SHARE_REGULAR_MODE_LABEL" = "Answer by Grok";
@@ -19845,6 +19965,9 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* Accessibility label for the reply button on the immersive video card. */
 "ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_REPLY_BUTTON" = "Reply";
 
+/* Accessibility label for the repost button on the immersive video card. */
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_REPOST_BUTTON" = "Repost";
+
 /* Accessibility label for the route picker button on the immersive video card. */
 "ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_ROUTE_PICKER_BUTTON" = "Route Picker";
 
@@ -20466,6 +20589,9 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* Label for like action */
 "LIKE_ACTION_LABEL" = "Like";
 
+/* A text to appear after user likes a post */
+"LIKE_INLINE_TIP_VARIANT_1" = "We’ll show you more like this.";
+
 /* Message to show user if they haven't created or subscribed to any lists. */
 "LISTS_OWNED_SUBSCRIBED_TO_EMPTY_STATE_SUBTEXT" = "When you do, it’ll show up here.";
 
@@ -20650,6 +20776,12 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* Generic label to show on a prompt to retry when previous action was unsuccessful. */
 "PLEASE_TRY_AGAIN_LABEL" = "Please try again.";
+
+/* Label for feedback option to indicate a post is not relevant to the viewer */
+"POST_SWIPE_NOT_RELEVANT_LABEL" = "Not Relevant";
+
+/* Label for feedback option to indicate a post is relevant to the viewer */
+"POST_SWIPE_RELEVANT_LABEL" = "Relevant";
 
 /* Dark mode toggle preferences label */
 "PREFERENCES_DARK_MODE_LABEL" = "Dark mode";
@@ -21500,7 +21632,7 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 "WAIT_AND_TRY_AGAIN_LATER_LABEL" = "Please wait a few moments then try again";
 
 /* XChat */
-"XCHAT" = "XChat";
+"XCHAT" = "Chat";
 
 /* Toast title when trying to access XChat and it is not available */
 "XCHAT_NOT_AVAILABLE_TOAST_TITLE" = "This feature is not available";
@@ -23348,6 +23480,9 @@ eg. "- @jack" */
 
 /* Label used as title for the legal request web view shown in the NTab */
 "LEGAL_REQUEST_WEBVIEW_TITLE" = "Legal request";
+
+/* This label is appended to the end of truncated tweet */
+"NOTE_TWEET_MORE" = "more";
 
 /* This label is appended to the end of truncated Note posts in timelines. Tapping on it will take the user to post details, which will show the fully expanded Note post text. Example Note post: "Hello, world". Example Note post with NOTE_TWEET_SHOW_MORE appended: "Hello, world… Show more". The backend will always append an ellipsis. */
 "NOTE_TWEET_SHOW_MORE" = "Show more";

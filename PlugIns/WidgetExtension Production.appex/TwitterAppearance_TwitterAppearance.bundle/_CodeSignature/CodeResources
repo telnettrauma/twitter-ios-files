@@ -338,7 +338,7 @@
 		</data>
 		<key>VectorImages/main/chat.svg</key>
 		<data>
-		uH1Lo/h2osPnD1kvupEQBzPglvY=
+		FWSzzg3SOnXQMdz5cVxIyJ3x6rY=
 		</data>
 		<key>VectorImages/main/chat_bubble_checkmark_stroke.svg</key>
 		<data>
@@ -366,7 +366,7 @@
 		</data>
 		<key>VectorImages/main/chat_stroke.svg</key>
 		<data>
-		XgGq2pLbBFntLWS4jTz9WbHgy2g=
+		K+7P0Uaexh0Xuq7nZSd+0Tdoh94=
 		</data>
 		<key>VectorImages/main/checkall.svg</key>
 		<data>
@@ -651,6 +651,10 @@
 		<key>VectorImages/main/drawer_on.svg</key>
 		<data>
 		v2otIJqQ173ixZIOHkOYw3CKqA8=
+		</data>
+		<key>VectorImages/main/email_stroke.svg</key>
+		<data>
+		TqcKvQLoo3SxtfAB8DiTkE3dqrw=
 		</data>
 		<key>VectorImages/main/error_circle.svg</key>
 		<data>
@@ -3688,11 +3692,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uH1Lo/h2osPnD1kvupEQBzPglvY=
+			FWSzzg3SOnXQMdz5cVxIyJ3x6rY=
 			</data>
 			<key>hash2</key>
 			<data>
-			fBYTypNr4xWwfHm3zf7CcuyPfB7SO80am9389FJs4ws=
+			BCuLj36HJ6x9gDNgAPNH40EYYEEI768fpCprciAXwOc=
 			</data>
 		</dict>
 		<key>VectorImages/main/chat_bubble_checkmark_stroke.svg</key>
@@ -3765,11 +3769,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XgGq2pLbBFntLWS4jTz9WbHgy2g=
+			K+7P0Uaexh0Xuq7nZSd+0Tdoh94=
 			</data>
 			<key>hash2</key>
 			<data>
-			2aqoDzbkNSIAUt+sh5lYiLE7lAHNUs63Q80BDSJOb3Y=
+			KJ3ERtCnZRVgfyBya+FJ+Cvz10MNvkLsWgKohiz3x2U=
 			</data>
 		</dict>
 		<key>VectorImages/main/checkall.svg</key>
@@ -4551,6 +4555,17 @@
 			<key>hash2</key>
 			<data>
 			dt83bT/z7jCvgk0RrqZPFMyeRJqtCjHLIStHZ/c/IyE=
+			</data>
+		</dict>
+		<key>VectorImages/main/email_stroke.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TqcKvQLoo3SxtfAB8DiTkE3dqrw=
+			</data>
+			<key>hash2</key>
+			<data>
+			cCP5OzRgY75XJeukDPJK9iLCPFxASlBN+zjNjj9+A9c=
 			</data>
 		</dict>
 		<key>VectorImages/main/error_circle.svg</key>
