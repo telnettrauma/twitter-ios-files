@@ -14064,6 +14064,18 @@ eg. "Super Following Jack" */
 /* DM Inbox Empty title */
 "DM_INBOX_EMPTY_TITLE" = "No chats yet";
 
+/* DM Inbox item Unencrypted messages fallback subtitle */
+"DM_INBOX_ITEM_UNENCRYPTED_MESSAGES_FALLBACK_SUBTITLE" = "View messages from your friends using older devices";
+
+/* DM Inbox item Unencrypted messages title */
+"DM_INBOX_ITEM_UNENCRYPTED_MESSAGES_TITLE" = "Unencrypted messages";
+
+/* DM Inbox item Unencrypted messages unread conversations (plural) subtitle */
+"DM_INBOX_ITEM_UNENCRYPTED_MESSAGES_UNREAD_CONVERSATIONS_SUBTITLE" = "You have %@ unread conversations from your friends using older devices";
+
+/* DM Inbox item Unencrypted messages unread conversation (singular) subtitle */
+"DM_INBOX_ITEM_UNENCRYPTED_MESSAGES_UNREAD_CONVERSATION_SUBTITLE" = "You have 1 unread conversation from your friends using older devices";
+
 /* DM Inbox new message button accessibility label */
 "DM_INBOX_NEW_MESSAGE_ACCESSIBILITY_LABEL" = "Compose New Message";
 

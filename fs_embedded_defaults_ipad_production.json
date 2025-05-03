@@ -1,6 +1,6 @@
 {
   "default" : {
-    "feature_set_token" : "2c03725884371f2c6e91785796af9c3a74b14da6",
+    "feature_set_token" : "537579665140430cbb927938afc84d017269e106",
     "config" : {
       "2fa_temporary_password_enabled" : {
         "value" : false
@@ -3693,7 +3693,7 @@
         "value" : false
       },
       "media_upload_max_on_wifi_or_cellular_default_enabled" : {
-        "value" : false
+        "value" : true
       },
       "media_upload_quality_tooltip_enabled" : {
         "value" : false
@@ -5514,7 +5514,7 @@
   "requires_restart" : [ ],
   "supports_accessibility" : [ ],
   "versions" : {
-    "feature_switches" : "e7464ed4910340c9ebb736e5b84bc4f5e4d93aef",
-    "experiments" : "e7464ed4910340c9ebb736e5b84bc4f5e4d93aef"
+    "feature_switches" : "8ff431cbc32495396fb9926c03f7e347d91e4f6d",
+    "experiments" : "8ff431cbc32495396fb9926c03f7e347d91e4f6d"
   }
 }
