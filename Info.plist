@@ -352,7 +352,7 @@
     <key>MinimumOSVersion</key>
     <string>15.0</string>
     <key>TWBuildNumber</key>
-    <string>1</string>
+    <string>3</string>
     <key>NSPhotoLibraryAddUsageDescription</key>
     <string>This lets you download photos and videos to your Photos.</string>
     <key>SKAdNetworkItems</key>
@@ -569,9 +569,9 @@
     <key>CFBundleName</key>
     <string>Twitter</string>
     <key>CFBundleShortVersionString</key>
-    <string>10.94.1</string>
+    <string>10.95</string>
     <key>TWBuildTime</key>
-    <string>2025-04-22T20:44:57Z</string>
+    <string>2025-04-27T06:19:21Z</string>
     <key>UIBackgroundModes</key>
     <array>
       <string>audio</string>
@@ -646,7 +646,7 @@
     <key>TWPushEnvironment</key>
     <string>3</string>
     <key>CFBundleVersion</key>
-    <string>1</string>
+    <string>3</string>
     <key>CFBundleDevelopmentRegion</key>
     <string>English</string>
     <key>DTCompiler</key>

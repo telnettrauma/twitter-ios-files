@@ -48,26 +48,11 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Action to approve a transaction */
 "PAYMENTS_ACCEPT_APPROVE_TRANSACTION_ACTION" = "Approve Transaction";
 
-/* Payments: Action to approve a transaction, must be short */
-"PAYMENTS_ACCEPT_APPROVE_TRANSACTION_ACTION_SHORT" = "Approve";
-
-/* Payments: Title of the button that allows a user to accept a money transfer. */
-"PAYMENTS_ACCEPT_TRANSFER_ACTION" = "Accept";
+/* Payments: Title of the button that allows a user to accept a money transfer. %@ is replaced by a formatted amount (ex: $10). */
+"PAYMENTS_ACCEPT_TRANSFER_AMOUNT_ACTION" = "Accept %@";
 
 /* Payments: Title the button that gives access to the account details on the Payments Home. */
 "PAYMENTS_ACCOUNT_DETAILS_ACTION" = "Account & Routing Number";
-
-/* Payments: Description the 'Bill Pay' section of 'Account' details screen, to enable the corresponding preference */
-"PAYMENTS_ACCOUNT_DETAILS_BILL_PAY_DESCRIPTION" = "Allow external accounts and services to pull money using your account info";
-
-/* Payments: Title the 'Bill Pay' section of 'Account' details screen, to enable the corresponding preference */
-"PAYMENTS_ACCOUNT_DETAILS_BILL_PAY_TITLE" = "Bill Pay";
-
-/* Payments: Title the details section of 'Account' details screen */
-"PAYMENTS_ACCOUNT_DETAILS_SECTION_TITLE" = "Account Details";
-
-/* Payments: Subtitle the of 'Account' details screen. "Routing" meaning the account/routing numbers. */
-"PAYMENTS_ACCOUNT_DETAILS_SUBTITLE" = "Routing";
 
 /* Payments: Title the of 'Account' details screen */
 "PAYMENTS_ACCOUNT_DETAILS_TITLE" = "Account";
@@ -96,11 +81,14 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the screen that allows a user to link a bank account with their X Payments account. */
 "PAYMENTS_ADD_PAYMENT_METHOD_TITLE" = "Link a bank account";
 
+/* Payments: Subtitle of the screen to authenticate card payment, after a transaction has been confirmed or not. */
+"PAYMENTS_AUTHENTICATE_CARD_PAYMENT_DONE_SUBTITLE" = "All the transactions have been reviewed.";
+
+/* Payments: Title of the screen to authenticate card payment, after a transaction has been confirmed or not. */
+"PAYMENTS_AUTHENTICATE_CARD_PAYMENT_DONE_TITLE" = "Thank you";
+
 /* Payments: Error shown if the user tries to pay someone but their balance is insufficient. Shown right below the amount text field. */
 "PAYMENTS_AVAILABLE_BALANCE_INSUFFICIENT_ERROR" = "Your balance is insufficient for this transfer.";
-
-/* Payments: Subtitle shown under the name of the user’s X account, on deposit/withdraw screens. %@ is replaced by the (already formatted) current balance of the account, for example "$100". */
-"PAYMENTS_AVAILABLE_BALANCE_TITLE" = "Available balance: %@";
 
 /* Payments: Title of the screen that allows a user to send or request money to another user. %@ is replaced by the (already formatted) current balance of the user’s account, for example "$100". */
 "PAYMENTS_BALANCE_TITLE" = "Balance %@";
@@ -132,9 +120,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Display name for Visa credit/debit cards */
 "PAYMENTS_CARD_BRAND_VISA" = "Visa";
 
-/* Payments: Title prompting for PIN entry to activate card */
-"PAYMENTS_CARD_SPEND_ACTIVATE_PIN_TITLE" = "Enter your PIN to activate your card";
-
 /* Payments: Subtitle of the screen where the user enters the address where we ship their physical card */
 "PAYMENTS_CARD_SPEND_ADDRESS_SUBTITLE" = "It will arrive in 5–7 business days";
 
@@ -147,9 +132,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Button text to change the pin of the card */
 "PAYMENTS_CARD_SPEND_CHANGE_PIN" = "Change pin";
 
-/* Payments: Label for address field */
-"PAYMENTS_CARD_SPEND_FIELD_ADDRESS" = "Address";
-
 /* Payments: Label for cardholder name field */
 "PAYMENTS_CARD_SPEND_FIELD_CARDHOLDER_NAME" = "Cardholder Name";
 
@@ -161,12 +143,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Label for card expiration field */
 "PAYMENTS_CARD_SPEND_FIELD_EXPIRATION" = "Exp.";
-
-/* Payments: Label for name field */
-"PAYMENTS_CARD_SPEND_FIELD_NAME" = "Name";
-
-/* Payments: Label for ZIP code field */
-"PAYMENTS_CARD_SPEND_FIELD_ZIP_CODE" = "ZIP";
 
 /* Payments: Button text to get help with card */
 "PAYMENTS_CARD_SPEND_GET_HELP_ACTION" = "Get card help";
@@ -185,15 +161,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Button text to continue card issuance */
 "PAYMENTS_CARD_SPEND_ORDER_CARD_ACTION" = "Get my card";
-
-/* Payments: Button text to confirm card details look correct */
-"PAYMENTS_CARD_SPEND_ORDER_PHYSICAL_CARD_CONFIRM_ACTION" = "Looks good, send it!";
-
-/* Payments: Subtitle showing estimated delivery time */
-"PAYMENTS_CARD_SPEND_ORDER_PHYSICAL_CARD_CONFIRM_SUBTITLE" = "Your card will arrive in 5–7 business days once shipped.";
-
-/* Payments: Title for reviewing card details */
-"PAYMENTS_CARD_SPEND_ORDER_PHYSICAL_CARD_CONFIRM_TITLE" = "Review your details to make sure they are correct.";
 
 /* Payments: Button text to pause card transactions */
 "PAYMENTS_CARD_SPEND_PAUSE_TRANSACTIONS_ACTION" = "Lock card";
@@ -243,17 +210,11 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the action to show card details (number, CVC, ...) */
 "PAYMENTS_CARD_SPEND_SHOW_DETAILS_ACTION" = "Show card details";
 
-/* Payments: Subtitle of the card that gives users access to the "Spend" feature (Issued cards, ...) */
-"PAYMENTS_CARD_SPEND_SUBTITLE" = "Spend";
-
 /* Payments: Disclaimer text for agreeing to cardholder terms */
 "PAYMENTS_CARD_SPEND_TERMS_DISCLAIMER" = "By ordering a card, you are agreeing to Cardholder Terms. Cards are issued by Cross River Bank, member FDIC";
 
 /* Payments: Link text for cardholder terms and conditions */
 "PAYMENTS_CARD_SPEND_TERMS_DISCLAIMER_LINK" = "Cardholder Terms";
-
-/* Payments: Title of the tile that gives users access to the "Card" feature (Issued cards, ...) */
-"PAYMENTS_CARD_SPEND_TITLE" = "Card";
 
 /* Payments: Display name for a charge card */
 "PAYMENTS_CARD_TYPE_CHARGE" = "Charge";
@@ -272,6 +233,21 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Display name for a prepaid card */
 "PAYMENTS_CARD_TYPE_PREPAID" = "Prepaid";
+
+/* Payments: Subtitle shown on the confirmation screen for cash back redemption, %@ is replaced by the amount */
+"PAYMENTS_CASHBACK_CONFIRM_SUBTITLE" = "%@ will be transferred to your balance. Keep spending to earn more cash back.";
+
+/* Payments: Title shown on the confirmation screen for cash back redemption */
+"PAYMENTS_CASHBACK_CONFIRM_TITLE" = "Redeem for cash?";
+
+/* Payments: Label showing the cash back rate applicable everywhere, %@ is replaced by the rate */
+"PAYMENTS_CASHBACK_RATE_EVERYWHERE_PILL" = "%@ Everywhere";
+
+/* Payments: Action button to redeem cash back for cash */
+"PAYMENTS_CASHBACK_REDEEM_ACTION" = "Redeem for cash";
+
+/* Payments: Title for the cash back feature */
+"PAYMENTS_CASHBACK_TITLE" = "Cash Back";
 
 /* Payments: Generic error message shown when 2FA verification fails */
 "PAYMENTS_CHALLENGE_ERROR_MESSAGE_2FA_INVALID" = "Please try again later.";
@@ -315,14 +291,14 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title shown when asking user to confirm a specific transaction type. %@ will be replaced by an already-formatted & localized amount, for example: $10. */
 "PAYMENTS_CONFIRMATION_TRANSACTION_TITLE" = "Confirm this %@ transaction";
 
+/* Payments: Action button to confirm an operation */
+"PAYMENTS_CONFIRM_ACTION" = "Confirm";
+
 /* Payments: Title of a button that allows the user to consent to something (ex: verifying their ID). Should be kept generic. */
 "PAYMENTS_CONSENT_ACTION" = "Consent";
 
 /* Payments: Title of a button that allows a user to contact the support. */
 "PAYMENTS_CONTACT_SUPPORT_ACTION" = "Contact support";
-
-/* Payments: Title of a button that allows a user to contact the support. Shown where space is reduced, so should be kept very short. Abbreviated if necessary. */
-"PAYMENTS_CONTACT_SUPPORT_ACTION_SHORT" = "Contact";
 
 /* Payments: Title of a button that allows the user to continue a flow. Should be kept generic. */
 "PAYMENTS_CONTINUE_ACTION" = "Continue";
@@ -338,9 +314,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Title of a button that allows the user to decline something (ex: verifying their ID). Should be kept generic. */
 "PAYMENTS_DECLINE_ACTION" = "Decline";
-
-/* Payments: Confirmation message shown when a user attempts to remove a linked bank account from their X Payments account. */
-"PAYMENTS_DELETE_PAYMENT_METHOD_MESSAGE" = "Please confirm that you want to remove this bank from your account.";
 
 /* Payments: Title of the dialog box shown when a user attempts to remove a linked bank account from their X Payments account. */
 "PAYMENTS_DELETE_PAYMENT_METHOD_TITLE" = "Remove bank";
@@ -507,9 +480,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the action that allows a user to reset their PIN if they forgot it. */
 "PAYMENTS_FORGOT_PIN_TITLE" = "Forgot PIN";
 
-/* Payments: Button title to subscribe to X Premium from Payments. Must be short. */
-"PAYMENTS_GET_PREMIUM_ACTION" = "Get Premium";
-
 /* Payments: Confirmation button text used in various dialogs throughout X Payments. */
 "PAYMENTS_GOT_IT_ACTION" = "Got it";
 
@@ -579,20 +549,41 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Welcome title for the help center */
 "PAYMENTS_HELP_WELCOME_TITLE" = "How can we help?";
 
+/* Payments: Subtitle copy indicating account opening */
+"PAYMENTS_IDENTITY_VERIFICATION_ACCOUNT_ROW_SUBTITLE" = "Deposit your paycheck and pay bills";
+
+/* Payments: Title copy indicating account opening */
+"PAYMENTS_IDENTITY_VERIFICATION_ACCOUNT_ROW_TITLE" = "Unlock your account";
+
+/* Payments: Subtitle copy indicating increased limits */
+"PAYMENTS_IDENTITY_VERIFICATION_LIMITS_ROW_SUBTITLE" = "Unlock higher daily and weekly limits";
+
+/* Payments: Title copy indicating increased limits */
+"PAYMENTS_IDENTITY_VERIFICATION_LIMITS_ROW_TITLE" = "Increased limits";
+
 /* Payments: Subtitle shown on the screen indicating that identity verification is pending review, explaining the typical timeline and notification process. */
 "PAYMENTS_IDENTITY_VERIFICATION_PENDING_REVIEW_SUBTITLE" = "Verification can take up to 30 minutes. We’ll notify you once it’s completed.";
 
 /* Payments: Title of the screen indicating that the user has completed all necessary steps for identity verification and it’s now pending review. */
 "PAYMENTS_IDENTITY_VERIFICATION_PENDING_REVIEW_TITLE" = "You’re all set!";
 
+/* Payments: Subtitle copy indicating privacy benefits */
+"PAYMENTS_IDENTITY_VERIFICATION_PRIVACY_ROW_SUBTITLE" = "Your personal information is safe and secure with X";
+
+/* Payments: Title copy indicating privacy benefits */
+"PAYMENTS_IDENTITY_VERIFICATION_PRIVACY_ROW_TITLE" = "Military grade encryption";
+
+/* Payments: Subtitle of the identity verification screen */
+"PAYMENTS_IDENTITY_VERIFICATION_SUBTITLE" = "Unlock the full benefits of X Money by confirming who you are.";
+
+/* Payments: Title of the identity verification screen */
+"PAYMENTS_IDENTITY_VERIFICATION_TITLE" = "Verify your identity";
+
 /* Payments: Shows the APY (annual percentage yield) of the account, on the interest screen. */
 "PAYMENTS_INTEREST_APY" = "%@ APY";
 
 /* Payments: Label shown next to the current APY for interests */
 "PAYMENTS_INTEREST_CURRENT_APY" = "Current APY";
-
-/* Payments: Header of the section that encourages the customer to deposit more money in their account */
-"PAYMENTS_INTEREST_DEPOSIT_SECTION_TITLE" = "Deposit more, earn more";
 
 /* Payments: Header shown on the interest page, above the total amount earned by the customer */
 "PAYMENTS_INTEREST_EARNED" = "Total interest earned";
@@ -602,9 +593,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Label shown next to the amount of interest that the customer is set to earn in the next cycle */
 "PAYMENTS_INTEREST_PENDING" = "Pending interest";
-
-/* Payments: Title the of 'Interest' screen */
-"PAYMENTS_INTEREST_TITLE" = "Interest";
 
 /* Payments: Title shown when a user has unclaimed funds in their X Payments account. %@ is replaced by the unclaimed amount. */
 "PAYMENTS_INVITE_AUTOCLAIM_TITLE" = "You have %@ waiting for you";
@@ -672,11 +660,8 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Option in the More menu to report an issue with a payment in X Payments. */
 "PAYMENTS_MORE_MENU_REPORT_PAYMENT" = "Report payment";
 
-/* Payments: Option in the More menu to access settings for X Payments. */
-"PAYMENTS_MORE_MENU_SETTINGS" = "Settings";
-
-/* Payments: Message displayed when a user is not eligible to use X Payments. */
-"PAYMENTS_NOT_ELIGIBLE" = "Not eligible";
+/* Payments: Action button to dismiss or postpone an action */
+"PAYMENTS_NOT_NOW_ACTION" = "Not Now";
 
 /* Payments: Label for the address field in the X Payments onboarding process. */
 "PAYMENTS_ONBOARDING_ADDRESS_FIELD_NAME" = "Address";
@@ -686,9 +671,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Title of the screen where users enter their current address during X Payments onboarding. */
 "PAYMENTS_ONBOARDING_ADDRESS_TITLE" = "Please enter your current address";
-
-/* Payments: Label for the date of birth field in the X Payments onboarding process. */
-"PAYMENTS_ONBOARDING_BIRTH_DATE_FIELD_NAME" = "Date of birth";
 
 /* Payments: Title of the screen where users enter their date of birth during X Payments onboarding. */
 "PAYMENTS_ONBOARDING_BIRTH_DATE_TITLE" = "What’s your date of birth?";
@@ -834,6 +816,39 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the screen where users enter their zip code during X Payments onboarding. */
 "PAYMENTS_ONBOARDING_ZIP_CODE_TITLE" = "What’s your zip code?";
 
+/* Payments: Action button text to initiate the passkey setup process */
+"PAYMENTS_PASSKEY_SETUP_ACTION" = "Setup Passkey";
+
+/* Payments: Subtitle for the first benefit of setting up a passkey, highlighting free transactions */
+"PAYMENTS_PASSKEY_SETUP_BENEFIT_1_SUBTITLE" = "Send, request, and receive funds from friends for free";
+
+/* Payments: Title for the first benefit of setting up a passkey, emphasizing no password needed */
+"PAYMENTS_PASSKEY_SETUP_BENEFIT_1_TITLE" = "No need to remember a password";
+
+/* Payments: Subtitle for the second benefit of setting up a passkey, explaining enhanced security */
+"PAYMENTS_PASSKEY_SETUP_BENEFIT_2_SUBTITLE" = "Passkeys are safer than passwords because they can never be guessed by others";
+
+/* Payments: Title for the second benefit of setting up a passkey, focusing on account safety */
+"PAYMENTS_PASSKEY_SETUP_BENEFIT_2_TITLE" = "Keep your account safe";
+
+/* Payments: Subtitle for the third benefit of setting up a passkey, noting cross-platform security */
+"PAYMENTS_PASSKEY_SETUP_BENEFIT_3_SUBTITLE" = "Your account will be secured everywhere you use X";
+
+/* Payments: Title for the third benefit of setting up a passkey, highlighting device synchronization */
+"PAYMENTS_PASSKEY_SETUP_BENEFIT_3_TITLE" = "Synced across all devices";
+
+/* Payments: Title shown when introducing the passkey setup process for account security */
+"PAYMENTS_PASSKEY_SETUP_TITLE" = "Secure your account with a passkey";
+
+/* Payments: Subtitle shown during passkey verification to confirm user identity */
+"PAYMENTS_PASSKEY_VERIFICATION_SUBTITLE" = "We just need to verify that it’s you.";
+
+/* Payments: Title shown when prompting the user to use their enabled passkey for security */
+"PAYMENTS_PASSKEY_VERIFICATION_TITLE" = "Looks like you have a passkey enabled. Let’s use it to secure your Money.";
+
+/* Payments: Action button text to verify the user passkey */
+"PAYMENTS_PASSKEY_VERIFY_ACTION" = "Verify Passkey";
+
 /* Payments: Error shown when the user attemps to create a transaction, but their bank account needs to be verified/linked again. */
 "PAYMENTS_PAYMENT_METHOD_LINK_REQUIRED_ERROR_TITLE" = "You need to login to verify your bank account before you can proceed.";
 
@@ -858,8 +873,8 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Information about delays and fees for an account or a card that has fees. */
 "PAYMENTS_PAYMENT_METHOD_TYPE_WITH_FEES" = "Instant (%@ Fee)";
 
-/* Payments: Title of the button to initiate a payment in X Payments. */
-"PAYMENTS_PAY_ACTION" = "Pay";
+/* Payments: Title of the button to initiate a payment in X Payments. %@ is replaced by the formatted amount (ex: $10). */
+"PAYMENTS_PAY_AMOUNT_ACTION" = "Pay %@";
 
 /* Payments: Subtitle explaining that the user’s X Payments account is under review. */
 "PAYMENTS_PENDING_REVIEW_SUBTITLE" = "We’re confirming your identity. This can take up to 3 business days. Please check back later.";
@@ -872,9 +887,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Error message when the entered PIN confirmation doesn’t match */
 "PAYMENTS_PIN_UPDATE_ERROR_CONFIRMATION_MISMATCH" = "The PIN and the confirmation that were entered don’t match. Try again.";
-
-/* Payments: Error message when too many failed PIN updates attempts occur */
-"PAYMENTS_PIN_UPDATE_ERROR_COOLDOWN_ACTIVE" = "Too many failed attempts. Please try again later.";
 
 /* Payments: Error message when the user tries to set the same PIN */
 "PAYMENTS_PIN_UPDATE_ERROR_SAME_PIN" = "The PIN that was entered is currently in use. Try using a new PIN.";
@@ -903,6 +915,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Action to reject an operation */
 "PAYMENTS_REJECT_ACTION" = "Reject";
 
+/* Payments: Action to reject a payment request */
+"PAYMENTS_REJECT_REQUEST_ACTION" = "Decline Request";
+
 /* Payments: Action to reject an unrecognized payment */
 "PAYMENTS_REJECT_UNRECOGNIZED_PAYMENT_ACTION" = "I did not make this purchase";
 
@@ -923,6 +938,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Title of a button that opens the limits applied to the user's account. */
 "PAYMENTS_REVIEW_LIMITS_ACTION" = "Review limits";
+
+/* Payments: Action to review an unrecognized payment */
+"PAYMENTS_REVIEW_UNRECOGNIZED_PAYMENT_ACTION" = "Review";
 
 /* Payments: "Routing number" used for US bank accounts transfers */
 "PAYMENTS_ROUTING_NUMBER" = "Routing number";
@@ -1050,15 +1068,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title of the screen to add a card as a new payment method */
 "PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_TITLE" = "Add your debit card";
 
-/* Payments: Placeholder for the field where the user inputs the CVV (security code) of their card. */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_CARD_CVV_FIELD" = "CVV";
-
-/* Payments: Placeholder & Mask for the field where the user inputs the expiration date of their card. M should correspond to the first letter of "Month" and Y to "Year". Ex in Spanish, that'd give us MM/AA. Keep "/" as the separator. */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_CARD_EXPIRATION_FIELD" = "MM/YY";
-
-/* Payments: Placeholder for the field where the user inputs the number of their card. */
-"PAYMENTS_SETTINGS_PAYMENT_METHODS_CARD_NUMBER_FIELD" = "Card Number";
-
 /* Payments: Title for the linked banks section in settings */
 "PAYMENTS_SETTINGS_PAYMENT_METHODS_TITLE" = "Linked banks";
 
@@ -1089,12 +1098,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title for the Tax & Statements settings screen */
 "PAYMENTS_SETTINGS_TAX_AND_STATEMENTS_TITLE" = "Tax & Statements";
 
-/* Payments: Text for the Tax Documents settings screen when it is empty */
-"PAYMENTS_SETTINGS_TAX_DOCUMENTS_EMPTY_STATE" = "No document yet";
-
-/* Payments: Title for the Tax Documents settings screen */
-"PAYMENTS_SETTINGS_TAX_DOCUMENTS_TITLE" = "Tax Documents";
-
 /* Payments: Title for the settings screen */
 "PAYMENTS_SETTINGS_TITLE" = "Settings";
 
@@ -1103,12 +1106,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Action to set up two-factor authentication */
 "PAYMENTS_SETUP_TWO_FACTOR_AUTH_ACTION" = "Set up";
-
-/* Payments: Subtitle of the tile that allows a user to chat with X Money support */
-"PAYMENTS_SUPPORT_CONVERSATION_SUBTITLE" = "Chat with us";
-
-/* Payments: Title of the tile that allows a user to chat with X Money support */
-"PAYMENTS_SUPPORT_CONVERSATION_TITLE" = "Support";
 
 /* Payments: Title of the 'Activity' tab, which contains transactions & actions */
 "PAYMENTS_TAB_ACTIVITY" = "Activity";
@@ -1125,14 +1122,26 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title for the Money feature */
 "PAYMENTS_TITLE" = "Money";
 
+/* Payments: Title when the transactions list is empty */
+"PAYMENTS_TRANSACTIONS_EMPTY_SUBTITLE" = "Once you have some activity, it will show up here.";
+
+/* Payments: Title when the transactions list is empty */
+"PAYMENTS_TRANSACTIONS_EMPTY_TITLE" = "Not much going on here";
+
 /* Payments: Title for the transactions list screen */
 "PAYMENTS_TRANSACTIONS_TITLE" = "Transactions";
 
+/* Payments: Label for the default amount description (ex: Amount, Total, ...). */
+"PAYMENTS_TRANSACTION_AMOUNT_DESCRIPTION_DEFAULT" = "Amount";
+
+/* Payments: Label for the amount description (ex: Amount, Total, ...) for card payments */
+"PAYMENTS_TRANSACTION_AMOUNT_DESCRIPTION_ISSUING" = "Total";
+
+/* Payments: Label for the availability date of a transaction */
+"PAYMENTS_TRANSACTION_ATTRIBUTE_AVAILABILITY_DATE" = "Funds available on";
+
 /* Payments: Label for the payment method used for transaction */
 "PAYMENTS_TRANSACTION_ATTRIBUTE_CARD_USED" = "Card Used";
-
-/* Payments: Label for the date of a transaction */
-"PAYMENTS_TRANSACTION_ATTRIBUTE_DATE" = "Transaction date";
 
 /* Payments: Label for the destination of a transaction */
 "PAYMENTS_TRANSACTION_ATTRIBUTE_DESTINATION" = "Destination";
@@ -1143,6 +1152,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Label for the location (full address or city or country) of a transaction */
 "PAYMENTS_TRANSACTION_ATTRIBUTE_LOCATION" = "Location";
 
+/* Payments: Label for the payment method or transfer method (ex: ACH) of a transaction */
+"PAYMENTS_TRANSACTION_ATTRIBUTE_METHOD" = "Method";
+
 /* Payments: Label for the period of a transaction (ex: Monthly interest) */
 "PAYMENTS_TRANSACTION_ATTRIBUTE_PERIOD" = "Period";
 
@@ -1150,13 +1162,10 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_TRANSACTION_ATTRIBUTE_SOURCE" = "Source";
 
 /* Payments: Label for the description of a transaction on the customer's statement */
-"PAYMENTS_TRANSACTION_ATTRIBUTE_STATEMENT_DESCRIPTION" = "On statement as";
+"PAYMENTS_TRANSACTION_ATTRIBUTE_STATEMENT_DESCRIPTION" = "Original merchant name";
 
 /* Payments: Label for the status of a transaction */
 "PAYMENTS_TRANSACTION_ATTRIBUTE_STATUS" = "Status";
-
-/* Payments: Label for the type of transaction */
-"PAYMENTS_TRANSACTION_ATTRIBUTE_TYPE" = "Transaction type";
 
 /* Payments: Label for the payment method used for transaction */
 "PAYMENTS_TRANSACTION_ATTRIBUTE_USING" = "Using";
@@ -1174,7 +1183,7 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_TRANSACTION_ID_COPIED" = "Transaction ID copied to clipboard";
 
 /* Payments: Message indicating that a transaction is under review */
-"PAYMENTS_TRANSACTION_IN_REVIEW_MESSAGE" = "This transaction is currently under review as part of our routine security checks. During this time, the transaction is paused. We aim to complete reviews quickly and will update you once it’s resolved.";
+"PAYMENTS_TRANSACTION_IN_REVIEW_MESSAGE" = "Under review";
 
 /* Payments: Message indicating that a transaction is pending, waiting for the recipient acceptance. %@ will be replaced by the recipient name. */
 "PAYMENTS_TRANSACTION_PENDING_APPROVAL_MESSAGE" = "Waiting on %@ to approve the payment";
@@ -1191,26 +1200,26 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title for the PIN verification screen, where %@ is replaced by the number of digits */
 "PAYMENTS_TRANSACTION_PIN_VERIFICATION_TITLE" = "Enter your %@-digit PIN";
 
-/* Payments: Message indicating that a transaction has been rejected by the recipient */
-"PAYMENTS_TRANSACTION_REJECTED_BY_RECEIVER_MESSAGE" = "This transaction has been rejected by the recipient.";
-
 /* Payments: Message indicating that a transaction was rejected because the region is not supported */
-"PAYMENTS_TRANSACTION_REJECTED_BY_UNSUPPORTED_REGION_MESSAGE" = "Sorry, we don’t support this region yet. Please try again later.";
+"PAYMENTS_TRANSACTION_REJECTED_BY_UNSUPPORTED_REGION_MESSAGE" = "Unsupported region";
 
 /* Payments: Message indicating that a transaction was rejected because card payments are disabled */
-"PAYMENTS_TRANSACTION_REJECTED_CARD_PAYMENTS_DISABLED_MESSAGE" = "For your protection, we’ve stopped this transaction due to unusual activity.";
+"PAYMENTS_TRANSACTION_REJECTED_CARD_PAYMENTS_DISABLED_MESSAGE" = "Flagged as suspicious";
 
 /* Payments: Message indicating that a transaction was rejected because it exceeded account limits */
-"PAYMENTS_TRANSACTION_REJECTED_LIMITS_EXCEEDED_MESSAGE" = "This exceeds your account’s limits. Please review your limits or try a lower amount.";
+"PAYMENTS_TRANSACTION_REJECTED_LIMITS_EXCEEDED_MESSAGE" = "Limits exceeded";
 
 /* Payments: Message indicating that a transaction has been rejected */
-"PAYMENTS_TRANSACTION_REJECTED_MESSAGE" = "This transaction has been rejected.";
+"PAYMENTS_TRANSACTION_REJECTED_MESSAGE" = "Rejected";
 
 /* Payments: Message indicating that a transaction was rejected due to insufficient funds */
-"PAYMENTS_TRANSACTION_REJECTED_NOT_SUFFICIENT_FUNDS_MESSAGE" = "Your balance is insufficient. Please fund your account and try again.";
+"PAYMENTS_TRANSACTION_REJECTED_NOT_SUFFICIENT_FUNDS_MESSAGE" = "Insufficient funds";
 
 /* Payments: Message indicating that a transaction request has been rejected by the recipient */
-"PAYMENTS_TRANSACTION_REQUEST_REJECTED_MESSAGE" = "This request has been rejected by the recipient.";
+"PAYMENTS_TRANSACTION_REQUEST_REJECTED_MESSAGE" = "Rejected";
+
+/* Payments: Status label for a transaction with awaiting unrecognized confirmation status */
+"PAYMENTS_TRANSACTION_STATUS_AWAITING_UNRECOGNIZED_CONFIRMATION" = "Flagged as suspicious";
 
 /* Payments: Status label for a cancelled transaction */
 "PAYMENTS_TRANSACTION_STATUS_CANCELLED" = "Cancelled";
@@ -1233,15 +1242,6 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Status label for a settled transaction */
 "PAYMENTS_TRANSACTION_STATUS_SETTLED" = "Completed";
 
-/* Payments: Status label for a transaction with unspecified status */
-"PAYMENTS_TRANSACTION_STATUS_UNSPECIFIED" = "Unspecified";
-
-/* Payments: URL for the support link in transaction details */
-"PAYMENTS_TRANSACTION_SUPPORT_LINK" = "here";
-
-/* Payments: Label for the support link in transaction details */
-"PAYMENTS_TRANSACTION_SUPPORT_LINK_LABEL" = "here";
-
 /* Payments: Label for a deposit transaction type */
 "PAYMENTS_TRANSACTION_TYPE_ATM_WITHDRAWAL" = "ATM Withdrawal";
 
@@ -1250,6 +1250,9 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 /* Payments: Label for a banking withdraw transaction type */
 "PAYMENTS_TRANSACTION_TYPE_BANKING_WITHDRAW" = "Payment";
+
+/* Payments: Label for an cashback transaction type */
+"PAYMENTS_TRANSACTION_TYPE_CASHBACK" = "Redeemed Cash Back";
 
 /* Payments: Label for a deposit transaction type */
 "PAYMENTS_TRANSACTION_TYPE_DEPOSIT" = "Deposit";
@@ -1273,10 +1276,10 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 "PAYMENTS_TRANSACTION_TYPE_WITHDRAW" = "Withdrawal";
 
 /* Payments: Message indicating that an unrecognized transaction was confirmed by the user */
-"PAYMENTS_TRANSACTION_UNRECOGNIZED_ACTIVITY_CONFIRMED_MESSAGE" = "Thanks for confirming your purchase. Please give it another try, and it should work smoothly now.";
+"PAYMENTS_TRANSACTION_UNRECOGNIZED_ACTIVITY_CONFIRMED_MESSAGE" = "Awaiting retry";
 
 /* Payments: Message indicating that a transaction was rejected due to unrecognized activity */
-"PAYMENTS_TRANSACTION_UNRECOGNIZED_ACTIVITY_REJECTED_MESSAGE" = "For your protection, we’ve stopped this transaction due to unusual activity.";
+"PAYMENTS_TRANSACTION_UNRECOGNIZED_ACTIVITY_REJECTED_MESSAGE" = "Flagged as suspicious";
 
 /* Payments: Placeholder text for adding a note to a transfer */
 "PAYMENTS_TRANSFER_ADD_A_NOTE" = "Optionally add a note";
@@ -1293,35 +1296,38 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Description of a pending transfer with amount and reason, where %1$@ is replaced by the amount and %2$@ by the reason/note */
 "PAYMENTS_TRANSFER_PENDING_WITH_AMOUNT" = "%1$@ For “%2$@”";
 
-/* Payments: Title of the button that allows a user to scan a QR code instead of searching by name/username, to send or request money. */
-"PAYMENTS_TRANSFER_QR_CODE_SCAN_TITLE" = "Scan a QR Code";
-
 /* Payments: Title of the button that allows a user to share a QR code, to send or request money. */
-"PAYMENTS_TRANSFER_QR_CODE_SHOW_TITLE" = "Show my QR Code";
+"PAYMENTS_TRANSFER_QR_CODE_SHOW_TITLE" = "Let others scan your QR Code to pay you";
 
 /* Payments: Error message when a money request fails. */
 "PAYMENTS_TRANSFER_REQUEST_ERROR_TITLE" = "Request failed";
 
+/* Payments: Description of a pending transfer request with user's reason/note only, where %@ is replaced by the reason/note */
+"PAYMENTS_TRANSFER_REQUEST_PENDING_WITHOUT_AMOUNT" = "Requested for “%@”";
+
 /* Payments: Success message after requesting money, where %1$@ is replaced by the amount and %2$@ by the recipient’s username. Keep the @ in front of the %2$@. */
 "PAYMENTS_TRANSFER_REQUEST_SUCCESS" = "You requested %1$@ from @%2$@.";
+
+/* Payments: Title of the section containing the results + eligible users, in the screen that allows to search for a user to pay or request money from. */
+"PAYMENTS_TRANSFER_SEARCH_ELIGIBLE_SECTION" = "Eligible";
+
+/* Payments: Title of the section containing the results + not eligible users, in the screen that allows to search for a user to pay or request money from. */
+"PAYMENTS_TRANSFER_SEARCH_NOT_ELIGIBLE_SECTION" = "Not eligible";
 
 /* Payments: Placeholder text for the search field when transferring money */
 "PAYMENTS_TRANSFER_SEARCH_PLACEHOLDER" = "Search for someone";
 
+/* Payments: Title of the section containing the suggested users, in the screen that allows to search for a user to pay or request money from. */
+"PAYMENTS_TRANSFER_SEARCH_SUGGESTIONS_SECTION" = "Suggestions";
+
 /* Payments: Error message when updating a transfer fails */
 "PAYMENTS_TRANSFER_UPDATE_ERROR" = "We were unable to update this transfer";
 
+/* Payments: Title of the button that allows customers to trigger a KYC flow, to create a bank account for them. */
+"PAYMENTS_UNLOCK_ACCOUNT_NUMBER_ACTION" = "Unlock Account Number";
+
 /* Payments: Action to change the user’s PIN */
 "PAYMENTS_UPDATE_PIN_ACTION" = "Change PIN";
-
-/* Payments: Title of the screen that allows to pay a user. %@ is replaced by the display name of the user. */
-"PAYMENTS_USER_FORMAT_PAY" = "Pay %@";
-
-/* Payments: Title of the screen that allows to pay or request money from user. %@ is replaced by the display name of the user. */
-"PAYMENTS_USER_FORMAT_PAY_OR_REQUEST" = "Pay or Request %@";
-
-/* Payments: Title of the screen that allows to request money from a user. %@ is replaced by the display name of the user. */
-"PAYMENTS_USER_FORMAT_REQUEST" = "Request %@";
 
 /* Payments: Title shown when bank account linking is temporarily paused due to velocity checks */
 "PAYMENTS_VELOCITY_ERROR_ACCOUNT_LINKING_MESSAGE" = "Your ability to perform this action is temporarily paused. Please try again later. Note that your previous linked accounts are still available.";
@@ -1347,14 +1353,8 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 /* Payments: Title shown when withdrawals are temporarily paused due to velocity checks */
 "PAYMENTS_VELOCITY_ERROR_WITHDRAWALS_TITLE" = "Too many withdrawal attempts";
 
-/* Payments: Action to verify the user’s identity */
-"PAYMENTS_VERIFY_IDENTITY_ACTION" = "Verify your identity";
-
 /* Payments: Action to verify the user’s identity. Should be kept short or abbreviated. */
 "PAYMENTS_VERIFY_IDENTITY_ACTION_SHORT" = "Verify";
-
-/* Payments: Action to verify the user’s phone number */
-"PAYMENTS_VERIFY_PHONE_NUMBER_ACTION" = "Verify phone number";
 
 /* Payments: Action to view the user’s account */
 "PAYMENTS_VIEW_ACCOUNT_ACTION" = "View account";
@@ -1373,26 +1373,29 @@ This file is sorted by modules instead of alphabetically to help reduce merge co
 
 // Section: Frameworks/DMShared/Sources/DMSharedStrings/en.lproj/Localizable.strings
 
-/* DM message preview for audio */
-"DM_MESSAGE_PREVIEW_AUDIO" = "Audio";
+/* DM Message Attachment Preview Audio */
+"DM_MESSAGE_PREVIEW_ATTACHMENT_AUDIO" = "Sent a recording";
 
-/* DM message preview for file */
-"DM_MESSAGE_PREVIEW_FILE" = "File";
+/* DM Message Attachment Preview File */
+"DM_MESSAGE_PREVIEW_ATTACHMENT_FILE" = "Sent a file";
 
-/* DM message preview for GIF */
-"DM_MESSAGE_PREVIEW_GIF" = "GIF";
+/* DM Message Attachment Preview Gif */
+"DM_MESSAGE_PREVIEW_ATTACHMENT_GIF" = "Sent a GIF";
 
-/* DM message preview for photo */
-"DM_MESSAGE_PREVIEW_PHOTO" = "Photo";
+/* DM Message Attachment Preview Link */
+"DM_MESSAGE_PREVIEW_ATTACHMENT_LINK" = "Sent a link";
 
-/* DM message preview for post */
-"DM_MESSAGE_PREVIEW_POST" = "Post";
+/* DM Message Attachment Preview Photo */
+"DM_MESSAGE_PREVIEW_ATTACHMENT_PHOTO" = "Sent a photo";
 
-/* DM message preview for unknown attachment */
-"DM_MESSAGE_PREVIEW_UNKNOWN" = "Unknown attachment";
+/* DM Message Attachment Preview Post */
+"DM_MESSAGE_PREVIEW_ATTACHMENT_POST" = "Sent a post";
 
-/* DM message preview for video */
-"DM_MESSAGE_PREVIEW_VIDEO" = "Video";
+/* DM Message Attachment Preview Unknown */
+"DM_MESSAGE_PREVIEW_ATTACHMENT_UNKNOWN" = "Sent an attachment";
+
+/* DM Message Attachment Preview Video */
+"DM_MESSAGE_PREVIEW_ATTACHMENT_VIDEO" = "Sent a video";
 
 /* DM notification body text in case we are unable to decrypt the message */
 "DM_NOTIFICATION_FALLBACK_BODY" = "Sent a message";
@@ -5378,9 +5381,6 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Text for the back button menu when going back to the home timeline. Hold the back button in iOS 14 to see it. */
 "HOME_TIMELINE_BACK_TITLE" = "Timeline";
 
-/* Tooltip text displayed when first seeing immediate dismiss button that informs user that tapping X will show fewer posts */
-"HOME_TIMELINE_IMMEDIATE_DISMISS_TOOL_TIP_LABEL" = "Remove any post to see fewer like it in the future";
-
 /* Generic description of the error displayed when we fail to start an identity verification flow */
 "IDENTITY_VERIFICATION_ERROR_GENERIC_MESSAGE" = "This feature is not available.";
 
@@ -5417,11 +5417,14 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 /* Title of the Identity Verification introduction screen. */
 "IDENTITY_VERIFICATION_INTRO_TITLE_OPTIONAL" = "ID Verification (Optional)";
 
-/* Disclaimer/consent of the Identity Verification introduction screen. The %@ will be replaced by an already-localized "Learn more" link. */
+/* Disclaimer/consent of the Identity Verification introduction screen for regular users going through the Au10tix flow. The %@ will be replaced by an already-localized "Learn more" link. */
 "IDENTITY_VERIFICATION_INTRO_USER_CONSENT" = "I consent to X and Au10tix using images of my ID and my selfie, including extracted biometric data, to confirm my identity and for X’s related safety and security purposes, including preventing impersonation. Au10tix may store such data for up to 30 days. %@";
 
 /* Disclaimer/consent of the Identity Verification introduction screen for creators. The %@ will be replaced by an already-localized "Learn more" link. */
 "IDENTITY_VERIFICATION_INTRO_USER_CONSENT_CREATOR" = "I agree to X and Au10tix using images of my ID and my selfie, including extracted biometric data, to confirm my identity and for X’s related safety and security, fraud prevention, and payment purposes. Au10tix may store such data for up to 30 days. X may store full name, address, and hashes of my document ID number for as long as I participate in the %1$@ or %2$@ program. %3$@";
+
+/* Disclaimer/consent of the Identity Verification introduction screen for regular users going through the Persona flow. The %@ will be replaced by an already-localized "Learn more" link. */
+"IDENTITY_VERIFICATION_INTRO_USER_CONSENT_PERSONA" = "I agree to X and Persona using images of my ID and my selfie, including extracted biometric data, to confirm my identity and for X’s related safety and security, fraud prevention, and payment purposes. Persona may store such data for up to 30 days. X may store full name, address, and hashes of my document ID number for as long as I subscribe to the %1$@. %2$@.";
 
 /* Description of the Identity Verification Settings screen */
 "IDENTITY_VERIFICATION_SETTINGS_DESCRIPTION" = "Verify your government-issued ID to confirm your identity and unlock features as a Premium subscriber.";
@@ -7065,6 +7068,9 @@ Do not translate BOLD_TEXT or READ_MORE_LINK. */
 
 /* Status for successfully re-sending a code by voice call */
 "ONE_FACTOR_AUTHORIZATION_SENT_CODE_BY_VOICE_HUD_LABEL" = "Call initiated";
+
+/* Open grok button */
+"OPEN_GROK_LABEL" = "Open Grok";
 
 /* Text on a button to open a url in the Google Chrome browser */
 "OPEN_IN_CHROME_ACTION_LABEL" = "Open in Chrome";
@@ -11014,8 +11020,20 @@ eg. "Super Following Jack" */
 /* Title for the translate post button */
 "TRANSLATE_TWEET_BUTTON_TITLE" = "Translate post";
 
+/* Text showing when translating a post */
+"TRANSLATING_TITLE" = "Translating…";
+
+/* Error text message when fetching translation has failed */
+"TRANSLATION_FETCH_FAILED" = "Translation failed";
+
+/* Accessibility label for retry translation button */
+"TRANSLATION_RETRY_BUTTON_ACCESSIBILITY_LABEL" = "Retry translation";
+
 /* String for translation source google */
 "TRANSLATION_SOURCE_GOOGLE" = "Google";
+
+/* String for translation source Grok */
+"TRANSLATION_SOURCE_GROK" = "Grok";
 
 /* Name of translation source Papago */
 "TRANSLATION_SOURCE_PAPAGO" = "Papago";
@@ -11073,11 +11091,6 @@ eg. "Super Following Jack" */
 
 /* Title for the thread send button when we're sending more than one post */
 "TWEET_ALL_ACTION_LABEL" = "Post all";
-
-/* The conjunction with necessary whitespace to join two author names to form one clause. e.g. "A" + " and " + "B".
- The English copy uses an ampersand with whitespaces around it as the conjunction, i.e., " & ", but this is not strictly
- required. Use the more natural conjunction for the language/locale if deemed appropriate. */
-"TWEET_AUTHOR_NAME_CONJUNCTION" = " & ";
 
 /* Post accessibility string format "cashtags" like "Cashtag: $TWTR" */
 "TWEET_CASHTAG_ACCESSIBILITY_LABEL_FORMAT" = "Cashtag: %@";
@@ -13775,8 +13788,23 @@ eg. "Super Following Jack" */
 /* DM Conversation Mute action title */
 "DM_CONVERSATION_ACTION_MUTE_TITLE" = "Mute conversation";
 
+/* DM Conversation Mute action short title */
+"DM_CONVERSATION_ACTION_MUTE_TITLE_SHORT" = "Mute";
+
+/* DM Conversation Search action title */
+"DM_CONVERSATION_ACTION_SEARCH_TITLE" = "Search";
+
 /* DM Conversation Unmute action title */
 "DM_CONVERSATION_ACTION_UNMUTE_TITLE" = "Unmute conversation";
+
+/* DM Conversation Unmute action short title */
+"DM_CONVERSATION_ACTION_UNMUTE_TITLE_SHORT" = "Unmute";
+
+/* DM Conversation Video action title */
+"DM_CONVERSATION_ACTION_VIDEO_TITLE" = "Video";
+
+/* DM Conversation Voice action title */
+"DM_CONVERSATION_ACTION_VOICE_TITLE" = "Voice";
 
 /* Informational title displayed above messages from today */
 "DM_CONVERSATION_INFORMATIONAL_DATE_TODAY" = "Today";
@@ -13937,11 +13965,17 @@ eg. "Super Following Jack" */
 /* DM Conversation message composer text accessibility label */
 "DM_CONVERSATION_MESSAGE_COMPOSER_TEXT_ACCESSIBILITY_LABEL" = "Compose new message";
 
+/* DM Conversation message composer text default message placeholder */
+"DM_CONVERSATION_MESSAGE_COMPOSER_TEXT_DEFAULT_MESSAGE_PLACEHOLDER" = "Message";
+
+/* DM Conversation message composer text disappearing message placeholder */
+"DM_CONVERSATION_MESSAGE_COMPOSER_TEXT_DISAPPEARING_MESSAGE_PLACEHOLDER" = "Disappearing message";
+
+/* DM Conversation message composer text edit placeholder */
+"DM_CONVERSATION_MESSAGE_COMPOSER_TEXT_EDIT_PLACEHOLDER" = "Edit";
+
 /* DM Conversation message composer text reply placeholder */
 "DM_CONVERSATION_MESSAGE_COMPOSER_TEXT_REPLY_PLACEHOLDER" = "Reply";
-
-/* DM Conversation message composer text start message placeholder */
-"DM_CONVERSATION_MESSAGE_COMPOSER_TEXT_START_MESSAGE_PLACEHOLDER" = "Start a message";
 
 /* DM Conversation participant Admin label */
 "DM_CONVERSATION_PARTICIPANT_ADMIN_LABEL" = "Admin";
@@ -14033,6 +14067,18 @@ eg. "Super Following Jack" */
 /* DM Inbox new message button accessibility label */
 "DM_INBOX_NEW_MESSAGE_ACCESSIBILITY_LABEL" = "Compose New Message";
 
+/* DM Inbox Timestamp Hours Ago. Placeholder will be replaced with # hours ago. Ex: 2h ago */
+"DM_INBOX_TIMESTAMP_HOURS_AGO" = "%@h ago";
+
+/* DM Inbox Timestamp Minutes Ago. Placeholder will be replaced with # minutes ago. Ex: 5m ago */
+"DM_INBOX_TIMESTAMP_MINUTES_AGO" = "%@m ago";
+
+/* DM Inbox Timestamp Now */
+"DM_INBOX_TIMESTAMP_NOW" = "Now";
+
+/* DM Inbox Timestamp Yesterday */
+"DM_INBOX_TIMESTAMP_YESTERDAY" = "Yesterday";
+
 /* DM Manage Conversation Add as admin action error title */
 "DM_MANAGE_CONVERSATION_ACTION_ADD_AS_ADMIN_ERROR_TITLE" = "Unable to add as admin";
 
@@ -14067,7 +14113,7 @@ eg. "Super Following Jack" */
 "DM_MANAGE_CONVERSATION_ACTION_VANISHING_MODE_DESCRIPTION" = "After messages in this chat get read, they will vanish after the selected time below.";
 
 /* DM Manage Conversation Vanishing mode action title */
-"DM_MANAGE_CONVERSATION_ACTION_VANISHING_MODE_TITLE" = "Vanishing mode";
+"DM_MANAGE_CONVERSATION_ACTION_VANISHING_MODE_TITLE" = "Disappearing Messages";
 
 /* DM Manage Conversation navigation bar conversation info title */
 "DM_MANAGE_CONVERSATION_NAVIGATION_BAR_CONVERSATION_INFO_TITLE" = "Conversation info";
@@ -14132,14 +14178,20 @@ eg. "Super Following Jack" */
 /* DM message action Copy video title */
 "DM_MESSAGE_ACTION_COPY_VIDEO_TITLE" = "Copy video";
 
+/* DM message action Delete alert delete for everyone action */
+"DM_MESSAGE_ACTION_DELETE_ALERT_DELETE_FOR_EVERYONE_ACTION" = "Delete for everyone";
+
+/* DM message action Delete alert delete for me action */
+"DM_MESSAGE_ACTION_DELETE_ALERT_DELETE_FOR_ME_ACTION" = "Delete for me";
+
+/* DM message action Delete alert title */
+"DM_MESSAGE_ACTION_DELETE_ALERT_TITLE" = "Who would you like to delete this message for?";
+
 /* DM message action Delete error title */
 "DM_MESSAGE_ACTION_DELETE_ERROR_TITLE" = "Unable to delete message";
 
-/* DM message action Delete for all title */
-"DM_MESSAGE_ACTION_DELETE_FOR_ALL_TITLE" = "Delete message for all";
-
-/* DM message action Delete for you title */
-"DM_MESSAGE_ACTION_DELETE_FOR_YOU_TITLE" = "Delete message for you";
+/* DM message action Delete title */
+"DM_MESSAGE_ACTION_DELETE_TITLE" = "Delete";
 
 /* DM message action Edit error title */
 "DM_MESSAGE_ACTION_EDIT_ERROR_TITLE" = "Unable to edit message";
@@ -14227,6 +14279,27 @@ eg. "Super Following Jack" */
 
 /* DM Message Details Sent By Title */
 "DM_MESSAGE_DETAILS_SENT_BY_TITLE" = "Sent By";
+
+/* DM Message reply header when person A replied to person B (the two person's names are injected intro the string) */
+"DM_MESSAGE_REPLY_HEADER" = "%1$@ to %2$@";
+
+/* DM Message reply header when someone else replied to someone else and we don't have the first person's name (the other person's name will be injected into the string) */
+"DM_MESSAGE_REPLY_HEADER_REPLIED_TO" = "Replied to %@";
+
+/* DM Message reply header when someone replied to you and we don't have that person's name */
+"DM_MESSAGE_REPLY_HEADER_REPLIED_TO_YOU" = "Replied to you";
+
+/* DM Message reply header when person A replied to yourself (the other person's name is injected intro the string) */
+"DM_MESSAGE_REPLY_HEADER_TO_YOU" = "%1$@ to you";
+
+/* DM Message reply header when you replied to yourself */
+"DM_MESSAGE_REPLY_HEADER_TO_YOURSELF" = "You to yourself";
+
+/* DM Message reply header "You" portion of the "You to yourself" string. We use this "You" string to highlight in the DM_MESSAGE_REPLY_HEADER_TO_YOURSELF and DM_MESSAGE_REPLY_HEADER_YOU_TO strings, so the word should match exactly how it is in DM_MESSAGE_REPLY_HEADER_TO_YOURSELF and DM_MESSAGE_REPLY_HEADER_YOU_TO string. */
+"DM_MESSAGE_REPLY_HEADER_TO_YOURSELF_YOU" = "You";
+
+/* DM Message reply header when you replied to someone else (the other person's name will be injected into the string) */
+"DM_MESSAGE_REPLY_HEADER_YOU_TO" = "You to %@";
 
 /* DM Message reply subtitle when replying to an audio message with no text */
 "DM_MESSAGE_REPLY_SUBTITLE_AUDIO" = "Audio";
@@ -14455,6 +14528,9 @@ eg. "Super Following Jack" */
 
 /* DM Emoji picker Add reaction accessibility hint */
 "DM_REACTIONS_ADD_REACTION_ACCESSIBILITY_HINT" = "Adds reaction";
+
+/* DM Reactions Sheet All Reactions Tab Label */
+"DM_REACTIONS_ALL" = "All";
 
 /* DM Reactions Sheet Empty State Message */
 "DM_REACTIONS_EMPTY" = "No one has reacted to this message.";
@@ -18464,6 +18540,9 @@ eg. "Super Following Jack" */
 /* Action Button Count Format */
 "ACTIONS_COUNT_ACCESSIBILITY_VALUE_FORMAT" = "%u in total.";
 
+/* When the Like button has no likes yet, and you can add the first like. */
+"ACTIONS_COUNT_PLUS_ONE" = "+1";
+
 /* Button label to view analytics on a post. */
 "ANALYTICS_ACTION_LABEL" = "Analytics";
 
@@ -18854,8 +18933,17 @@ eg. "Super Following Jack" */
 /** Label for conversations in history view */
 "GROK_CONVO_HISTORY_CONVOS_LABEL" = "Conversations";
 
+/** Delete conversation button for conversations in history view */
+"GROK_CONVO_HISTORY_DELETE_CONVERSATION" = "Delete conversation";
+
 /** Label for images in history view */
 "GROK_CONVO_HISTORY_IMAGES_LABEL" = "Images";
+
+/** Rename conversation button for conversations in history view */
+"GROK_CONVO_HISTORY_RENAME_CONVERSATION" = "Rename conversation";
+
+/** Label for button to start a new conversation */
+"GROK_CONVO_NEW_CONVO_BUTTON" = "New conversation";
 
 /* Label to inform user that responding to a shared conversation will create a copy in their own history */
 "GROK_COPY_ON_RESPONSE_WARNING" = "Sending a message will copy this conversation into your history";
@@ -20055,6 +20143,9 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* Label anywhere an avatar is present */
 "AVATAR_ACCESSIBILITY_LABEL" = "Profile photo";
 
+/* View profile action after tapping the avatar */
+"AVATAR_VIEW_PROFILE" = "View profile";
+
 /* Status of the audio call in DMs when it has ended. */
 "AV_CHAT_AUDIO_ENDED_STATUS" = "Audio call ended";
 
@@ -20373,6 +20464,15 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 /* Title text prompting soft users to join X */
 "DASH_JOIN_TWITTER_TITLE_LABEL" = "Join X today";
 
+/* Symbol used to represent a day in date patterns like DD/MM/YYYY. Used when we need to explain to the user what to type in a text field, for example. In english, typically D. Only one character. Uppercased. */
+"DATE_SYMBOL_DAY" = "D";
+
+/* Symbol used to represent a month in date patterns like DD/MM/YYYY. Used when we need to explain to the user what to type in a text field, for example. In english, typically M. Only one character. Uppercased. */
+"DATE_SYMBOL_MONTH" = "M";
+
+/* Symbol used to represent a year in date patterns like DD/MM/YYYY. Used when we need to explain to the user what to type in a text field, for example. Uppercased. */
+"DATE_SYMBOL_YEAR" = "Y";
+
 /* No comment provided by engineer. */
 "DELETE_ACTION_LABEL" = "Delete";
 
@@ -20591,6 +20691,9 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* A text to appear after user likes a post */
 "LIKE_INLINE_TIP_VARIANT_1" = "We’ll show you more like this.";
+
+/* A text to appear after user likes a post from someone they don't follow */
+"LIKE_INLINE_TIP_VARIANT_2" = "See more from %@";
 
 /* Message to show user if they haven't created or subscribed to any lists. */
 "LISTS_OWNED_SUBSCRIBED_TO_EMPTY_STATE_SUBTEXT" = "When you do, it’ll show up here.";
@@ -21636,6 +21739,9 @@ Example of a valid translation: In German, using "Mio" (3 characters) would resu
 
 /* Toast title when trying to access XChat and it is not available */
 "XCHAT_NOT_AVAILABLE_TOAST_TITLE" = "This feature is not available";
+
+/* X Premium service */
+"X_PREMIUM_SERVICE_LABEL" = "X Premium service";
 
 /* More results of search */
 "X_SEARCH_MORE_RESULTS" = "+%1$@ more";
@@ -23374,6 +23480,18 @@ eg. "- @jack" */
 
 "JOB_VIEW_MORE_TEXT" = "View external job description";
 
+// Section: Frameworks/TweetDetails/Sources/TweetDetailsStrings/en.lproj/Localizable.strings
+
+// MARK: - Translation Error
+/* Error text message when fetching translation has failed */
+"TWEET_DETAILS_TRANSLATION_ERROR_FETCH_FAILED" = "Translation failed";
+
+/* Accessibility hint for retry translation button */
+"TWEET_DETAILS_TRANSLATION_ERROR_RETRY_BUTTON_ACCESSIBILITY_HINT" = "Retry button for translation";
+
+/* Accessibility label for retry translation button */
+"TWEET_DETAILS_TRANSLATION_ERROR_RETRY_BUTTON_ACCESSIBILITY_LABEL" = "Retry translation";
+
 // Section: Frameworks/TwitterPlatform/Sources/TwitterPlatformStrings/en.lproj/Localizable.strings
 
 /* Title of Account Analytics page. */
@@ -23482,7 +23600,7 @@ eg. "- @jack" */
 "LEGAL_REQUEST_WEBVIEW_TITLE" = "Legal request";
 
 /* This label is appended to the end of truncated tweet */
-"NOTE_TWEET_MORE" = "more";
+"NOTE_TWEET_MORE" = "…more";
 
 /* This label is appended to the end of truncated Note posts in timelines. Tapping on it will take the user to post details, which will show the fully expanded Note post text. Example Note post: "Hello, world". Example Note post with NOTE_TWEET_SHOW_MORE appended: "Hello, world… Show more". The backend will always append an ellipsis. */
 "NOTE_TWEET_SHOW_MORE" = "Show more";
