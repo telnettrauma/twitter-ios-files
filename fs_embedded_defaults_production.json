@@ -1,6 +1,6 @@
 {
   "default" : {
-    "feature_set_token" : "cf20d3e24ce4da58563a5ed8c9c8daf7e2ee71cb",
+    "feature_set_token" : "c1fccfd276109f1a1c1b7fcae45ade859e47953f",
     "config" : {
       "2fa_temporary_password_enabled" : {
         "value" : false
@@ -2500,6 +2500,9 @@
       },
       "ios_dm_dash_legacy_share_sheet_action_enabled" : {
         "value" : false
+      },
+      "ios_dm_dash_remove_vanishing_mode_enabled" : {
+        "value" : true
       },
       "ios_dm_dash_secret_dm_creation_disabled" : {
         "value" : false
@@ -5111,6 +5114,9 @@
       "unified_cards_deep_linking_app_card_universal_links_installed_apps_only_enabled" : {
         "value" : true
       },
+      "unified_cards_deep_linking_apple_link_ads_open_in_browser_always" : {
+        "value" : true
+      },
       "unified_cards_deep_linking_can_open_dpa_universal_links" : {
         "value" : true
       },
@@ -5460,7 +5466,7 @@
   "requires_restart" : [ ],
   "supports_accessibility" : [ ],
   "versions" : {
-    "feature_switches" : "e1549595199f97765ef6e985b12284f3cb26809f",
-    "experiments" : "e1549595199f97765ef6e985b12284f3cb26809f"
+    "feature_switches" : "a9c49e4306b0e99e3492baa8db7e448931e823e1",
+    "experiments" : "a9c49e4306b0e99e3492baa8db7e448931e823e1"
   }
 }
